@@ -1,0 +1,414 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/mwkm/01-adana-matbah-i-mwkm",
+  "google":"https://maps.app.goo.gl/Wc63uyqFMUoJpE1d8",
+  "products": [
+    {
+      "name": "Adana Dürüm",
+      "price": "220 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "330 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Lahmacun",
+      "price": "180 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Usulü Lahmacun (5 Adet)",
+      "price": "350 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021347.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çöp Şiş",
+      "price": "480 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021321.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Dürüm",
+      "price": "220 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "140 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "90 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021311.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşlama İçli Köfte (Adet)",
+      "price": "90 TL",
+      "description": "Adana usulü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021312.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "330 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Kebap",
+      "price": "330 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021315.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alinazik Kebap (Etten)",
+      "price": "600 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyti Sarma Kebap",
+      "price": "470 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021317.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Beyti Kebap",
+      "price": "400 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021318.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kebap",
+      "price": "475 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alinazik Kebap (Tavuktan)",
+      "price": "385 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021320.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çöp Şiş",
+      "price": "480 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021321.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kasap Köfte",
+      "price": "330 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021322.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğer Şiş",
+      "price": "450 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021323.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Kalem Pirzola",
+      "price": "550 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021324.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Şiş",
+      "price": "550 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021325.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Külbastı",
+      "price": "550 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021326.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şaşlık",
+      "price": "550 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021327.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Küşleme",
+      "price": "700 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Izgara But",
+      "price": "300 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021329.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş (Göğüsten)",
+      "price": "300 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021330.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piliç Kanat",
+      "price": "330 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021331.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Beyti Sarma",
+      "price": "480 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021332.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Sote",
+      "price": "750 TL",
+      "description": "Günlük hazırlanır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Sote",
+      "price": "550 TL",
+      "description": "Günlük hazırlanır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021334.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Geleneksel Adana Kebap (1/2 m.)",
+      "price": "750 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021336.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Geleneksel Adana Kebap (1 m.)",
+      "price": "1.450 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spesiyal Karışık Kebap (1 Kişilik)",
+      "price": "600 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021337.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spesiyal Karışık Kebap (2 Kişilik)",
+      "price": "1.200 TL",
+      "description": "2 adet pirzola, 2 adet tavuk ızgara, 2 adet tavuk kanat, 2 adet kuzu şiş, Adana kebap, yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spesiyal Karışık Kebap (3 Kişilik)",
+      "price": "1.800 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021339.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spesiyal Karışık Kebap (4 Kişilik)",
+      "price": "2.400 TL",
+      "description": "Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021340.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kardelen Kebap",
+      "price": "460 TL",
+      "description": "Kuşbaşı et ve tavuk şiş ile hazırlanır. Yeşillik, közlenmiş soğan, sumaklı soğan, kuru cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021341.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm",
+      "price": "220 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Dürüm",
+      "price": "220 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğer Şiş Dürüm",
+      "price": "250 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021344.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çöp Şiş Dürüm",
+      "price": "300 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021345.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "200 TL",
+      "description": "Yeşillik, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021346.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Usulü Lahmacun (5 Adet)",
+      "price": "350 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021347.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Lahmacun",
+      "price": "180 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "150 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "450 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "450 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021351.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "300 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021352.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "300 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021353.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "300 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021354.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gavurdağı Salata",
+      "price": "180 TL",
+      "description": "Mevsim yeşillikleri, domates, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Cacık",
+      "price": "100 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Babagannuş",
+      "price": "120 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021357.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte",
+      "price": "125 TL",
+      "description": "Marul, limon, lavaş, nar ekşisi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021358.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "150 TL",
+      "description": "Mevsim yeşillikleri, domates, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021359.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çoban Salata",
+      "price": "150 TL",
+      "description": "Domates, biber, salatalık, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021360.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Künefe",
+      "price": "250 TL",
+      "description": "Şerbet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021364.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fıstıklı Burma",
+      "price": "275 TL",
+      "description": "Şerbet, fıstık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021367.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021371.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021374.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021375.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "45 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu",
+      "price": "45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021377.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda",
+      "price": "38 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6021379.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

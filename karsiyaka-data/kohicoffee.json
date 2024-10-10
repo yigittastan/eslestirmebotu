@@ -1,0 +1,179 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/csw4/kohi-coffee",
+  "google": "",
+  "products": [
+    {
+      "name": "Filtre Kahve",
+      "price": "49 TL70 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63762613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütlü Filtre Kahve",
+      "price": "52,50 TL75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64086592.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Matcha",
+      "price": "84 TL120 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64204350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Matcha Latte",
+      "price": "108,50 TL155 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64204352.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chill Cold Brew Iced Tea",
+      "price": "80,50 TL115 TL",
+      "description": "Yeşil çay, elma kurusu, doğal caramel, coconut aroması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64637443.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Matcha Latte",
+      "price": "108,50 TL155 TL",
+      "description": "Karamelli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65582244.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mangolu Ice Matcha Latte",
+      "price": "108,50 TL155 TL",
+      "description": "Soğuk servis edilir."
+    },
+    {
+      "name": "Chill Cold Brew",
+      "price": "66,50 TL95 TL",
+      "description": "Japonya. Yeşil çay, elma kurusu, doğal karamel, Hindistan cevizi aroması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63762625.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavunlu Beyaz Çay",
+      "price": "63 TL90 TL",
+      "description": "(Çin) Beyaz çay yaprağı, kavun özü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63762627.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berry Punch",
+      "price": "63 TL90 TL",
+      "description": "(Almanya) Böğürtlen, çilek, gül yaprağı, hibiscus, portakal kurusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63762628.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Butterfly Pea",
+      "price": "63 TL90 TL",
+      "description": "(Tayland) Mavi kelebek sarmaşığı çiçeği, mavi çay",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63824811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Matcha Americano",
+      "price": "84 TL120 TL",
+      "description": "Japon çayı (Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64204595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Matcha Latte",
+      "price": "105 TL150 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65582147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropical Green",
+      "price": "63 TL90 TL",
+      "description": "Yeşil çay, gül yaprakları, Hindistan cevizi"
+    },
+    {
+      "name": "Sencha Miyazaki",
+      "price": "63 TL90 TL",
+      "description": "Japon yeşil çay"
+    },
+    {
+      "name": "Genmatcha",
+      "price": "63 TL90 TL",
+      "description": "Yeşil çay yaprakları, kavrulmuş kahverengi pirinç"
+    },
+    {
+      "name": "Well-Being",
+      "price": "63 TL90 TL",
+      "description": "Yeşil çay, portakal kabuğu, zencefil, portakal yağı, ayçiçeği, meyan kökü, moringa yaprağı"
+    },
+    {
+      "name": "Moroccan Green",
+      "price": "66,50 TL95 TL",
+      "description": "Yeşil çay, nane yaprağı"
+    },
+    {
+      "name": "White Jasmine",
+      "price": "63 TL90 TL",
+      "description": "Beyaz çay yaprağı, yasemin çiçeği"
+    },
+    {
+      "name": "Energy Boost",
+      "price": "63 TL90 TL",
+      "description": "Almanya. Hibiscus, limon kabuğu, elma parçaları, kuşburnu, şeftali, cascara, ayçiçeği yaprağı"
+    },
+    {
+      "name": "Sleepy Tea",
+      "price": "63 TL90 TL",
+      "description": "Melisa, papatya, rooibos, lavanta yağı"
+    },
+    {
+      "name": "Skinny Tea",
+      "price": "63 TL90 TL",
+      "description": "Mate çay, yeşil çay, limon kabuğu, maydanoz"
+    },
+    {
+      "name": "Rooibos Vanilla",
+      "price": "63 TL90 TL",
+      "description": "(Güney Afrika) Rooibos yaprağı, vanilya parçaları, vanilya aroması"
+    },
+    {
+      "name": "Digestea",
+      "price": "63 TL90 TL",
+      "description": "Rezene, rooibos yaprağı, zencefil, portakal kabuğu, lavanta ile hazırlanır."
+    },
+    {
+      "name": "Koi (Love Blend)",
+      "price": "63 TL90 TL",
+      "description": "Mate çayı, ginseng, rooibos, kakao parçaları, gül yaprağı, karanfil"
+    },
+    {
+      "name": "Turmeric Chai",
+      "price": "63 TL90 TL",
+      "description": "Zerdeçal, zencefil, tarçın, kakule, gül yaprağı, Hindistan cevizi"
+    },
+    {
+      "name": "Blue Flowers Earl Grey",
+      "price": "63 TL90 TL",
+      "description": "(Hindistan) Siyah çay, ebegümeci, bergamut"
+    },
+    {
+      "name": "Milk Oolong",
+      "price": "63 TL90 TL",
+      "description": "(Tayvan) Camellia sinensis bitkisinin yapraklarından, Oolong çay"
+    },
+    {
+      "name": "Mystic India",
+      "price": "63 TL90 TL",
+      "description": "(Hindistan) Siyah çay, elma parçacıkları, tarçın"
+    },
+    {
+      "name": "Chado İstanbul No.2",
+      "price": "63 TL90 TL",
+      "description": "(Türkiye) Siyah çay, bergamot yağı, lavanta, ebegümeci çiçeği"
+    },
+    {
+      "name": "Year of Tiger",
+      "price": "63 TL90 TL",
+      "description": "(Hindistan çayı) / Siyah çay, rooibos yaprağı, doğal aromalar"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63762638.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

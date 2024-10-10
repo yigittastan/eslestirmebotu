@@ -1,0 +1,245 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/rwc6/balikxpress",
+  "google": "",
+  "products": [
+    {
+      "name": "Midye Dolma (300 gr.)",
+      "price": "120 TL160 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55427545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Sardalya Tava",
+      "price": "162,75 TL217 TL",
+      "description": "Yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55423479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Çipura (500-600 gr.)",
+      "price": "335,25 TL447 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075332.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Somon",
+      "price": "335,25 TL447 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Sardalya Tava",
+      "price": "239,25 TL319 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kalamar Tava",
+      "price": "382,50 TL510 TL",
+      "description": "Ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075341.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Somon",
+      "price": "335,25 TL447 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Sardalya Tava",
+      "price": "239,25 TL319 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Barbun Tava",
+      "price": "430,50 TL574 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075337.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Mezgit Tava",
+      "price": "335,25 TL447 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamsi Tava",
+      "price": "239,25 TL319 TL",
+      "description": "Hamsi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27042401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Mezgit Tava",
+      "price": "239,25 TL319 TL",
+      "description": "İsteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075351.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Sardalya Tava",
+      "price": "162,75 TL217 TL",
+      "description": "Yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55423479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Izgara Çipura",
+      "price": "239,25 TL319 TL",
+      "description": "İsteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55423484.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Izgara Levrek",
+      "price": "239,25 TL319 TL",
+      "description": "İsteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55426247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Atom",
+      "price": "72 TL96 TL",
+      "description": "Ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075357.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Patlıcan",
+      "price": "72 TL96 TL",
+      "description": "Ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075358.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kalamar Salata Tarator",
+      "price": "286,50 TL382 TL",
+      "description": "(Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55234391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Közlenmiş Biber",
+      "price": "72 TL96 TL",
+      "description": "(Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55234383.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kalamar Tava",
+      "price": "382,50 TL510 TL",
+      "description": "Ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075341.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Midye Dolma (300 gr.)",
+      "price": "120 TL160 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55427545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Midye Dolma (500 gr.)",
+      "price": "168 TL224 TL",
+      "description": "(500 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55430198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "48 TL64 TL",
+      "description": "(Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075375.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "43,50 TL58 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075386.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "43,50 TL58 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075387.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "43,50 TL58 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075390.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "43,50 TL58 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "43,50 TL58 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55430199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (25 cl.)",
+      "price": "37,50 TL50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55426253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Çipura (500-600 gr.)",
+      "price": "335,25 TL447 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075332.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Levrek (500-600 gr.)",
+      "price": "335,25 TL447 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Levrek (1 kg.) (Pişirilmiş)",
+      "price": "669 TL892 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Çipura (1 kg.) (Pişirilmiş)",
+      "price": "621,75 TL829 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Somon (1 kg.) (Pişirilmiş)",
+      "price": "764,25 TL1.019 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Fileto Sardalya Tava (1 kg.)",
+      "price": "359,25 TL479 TL",
+      "description": "Salata, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075404.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Mezgit Tava (1 kg.) (Pişirilmiş)",
+      "price": "669,75 TL893 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55427389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Hamsi Tava (1 kg.)",
+      "price": "381,75 TL509 TL",
+      "description": "Mevsim salata, ekmek, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55428015.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Hamsi (1 kg.)",
+      "price": "381,75 TL509 TL",
+      "description": "Limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55432075.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadeniz Usulü Barbun Tava (1 kg.) (Pişirilmiş)",
+      "price": "765 TL1.020 TL",
+      "description": "Mevsim salata, ekmek, limon ile"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6075415.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

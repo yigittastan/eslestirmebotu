@@ -1,0 +1,136 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/nsyi/mint-patisserie",
+  "google": "",
+  "products": [
+    {
+      "name": "Beyaz Çikolatalı Brownie",
+      "price": "180 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32169887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26343993.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34480602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Brownie",
+      "price": "180 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32169953.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Panna Cotta",
+      "price": "160 TL",
+      "description": "Un, yağ içermeyen, böğürtlen soslu krema ve vanilya karışımı, glutensiz hafif tatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5953506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "160 TL",
+      "description": "Bitter çikolata içerisine kek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26676855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5953510.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli & Parça Çikolatalı Cheesecake",
+      "price": "195 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5953514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Cheesecake",
+      "price": "195 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5953519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Çikolatalı & Bademli & Limon Aromalı Cheesecake",
+      "price": "195 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5953520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26343993.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34480602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozaikli Bitter Çikolatalı Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40812170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaban Mersinli Beyaz Çikolatalı Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66260603.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ananaslı Bademli Beyaz Çikolatalı Cheesecake",
+      "price": "195 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66260609.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şeftalili Cheesecake",
+      "price": "195 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66674309.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Çikolatalı Brownie",
+      "price": "180 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32169887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Brownie",
+      "price": "180 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32169953.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parça Çikolatalı Cookie",
+      "price": "110 TL",
+      "description": "İçi çikolata dolgulu parça çikolatalı cookie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35278090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı sos",
+      "price": "30 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35278089.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli sos",
+      "price": "25 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35278088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34480611.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

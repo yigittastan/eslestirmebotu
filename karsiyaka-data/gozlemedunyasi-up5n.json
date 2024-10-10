@@ -1,0 +1,268 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/up5n/gozleme-dunyasi-up5n",
+  "google": "",
+  "products": [
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "Patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66539044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "115 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145034.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "115 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145015.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "125 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145032.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "115 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145034.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145037.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Gözleme",
+      "price": "140 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145038.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Gözleme",
+      "price": "140 TL",
+      "description": "Ispanak, patates, lor peyniri, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145051.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli Gözleme",
+      "price": "160 TL",
+      "description": "Tulum peyniri, kaşar loru, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145072.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domatesli Kaşarlı Gözleme",
+      "price": "120 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145076.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lor Peynirli Gözleme",
+      "price": "115 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145081.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tahinli Gözleme",
+      "price": "125 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66538712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Gözleme",
+      "price": "115 TL",
+      "description": "Ispanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66539039.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "Patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66539044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Gözleme",
+      "price": "115 TL",
+      "description": "Patlıcan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66540051.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Gözleme",
+      "price": "115 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66541241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lor Peynirli & Patatesli & Kaşarlı Gözleme",
+      "price": "135 TL",
+      "description": "Lor peyniri, patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66756782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lor Peynirli & Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "Lor peyniri, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66756786.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı & Patatesli & Kaşarlı Gözleme",
+      "price": "135 TL",
+      "description": "Ispanak, patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66756792.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu & Patatesli & Kaşarlı Gözleme",
+      "price": "150 TL",
+      "description": "Sucuk, patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66756795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "Patlıcan, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66757620.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Patatesli Gözleme",
+      "price": "135 TL",
+      "description": "Sucuk, patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66760270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Patatesli Gözleme",
+      "price": "125 TL",
+      "description": "Kaşar loru, patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66761792.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Ayran (20 cl.)",
+      "price": "30 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66145152.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Doğal Maden Suyu (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Extra Yeşil Limonlu (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Efsane Gazoz (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Şeftali (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Narlı (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Limonata Şekersiz (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Limonata (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Extra Mandalina (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Efsane Şekersiz (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Efsane Portakal (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Limon (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Extra Orman Meyveli (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Extra Kavunlu (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Meyveli Soda C Max C Vitaminli Kivi (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Efsane Uludağ Gazozu (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Efsane Uludağ Portakallı Gazoz (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Uludağ Frutti C Max C Vitaminli limon (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Furitti Çilekli Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Karpuz & Çilek Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Uludağ Frutti Elmalı (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    }
+  ]
+}

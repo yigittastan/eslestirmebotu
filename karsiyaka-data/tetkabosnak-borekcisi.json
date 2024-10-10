@@ -1,0 +1,234 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/kbo6/tetka-bosnak-borekcisi",
+  "google": "",
+  "products": [
+    {
+      "name": "Kıymalı Boşnak Böreği (300 gr.)",
+      "price": "170 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Boşnak Böreği (500 gr.)",
+      "price": "280 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Boşnak Böreği (300 gr.)",
+      "price": "170 TL",
+      "description": "Patates, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Boşnak Böreği (300 gr.)",
+      "price": "168 TL",
+      "description": "Ispanak, peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Boşnak Böreği (300 gr.)",
+      "price": "170 TL",
+      "description": "Patlıcan, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Boşnak Böreği (300 gr.)",
+      "price": "168 TL",
+      "description": "Peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Boşnak Böreği (300 gr.)",
+      "price": "170 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Boşnak Böreği (300 gr.)",
+      "price": "170 TL",
+      "description": "Patates, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Boşnak Böreği (300 gr.)",
+      "price": "170 TL",
+      "description": "Patlıcan, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Boşnak Böreği (300 gr.)",
+      "price": "168 TL",
+      "description": "Peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Boşnak Böreği (300 gr.)",
+      "price": "168 TL",
+      "description": "Ispanak, peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Boşnak Böreği (1 kg.)",
+      "price": "400 TL",
+      "description": "Patates, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29633236.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Boşnak Böreği (1 kg.)",
+      "price": "400 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29633258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Boşnak Böreği (500 gr.)",
+      "price": "280 TL",
+      "description": "Patlıcan, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Boşnak Böreği (500 gr.)",
+      "price": "275 TL",
+      "description": "Peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Boşnak Böreği (1 kg.)",
+      "price": "400 TL",
+      "description": "Patlıcan, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634533.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Boşnak Böreği (1 kg.)",
+      "price": "390 TL",
+      "description": "Peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Boşnak Böreği (1 kg.)",
+      "price": "390 TL",
+      "description": "Ispanak, peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634570.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Boşnak Böreği (500 gr.)",
+      "price": "275 TL",
+      "description": "Ispanak, peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634571.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Boşnak Böreği (500 gr.)",
+      "price": "280 TL",
+      "description": "Patates, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29634574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (250 gr.)",
+      "price": "120 TL",
+      "description": "Asma yapraklarına pirinç, soğan, baharatlar ve zeytinyağlı iç harcı doldurularak sarılan sarma çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "100 TL",
+      "description": "(330 cc.) cam kavanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31443014.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "100 TL",
+      "description": "330 cc. cam kavanozda servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31444559.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Mag",
+      "price": "100 TL",
+      "description": "(33 cc. cam kavanozda servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31448009.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muhallebili Kadayıf",
+      "price": "70 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31460508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "105 TL",
+      "description": "(330 cc. cam kavanozda servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31486219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Havuçlu Cevizli Kek (12 Dilim)",
+      "price": "300 TL",
+      "description": "12 dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31639710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "45 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884774.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "10 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayran (30 cl.)",
+      "price": "50 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54371156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayran (25,5 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54371477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Boşnak Böreği (500 gr.)",
+      "price": "280 TL",
+      "description": "Kıyma",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (500 gr.)",
+      "price": "220 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884784.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (1 kg.)",
+      "price": "400 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5884790.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

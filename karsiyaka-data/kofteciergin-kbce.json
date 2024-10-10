@@ -1,0 +1,186 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/kbce/kofteci-ergin-kbce",
+  "google": "",
+  "products": [
+    {
+      "name": "Yarım Ekmek Arası Izgara Kasap Köfte",
+      "price": "175 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kasap Köfte",
+      "price": "275 TL",
+      "description": "Izgara kasap köfte. Sumaklı soğan söğüş, közlenmiş domates, közlenmiş biber, tereyağlı tırnak pide, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939334.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Izgara Kasap Köfte",
+      "price": "240 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939337.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kasap Köfte Dürüm",
+      "price": "175 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı sos. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36722649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piyaz",
+      "price": "70 TL",
+      "description": "Fasulye, domates, maydanoz, yeşil biber, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kasap Köfte (1.5 Porsiyon)",
+      "price": "315 TL",
+      "description": "Izgara kasap köfte. Sumaklı soğan söğüş, közlenmiş domates, közlenmiş biber, tereyağlı tırnak pide, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30179814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Köfte Dürüm",
+      "price": "490 TL",
+      "description": "2 Adet Köfte Dürüm + Piyaz + 2 Adet Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52616454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Parça Ekmek Arası Köfte Menü",
+      "price": "275 TL",
+      "description": "Üç Parça Ekmek Arası Köfte + Kutu İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52625221.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kasap Köfte Dürüm",
+      "price": "175 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı sos. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36722649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kasap Köfte",
+      "price": "275 TL",
+      "description": "Izgara kasap köfte. Sumaklı soğan söğüş, közlenmiş domates, közlenmiş biber, tereyağlı tırnak pide, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939334.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Izgara Kasap Köfte",
+      "price": "175 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çeyrek Ekmek Arası Izgara Kasap Köfte",
+      "price": "90 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939336.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Izgara Kasap Köfte",
+      "price": "240 TL",
+      "description": "Izgara kasap köfte, soğan söğüş, domates, acı. Biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939337.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kasap Köfte (1.5 Porsiyon)",
+      "price": "315 TL",
+      "description": "Izgara kasap köfte. Sumaklı soğan söğüş, közlenmiş domates, közlenmiş biber, tereyağlı tırnak pide, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30179814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Izgara Köfte",
+      "price": "260 TL",
+      "description": "İçerik alınmalı.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41578812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Izgara Köfte",
+      "price": "550 TL",
+      "description": "Izgara kasap köfte. Sumaklı soğan söğüş, közlenmiş domates, közlenmiş biber, tereyağlı tırnak pide, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52616453.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piyaz",
+      "price": "70 TL",
+      "description": "Fasulye, domates, maydanoz, yeşil biber, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piyaz (Büyük)",
+      "price": "85 TL",
+      "description": "Fasulye, domates, maydanoz, yeşil biber, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939344.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cacık",
+      "price": "50 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55451517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurt",
+      "price": "45 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55451809.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "30 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939354.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (25 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939352.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939357.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60711077.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65537782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5939358.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/zpsd/kase",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Salata Kase",
+      "price": "180 TL",
+      "description": "Havuçlu & kırmızılahanalı kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Salata Kase",
+      "price": "150 TL",
+      "description": "Havuçlu kırmızılahanalı kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, mantar sote",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somonlu Salata Kase",
+      "price": "240 TL",
+      "description": "Havuçlu kırmızılahanalı kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, mantar, füme somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182388.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado & Ispanak Smoothie Kase",
+      "price": "160 TL",
+      "description": "Avokado, ıspanak, muz, tahin, hurma, hindistan cevizi sütü. Süslemesi için; granola, muz, şeftali, armut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Salata Kase",
+      "price": "200 TL",
+      "description": "Havuç, kırmızılahana, kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, köfte topları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37608111.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Salata Kase",
+      "price": "150 TL",
+      "description": "Havuçlu kırmızılahanalı kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, mantar sote",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Salata Kase",
+      "price": "180 TL",
+      "description": "Havuçlu & kırmızılahanalı kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Salata Kase",
+      "price": "200 TL",
+      "description": "Havuç, kırmızılahana, kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, köfte topları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37608111.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somonlu Salata Kase",
+      "price": "240 TL",
+      "description": "Havuçlu kırmızılahanalı kinoa pilavı, kabak carpaccio, roka, pancar turşusu, domates, avokado, mantar, füme somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182388.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk & Mantarlı Salata",
+      "price": "180 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66113889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Havuçlu Smoothie Kase",
+      "price": "140 TL",
+      "description": "Havuç, muz, tahin, hurma, hindistan cevizi sütü. Süslemesi için; granola, muz, şeftali, armut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado & Ispanak Smoothie Kase",
+      "price": "160 TL",
+      "description": "Avokado, ıspanak, muz, tahin, hurma, hindistan cevizi sütü. Süslemesi için; granola, muz, şeftali, armut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182431.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Su (40 cl.)",
+      "price": "25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182435.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkılmış Havuç Suyu",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30594345.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkılmış Portakal Suyu",
+      "price": "80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30594349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30182464.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

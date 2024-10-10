@@ -1,0 +1,154 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/a17u/ayin-lezzetleri",
+  "google": "",
+  "products": [
+    {
+      "name": "Karışık Tost",
+      "price": "112 TL140 TL",
+      "description": "Salam, sucuk, peynir, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48145796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Tost",
+      "price": "96 TL120 TL",
+      "description": "Kaşar peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48145799.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "104 TL130 TL",
+      "description": "İnce hamurun içine peynir eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48145735.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "104 TL130 TL",
+      "description": "İnce hamurun içerisine patates eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48145739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Otlu Peynirli Gözleme",
+      "price": "104 TL130 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48145740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haydari",
+      "price": "104 TL130 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128195.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginar Salatası",
+      "price": "144 TL180 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şakşuka",
+      "price": "104 TL130 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Deniz Börülcesi",
+      "price": "144 TL180 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rus Salatası",
+      "price": "120 TL150 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Sarma (250 gr.)",
+      "price": "128 TL160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızartma İçli Köfte",
+      "price": "36 TL45 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fava",
+      "price": "144 TL180 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Mantar",
+      "price": "128 TL160 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Havuç Tarator",
+      "price": "104 TL130 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Pişi",
+      "price": "20 TL25 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "112 TL140 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Sarma (500 gr.)",
+      "price": "120 TL150 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Sarma (1 kg.)",
+      "price": "240 TL300 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48128222.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

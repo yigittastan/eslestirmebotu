@@ -1,0 +1,412 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/pmvt/teyzem-borek-pmvt",
+  "google": "",
+  "products": [
+    {
+      "name": "Dereotlu Peynirli Poğaça",
+      "price": "22,75 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703851.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinli Poğaça",
+      "price": "20 TL",
+      "description": "Hamurun içine zeytin eklenerek hazırlanan bir hamur işi çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703852.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Kifla",
+      "price": "35,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Kifla",
+      "price": "50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinli Kifla",
+      "price": "35,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mini Zeytinli Poğaça (250 gr.)",
+      "price": "87,50 TL",
+      "description": "250 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59926966.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Kol Böreği (250 gr.)",
+      "price": "82,50 TL",
+      "description": "250 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kol Böreği (250 gr.)",
+      "price": "158,75 TL",
+      "description": "250 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Muska Böreği (250 gr.)",
+      "price": "91,25 TL",
+      "description": "250 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Kol Böreği (250 gr.)",
+      "price": "76,25 TL",
+      "description": "250 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59923576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Kol Böreği (250 gr.)",
+      "price": "88,75 TL",
+      "description": "250 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59925210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (1 kg.)",
+      "price": "525 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703906.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (250 gr.)",
+      "price": "131,25 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59926956.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (500 gr.)",
+      "price": "262,50 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59926961.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İzmir Bomba Tatlısı",
+      "price": "9,80 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Ev Baklavası (250 gr.)",
+      "price": "170 TL",
+      "description": "Ceviz, şerbet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59927093.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lor Kurabiyesi",
+      "price": "15 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703873.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahveli Kurabiye",
+      "price": "18,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703874.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Kurabiye",
+      "price": "23,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavala Kurabiyesi (3 Adet)",
+      "price": "25,50 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703878.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Kurabiye (250 gr.)",
+      "price": "93,75 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59927300.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çatal Mahlepli Kurabiye (3 Adet)",
+      "price": "30 TL",
+      "description": "3 adet"
+    },
+    {
+      "name": "Bademli Çıtır Kurabiye (100 gr.)",
+      "price": "203,50 TL",
+      "description": "100 gr."
+    },
+    {
+      "name": "Bademli Çıtır Kurabiye (250 gr.)",
+      "price": "407,50 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Kahveli Kurabiye (250 gr.)",
+      "price": "125 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Cevizli Kurabiye (250 gr.)",
+      "price": "93,75 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Vişneli Kurabiye (250 gr.)",
+      "price": "125 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Tuzlu Klasik Kurabiye (250 gr.)",
+      "price": "87,50 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Lor Kurabiyesi (250 gr.)",
+      "price": "93,75 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "48 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703881.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "48 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "48 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "21 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mini Zeytinli Poğaça (1 kg.)",
+      "price": "350 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703908.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mini Patatesli Poğaça (1 kg.)",
+      "price": "350 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mini Zeytinli Poğaça (500 gr.)",
+      "price": "175 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59926971.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mini Patatesli Poğaça (500 gr.)",
+      "price": "175 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59926974.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Su Böreği (500 gr.)",
+      "price": "165 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921367.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Kol Böreği (500 gr.)",
+      "price": "165 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921486.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kol Böreği (500 gr.)",
+      "price": "317,50 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Muska Böreği (500 gr.)",
+      "price": "182,50 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59921523.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Su Böreği (500 gr.)",
+      "price": "305 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59922295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Kol Böreği (500 gr.)",
+      "price": "152,50 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59924507.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Kol Böreği (500 gr.)",
+      "price": "177 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59925661.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Muska Böreği (1 kg.)",
+      "price": "365 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Su Böreği (1 kg.)",
+      "price": "610 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703897.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Su Böreği (1 kg.)",
+      "price": "330 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703888.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kol Böreği (1 kg.)",
+      "price": "635 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703893.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Kol Böreği (1 kg.)",
+      "price": "330 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Kol Böreği (1 kg.)",
+      "price": "305 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703899.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Kol Böreği (1 kg.)",
+      "price": "355 TL",
+      "description": "Pişirilmiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703903.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Ev Baklavası (1 kg.)",
+      "price": "680 TL",
+      "description": "Ceviz, şerbet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703911.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Ev Baklavası (500 gr.)",
+      "price": "340 TL",
+      "description": "Ceviz, şerbet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59927094.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Çıtır Kurabiye (1 kg.)",
+      "price": "815 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703918.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Kurabiye (1 kg.)",
+      "price": "375 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703926.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahveli Kurabiye (1 kg.)",
+      "price": "500 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703921.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Kurabiye (1 kg.)",
+      "price": "375 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703922.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Kurabiye (1 kg.)",
+      "price": "500 TL",
+      "description": "1 kg.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Tuzlu Klasik Kurabiye (1 kg.)",
+      "price": "350 TL",
+      "description": "1 kg.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Lor Kurabiyesi (1 kg.)",
+      "price": "375 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703927.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tarçınlı Kurabiye (1 kg.)",
+      "price": "112 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavala Kurabiyesi (1 kg.)",
+      "price": "210 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Kurabiye (500 gr.)",
+      "price": "187,50 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59927310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Çıtır Kurabiye (500 gr.)",
+      "price": "680 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Kahveli Kurabiye (500 gr.)",
+      "price": "250 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Cevizli Kurabiye (500 gr.)",
+      "price": "187,50 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Vişneli Kurabiye (500 gr.)",
+      "price": "250 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Tuzlu Klasik Kurabiye (500 gr.)",
+      "price": "175 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Lor Kurabiyesi (500 gr.)",
+      "price": "187,50 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5703928.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

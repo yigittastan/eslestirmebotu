@@ -1,0 +1,394 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/xrfn/istifno-meze",
+  "google": "",
+  "products": [
+    {
+      "name": "Şef Menüsü (600 gr.)",
+      "price": "365 TL",
+      "description": "Seçeceğiniz 3 Adet Meze veya Salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baş Başa Menü (1 kg.)",
+      "price": "560 TL",
+      "description": "Seçeceğiniz 4 adet meze veya salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zetinyağlı Yaprak Sarma (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baş Başa Menü (1 kg.)",
+      "price": "560 TL",
+      "description": "Seçeceğiniz 4 adet meze veya salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şef Menüsü (600 gr.)",
+      "price": "365 TL",
+      "description": "Seçeceğiniz 3 Adet Meze veya Salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kadınbudu Köfte Menü",
+      "price": "305 TL",
+      "description": "Kadınbudu Köfte (2 Adet) + Seçeceğiniz Meze + Seçeceğiniz Salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872523.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızartma (500 gr.) Menü",
+      "price": "280 TL",
+      "description": "Karışık Kızartma (250 gr.) + Seçeceğiniz Meze + Seçeceğiniz Salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Menü (750 gr.)",
+      "price": "450 TL",
+      "description": "Seçeceğiniz 3 Adet Zeytinyağlı Yemek veya Meze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872539.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Misafir Menü",
+      "price": "900 TL",
+      "description": "Fava (250 gr.) + Yoğurtlu Patlıcan (250 gr.) + Girit Mezesi (250 gr.) + Şakşuka (250 gr.) + Atom (250 gr.) + Yoğurtlu Cevizli Havuç + Börülce Salatası (250 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34368787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Taze Fasulye Menü",
+      "price": "280 TL",
+      "description": "Zeytinyağlı Taze Fasulye (250 gr.) + Seçeceğiniz Salata + Seçeceğiniz Meze"
+    },
+    {
+      "name": "Barbunya Pilaki (500 gr.) Menü",
+      "price": "280 TL",
+      "description": "Zeytinyağl Barbunya Pilaki + Seçeceğiniz Salata + Seçeceğiniz Meze"
+    },
+    {
+      "name": "Süzme Yoğurt",
+      "price": "140 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Ezme",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Atom",
+      "price": "155 TL",
+      "description": "250 gr. yoğurtlu köz patlıcanlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872579.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872584.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Girit Mezesi",
+      "price": "155 TL",
+      "description": "250 gr. kabak, ceviz, dereotu, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872587.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabak Mücver (Adet)",
+      "price": "40 TL",
+      "description": "(Adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872594.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köpoğlu",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Köftesi",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872601.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pekmezli Yoğurtlu Köz Patlıcan",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rus Salatası",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872611.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şakşuka",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872612.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şehzade Meze",
+      "price": "155 TL",
+      "description": "250 gr. köz patlıcan, tahin, yoğurt, maydanoz, fıstık, fındık, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Cevizli Havuç",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872617.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Kızartma",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872622.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Patlıcan",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872625.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Semizotu",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğutlu Cevizli Havuç & Kabak",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872627.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fava",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22774046.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Köz Biber",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24675993.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kızartma",
+      "price": "160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Barbunya Pilaki",
+      "price": "160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "price": "160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Taze Fasulye",
+      "price": "160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24390299.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Bamya (250 gr.)",
+      "price": "160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29342243.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Börülce Salatası",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872701.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pancar Salatası",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24390464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Salatası",
+      "price": "155 TL",
+      "description": "250 gr.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Enginar Salatası",
+      "price": "180 TL",
+      "description": "Enginar, kapya biber, mısır, dereotu, zeytinyağı, tuz",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Hardallı Patates Salatası",
+      "price": "155 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Kadınbudu Köfte (Adet)",
+      "price": "75 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872638.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Börülce Salatası (500 gr.)",
+      "price": "265 TL",
+      "description": "Zeytinyağlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginar Salatası (500 gr.)",
+      "price": "330 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630250.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Ezme (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köpoğlu (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Patlıcan (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630254.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zetinyağlı Yaprak Sarma (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Havuç Tarator (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630257.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Atom (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kızartma (500 Gr)",
+      "price": "265 TL",
+      "description": "500 Gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630259.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rus Salatası (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Bamya (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Barbunya (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43630265.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fava (500Gr)",
+      "price": "265 TL",
+      "description": "500gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45692901.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Semizotu (500 Gr)",
+      "price": "265 TL",
+      "description": "500 Gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45877287.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Köftesi (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59828091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Girit Meze (500 Gr)",
+      "price": "265 TL",
+      "description": "500Gr"
+    },
+    {
+      "name": "Zeytinyağlı Taze Fasulye (500 gr.)",
+      "price": "265 TL",
+      "description": "500 gr."
+    },
+    {
+      "name": "Patates Salatası (500 Gr)",
+      "price": "265 TL",
+      "description": "500gr"
+    },
+    {
+      "name": "Yoğurtlu Kızartma (500 gr.)",
+      "price": "265 TL",
+      "description": "Yoğurtlu"
+    },
+    {
+      "name": "Ayvalık Lor Tatlısı (Adet)",
+      "price": "60 TL",
+      "description": "(Adet)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kadayıflı Muhallebi",
+      "price": "50 TL",
+      "description": "Dilim."
+    },
+    {
+      "name": "Güneşte Kurutulmuş Acılı Domates Sos (300 gr.)",
+      "price": "130 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Güneşte Kurutulmuş Sade Domates Sos (300 gr.)",
+      "price": "130 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872729.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5872730.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

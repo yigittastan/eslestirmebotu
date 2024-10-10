@@ -1,0 +1,374 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/cgt6/alaybey-girgin-pide-and-kebap",
+  "google": "",
+  "products": [
+    {
+      "name": "Lahmacun",
+      "price": "97,50 TL130 TL",
+      "description": "Salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "183,75 TL245 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "142,50 TL190 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "165 TL220 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "64,50 TL86 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10721391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "161,25 TL215 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717502.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Pide Menü",
+      "price": "330 TL440 TL",
+      "description": "2 Adet Kıymalı Pide + Salata + 2 adet Ayran (30 cl.) veya Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Pide Menü",
+      "price": "765 TL1.020 TL",
+      "description": "5 Adet Kıymalı Pide + Salata + 5 adet Ayran (30 cl.) veya Coca-Cola (2,5 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Lahmacun Menü",
+      "price": "222 TL296 TL",
+      "description": "2 Adet Lahmacun + Salata + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Lahmacun Menü",
+      "price": "345 TL460 TL",
+      "description": "3 Adet Lahmacun + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "6'lı Lahmacun Menü",
+      "price": "637,50 TL850 TL",
+      "description": "6 Adet Lahmacun + Salata + 3 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekonomik Menü 3",
+      "price": "483,75 TL645 TL",
+      "description": "3 Adet Kıymalı Pide + Salata + Coca-Cola (1,5 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekonomik Menü 4",
+      "price": "768,75 TL1.025 TL",
+      "description": "5 Adet Kıymalı Pide + Salata + Coca-Cola (1,5 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Pide Menü",
+      "price": "360 TL480 TL",
+      "description": "2 Adet Kuşbaşılı Pide + Salata + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31532472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İndirimli Menü 1",
+      "price": "1.012,50 TL1.350 TL",
+      "description": "10 Adet Lahmacun + Salata + 5 Adet Ayran (20 cl.) (Acı durumunu not kısmında belirtiniz.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35296933.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İndirimli Menü 2",
+      "price": "1.125 TL1.500 TL",
+      "description": "5 Adet Kıymalı Pide (1,5 Porsiyon) + Salata + 5 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "Ekonomik Menü 1",
+      "price": "161,25 TL215 TL",
+      "description": "Kıymalı Pide + Salata + Ayran (20 cl.)"
+    },
+    {
+      "name": "Ekonomik Menü 2",
+      "price": "183,75 TL245 TL",
+      "description": "Kuşbaşılı Pide + Salata + Ayran (20 cl.)"
+    },
+    {
+      "name": "Ekonomik Menü 5",
+      "price": "532,50 TL710 TL",
+      "description": "3 Adet Kuşbaşılı Pide + Salata + Coca-Cola (1,5 L.)"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "93,75 TL125 TL",
+      "description": "(Günlük olarak hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "154,50 TL206 TL",
+      "description": "(Günlük olarak hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "67,50 TL90 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Lahmacun",
+      "price": "115,50 TL154 TL",
+      "description": "Dana kuşbaşı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Lahmacun",
+      "price": "130,50 TL174 TL",
+      "description": "Kuşbaşı, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "97,50 TL130 TL",
+      "description": "Salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Lahmacun",
+      "price": "115,50 TL154 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "142,50 TL190 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "165 TL220 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide (Açık)",
+      "price": "142,50 TL190 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "138,75 TL185 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Sebzeli Pide",
+      "price": "146,25 TL195 TL",
+      "description": "Domates, biber, kaşar peyniri. Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Pide",
+      "price": "131,25 TL175 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "161,25 TL215 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717502.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "183,75 TL245 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pide",
+      "price": "206,25 TL275 TL",
+      "description": "Kuşbaşı, kıyma, kaşar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717505.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Kaşarlı Pide",
+      "price": "221,25 TL295 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı & Kaşarlı & Mantarlı Pide",
+      "price": "191,25 TL255 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717507.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Köfte",
+      "price": "225 TL300 TL",
+      "description": "Salata, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Köfte",
+      "price": "236,25 TL315 TL",
+      "description": "Salata, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kuşbaşı",
+      "price": "225 TL300 TL",
+      "description": "Salata, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Kuşbaşı",
+      "price": "236,25 TL315 TL",
+      "description": "Salata, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": "159 TL212 TL",
+      "description": "Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Veggie Pizza",
+      "price": "159 TL212 TL",
+      "description": "Kaşar peyniri, domates, biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717526.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza",
+      "price": "159 TL212 TL",
+      "description": "Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717527.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza",
+      "price": "180 TL240 TL",
+      "description": "Sucuk, salam, sosis, mantar, domates, biber, mısır. Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717528.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tahinli Pide",
+      "price": "159 TL212 TL",
+      "description": "Tahin ve şeker ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tahinli & Ballı & Cevizli Pide",
+      "price": "189 TL252 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717535.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717542.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717544.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717546.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717547.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "30 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "13,13 TL17,50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "64,50 TL86 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717552.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1,5 L.)",
+      "price": "75 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (2,5 L.)",
+      "price": "90 TL120 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Eker Ayran (30 cl.)",
+      "price": "32,25 TL43 TL",
+      "description": "Büyük boy",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Eker Ayran (20 cl.)",
+      "price": "27 TL36 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10721390.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "64,50 TL86 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10721391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5717559.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

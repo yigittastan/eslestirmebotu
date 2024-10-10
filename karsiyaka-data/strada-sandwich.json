@@ -1,0 +1,87 @@
+{
+  "0": {
+    "name": "Special 3",
+    "price": "425 TL",
+    "description": "80 gr. karabiberli rozbif, çörekotlu peynir, humus, domates, roka, hafif acılı zeytinyağı",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37296373.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "1": {
+    "name": "Special 4",
+    "price": "410 TL",
+    "description": "80 gr. mortadella, zeytin ezmesi, mimolette, sarımsak konfit, domates, roka, zeytinyağı",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37296411.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "2": {
+    "name": "Special 5",
+    "price": "450 TL",
+    "description": "(80 gr.) pepperoni, gouda, ayçekirdekli mantar ezmesi, taze domates, krem peynir, roka, limonlu kekikli zeytinyağı",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/45576448.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "3": {
+    "name": "Special 7",
+    "price": "515 TL",
+    "description": "(80 gr.) dana cotto, burrata, pesto sos, kuzu kulağı, balzamik glaze, domates, zeytinyağı",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/45576464.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "4": {
+    "name": "Coca-Cola (33 cl.)",
+    "price": "60 TL",
+    "description": "Kutu içecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298564.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "5": {
+    "name": "Coca-Cola Light (33 cl.)",
+    "price": "60 TL",
+    "description": "Kutu içecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298567.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "6": {
+    "name": "Coca-Cola Zero Sugar (33 cl.)",
+    "price": "60 TL",
+    "description": "Kutu içecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298572.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "7": {
+    "name": "Fanta (33 cl.)",
+    "price": "60 TL",
+    "description": "Kutu içecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298577.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "8": {
+    "name": "Sprite (33 cl.)",
+    "price": "60 TL",
+    "description": "Kutu içecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298580.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "9": {
+    "name": "Fuse Tea (33 cl.)",
+    "price": "60 TL",
+    "description": "Kutu içecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298585.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "10": {
+    "name": "Özerhisar Ayran (24,5 cl.)",
+    "price": "60 TL",
+    "description": "Cam şişe",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298617.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "11": {
+    "name": "Soda (20 cl.)",
+    "price": "30 TL",
+    "description": "Cam şişe",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298625.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "12": {
+    "name": "Su (50 cl.)",
+    "price": "25 TL",
+    "description": "Pet şişe",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298627.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "13": {
+    "name": "Poşet",
+    "price": "0,25 TL",
+    "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298549.png?width=150.00000223517418&height=150.00000223517418"
+  },
+  "google": ""
+}

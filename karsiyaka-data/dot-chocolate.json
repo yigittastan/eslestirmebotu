@@ -1,0 +1,120 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/quxp/dot-chocolate",
+  "google": "",
+  "products": [
+    {
+      "name": "Cosmos",
+      "price": "180 TL",
+      "description": "2 kakaolu kek arasına çilek, muz, özel krema, üzerine Belçika çikolatası ve seçeceğiniz süsleme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39183156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orion",
+      "price": "160 TL",
+      "description": "Kakaolu kek parçaları, özel krema, çilek, muz, eritme Belçika çikolatası, isteğe göre krep veya fındık kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225794.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreon",
+      "price": "145 TL",
+      "description": "Özel krema, oreo parçaçığı, çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24546853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Capella",
+      "price": "145 TL",
+      "description": "Özel krema, bisküvi, muz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24546879.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mira",
+      "price": "140 TL",
+      "description": "Özel krema, kakaolu kek, çilek parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28332445.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vela",
+      "price": "145 TL",
+      "description": "Özel krema, kadayıf, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32102263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tereyağlı Çörek Otlu Kurabiye (150 gr.)",
+      "price": "65 TL",
+      "description": "150 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orion",
+      "price": "160 TL",
+      "description": "Kakaolu kek parçaları, özel krema, çilek, muz, eritme Belçika çikolatası, isteğe göre krep veya fındık kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225794.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreon",
+      "price": "145 TL",
+      "description": "Özel krema, oreo parçaçığı, çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24546853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Capella",
+      "price": "145 TL",
+      "description": "Özel krema, bisküvi, muz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24546879.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mira",
+      "price": "140 TL",
+      "description": "Özel krema, kakaolu kek, çilek parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28332445.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vela",
+      "price": "145 TL",
+      "description": "Özel krema, kadayıf, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32102263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cosmos",
+      "price": "180 TL",
+      "description": "2 kakaolu kek arasına çilek, muz, özel krema, üzerine Belçika çikolatası ve seçeceğiniz süsleme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39183156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225806.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225809.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "25 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6225812.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

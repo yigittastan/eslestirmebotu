@@ -1,0 +1,288 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/og9i/chicky-and-dany-og9i",
+  "google": "",
+  "products": [
+    {
+      "name": "Chicky Zurna Tavuk Döner Dürüm (200 gr.) & Ayran Menü",
+      "price": "178,50 TL238 TL",
+      "description": "Chicky Dev Zurna Tavuk Dürüm (200 gr. tavuk döner, 45 cm. çift lavaş, patates kızartması, turşu, özel sos, mayonez) + Büyük Ayran",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Chicky Zurna Tavuk Dürüm & Ayran Menü",
+      "price": "257,25 TL343 TL",
+      "description": "2 Adet Zurna Tavuk Döner Dürüm (100 gr.) + 2 Adet Küçük Ayran",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner (200 gr.) & Ayran Menü",
+      "price": "187,50 TL250 TL",
+      "description": "Pilav Üstü Tavuk Döner (200 gr.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "200 gr. Tavuk Döner Porsiyon & Ayran Menü",
+      "price": "187,50 TL250 TL",
+      "description": "Tavuk Döner (200 gr.) + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Tabakta Tavuk Döner & Ayran Menü",
+      "price": "277,50 TL370 TL",
+      "description": "2 Adet Tavuk Döner (100 gr.) + 2 Adet Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49467501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicky Zurna Tavuk Döner Dürüm (200 gr.) & Ayran Menü",
+      "price": "178,50 TL238 TL",
+      "description": "Chicky Dev Zurna Tavuk Dürüm (200 gr. tavuk döner, 45 cm. çift lavaş, patates kızartması, turşu, özel sos, mayonez) + Büyük Ayran",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner (200 gr.) & Ayran Menü",
+      "price": "187,50 TL250 TL",
+      "description": "Pilav Üstü Tavuk Döner (200 gr.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "200 gr. Tavuk Döner Porsiyon & Ayran Menü",
+      "price": "187,50 TL250 TL",
+      "description": "Tavuk Döner (200 gr.) + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Standart Et Döner Dürüm Menü",
+      "price": "123 TL164 TL",
+      "description": "Yaprak Etten Döner (50 gr.) (domates, maydanozlu soğan) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66839515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Standart Tavuk Dürüm & Ayran",
+      "price": "74,25 TL99 TL",
+      "description": "Standart Tavuk Dürüm (50 gr özel soslu lavaş içerisine; patates kızartması, turşu, özel Hatay sosu, sarımsaklı mayonez) + Sütaş Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66839525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Standart Et Dürüm Menü",
+      "price": "138,50 TL164 TL",
+      "description": "Cheddarlı Standart Et Dürüm + (Cheddar peyniri, domates, maydanozlu soğan) + Sütaş Ayran (17 cl.)"
+    },
+    {
+      "name": "King Tavuk Dürüm Menü",
+      "price": "96,75 TL129 TL",
+      "description": "King Tavuk Dürüm (100 gr. özel soslu tek lavaş içerisinde; patates kızartması, turşu, özel Hatay sosu, sarımsaklı mayonez) + Ayran (20 cl.)"
+    },
+    {
+      "name": "BBQ Soslu Standart Tavuk Döner Dürüm Menü",
+      "price": "78 TL104 TL",
+      "description": "BBQ Soslu Standart Tavuk Döner Dürüm (50 gr. özel soslu lavaşa; BBQ sos, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Ayran (20 cl.)"
+    },
+    {
+      "name": "Chicky Jumbo Dürüm Döner Menü",
+      "price": "81,75 TL109 TL",
+      "description": "Chicky Jumbo Dürüm Döner (Özel soslu lavaş içerisine; 75 gr tavuk döner, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Patates Kızartması + Sütaş Ayran (17 cl.)"
+    },
+    {
+      "name": "Kaşarlı Standart Tavuk Dürüm Menü",
+      "price": "74,25 TL99 TL",
+      "description": "Kaşarlı Tavuk Dürüm (50 gr. özel soslu lavaş içerisinde; kaşar peyniri, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Chicky Zurna Dürüm Döner Menü",
+      "price": "96,75 TL129 TL",
+      "description": "Tavuk Döner Dürüm (100 gr.) ( özel sos, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Zurna Et Döner Dürüm Menü",
+      "price": "186,75 TL249 TL",
+      "description": "Zurna Et Döner Dürüm (100 gr.) (Domates, maydanoz, soğan) + Sütaş Ayran (17 cl.) + Patates Kızartması"
+    },
+    {
+      "name": "Jumbo Et Döner Menü",
+      "price": "146,25 TL195 TL",
+      "description": "75 gr. Et Döner (Domates, soğan salatası) + Patates Kızartması + Ayran (17 cl.)"
+    },
+    {
+      "name": "King Zurna Et Döner Menü",
+      "price": "228,75 TL305 TL",
+      "description": "King Zurna Et Döner (125 gr.) (Domates, maydanoz, soğan) + Sütaş ayran (17 cl.) + Patates Kızartması"
+    },
+    {
+      "name": "Cheddar Peynirli Tavuk Döner Dürüm Menü",
+      "price": "74,25 TL99 TL",
+      "description": "Cheddar Peynirli Tavuk Döner Dürüm (50 gr.) (Cheddar peyniri, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Sütaş Ayran (17 cl.) + Patates Kızartması"
+    },
+    {
+      "name": "Hamburger Menü",
+      "price": "186,75 TL249 TL",
+      "description": "Hamburger (120 gr. hamburger köftesi, cheddar, marul, mayonez, ketçap, turşu) + Patates Kızartması + Kutu İçecek"
+    },
+    {
+      "name": "Chicky King Zurna Tavuk Dürüm Menü",
+      "price": "104,25 TL139 TL",
+      "description": "Chicky King Zurna Tavuk Dürüm ((125 gr.) özel soslu lavaş içerisinde; patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Hot Chili Soslu Tavuk Döner Dürüm Menü",
+      "price": "74,25 TL99 TL",
+      "description": "Hot Chilli Soslu Tavuk Döner Dürüm (Özel soslu lavaş arasına; 50 gr. tavuk döner, hot chili sos, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "BBQ Soslu Standart Tavuk Dürüm Menü",
+      "price": "74,25 TL99 TL",
+      "description": "BBQ Soslu Standart Tavuk Dürüm (Özel soslu lavaş içerisine; 50 gr. tavuk döner, BBQ sos, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez) + Patates Kızartması + Sütaş Ayran (17 cl.)"
+    },
+    {
+      "name": "BBQ Soslu Et Döner Dürüm Menü",
+      "price": "123 TL164 TL",
+      "description": "BBQ Soslu Et Döner (50 gr.) (BBQ sos, domates, maydanozlu soğan) + Sütaş Ayran (17 cl.) + Patates Kızartması"
+    },
+    {
+      "name": "2'li Tabakta Tavuk Döner & Ayran Menü",
+      "price": "277,50 TL370 TL",
+      "description": "2 Adet Tavuk Döner (100 gr.) + 2 Adet Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49467501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Tavuk Döner Pilav Üstü & Ayran Menü",
+      "price": "277,50 TL370 TL",
+      "description": "2 Adet Pilav Üstü Tavuk Döner + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Chicky Zurna Tavuk Dürüm & Ayran Menü",
+      "price": "257,25 TL343 TL",
+      "description": "2 Adet Zurna Tavuk Döner Dürüm (100 gr.) + 2 Adet Küçük Ayran",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49468241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Jumbo Tavuk Döner Dürüm Menü",
+      "price": "187,50 TL250 TL",
+      "description": "2 Adet Jumbo Tavuk Döner Dürüm (Özel soslu lavaşa; 75 gr. tavuk döner, mayonez, patates kızartması, turşu, özel sos) + 2 Adet Patates Kızartması + 2 Adet Kutu İçecek"
+    },
+    {
+      "name": "Chicky Standart Tavuk Döner Dürüm",
+      "price": "44,25 TL59 TL",
+      "description": "Özel soslu lavaş içerisine; 50 gr. tavuk döner, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66928868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Chilli Soslu Standart Tavuk Dürüm",
+      "price": "44,25 TL59 TL",
+      "description": "Özel soslu lavaş içerisine; 50 gr tavuk döner, hot chilli sos, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66928876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicky Jumbo Tavuk Döner Dürüm",
+      "price": "56,25 TL75 TL",
+      "description": "Özel soslu lavaş içerisine; 75 gr. tavuk döner, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66928896.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Standart Tavuk Dürüm",
+      "price": "44,25 TL59 TL",
+      "description": "Özel soslu lavaş içerisine; 50 gr. tavuk döner, BBQ sos, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66928909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicky Zurna Tavuk Döner Dürüm",
+      "price": "66,75 TL89 TL",
+      "description": "Özel soslu lavaş içerisine; 100 gr. tavuk döner, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66928915.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicky King Zurna Tavuk Döner Dürüm",
+      "price": "74,25 TL99 TL",
+      "description": "Özel soslu lavaş içerisine; 125 gr. tavuk döner, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66928924.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Standart Tavuk Dürüm",
+      "price": "44,25 TL59 TL",
+      "description": "Özel soslu lavaş içerisine; 50 gr. tavuk döner, kaşar peyniri, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Cheddarlı Standart Tavuk Dürüm",
+      "price": "44,25 TL59 TL",
+      "description": "Özel soslu lavaş içerisine; 50 gr. tavuk döner, cheddar peyniri, patates kızartması, turşu, özel Hatay sos, sarımsaklı mayonez",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner",
+      "price": "96,75 TL129 TL",
+      "description": "100 gr. tavuk döner, pirinç pilavı"
+    },
+    {
+      "name": "Tavuk Döner",
+      "price": "74,25 TL99 TL",
+      "description": "100 gr. tavuk döner, lavaş, köz biber, domates ile"
+    },
+    {
+      "name": "İskender (Tavuk Dönerden)",
+      "price": "119,25 TL159 TL",
+      "description": "100 gr. tavuk döner, tırnak pide, tereyağı, közlenmiş biber, domates, yoğurt"
+    },
+    {
+      "name": "Dany King Zurna Et Döner Dürüm",
+      "price": "205,50 TL274 TL",
+      "description": "Lavaş içerine; 125 gr. yaprak et döner, domates, maydanozlu soğan"
+    },
+    {
+      "name": "BBQ Soslu Dany Standart Et Döner Dürüm",
+      "price": "96,75 TL129 TL",
+      "description": "50 gr. yaprak etten döner, lavaş içerinde; domates, maydanozlu soğan"
+    },
+    {
+      "name": "Cheddarlı Dany Standart Et Döner Dürüm",
+      "price": "96,75 TL129 TL",
+      "description": "50 gr. yaprak etten döner, cheddar peyniri, lavaş içerinde; domates, maydanozlu soğan"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "222,75 TL297 TL",
+      "description": "100 gr. et döner, tırnaklı pide, tereyağı, köz biber, domates, yoğurt"
+    },
+    {
+      "name": "Pilav Üstü Et Döner",
+      "price": "198,75 TL265 TL",
+      "description": "100 gr. et döner, pirinç pilavı"
+    },
+    {
+      "name": "Dany Standart Et Döner Dürüm",
+      "price": "96,75 TL129 TL",
+      "description": "Lavaş içerine; 50 gr. yaprak et döner, domates, maydanozlu soğan"
+    },
+    {
+      "name": "Dany Jumbo Et Döner Dürüm",
+      "price": "123 TL164 TL",
+      "description": "Lavaş içerine; 75 gr. yaprak et döner, domates, maydanozlu soğan"
+    },
+    {
+      "name": "Dany Zurna Et Döner Dürüm",
+      "price": "164,25 TL219 TL",
+      "description": "Lavaş içerine; 100 gr. yaprak et döner, domates, maydanozlu soğan"
+    },
+    {
+      "name": "Et Döner (100 gr.)",
+      "price": "183,75 TL245 TL",
+      "description": "100 gr. et döner. Lavaş, közlenmiş biber, domates ile"
+    },
+    {
+      "name": "Standart Et Dürüm",
+      "price": "123 TL164 TL",
+      "description": "50 g. yaprak et döner, domates, maydanozlu soğan. Patates kızartması ile"
+    },
+    {
+      "name": "Hamburger",
+      "price": "146,25 TL195 TL",
+      "description": "120 gr. hamburger köftesi, cheddar peyniri, marul, mayonez, ketçap, turşu"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29584785.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

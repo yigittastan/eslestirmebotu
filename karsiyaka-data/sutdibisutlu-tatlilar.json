@@ -1,0 +1,182 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/hpxa/sutdibi-sutlu-tatlilar",
+  "google": "",
+  "products": [
+    {
+      "name": "Süper Ekonomik Menü",
+      "price": "717,50 TL1.025 TL",
+      "description": "Hamsiköy Sütlacı + Beyoğlu Kazandibi + Muzlu Mag + Aşure + Sakızlı Alaçatı Muhallebisi + Belçika Çikolatalı Supangle",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57426247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Kombo Menü",
+      "price": "360,50 TL515 TL",
+      "description": "Hamsiköy Sütlacı + Beyoğlu Kazandibi + Sakızlı Alaçatı Muhallebisi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57426277.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Süper Menü",
+      "price": "245 TL350 TL",
+      "description": "Hamsiköy Sütlacı + Beyoğlu Kazandibi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57426303.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Belçika Çikolatalı Supangle",
+      "price": "252 TL360 TL",
+      "description": "2 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61434945.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Hamsiköy Sütlacı",
+      "price": "245 TL350 TL",
+      "description": "2 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61435104.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Muzlu Mag",
+      "price": "252 TL360 TL",
+      "description": "2 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66467628.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Ekonomik Menü",
+      "price": "483 TL690 TL",
+      "description": "Hamsiköy Sütlacı + Beyoğlu Kazandibi + Sakızlı Alaçatı Muhallebisi + Belçika Çikolatalı Supangle"
+    },
+    {
+      "name": "Efsane 2'li",
+      "price": "280 TL400 TL",
+      "description": "Bademli Kazandibi + Antep Fıstıklı Kazandibi"
+    },
+    {
+      "name": "3'lü Karışık Kazandibi Menü",
+      "price": "399 TL570 TL",
+      "description": "1 Adet Antep Fıstıklı Kazandibi + 1 Adet Bademli Kazandibi + 1 Adet Sade Kazandibi"
+    },
+    {
+      "name": "2'li Geleneksel Aşure",
+      "price": "231 TL330 TL",
+      "description": "2 Adet Geleneksel Aşure"
+    },
+    {
+      "name": "Aşiret Menü",
+      "price": "2.310 TL3.000 TL",
+      "description": "2 Adet Sade Kazandibi + 2 Adet Antep Fıstıklı Kazandibi + 2 Adet Bademli Kazandibi + 2 Adet Hamsiköy Sütlaç + 2 Adet Sakızlı Alaçatı Muhallebisi 2 Adet Aşure + 2 Adet Çilekli Mag + 2 Adet Hisarönü Şambali Tatlısı + 2 Adet Belçika Çikolatalı Supangle"
+    },
+    {
+      "name": "Akraba Menü",
+      "price": "1.085 TL1.550 TL",
+      "description": "Kazandibi + Antep Fıstıklı Kazandibi + Bademli Kazandibi + Hamsiköy Sütlacı + Belçika Çikolatalı Supangle + Sakızlı Muhallebi + Çilekli Mag + Aşure + Hisarönü Şambalisi"
+    },
+    {
+      "name": "2'li Sakızlı Alaçatı Muhallebisi",
+      "price": "238 TL340 TL",
+      "description": "2 adet"
+    },
+    {
+      "name": "2'li Kazandibi",
+      "price": "245 TL350 TL",
+      "description": "2 adet sade kazandibi"
+    },
+    {
+      "name": "Hamsiköy Sütlacı (Glütensiz)",
+      "price": "126 TL180 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Belçika Çikolatalı Supangle",
+      "price": "129,50 TL185 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sakızlı Alaçatı Muhallebisi",
+      "price": "122,50 TL175 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57425093.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Geleneksel Aşure",
+      "price": "119 TL170 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57425298.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Kazandibi",
+      "price": "147 TL210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61402863.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Kazandibi",
+      "price": "140 TL200 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61402873.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyoğlu Kazandibi (Glütensiz)",
+      "price": "126 TL180 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66158239.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Mag",
+      "price": "129,50 TL185 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66475789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Mango & Ananas (33 cl.)",
+      "price": "70 TL100 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61017141.png?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "24,50 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61017621.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "70 TL100 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61361139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kula Maden Suyu (20 cl.)",
+      "price": "31,50 TL45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61362437.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "45,50 TL65 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66161399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "70 TL100 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66161413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyvit Şeftali Meyve Suyu (20 cl.)",
+      "price": "38,50 TL55 TL",
+      "description": "Karton kutu"
+    },
+    {
+      "name": "Meyvit Vitaminli Karışık Meyve Suyu (20 cl.)",
+      "price": "31,50 TL45 TL",
+      "description": "İçecek"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57426517.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

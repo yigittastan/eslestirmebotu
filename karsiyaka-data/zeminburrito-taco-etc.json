@@ -1,0 +1,503 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/pr5y/zemin-burrito-taco-etc",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Burrito",
+      "price": "270 TL",
+      "description": "(Az acılı) Acı tatlı tavuk, közlenmiş biber, mantar, marul, mozzarella peyniri, cheddar peyniri, burrito sos, sarı soğan turşusu. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925357.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Klasik Taco (3 Adet)",
+      "price": "350 TL",
+      "description": "Dana eti, Meksika fasulyesi, Çubuk turşusu, yeşil soğan, salsa roja, sarı soğan turşusu. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925364.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Klasik Taco (2 Adet)",
+      "price": "260 TL",
+      "description": "Dana eti, Meksika fasulyesi, Çubuk turşusu, yeşil soğan, salsa roja, sarı soğan turşusu. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925363.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Bean Rice Burrito",
+      "price": "310 TL",
+      "description": "(Acılı) Kırmızı fasulye, Meksika pirinci, salsa roja, avokado, kişniş, cheddar peyniri, mozzarella peyniri, jalapeno turşusu, soğan turşusu, Meksika biberi, köz domates, acı tatlı tavuk, kıvırcık marul. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nachos",
+      "price": "290 TL",
+      "description": "(Az acılı) Yeşil biber, taze beyaz peynir, cheddar peyniri, domates, kişniş, jalapeno turşusu, ekşi krema, guacamole sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925377.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Bean Rice Burrito",
+      "price": "340 TL",
+      "description": "(Acılı) Kırmızı fasulye, Meksika pirinci, salsa roja, avokado, kişniş, cheddar peyniri, mozzarella peyniri, jalapeno turşusu, sarı soğan turşusu, Meksika biberi, köz domates, 8 saat pişirilmiş tiftiklenmiş dana eti, kıvırcık marul, coleslaw",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925353.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bean Rice Burrito",
+      "price": "270 TL",
+      "description": "(Acılı) Kırmızı fasulye, Meksika pirinci, salsa roja, avokado, kişniş, soğan turşusu, cheddar peyniri, mozzarella peyniri, jalapeno turşusu, kıvırcık marul, Meksika biberi, közlenmiş domates, yeşil soğan. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rib-Eye Burrito",
+      "price": "370 TL",
+      "description": "(Acılı) Antrikot, mantar, cheddar peyniri, teneke tulum, mozzarella peyniri, Meksika fasulyesi, kişniş, sarı soğan turşusu, jus sos, burrito sos, chili biber, jalapeno biberi, köz domates, roka, coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Dilli Burrito",
+      "price": "300 TL",
+      "description": "(Acılı) Ekşili dana dil, eski kaşar peyniri, taco baharatlı ızgara patates, köz domates, biber, Meksika fasulyesi, kıvırcık marul, burrito sos, sarı soğan turşusu. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925351.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Bean Rice Burrito",
+      "price": "340 TL",
+      "description": "(Acılı) Kırmızı fasulye, Meksika pirinci, salsa roja, avokado, kişniş, cheddar peyniri, mozzarella peyniri, jalapeno turşusu, sarı soğan turşusu, Meksika biberi, köz domates, 8 saat pişirilmiş tiftiklenmiş dana eti, kıvırcık marul, coleslaw",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925353.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel Burrito",
+      "price": "260 TL",
+      "description": "Falafel, domates, sumak, maydanoz, soğan, turşu, roka, eski kaşar peyniri, tahin sos, burrito sos, coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925354.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fava & Sucuk Burrito",
+      "price": "270 TL",
+      "description": "Fesleğenli fava, gravyerli ızgara sucuk, turşu, soğan, roka, ızgara patates, burrito sos, coleslaw",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Bean Rice Burrito",
+      "price": "310 TL",
+      "description": "(Acılı) Kırmızı fasulye, Meksika pirinci, salsa roja, avokado, kişniş, cheddar peyniri, mozzarella peyniri, jalapeno turşusu, soğan turşusu, Meksika biberi, köz domates, acı tatlı tavuk, kıvırcık marul. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Burrito",
+      "price": "270 TL",
+      "description": "(Az acılı) Acı tatlı tavuk, közlenmiş biber, mantar, marul, mozzarella peyniri, cheddar peyniri, burrito sos, sarı soğan turşusu. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925357.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zencefilli Levrek Burrito",
+      "price": "310 TL",
+      "description": "Rezene, zencefil, marine levrek, sarımsak, roka, mozzarella peyniri, ızgara patates, burrito sos, sarı soğan turşusu. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925358.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Klasik Burrito",
+      "price": "290 TL",
+      "description": "(Ön pişirme üründür.) Dana kıyma, Meksika fasulyesi, pul sarımsak, közlenmiş domates, mozzarella peyniri, roka, burrito sos, sarı soğan turşusu. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37307198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Habanero & Tavuk Burrito",
+      "price": "280 TL",
+      "description": "Habanerolu tavuk, taze biberiye, köz biber, kapya biber, acı mayonez, jalapeno biberi, çıtır lahana, mozzarella peyniri, marul, soğan marmelatı. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44539217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anasonlu Kuzu Ciğeri (2 Adet)",
+      "price": "250 TL",
+      "description": "Kuzu ciğeri, sumak, kimyon, közlenmiş kıl biber, roka, soğan marmelatı, salsa roja, sarı soğan turşusu, dereotu. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925359.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Midye Taco (2 adet)",
+      "price": "250 TL",
+      "description": "Çıtır midye, salsa roja, roka, sarı soğan turşusu, baharatlı ekşi krema, yeşil soğan, kıl biber, dereotu, limon. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925360.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Midye Taco (3 adet)",
+      "price": "340 TL",
+      "description": "Çıtır midye, salsa roja, roka, sarı soğan turşusu, baharatlı ekşi krema, yeşil soğan, kıl biber, dereotu, limon. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925361.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anasonlu Kuzu Ciğeri (3 Adet)",
+      "price": "340 TL",
+      "description": "Kuzu ciğeri, sumak, kimyon, közlenmiş kıl biber, soğan marmelatı, salsa roja, sarı soğan turşusu, dereotu. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925362.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Klasik Taco (2 Adet)",
+      "price": "260 TL",
+      "description": "Dana eti, Meksika fasulyesi, Çubuk turşusu, yeşil soğan, salsa roja, sarı soğan turşusu. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925363.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Klasik Taco (3 Adet)",
+      "price": "350 TL",
+      "description": "Dana eti, Meksika fasulyesi, Çubuk turşusu, yeşil soğan, salsa roja, sarı soğan turşusu. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925364.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hindi Gravy Taco (2 Adet)",
+      "price": "245 TL",
+      "description": "Ağır pişirilmiş hindi eti, biber, közlenmiş domates, yeşil soğan, roka, taze kişniş, gravy. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925365.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hindi Gravy Taco (3 Adet)",
+      "price": "335 TL",
+      "description": "Ağır pişirilmiş hindi eti, biber, közlenmiş domates, yeşil soğan, roka, taze kişniş, gravy. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925366.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Taco (2 Adet)",
+      "price": "310 TL",
+      "description": "Acı tatlı karides, zencefil çubukları, marul, yeşil soğan, guacamole, limon, taze kişniş. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925367.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Taco (3 Adet)",
+      "price": "400 TL",
+      "description": "Acı tatlı karides, zencefil çubukları, marul, yeşil soğan, guacamole, limon, taze kişniş. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925368.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kokoreç Taco (2 Adet)",
+      "price": "270 TL",
+      "description": "İzmir kesim kokoreç, kimyon, kekik, biber, roka, bebek turp, salsa roja. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925369.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kokoreç Taco (3 Adet)",
+      "price": "360 TL",
+      "description": "İzmir kesim kokoreç, kimyon, kekik, biber, roka, bebek turp, salsa roja. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Taco (2 Adet)",
+      "price": "230 TL",
+      "description": "Kemiksiz kalça, közlenmiş patlıcan, İzmir tulum peyniri, yaprak maydanoz, salsa roja. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925371.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Taco (3 Adet)",
+      "price": "320 TL",
+      "description": "Kemiksiz kalça, közlenmiş patlıcan, İzmir tulum peyniri, yaprak maydanoz, salsa roja. Patates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Kaşık Patates",
+      "price": "140 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925382.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chili con Carne Kaşık Patates",
+      "price": "170 TL",
+      "description": "Acılı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925383.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüflü Taze Naneli Kaşık Patates",
+      "price": "155 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925384.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gravy Parça Hindili Kaşık Patates",
+      "price": "160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925385.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salsa & Aioli Soslu Patatas Bravas",
+      "price": "150 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925386.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taco Baharatlı Kaşık Patates",
+      "price": "145 TL",
+      "description": "Tek kişilik",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kıtır Bacon Sucuk & Kaşık Patates",
+      "price": "175 TL",
+      "description": "Sucuk, patates kızartması"
+    },
+    {
+      "name": "Kişnişli Habanero Tavuk & Kaşık Patates",
+      "price": "165 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Nachos",
+      "price": "290 TL",
+      "description": "(Az acılı) Yeşil biber, taze beyaz peynir, cheddar peyniri, domates, kişniş, jalapeno turşusu, ekşi krema, guacamole sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925377.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nachos de Carne",
+      "price": "300 TL",
+      "description": "(Acılı) Chili con carne, yeşil soğan, ekşi krema, jalapeno turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı BBQ Tavuk Nachos",
+      "price": "290 TL",
+      "description": "Ev yapımı nachos kıtırı üzerine; acı bbq soslu tavuk, cheddar peyniri, ekşi krema, taze kişniş, mısır. Limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51880849.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata",
+      "price": "260 TL",
+      "description": "Roka, marul, İzmir tulum peyniri, Meksika fasulyesi, domates, ızgara mısır, biber, Meksika biberi, sarı soğan tuşusu, kişniş, mozzarella peyniri, avokado, nachos kırıntıları, kişniş lime dressing",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Salata & Rib-Eye",
+      "price": "310 TL",
+      "description": "Antrikot, roka, marul, İzmir tulum peyniri, Meksika fasulyesi , domates, ızgara mısır, biber, Meksika biberi, sarı soğan tuşusu, kişniş, mozzarella peyniri, avakado, nachos kırıntıları, kişniş lime dressing",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Salata & Karides",
+      "price": "330 TL",
+      "description": "Karides, roka, marul, İzmir tulum peyniri, Meksika fasulyesi, domates, ızgara mısır, biber, Meksika biberi, sarı soğan turşusu, kişniş, mozzarella peyniri, avokado, nachos kırıntıları, kişniş lime dressing",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35586118.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata & Tavuk",
+      "price": "285 TL",
+      "description": "Tavuk, roka, marul, İzmir tulum peyniri, Meksika fasulyesi, domates, ızgara mısır, biber, Meksika biberi, sarı soğan tuşusu, kişniş, mozzarella peyniri, avokado, nachos kırıntıları, kişniş lime dressing"
+    },
+    {
+      "name": "Etli Quesadilla",
+      "price": "310 TL",
+      "description": "(Az acılı) Dana eti, İzmir tulum peyniri, mozzarella peyniri, biber, domates, mantar, taze nane. Coleslaw, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Quesadilla",
+      "price": "250 TL",
+      "description": "(Az acılı) İzmir tulum peyniri, mozzarella peyniri, biber, domates, mantar, taze nane, sarı soğan turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925374.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Quesadilla",
+      "price": "290 TL",
+      "description": "(Az acılı) Tavuk eti, İzmir tulum peyniri, mozzarella peyniri , biber, domates, mantar, taze nane. Coleslaw, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925375.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enchilada",
+      "price": "260 TL",
+      "description": "(Acılı) Tavuk, biber, İzmir tulum peyniri, mozzarella peyniri, salsa roja. Acı biber reçeli ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taquito",
+      "price": "190 TL",
+      "description": "(Az acılı) Mantar, biber, taze peynir, salsa roja. Acı biber sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel",
+      "price": "260 TL",
+      "description": "Nohut, baharatlar ve yeşilliklerle hazırlanan, kızartılarak servis edilen bir vejetaryen köftedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925381.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coleslaw",
+      "price": "75 TL",
+      "description": "Karışık sebzeler, mayonez ve sirke ile yapılan bir salata çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taco Kabuğu (1 Adet)",
+      "price": "30 TL",
+      "description": "1 adet kıtır taco kabuğu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925390.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Pirinci",
+      "price": "45 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "ElleEsse Trüf Yağı",
+      "price": "45 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Dilim Avokado",
+      "price": "85 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Churros",
+      "price": "170 TL",
+      "description": "Acı çilek reçeli, çikolata sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24490065.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925396.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925397.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Efsane Gazoz Şekersiz (25 cl.)",
+      "price": "47 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Capri-Sun Safari (20 cl.)",
+      "price": "37 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925404.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "52 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (33 cl.)",
+      "price": "52 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "37 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925407.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu Suyu (33 cl.)",
+      "price": "52 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (33 cl.)",
+      "price": "32 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925410.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Biber Sosu",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Acı Tatlı Sos",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Ballı Mantar Ketçabı",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İsli Chipotle Sos",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Krema Sos",
+      "price": "26 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Guacamole",
+      "price": "31 TL",
+      "description": "Avokadonun ezilip limon suyu, soğan, biber, domates ve baharatlarla karıştırılarak hazırlandığı bir sostur.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İsli Koruk BBQ Sos",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Meksika Reçeli",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Habanero Sos",
+      "price": "26 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44574256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bravas Aioli Sos",
+      "price": "21 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52916517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Sos",
+      "price": "26 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52920914.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chimichurri",
+      "price": "26 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5925424.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

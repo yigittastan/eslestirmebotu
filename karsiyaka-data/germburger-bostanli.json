@@ -1,0 +1,264 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/xpq8/germ-burger-bostanli",
+  "google": "",
+  "products": [
+    {
+      "name": "Çıtır Tavuk Burger",
+      "price": "179,91 TL199,90 TL",
+      "description": "Çıtır tavuk burger, kıvırcık marul, domates, turşu, cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemiksiz Çıtır Tavuk (180 gr.)",
+      "price": "89,10 TL99 TL",
+      "description": "Çıtır tavuk, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Steak Burger",
+      "price": "287,91 TL319,90 TL",
+      "description": "120 gr. steak burger köftesi, kıvırcık marul, turşu, çift cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Mix",
+      "price": "170,10 TL189 TL",
+      "description": "Patates kızartması, 4 adet soğan halkası, 3 adet kemiksiz çıtır tavuk, 2 adet mozzarella sticks",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570205.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köln Steak Burger",
+      "price": "332,91 TL369,90 TL",
+      "description": "140 gr. steak burger köftesi, kıvırcık marul, domates, turşu, cheddar peyniri, dana füme bacon. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germ Kanka Menü",
+      "price": "377,91 TL419,90 TL",
+      "description": "2 Adet Çıtır Tavuk Burger + Patates Kızartması + 2 Adet Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Junior Steak Burger",
+      "price": "170,91 TL189,90 TL",
+      "description": "50 gr. steak burger köftesi, kıvırcık marul, domates, turşu, cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Burger",
+      "price": "179,91 TL199,90 TL",
+      "description": "Çıtır tavuk burger, kıvırcık marul, domates, turşu, cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Steak Burger",
+      "price": "287,91 TL319,90 TL",
+      "description": "120 gr. steak burger köftesi, kıvırcık marul, turşu, çift cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Steak Burger",
+      "price": "386,91 TL429,90 TL",
+      "description": "2 adet 100 gr. steak burger köftesi, kıvırcık marul, domates, turşu, çift cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570624.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayseri Steak Burger",
+      "price": "314,91 TL349,90 TL",
+      "description": "120 gr. steak burger köftesi, kıvırcık marul, domates, turşu, mor soğan, çemensiz kavurma. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kids Burger",
+      "price": "260,91 TL289,90 TL",
+      "description": "2 adet 50 gr. steak burger köftesi, kıvırcık marul, domates, turşu, cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Classic Steak Burger",
+      "price": "260,91 TL289,90 TL",
+      "description": "100 gr. steak burger köftesi, kıvırcık marul, domates, turşu, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köln Steak Burger",
+      "price": "332,91 TL369,90 TL",
+      "description": "140 gr. steak burger köftesi, kıvırcık marul, domates, turşu, cheddar peyniri, dana füme bacon. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şili Steak Burger",
+      "price": "296,91 TL329,90 TL",
+      "description": "120 gr. steak burger köftesi, kıvırcık marul, domates, turşu, cheddar peyniri, jalapeno biberi. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570809.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dallas Steak Burger",
+      "price": "332,91 TL369,90 TL",
+      "description": "140 gr. dana antrikot eti, kıvırcık marul, domates, turşu, karamelize soğan, cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66246605.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germ Kafadar Menü",
+      "price": "575,91 TL639,90 TL",
+      "description": "Köln Steak Burger + Klasik Steak Burger + Patates Kızartması + 2 Adet Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germ Kanka Menü",
+      "price": "377,91 TL419,90 TL",
+      "description": "2 Adet Çıtır Tavuk Burger + Patates Kızartması + 2 Adet Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germ Aile Menü",
+      "price": "1.079,91 TL1.199,90 TL",
+      "description": "2 Adet Classic Steak Burger + 2 Adet Cheese Steak Burger + Patates Kızartması + Soğan Halkası (8 Adet) + 4 Adet Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52430085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Mix",
+      "price": "170,10 TL189 TL",
+      "description": "Patates kızartması, 4 adet soğan halkası, 3 adet kemiksiz çıtır tavuk, 2 adet mozzarella sticks",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570205.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (8 Adet)",
+      "price": "62,10 TL69 TL",
+      "description": "Çıtır soğan halkaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemiksiz Çıtır Tavuk (180 gr.)",
+      "price": "89,10 TL99 TL",
+      "description": "Çıtır tavuk, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynir Sticks (6 Adet)",
+      "price": "89,10 TL99 TL",
+      "description": "Çıtır peynir, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "71,10 TL79 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570385.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Usulü Cup (100 ml.)",
+      "price": "44,91 TL49,90 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66315075.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Nogger Sandwich (60 ml.)",
+      "price": "44,91 TL49,90 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66315077.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Mini Cookie (58 ml.)",
+      "price": "44,91 TL49,90 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66315080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Mini Badem (58 ml.)",
+      "price": "44,91 TL49,90 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66315083.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d’Or Meyve Rüyası (110 ml.)",
+      "price": "44,91 TL49,90 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66315084.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d’Or Çikolata Rüyası (110 ml.)",
+      "price": "44,91 TL49,90 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66315085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (33 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "27 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570183.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "13,50 TL15 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570244.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570255.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Sos",
+      "price": "6,75 TL7,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "4,50 TL5 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570269.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "4,50 TL5 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570283.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "6,75 TL7,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49570309.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49573410.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

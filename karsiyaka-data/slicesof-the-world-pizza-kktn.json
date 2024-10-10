@@ -1,0 +1,979 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/kktn/slices-of-the-world-pizza-kktn",
+  "google": "",
+  "products": [
+    {
+      "name": "Fried Sticks Menü",
+      "price": "300 TL",
+      "description": "Standart Boy Chicken Fingers + 4 Adet Mozzarella Sticks + Patates Kızartması (Standart Boy)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27023465.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fried Menü",
+      "price": "300 TL",
+      "description": "10 Adet Corn Dog + Dev Boy Chicken Fingers + 10 Adet Soğan Halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27023513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slices 35 cm. - Büyük Boy Menü 2",
+      "price": "530 TL",
+      "description": "Seçeceğiniz Slices Büyük Boy Pizza + Patates Kızartması (Dev Boy) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27586431.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slices 35 cm. - Büyük Boy Menü 3",
+      "price": "680 TL",
+      "description": "Seçeceğiniz Slices Büyük Boy Pizza + Patates Kızartması (Dev Boy) + Chicken Fingers (6 Adet) + Soğan Halkası (6 Adet) + Corn Dog (6 Adet) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27586541.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slices 35 cm. - Büyük Boy Menü 1",
+      "price": "480 TL",
+      "description": "Seçeceğiniz Slices Büyük Boy Pizza + Patates Kızartması (Standart Boy) + İçecek (30 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27655105.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slices 25 cm - Küçük Boy Menü 2",
+      "price": "378 TL",
+      "description": "Seçeceğiniz Slices Küçük Boy Pizza + Patates Kızartması (Büyük Boy) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30102556.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slices 25 cm - Küçük Boy Menü 3",
+      "price": "528 TL",
+      "description": "Seçeceğiniz Küçük Boy Pizza + Patates Kızartması (Büyük Boy) + Chicken Fingers (6 Adet) + Soğan Halkası (6 Adet) + Corn Dog (6 Adet) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30102558.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slices (60 cm.) (Dev Boy) Menü 3",
+      "price": "1.177 TL",
+      "description": "Seçeceğiniz Slices Dev Boy Pizza + Patates Kızartması (Büyük Boy) + Chicken fFingers (6 Adet) + Soğan Halkası (6 Adet) + Ahtapot Sosis (6 Adet) + İçecek (1 L.)"
+    },
+    {
+      "name": "Slices Pizza (30 cm.) (Orta Boy) Menü 2",
+      "price": "465 TL",
+      "description": "Seçeceğiniz Slices Orta Boy Pizza + Churros Patates Kızartması (Büyük Boy) + İçecek (1 L.)"
+    },
+    {
+      "name": "Slices Pizza (30 cm.) (Orta Boy) Menü 3",
+      "price": "615 TL",
+      "description": "Seçeceğiniz Orta Boy Pizza + Churros Patates Kızartması (Dev Boy) + Chicken Fingers (6 Adet) + Soğan Halkası (6 Adet) + Corn Dog (6 Adet) + İçecek (1 L.)"
+    },
+    {
+      "name": "Slices (25 cm.) (Küçük Boy) Menü 1",
+      "price": "328 TL",
+      "description": "Seçeceğiniz Slices Küçük Boy Pizza + Churros Patates Kızartması (Orta Boy) + İçecek (30 cl.)"
+    },
+    {
+      "name": "Slices (60 cm.) (Dev Boy) Menü 2",
+      "price": "1.027 TL",
+      "description": "Seçeceğiniz Slices Dev Boy Pizza + Churros Patates Kızartması (Büyük Boy) + İçecek (1 L.)"
+    },
+    {
+      "name": "America Pizza (25 cm. - Küçük Boy)",
+      "price": "252 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122442.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brazil Pizza (25 cm. - Küçük Boy)",
+      "price": "239 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, yeşil biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122443.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgaria Pizza (25 cm. - Küçük Boy) (Vejetaryen)",
+      "price": "178 TL",
+      "description": "Slices sos, mozzarella peyniri, ıspanak, misket peynir, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122444.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cuba Pizza (25 cm. - Küçük Boy)",
+      "price": "239 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "England Pizza (25 cm. - Küçük Boy)",
+      "price": "216 TL",
+      "description": "Slices sos, mozzarella peyniri, sosis, yeşil biber, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122447.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germany Pizza (25 cm. - Küçük Boy)",
+      "price": "196 TL",
+      "description": "Slices sos, mozzarella peyniri, salam, kırmızıbiber, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Italy Pizza (25 cm. - Küçük Boy) (Vejetaryen)",
+      "price": "229 TL",
+      "description": "Slices sos, mozzarella peyniri, misket peynir, cherry domates, pesto sos, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122449.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Netherlands Pizza (25 cm. - Küçük Boy) (Vejetaryen)",
+      "price": "229 TL",
+      "description": "Slices sos, mozzarella peyniri, mantar, istiridye mantarı, trüf mantarı yağı, parmesan, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122450.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spain Pizza (25 cm. - Küçük Boy) (Vejetaryen)",
+      "price": "178 TL",
+      "description": "Slices sos, mozzarella peyniri, kırmızıbiber, mantar, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122451.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Pizza (25 cm. - Küçük Boy)",
+      "price": "282 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, misket peynir, cherry domates, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbados Pizza (25 cm. - Küçük Boy)",
+      "price": "370 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, Afyon sucuğu, cheddar peyniri, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Qatar Pizza (25 cm. - Küçük Boy)",
+      "price": "347 TL",
+      "description": "Slices sos, mozzarella peyniri, kavurma, cherry domates, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122469.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Mix Pizza (25 cm - Küçük Boy)",
+      "price": "274 TL",
+      "description": "Slices sos, mozzarella peyniri, küp Afyon sucuğu, cheddar, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27984745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Romania Pizza (25 cm. - Küçük Boy)",
+      "price": "339 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, cheddar peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27985966.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Japan Pizza (25 cm. - Küçük Boy)",
+      "price": "265 TL",
+      "description": "Slices sos, mozzarella peyniri, ton balığı, yeşil biber, mısır, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27992046.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "China Pizza (25 cm. - Küçük Boy)",
+      "price": "252 TL",
+      "description": "Slices sos, mozzarella peyniri, hindi füme, capari, cherry domates, trüf mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27996430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Georgia Pizza (25 cm - Küçük Boy)",
+      "price": "370 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, kavurma, pastırma. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27996436.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Macedonia Pizza (25 cm - Küçük Boy)",
+      "price": "370 TL",
+      "description": "Slices sos, mozzarella peyniri, pastırma, Afyon sucuğu, kırmızıbiber, soğan. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28005121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Australia Pizza (25 cm - Küçük Boy)",
+      "price": "339 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, ananas, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28005154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peru Pizza (25 cm.) (Küçük Boy)",
+      "price": "242 TL",
+      "description": "Slices sos, mozzarella peyniri, çıtır tavuk, mantar, BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28031608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uruguay Pizza (25 cm - Küçük Boy)",
+      "price": "229 TL",
+      "description": "Slices sos, mozzarella peyniri, jülyen sosis, cheddar, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Canada Pizza (25 cm - Küçük Boy)",
+      "price": "252 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, cheddar, mantar, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074232.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexico Pizza (25 cm. - Küçük Boy)",
+      "price": "274 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon dana küp sucuk, küp jalapeno biberi, küp kırmızıbiber, peri peri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "France Pizza (25 cm - Küçük Boy) (Vejetaryen)",
+      "price": "229 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar, misket peynir, dil peyniri ve küp peynir ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Greece Pizza (25 cm. - Küçük Boy) (Vejetaryen)",
+      "price": "200 TL",
+      "description": "Özel Slices sos, mozzarella peyniri, cheddar, dil peyniri, cherry domates, kapari, kekik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28095984.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolivia Pizza (25 cm. - Küçük Boy)",
+      "price": "242 TL",
+      "description": "Slices sos, mozzarella peyniri, çıtır tavuk, taze soğan, sweet chili sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37595788.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portugal Pizza (25 cm.) (Küçük Boy)",
+      "price": "239 TL",
+      "description": "Slices sos, mozzarella peyniri, enginar kalbi, cherry domates, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45477538.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Venezuela Pizza (25 cm.) (Küçük Boy)",
+      "price": "347 TL",
+      "description": "Slices sos, mozzarella peyniri, chorizo, mantar ve taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518032.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Monaco Pizza (25 cm.) (Küçük)",
+      "price": "239 TL",
+      "description": "Slices sos, mozzarella peyniri, danish blue, cheddar sos, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518033.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Argentina Pizza (25 cm.) (Küçük)",
+      "price": "347 TL",
+      "description": "Slices sos, mozzarella peyniri, roast beef, istiridye mantarı, parmesan peyniri, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65433443.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norway Pizza (Küçük Boy)",
+      "price": "321 TL",
+      "description": "Slices sos, mozzarella peyniri, somon, limon, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65437450.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Egypt Pizza (25 cm.) (Küçük Boy)",
+      "price": "347 TL",
+      "description": "Slices sos, mozzarella peyniri, kokoreç, kimyon, kırmızı toz biber. Jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65438363.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "America Pizza (30 cm. - Orta Boy)",
+      "price": "358 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brazil Pizza (30 cm. - Orta Boy)",
+      "price": "341 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, yeşil biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgaria Pizza (30 cm. - Orta Boy) (Vejetaryen)",
+      "price": "265 TL",
+      "description": "Slices sos, mozzarella peyniri, ıspanak, misket peynir, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cuba Pizza (30 cm. - Orta Boy)",
+      "price": "341 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122480.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "England Pizza (30 cm. - Orta Boy)",
+      "price": "308 TL",
+      "description": "Slices sos, mozzarella peyniri, sosis, yeşil biber, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germany Pizza (30 cm. - Orta Boy)",
+      "price": "308 TL",
+      "description": "Slices sos, mozzarella peyniri, salam, kırmızıbiber, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Italy Pizza (30 cm. - Orta Boy) (Vejetaryen)",
+      "price": "329 TL",
+      "description": "Slices sos, mozzarella peyniri, misket peynir, cherry domates, pesto sos, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Netherlands Pizza (30 cm. - Orta Boy) (Vejetaryen)",
+      "price": "329 TL",
+      "description": "Slices sos, mozzarella peyniri, mantar, istiridye mantarı, trüf mantarı yağı, parmesan, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122484.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spain Pizza (30 cm. - Orta Boy) (Vejetaryen)",
+      "price": "265 TL",
+      "description": "Slices sos, mozzarella peyniri, kırmızıbiber, mantar, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Australia Pizza (30 cm. - Orta Boy)",
+      "price": "517 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, ananas, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbados Pizza (30 cm. - Orta Boy)",
+      "price": "550 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, Afyon sucuğu, cheddar peyniri, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Macedonia Pizza (30 cm. - Orta Boy)",
+      "price": "550 TL",
+      "description": "Slices sos, mozzarella peyniri, pastırma, Afyon sucuğu, kırmızıbiber, soğan. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Qatar Pizza (30 cm. - Orta Boy)",
+      "price": "529 TL",
+      "description": "Slices sos, mozzarella peyniri, kavurma, cherry domates, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peru Pizza (30 cm. - Orta Boy)",
+      "price": "344 TL",
+      "description": "Slices sos, mozzarella peyniri, çıtır tavuk, mantar, BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27984754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Japan Pizza (30 cm. - Orta Boy)",
+      "price": "367 TL",
+      "description": "Slices sos, mozzarella peyniri, ton balığı, yeşil biber, mısır, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27984764.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Pizza (30 cm. - Orta Boy)",
+      "price": "409 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, misket peynir, cherry domates, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27985928.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Georgia Pizza (30 cm. - Orta Boy)",
+      "price": "550 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, kavurma, pastırma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27992094.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Romania Pizza (30 cm. - Orta Boy)",
+      "price": "517 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, cheddar peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27996441.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "China Pizza (30 cm. - Orta Boy)",
+      "price": "358 TL",
+      "description": "Slices sos, mozzarella peyniri, hindi füme, capari, cherry domates, trüf mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27996442.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Mix Pizza (30 cm. - Orta Boy)",
+      "price": "384 TL",
+      "description": "Slices sos, mozzarella peyniri, küp Afyon sucuğu, cheddar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28005168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexico Pizza (30 cm.) (Orta Boy)",
+      "price": "384 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon dana küp sucuk, küp jalapeno biberi, küp kırmızıbiber, peri peri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074280.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uruguay Pizza (30 cm. - Orta Boy)",
+      "price": "329 TL",
+      "description": "Slices sos, mozzarella peyniri, jülyen sosis, cheddar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Canada Pizza (30 cm. - Orta Boy)",
+      "price": "358 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, cheddar peyniri, mantar ve siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28074387.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "France Pizza (30 cm. - Orta Boy) (Vejetaryen)",
+      "price": "329 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar peyniri, misket peynir, dil peyniri, küp peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28118509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Greece Pizza (30 cm. - Orta Boy) (Vejetaryen)",
+      "price": "284 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar peyniri, dil peyniri, cherry domates, capari, kekik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28118563.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portugal Pizza (30cm. - Orta Boy) (Vejetaryen)",
+      "price": "341 TL",
+      "description": "Slices sos, mozzarella peyniri, enginar kalbi, cherry domates, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45468607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Venezuela Pizza (30 cm.) (Orta Boy)",
+      "price": "349 TL",
+      "description": "Slices sos, mozzarella peyniri, chorizo, mantar, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Monaco Pizza (30 cm.) (Orta Boy)",
+      "price": "341 TL",
+      "description": "Slices sos, mozzarella peyniri, danish blue, cheddar sos, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518061.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Argentina Pizza (30 cm - Orta Boy)",
+      "price": "529 TL",
+      "description": "Slices sos, mozzarella peyniri, roast beef, istiridye mantarı, parmesan, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65433976.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Egypt Pizza (30 cm.) (Orta Boy)",
+      "price": "529 TL",
+      "description": "Slices sos, mozzarella peyniri, kokoreç, kimyon, kırmızı toz biber. Jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65435021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norway Pizza (Orta Boy)",
+      "price": "490 TL",
+      "description": "Slices sos, mozzarella peyniri, somon, limon, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65438028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brazil Pizza (35 cm. - Büyük Boy)",
+      "price": "439 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, yeşil biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583917.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgaria Pizza (35 cm.) (Büyük Boy) (Vejetaryen)",
+      "price": "300 TL",
+      "description": "Slices sos, mozzarella peyniri, ıspanak, misket peynir, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germany Pizza (35 cm. - Büyük Boy)",
+      "price": "395 TL",
+      "description": "Slices sos, mozzarella peyniri, salam, kırmızıbiber, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cuba Pizza (35 cm. - Büyük Boy)",
+      "price": "439 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583977.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Georgia Pizza (35 cm. - Büyük Boy)",
+      "price": "695 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, kavurma, pastırma. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583982.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Canada Pizza (35 cm. - Büyük Boy)",
+      "price": "475 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, cheddar peyniri, mantar, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Pizza (35 cm. - Büyük Boy)",
+      "price": "550 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, misket peynir, cherry domates, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27583989.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexico Pizza (35 cm. - Büyük Boy)",
+      "price": "518 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon dana küp sucuk, küp jalapeno biberi, küp kırmızıbiber, peri peri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Netherlands Pizza (35 cm. - Büyük Boy) (Vejetaryen)",
+      "price": "417 TL",
+      "description": "Slices sos, mozzarella peyniri, mantar, istiridye mantarı, trüf mantarı yağı, parmesan, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584009.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "China Pizza (35 cm. - Büyük Boy)",
+      "price": "475 TL",
+      "description": "Slices sos, mozzarella peyniri, hindi füme, kapari, cherry domates, trüf mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584014.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Macedonia Pizza (35 cm. - Büyük Boy)",
+      "price": "695 TL",
+      "description": "Slices sos, mozzarella peyniri, pastırma, Afyon sucuğu, kırmızıbiber, soğan. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "France Pizza (35 cm. - Büyük Boy) (Vejetaryen)",
+      "price": "417 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar peyniri, misket peynir, dil peyniri, küp peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbados Pizza (35 cm. - Büyük Boy)",
+      "price": "695 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, Afyon sucuğu, cheddar peyniri, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Australia Pizza (35 cm. - Büyük Boy)",
+      "price": "640 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, ananas, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584032.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uruguay Pizza (35 cm. - Büyük Boy)",
+      "price": "417 TL",
+      "description": "Slices sos, mozzarella peyniri, jülyen sosis, cheddar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584047.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "America Pizza (35 cm. - Büyük Boy)",
+      "price": "475 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584051.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "England Pizza (35 cm. - Büyük Boy)",
+      "price": "395 TL",
+      "description": "Slices sos, mozzarella peyniri, sosis, yeşil biber, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Japan Pizza (35 cm. - Büyük Boy)",
+      "price": "488 TL",
+      "description": "Slices sos, mozzarella peyniri, ton balığı, yeşil biber, mısır, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584066.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Mix Pizza (35 cm. - Büyük Boy)",
+      "price": "518 TL",
+      "description": "Slices sos, mozzarella peyniri, küp Afyon sucuğu, cheddar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584074.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Italy Pizza (35 cm. - Büyük Boy) (Vejetaryen)",
+      "price": "417 TL",
+      "description": "Slices sos, mozzarella peyniri, misket peyniri, cherry domates, pesto sos, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584077.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spain Pizza (35 cm. - Büyük Boy) (Vejetaryen)",
+      "price": "330 TL",
+      "description": "Slices sos, mozzarella peyniri, kırmızıbiber, mantar, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peru Pizza (35 cm. - Büyük Boy)",
+      "price": "450 TL",
+      "description": "Slices sos, mozzarella peyniri, çıtır tavuk, mantar, BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Romania Pizza (35 cm. - Büyük Boy)",
+      "price": "640 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, cheddar peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584094.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Greece Pizza (35 cm.) (Büyük Boy) (Vejetaryen)",
+      "price": "361 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar, dil peyniri, cherry domates, capari, kekik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584101.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Qatar Pizza (35 cm. - Büyük Boy)",
+      "price": "651 TL",
+      "description": "Özel Slices sos, mozzarella peyniri, kavurma, cherry domates, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27584114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolivia Pizza (35 cm.) (Büyük Boy)",
+      "price": "450 TL",
+      "description": "Slices sos, mozzarella peyniri, çıtır tavuk, taze soğan, sweet chili sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37512827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norway Pizza (35 cm. - Büyük Boy)",
+      "price": "592 TL",
+      "description": "Slices sos, mozzarella peyniri, somon, limon, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37595825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portugal Pizza (35 cm.) (Büyük)",
+      "price": "439 TL",
+      "description": "Slices sos, mozzarella peyniri, enginar kalbi, cherry domates, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45478179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Monaco Pizza (35 cm.) (Büyük Boy)",
+      "price": "439 TL",
+      "description": "Slices sos, mozzarella peyniri, danish blue, cheddar sos, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Venezuela Pizza (35 cm.) (Büyük Boy)",
+      "price": "651 TL",
+      "description": "Slices sos, mozzarella peyniri, chorizo, mantar, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norway Pizza (35 cm - Büyük Boy)",
+      "price": "592 TL",
+      "description": "Slices sos, mozzarella peyniri, somon, limon, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65433983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Egypt Pizza (35 cm.) (Büyük Boy)",
+      "price": "651 TL",
+      "description": "Slices sos, mozzarella peyniri, kokoreç, kimyon, kırmızı toz biber, jalapeno biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65436050.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Argentina Pizza (35 cm.) (Büyük Boy)",
+      "price": "651 TL",
+      "description": "Slices sos, mozzarella peyniri, roast beef, istiridye mantarı, parmesan peyniri, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65438295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Georgia Pizza (60 cm. - Dev Boy)",
+      "price": "1.917 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, kavurma, pastırma. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32801333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Mix Pizza (60 cm. - Dev Boy)",
+      "price": "1.290 TL",
+      "description": "Slices sos, mozzarella peyniri, küp Afyon sucuğu, cheddar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32802245.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peru Pizza (60 cm. - Dev Boy)",
+      "price": "1.111 TL",
+      "description": "Slices sos, mozzarella peyniri, çıtır tavuk, mantar, BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32802251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cuba Pizza (60 cm. - Dev Boy)",
+      "price": "1.099 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32802258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Romania Pizza (60 cm. - Dev Boy)",
+      "price": "1.844 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, cheddar peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32810114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "England Pizza (60 cm. - Dev Boy)",
+      "price": "965 TL",
+      "description": "Slices sos, mozzarella peyniri, sosis, yeşil biber, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32828684.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Germany Pizza (60 cm. - Dev Boy)",
+      "price": "965 TL",
+      "description": "Slices sos, mozzarella peyniri, salam, kırmızıbiber, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32828698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "China Pizza (60 cm. - Dev Boy)",
+      "price": "1.194 TL",
+      "description": "Slices sos, mozzarella peyniri, hindi füme, capari, cherry domates, trüf mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32828704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Canada Pizza (60 cm. - Dev Boy)",
+      "price": "1.194 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, cheddar peyniri, mantar, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32828708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Netherlands Pizza (60 cm. - Dev Boy) (Vejetaryen)",
+      "price": "1.011 TL",
+      "description": "Slices sos, mozzarella peyniri, mantar, istiridye mantarı, trüf mantarı yağı, parmesan, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32828712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbados Pizza (60 cm. - Dev Boy)",
+      "price": "1.917 TL",
+      "description": "Slices sos, mozzarella peyniri, füma kaburga, Afyon sucuğu, cheddar peyniri, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32914222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Macedonia Pizza (60cm. - Dev Boy)",
+      "price": "1.917 TL",
+      "description": "Slices sos, mozzarella peyniri, pastırma, Afyon sucuğu, kırmızıbiber, soğan. Kiraz biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32919518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turkey Pizza (60 cm. - Dev Boy)",
+      "price": "1.318 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon sucuğu, misket peynir, cherry domates. Kiraz biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32919554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgaria Pizza (60cm. - Dev Boy) (Vejetaryen)",
+      "price": "827 TL",
+      "description": "Slices sos, mozzarella peyniri, ıspanak, misket peynir, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32919630.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Australia Pizza (60cm. - Dev Boy)",
+      "price": "1.844 TL",
+      "description": "Slices sos, mozzarella peyniri, füme kaburga, ananas, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32919637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Greece Pizza (60 cm.) (Dev Boy) (Vejetaryen)",
+      "price": "902 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar, dil peyniri, cherry domates, capari, kekik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32919641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexico Pizza (60cm. - Dev Boy)",
+      "price": "1.290 TL",
+      "description": "Slices sos, mozzarella peyniri, Afyon dana küp sucuk, küp jalapeno biberi, küp kırmızıbiber, peri peri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32919647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uruguay Pizza (60cm. - Dev Boy)",
+      "price": "1.011 TL",
+      "description": "Slices sos, mozzarella peyniri, julien sosis, cheddar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32922910.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spain Pizza (60 cm. - Dev Boy) (Vejetaryen)",
+      "price": "752 TL",
+      "description": "Slices sos, mozzarella peyniri, kırmızıbiber, mantar, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32925785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Italy Pizza (60 cm.) (Dev Boy) (Vejetaryen)",
+      "price": "1.011 TL",
+      "description": "Slices sos, mozzarella peyniri, misket peyniri, cherry domates, pesto sos, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32927046.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Qatar Pizza (60cm. - Dev Boy)",
+      "price": "1.888 TL",
+      "description": "Slices sos, mozzarella peyniri, kavurma, cherry domates, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32927145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Japan Pizza (60cm. - Dev Boy)",
+      "price": "1.172 TL",
+      "description": "Slices sos, mozzarella peyniri, ton balığı, yeşil biber, mısır, soğan, kiraz biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32927151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brazil Pizza (60 cm. - Dev Boy)",
+      "price": "1.099 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, salam, yeşil biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32929546.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "America Pizza (60 cm.) (Dev Boy)",
+      "price": "1.194 TL",
+      "description": "Slices sos, mozzarella peyniri, sucuk, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32932858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "France Pizza (60 cm.) (Dev Boy) (Vejetaryen)",
+      "price": "1.011 TL",
+      "description": "Slices sos, mozzarella peyniri, cheddar peyniri, misket peynir, dil peyniri, küp peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32932867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portugal Pizza (Dev Boy)",
+      "price": "1.099 TL",
+      "description": "Slices sos, mozzarella peyniri, enginar kalbi, cherry domates, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45468612.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Venezuela Pizza (60 cm.) (Dev Boy)",
+      "price": "1.888 TL",
+      "description": "Slices sos, mozzarella peyniri, chorizo, mantar, taze soğan",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Argentina Pizza (60 cm.) (Dev Boy)",
+      "price": "1.888 TL",
+      "description": "Slices sos, mozzarella peyniri, roast beef, istiridye mantarı, parmesan peyniri, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65433454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Egypt Pizza (60 cm.) (Dev Boy)",
+      "price": "1.888 TL",
+      "description": "Slices sos, mozzarella peyniri, kokoreç, kimyon, kırmızı toz biber. Jalapeno ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65435987.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norway Pizza (60 cm.) (Dev Boy)",
+      "price": "1.517 TL",
+      "description": "Slices sos, mozzarella peyniri, somon, limon, taze soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65438581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Monaco Pizza (60 cm.) (Dev)",
+      "price": "1.099 TL",
+      "description": "Slices sos, mozzarella peyniri, danish blue, cheddar sos, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65489067.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Fingers (Dev Boy)",
+      "price": "200 TL",
+      "description": "Dev boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122532.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Corn Dog (10 Adet)",
+      "price": "150 TL",
+      "description": "Özel Slices hamuru ile kaplanmış stick sosis",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Sticks (6 Adet)",
+      "price": "150 TL",
+      "description": "6 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122538.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Churros Patates Kızartması (Dev Boy)",
+      "price": "150 TL",
+      "description": "Churros patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122540.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (10 Adet)",
+      "price": "100 TL",
+      "description": "Çıtır soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122542.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Denmark (25 cm. - Küçük Boy)",
+      "price": "180 TL",
+      "description": "Nutella, Frenk üzümü, blueberry, beyaz çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122549.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Luxembourg (25 cm. - Küçük Boy)",
+      "price": "180 TL",
+      "description": "Nutella, Antep fıstığı, Oreo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chile Churros",
+      "price": "180 TL",
+      "description": "8 Adet churros, Antep fıstığı, esmer şeker",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65806928.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peru Churros",
+      "price": "180 TL",
+      "description": "8 adet churros, tarçın, esmer şeker, 4 adet Nutella",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65808088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (30 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (30 cl.)",
+      "price": "50 TL",
+      "description": "Cam Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122564.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (30 cl.)",
+      "price": "50 TL",
+      "description": "Cam Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518128.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (30 cl.)",
+      "price": "50 TL",
+      "description": "Cam Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52518129.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122568.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122570.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122571.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122573.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "5 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122580.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "5 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122582.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29343008.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

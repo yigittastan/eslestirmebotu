@@ -1,0 +1,211 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/zbjk/this-chicken-zbjk",
+  "google": "",
+  "products": [
+    {
+      "name": "Large Menü",
+      "price": "474,90 TL",
+      "description": "4 Adet Çıtır Tavuk + 8 Adet Küp Tavuk + Parmak Patates Kızartması + Lavaş + 1 Adet BBQ Sos + 1 Adet Acı Sos + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36897595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Only Tenders Menü",
+      "price": "644,90 TL",
+      "description": "15 Adet Çıtır Tavuk + 2 Adet Parmak Patates Kızartması + Lavaş + 1 Adet BBQ Sos + 1 Adet Acı Sos + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36898124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Party Menü",
+      "price": "519,90 TL",
+      "description": "6 Adet Tenders + 6 Adet Küp Tavuk + Lavaş + 2 Adet Parmak Patates Kızartması + 1 Adet BBQ Sos + 1 Adet Acı Sos + Lavaş + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36898152.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Only Küp Menü",
+      "price": "644,90 TL",
+      "description": "30 Adet Küp Tavuk + 2 Adet Parmak Patates Kızartması + Lavaş + 1 Adet BBQ Sos + 1 Adet Acı Sos + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36898158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pop-Up Çıtır Menü",
+      "price": "369,90 TL",
+      "description": "2 Adet Çıtır Tavuk + 2 Adet Küp Tavuk + 20 Adet Pop-Up Chicken + Lavaş + 1 Adet BBQ Sos + 1 Adet Acı Sos + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881020.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Medium Menü",
+      "price": "374,90 TL",
+      "description": "Çıtır Tavuk (2 Adet) + Küp Tavuk (4 Adet) + Parmak Patates Kızartması + Lavaş + 1 Adet BBQ Sos + 1 Adet Acı Sos + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49431311.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Mix Menü",
+      "price": "369,90 TL",
+      "description": "4 Küp Tavuk + 10 Pop-Up Chicken + Çıtır Patates + Kutu İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66011633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elma Dilim Patates Kızartması",
+      "price": "69,90 TL",
+      "description": "Elma dilim patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nugget (6 Adet)",
+      "price": "89,90 TL",
+      "description": "6 Adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nugget (12 Adet)",
+      "price": "124,90 TL",
+      "description": "12 Adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896207.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parmak Patates Kızartması",
+      "price": "69,90 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (6 Adet)",
+      "price": "59,90 TL",
+      "description": "6 Adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896230.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (12 Adet)",
+      "price": "104,90 TL",
+      "description": "12 Adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pop-Up Chicken (10 Adet)",
+      "price": "79,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38880909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pop-Up Chicken (20 Adet)",
+      "price": "114,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38880912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suffle",
+      "price": "89,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43706321.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "79,90 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "79,90 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896447.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "79,90 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896457.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "79,90 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "79,90 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896468.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "34,90 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "64,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896363.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "24,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "89,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "89,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "89,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896452.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "89,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (1 L.)",
+      "price": "89,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Sos",
+      "price": "29,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "14,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Sos",
+      "price": "14,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "9,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "9,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Sos",
+      "price": "14,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896527.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Mayonez",
+      "price": "14,90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896532.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896547.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

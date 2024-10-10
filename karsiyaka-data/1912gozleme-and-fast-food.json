@@ -1,0 +1,376 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ku7g/1912-gozleme-and-fast-food",
+  "google":"https://maps.app.goo.gl/JMhYawQoD2sFiSZAA",
+  "products": [
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "175 TL",
+      "description": "İnce hamurun içerisine patates ve kaşar peyniri eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "155 TL",
+      "description": "İnce hamurun içerisine ıspanak ve peynir eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "İnce hamurun içine rendelenmiş kaşar peyniri eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tostu Menü",
+      "price": "185 TL",
+      "description": "Ayvalık Tostu (Kaşar peyniri, domates, turşu, ketçap, mayonez) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214042.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kaşarlı Gözleme",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213557.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Çi Börek (1 Kişilik)",
+      "price": "250 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212280.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Patatesli Kaşarlı Gözleme)",
+      "price": "271,50 TL235 TL",
+      "description": "Patatesli Kaşarlı Gözleme + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Kumru Sandviç Menü",
+      "price": "260 TL",
+      "description": "Kumru Sandviç (Kaşar peyniri, turşu, ketçap, mayonez) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tostu Menü",
+      "price": "185 TL",
+      "description": "Ayvalık Tostu (Kaşar peyniri, domates, turşu, ketçap, mayonez) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214042.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger Menü",
+      "price": "300 TL",
+      "description": "Hamburger (Burger köftesi, marul, turşu ) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çatlatan Menü",
+      "price": "240 TL",
+      "description": "Tavuk Dürüm (Marine edilmiş tavuk göğüs, marul, domates, turşu, patates kızartması) + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Peynirli Sigara Böreği",
+      "price": "245 TL",
+      "description": "Peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212281.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Gözleme",
+      "price": "140 TL",
+      "description": "İnce hamurun içine peynir eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212486.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "140 TL",
+      "description": "İnce hamurun içerisine patates eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212487.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "155 TL",
+      "description": "İnce hamurun içerisine ıspanak ve peynir eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "İnce hamurun içine rendelenmiş kaşar peyniri eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Gözleme",
+      "price": "190 TL",
+      "description": "İnce hamurun içerisine kıyma eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Gözleme",
+      "price": "190 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Gözleme",
+      "price": "190 TL",
+      "description": "Ispanak, patates, peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Gözleme",
+      "price": "210 TL",
+      "description": "Patates, ıspanak, kaşar peyniri, Lor peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "175 TL",
+      "description": "İnce hamurun içerisine patates ve kaşar peyniri eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Patatesli Gözleme",
+      "price": "215 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Gözleme",
+      "price": "220 TL",
+      "description": "İnce hamurun içerisine sucuk ve kaşar peyniri eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213544.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Patatesli Kaşarlı Gözleme",
+      "price": "190 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Patatesli Gözleme",
+      "price": "225 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Peynirli Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Ispanaklı Kıymalı Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213550.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Gözleme",
+      "price": "190 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kıymalı Kaşarlı Gözleme",
+      "price": "215 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kaşarlı Gözleme",
+      "price": "175 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kaşarlı Gözleme",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213557.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kıymalı Kaşarlı Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213559.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kıymalı Gözleme",
+      "price": "170 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213560.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kıymalı Patatesli Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kıymalı Gözleme",
+      "price": "200 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213562.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Sucuklu Gözleme",
+      "price": "175 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213563.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Peynirli Gözleme",
+      "price": "170 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Ispanaklı Kıymalı Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213567.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Gözleme",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213568.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Kaşarlı Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Kaşarlı Sucuklu Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213570.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Kaşarlı Sucuklu Patatesli Gözleme",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213573.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Gözleme",
+      "price": "205 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Kaşarlı Gözleme",
+      "price": "215 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Kaşarlı Sucuklu Gözleme",
+      "price": "215 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213577.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Çi Börek (1 Kişilik)",
+      "price": "200 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212275.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Çi Börek (1 Kişilik)",
+      "price": "200 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212277.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Çi Börek (1 Kişilik)",
+      "price": "240 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212279.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Çi Börek (1 Kişilik)",
+      "price": "250 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212280.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Sıkma",
+      "price": "135 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213604.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Sıkma",
+      "price": "135 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213606.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Sıkma",
+      "price": "145 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "125 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213609.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49213999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "30 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49214004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49212237.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

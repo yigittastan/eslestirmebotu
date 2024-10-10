@@ -1,0 +1,310 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/hv92/c-and-fried-chicken",
+  "google": "",
+  "products": [
+    {
+      "name": "Tok Finger Chicken",
+      "price": "309 TL",
+      "description": "200 gr. çıtır kemiksiz parmak tavuk, seçeceğiniz patates kızartması, mor lahana salatası, isteğe göre ekmek, ikram sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241652.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rooster Finger Chicken",
+      "price": "299 TL",
+      "description": "200 gr. kemiksiz çıtır parmak tavuk, patates kızartması, sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241658.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (6 Adet)",
+      "price": "49 TL",
+      "description": "Çıtır soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316347.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "C.F.C. Özel soslu Fried Finger Chicken",
+      "price": "249 TL",
+      "description": "Özel CFC soslu ekmek arasında; 150 gr. çıtır parmak tavuk, mor lahana salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56746536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dream Finger C& Fried Chicken",
+      "price": "339 TL",
+      "description": "200 gr. taze kemiksiz tavuk, patates kızartması, mor lahana salatası, ekmek. 3 çeşit sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55286306.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Tok Finger Chicken Menü",
+      "price": "569 TL",
+      "description": "Tok Finger Chicken (2 Adet) + Patates Kızartması + Mor Lahana Salatası + Ekmek (2 Adet) + İçecek (1 L.)"
+    },
+    {
+      "name": "2'li Dream Finger C& Fried Chicken Menü",
+      "price": "669 TL",
+      "description": "Dream Finger C& Fried Chicken + Patates Kızartması + Mor Lahana Salatası + Sos (6 Adet) + Ekmek (2 Adet) + İçecek (1 L.)"
+    },
+    {
+      "name": "Tok Finger Chicken",
+      "price": "309 TL",
+      "description": "200 gr. çıtır kemiksiz parmak tavuk, seçeceğiniz patates kızartması, mor lahana salatası, isteğe göre ekmek, ikram sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241652.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rooster Finger Chicken",
+      "price": "299 TL",
+      "description": "200 gr. kemiksiz çıtır parmak tavuk, patates kızartması, sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241658.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dream Finger C& Fried Chicken",
+      "price": "339 TL",
+      "description": "200 gr. taze kemiksiz tavuk, patates kızartması, mor lahana salatası, ekmek. 3 çeşit sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nando's Child Fried Chicken",
+      "price": "289 TL",
+      "description": "150 gr. kemiksiz çıtır parmak tavuk. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56032688.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "C.F.C. Özel soslu Fried Finger Chicken",
+      "price": "249 TL",
+      "description": "Özel CFC soslu ekmek arasında; 150 gr. çıtır parmak tavuk, mor lahana salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56746536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Curry Wich",
+      "price": "249 TL",
+      "description": "150 gr. taze çııtr tavuk, el yapımı köri sos, mor lahana salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56777697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddars'Wich",
+      "price": "249 TL",
+      "description": "150 gr. çıtır tavuk, cheddar sos, mor lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56777996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot'Wich",
+      "price": "249 TL",
+      "description": "150 gr. taze çıtır tavuk, özel acı sos, mor lahana salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56778350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası BBQ Wich",
+      "price": "249 TL",
+      "description": "150 gr. taze çıtır tavuk, mor lahana salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57132148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buffalo Wich",
+      "price": "259 TL",
+      "description": "Buffalo soslu çıtır parmak tavuk, mor lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62884575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Patates Kızartması",
+      "price": "119 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55276610.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "C.F.C. Özel Soslu Patates Kızartması",
+      "price": "189 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55250706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Soslu Patates Kızartması",
+      "price": "189 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55250807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Patates Kızartması",
+      "price": "169 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55256242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Soslu Patates Kızartması",
+      "price": "199 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55276635.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hardal Soslu Patates Kızartması",
+      "price": "169 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55276646.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Patates Kızartması",
+      "price": "169 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55276676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Soslu Patates Kızartması",
+      "price": "169 TL",
+      "description": "300 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55276693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (6 Adet)",
+      "price": "49 TL",
+      "description": "Çıtır soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316347.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (8 Adet)",
+      "price": "69 TL",
+      "description": "Çıtır soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316299.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (12 Adet)",
+      "price": "89 TL",
+      "description": "Çıtır soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (24 Adet)",
+      "price": "159 TL",
+      "description": "Çıtır soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek",
+      "price": "25 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316435.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mor Lahana Salatası",
+      "price": "85 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55316399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55286306.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55286463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55285732.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55285590.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55285377.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55295272.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55296138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "67 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55286366.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "67 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55285957.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "67 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55285649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "67 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55285513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Sos",
+      "price": "30 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62879456.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Sos",
+      "price": "30 TL",
+      "description": "El yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62879458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buffalo Sos",
+      "price": "30 TL",
+      "description": "El yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62880083.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Sos",
+      "price": "30 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62880235.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel CFC Sos",
+      "price": "30 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62880247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "30 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62880249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hardal Sos",
+      "price": "30 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62880250.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55415778.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

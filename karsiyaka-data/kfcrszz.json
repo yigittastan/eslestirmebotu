@@ -1,0 +1,654 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/rszz/kfc-rszz",
+  "google": "",
+  "products": [
+    {
+      "name": "Gamer Kutu",
+      "price": "300 TL",
+      "description": "(1 Kişilik) KFC Tavuk Burger + 6'lı Çıtır Shots + Acılı Kanat + Kemiksiz Çıtır + 4'lü Soğan Halkası + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Xtreme Kutu",
+      "price": "305 TL",
+      "description": "(1 Kişilik) Zinger Burger + 4 Parça Hot Shots + 2 Adet Acılı Kanat + Coleslaw + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785244.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şampiyonlar Kovası",
+      "price": "486 TL",
+      "description": "(2 Kişilik) 2 Adet KFC Tavuk Burger + 2 Adet Kemiksiz Çıtır + 4 Adet Acılı Kanat + Orta Boy Patates Kızartması + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31950070.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemiksiz Çıtır Kova",
+      "price": "580 TL",
+      "description": "(2 Kişilik) 10 Adet Kemiksiz Çıtır + 6'lı Çıtır Shots + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785232.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper Fırsat",
+      "price": "410 TL",
+      "description": "2 Adet KFC Tavuk Burger + 2 Adet Acılı Kanat + 2 Kemiksiz Çıtır + 6'lı Çıtır Shots + 1 Biscuit veya Gravy Sos + Orta Boy Patates Kızartması + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785208.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Ziyafet Menüsü",
+      "price": "340 TL",
+      "description": "Zinger Burger + Kemiksiz Çıtır + 6’lı Çıtır Shots + Küçük Boy Patates Kızartması + İçecek (330 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32190615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zinger Burger Özel Menü",
+      "price": "220,00 TL380 TL",
+      "description": "KFC Tavuk Burger + Zinger Burger + 6'lı Çıtır Shots + 4’lü Soğan Halkası + Patates Kızartması (Büyük) + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66335859.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaz Menüsü",
+      "price": "170 TL",
+      "description": "KFC Tavuk Burger + Ekoburger + Küçük Boy Patates Kızartması + Lipton Ice Tea Çilek Aşkı (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66891186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şampiyonlar Kovası",
+      "price": "486 TL",
+      "description": "(2 Kişilik) 2 Adet KFC Tavuk Burger + 2 Adet Kemiksiz Çıtır + 4 Adet Acılı Kanat + Orta Boy Patates Kızartması + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31950070.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 KFC Tavuk Burger Ekonomik Menü",
+      "price": "340 TL",
+      "description": "(2 Kişilik) 2 Adet KFC Tavuk Burger + Büyük Boy Patates Kızartması + 8’li Çıtır Shots + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785213.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Twister Dürüm Menü",
+      "price": "384 TL",
+      "description": "(2 Kişilik) 2 Adet Twister Dürüm + 6'lı Çıtır Shots + Büyük Boy Patates Kızartması + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Xtreme Kutu",
+      "price": "305 TL",
+      "description": "(1 Kişilik) Zinger Burger + 4 Parça Hot Shots + 2 Adet Acılı Kanat + Coleslaw + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785244.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gamer Kutu",
+      "price": "300 TL",
+      "description": "(1 Kişilik) KFC Tavuk Burger + 6'lı Çıtır Shots + Acılı Kanat + Kemiksiz Çıtır + 4'lü Soğan Halkası + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "KFC Tavuk Burger Kutu",
+      "price": "295 TL",
+      "description": "KFC Tavuk Burger + 2 Adet Acılı Kanat + 6'lı Çıtır Shots + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785243.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Ziyafet Menüsü",
+      "price": "340 TL",
+      "description": "Zinger Burger + Kemiksiz Çıtır + 6’lı Çıtır Shots + Küçük Boy Patates Kızartması + İçecek (330 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32190615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "KFC Fırsat Menüsü",
+      "price": "180 TL",
+      "description": "KFC Tavuk Burger + 4'lü Hot Shots + 4'lü Soğan Halkası + Küçük Boy Patates Kızartması + İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66518064.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zinger Burger Süper Maç Menüsü",
+      "price": "384 TL",
+      "description": "(2 Kişilik) 2 Adet Zinger Burger + Orta Boy Patates Kızartması + 6'lı Çıtır Shots (Acılı) + 2 Adet Pepsi (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maç Kovası",
+      "price": "586 TL",
+      "description": "(2 Kişilik) 2 Parça But + 4 Adet Acılı Kanat + 2 Adet Acısız Kemiksiz Çıtır + 2 Adet Acılı Kemiksiz Çıtır + 2 Adet Biscuit + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper Fırsat",
+      "price": "410 TL",
+      "description": "2 Adet KFC Tavuk Burger + 2 Adet Acılı Kanat + 2 Kemiksiz Çıtır + 6'lı Çıtır Shots + 1 Biscuit veya Gravy Sos + Orta Boy Patates Kızartması + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785208.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajı Bol Menü",
+      "price": "350 TL",
+      "description": "(2 Kişilik) Bi Burger + Twister Dürüm + 6'lı Çıtır Shots + 2 Adet Patates Püresi + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Double Zinger Burger Menü",
+      "price": "546 TL",
+      "description": "(2 Kişilik) 2 Adet Double Zinger Burger + 2 Adet Patates Püresi + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li KFC Tavuk Burger Menü",
+      "price": "306 TL",
+      "description": "(1 Kişilik) 2 Adet KFC Tavuk Burger + Küçük Boy Patates Kızartması + İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır İkili Menü",
+      "price": "426 TL",
+      "description": "(2 Kişilik) 2 Adet KFC Tavuk Burger + 2 Adet Acılı Kanat + 2 Adet Kemiksiz Çıtır + Orta Patates Kızartması + 2 Adet İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kafana Göre Kova",
+      "price": "0 TL",
+      "description": "Dilediğin lezzeti dilediğin kadar seç, kendi kovanı kendin yarat (En az 1 adet acılı kanat seçimi yapılmalıdır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26016144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gamer Kova",
+      "price": "490 TL",
+      "description": "2 KFC Tavuk Burger + 2 Adet Kanat + 2 Adet Kemiksiz Çıtır + 8'li Çıtır Shots + 4'lü Soğan Halkası + 2 Adet Patates Püresi + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785230.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kutlama Kovası",
+      "price": "536 TL",
+      "description": "(2 Kişilik) 2 Adet KFC Tavuk Burger + 2 Parça But + 2 Adet Kemiksiz Çıtır + 4'lü Hot Shots + 2 Adet Biscuit + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785231.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemiksiz Çıtır Kova",
+      "price": "580 TL",
+      "description": "(2 Kişilik) 10 Adet Kemiksiz Çıtır + 6'lı Çıtır Shots + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785232.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tıka Basa Kova",
+      "price": "640 TL",
+      "description": "4 Adet Acılı Kanat + 2 Parça But + 8'li Hot Shots + 2 Adet Biscuit + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785233.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanat Eseri",
+      "price": "530 TL",
+      "description": "(2 Kişilik) 10 Adet Acılı Kanat + 6'lı Çıtır Shots + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785234.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Kovası",
+      "price": "740 TL",
+      "description": "(4 Kişilik) 4 Parça But + 4 Adet Acılı Kanat + 4 Parça Kemiksiz Çıtır + 4 Adet Biscuit + 1 Adet Büyük Boy Patates Kızartması + 6 Adet Hot Shots + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785235.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Köşe Kova",
+      "price": "730 TL",
+      "description": "(4 Kişilik) 8 Adet Acılı Kanat + 4 Adet Kemiksiz Çıtır + 16'lı Hot Shots + 1 Adet Büyük Boy Patates Kızartması + 4 Biscuit + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanat Kova",
+      "price": "730 TL",
+      "description": "(4 Kişilik) 20 Adet Acılı Kanat + Büyük Boy Patates Kızartması + 4 Adet Biscuit + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemiksiz Büyük Kova",
+      "price": "824 TL",
+      "description": "(4 Kişilik) 20 Adet Kemiksiz Çıtır + 4 Adet Biscuit + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785239.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kova",
+      "price": "790 TL",
+      "description": "(4 Kişilik) 10 Adet Acılı Kanat + 10 Adet Kemiksiz Çıtır + 4 Adet Biscuit + Büyük Boy Patates Kızartması + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785240.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemiksiz Kutu",
+      "price": "350 TL",
+      "description": "(1 Kişilik) 4 Parça Kemiksiz Çıtır + 6'lı Çıtır Shots + 1 Adet Biscuit + 1 Adet Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785245.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tornado Kutu",
+      "price": "295 TL",
+      "description": "(1 Kişilik) Twister Dürüm + 2 Adet Acılı Kanat + 6'lı Çıtır Shots + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32190252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Best Of Kutu",
+      "price": "370 TL",
+      "description": "(1 Kişilik) 1 Parça But + 2 Adet Acılı Kanat + 2 Parça Kemiksiz Çıtır + 1 Adet Biscuit + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Xtreme Kutu",
+      "price": "430 TL",
+      "description": "(1 Kişilik) Double Zinger Burger + 2 Adet Acılı Kanat + 4'lü Hot Shots (Acılı) + Coleslaw + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bi Burger Kutu",
+      "price": "305 TL",
+      "description": "(1 Kişilik) 1 Adet Bi Burger + 2 Adet Acılı Kanat + 6'lı Çıtır Shots + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785250.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşırı Burger Kutu",
+      "price": "390 TL",
+      "description": "(1 Kişilik) Aşırı Burger + 2 Adet Acılı Kanat + 6'lı Çıtır Shots + 1 Adet Biscuit + Patates Püresi + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Zinger Burger Menü",
+      "price": "335 TL",
+      "description": "(1 Kişilik) Double Zinger + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zinger Burger Menü",
+      "price": "215 TL",
+      "description": "(1 Kişilik) Zinger Burger + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785254.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Twister Dürüm Menü",
+      "price": "230 TL",
+      "description": "(1 Kişilik) Twister Dürüm + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785255.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Barbekü Zinger Menü",
+      "price": "260 TL",
+      "description": "Çıtır Barbekü Zinger Burger + Küçük Boy Patates + İçecek (330 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54920001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşırı Burger Menü",
+      "price": "295 TL",
+      "description": "(1 Kişilik) Aşırı Burger + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çocuk Burger Menü",
+      "price": "225 TL",
+      "description": "(1 Kişilik) Kids Burger + Küçük Boy Patates Kızartması + Tropicana (200 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785257.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çocuk Kemiksiz Çıtır Menü",
+      "price": "260 TL",
+      "description": "(1 Kişilik) 3 Parça Kemiksiz Çıtır + Küçük Boy Patates Kızartması + Tropicana (200 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7'li Kanat Menü",
+      "price": "340 TL",
+      "description": "(1 Kişilik) 7 Adet Acılı Kanat + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785260.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7'li Kemiksiz Çıtır Menü",
+      "price": "420 TL",
+      "description": "(1 Kişilik) 7 Parça Kemiksiz Çıtır + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Kemiksiz Çıtır Menü",
+      "price": "295 TL",
+      "description": "(1 Kişilik) 4 Parça Kemiksiz Çıtır + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Acılı Kanat Menü",
+      "price": "250 TL",
+      "description": "(1 Kişilik) 4 Adet Acılı Kanat + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orijinal Tarif Menü",
+      "price": "315 TL",
+      "description": "(1 Kişilik) 3 Parça But + Küçük Boy Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "15 Çıtır Shots & Sos",
+      "price": "90 TL",
+      "description": "15 Adet Çıtır Shots + Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33050663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zinger Burger Acılı Mayonez",
+      "price": "195 TL",
+      "description": "Burger ekmeği, acılı mayonez sos, Zinger fileto, marul dilimleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zinger Burger Karabiberli Mayonez",
+      "price": "195 TL",
+      "description": "Burger ekmeği, karabiberli mayonez sos, Zinger fileto, marul dilimleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Zinger Burger Acılı Mayonez",
+      "price": "250 TL",
+      "description": "Burger ekmeği, acılı mayonez sos, marul dilimleri, 2 adet Zinger fileto, dilim peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Zinger Burger Karabiberli Mayonez",
+      "price": "250 TL",
+      "description": "Burger ekmeği, karabiberli mayonez sos, marul dilimleri, 2 adet Zinger fileto, dilim peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220888.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Burger",
+      "price": "195 TL",
+      "description": "Burger ekmeği, karabiberli mayonez sosu, fileto, marul dilimleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "KFC Bi Burger",
+      "price": "210 TL",
+      "description": "Burger ekmeği, karabiberli mayonez sosu, fileto, dilimlenmiş domates, turşu, marul dilimleri, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41291753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Twister Acılı Mayonez",
+      "price": "195 TL",
+      "description": "2 adet orijinal tarif kemiksiz çıtır, küp domates, göbek marul, acılı mayonez sos, tortilla ekmeği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Twister Karabiberli Mayonez",
+      "price": "195 TL",
+      "description": "2 adet orijinal tarif kemiksiz çıtır, küp domates, göbek marul, karabiberli mayonez sos, tortilla ekmeği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220502.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Barbekü Zinger Burger",
+      "price": "220 TL",
+      "description": "Glaze ekmek, çıtır Zinger fileto, füme et, çıtır soğan, cheddar peyniri, barbekü sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54941616.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşırı Burger",
+      "price": "235 TL",
+      "description": "Acılı mayonez, karabiberli mayonez, barbekü sos, Zinger fileto, patates pane, turşu, dilim peynir, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785271.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acısız Kemiksiz Çıtır (Adet)",
+      "price": "74 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41226819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Kemiksiz Çıtır (Adet)",
+      "price": "74 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41226823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parça Acılı Kanat (Adet)",
+      "price": "68 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parça Acısız But (Adet)",
+      "price": "76 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Shots Püre",
+      "price": "76 TL",
+      "description": "(Acılı)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Püresi (Adet)",
+      "price": "53 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220087.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Shots (4 Adet)",
+      "price": "76 TL",
+      "description": "(4 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Shots 8'li",
+      "price": "99 TL",
+      "description": "(8 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Shots 12'li",
+      "price": "128 TL",
+      "description": "(12 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Küçük)",
+      "price": "54 TL",
+      "description": "Parmak patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41218682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Orta)",
+      "price": "68 TL",
+      "description": "Parmak patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41219819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Büyük)",
+      "price": "76 TL",
+      "description": "Parmak patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41219825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "8'li Soğan Halkası",
+      "price": "56 TL",
+      "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "12'li Soğan Halkası",
+      "price": "61 TL",
+      "description": "(12 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "16'lı Soğan Halkası",
+      "price": "76 TL",
+      "description": "(16 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785351.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coleslaw Salata (Adet)",
+      "price": "53 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220070.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gravy Sos (Adet)",
+      "price": "53 TL",
+      "description": "KFC'nin gizli formülü ile üretilmiş taze tavuk sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220281.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biscuit (Adet)",
+      "price": "28 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220053.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Shots (6 Adet)",
+      "price": "54 TL",
+      "description": "(6 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41220293.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "12'li Çıtır Shots",
+      "price": "77 TL",
+      "description": "(12 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28600559.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "18'li Çıtır Shots",
+      "price": "95 TL",
+      "description": "(18 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28600561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozaik Pasta (Dilim)",
+      "price": "76 TL",
+      "description": "Petibör bisküvi, süt, kakao",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41221526.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "55 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "55 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785407.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (33 cl.)",
+      "price": "55 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "55 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Limon (33 cl.)",
+      "price": "58 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41295376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Şeftali (33 cl.)",
+      "price": "58 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41295386.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropicana Karışık (20 cl.)",
+      "price": "36 TL",
+      "description": "(20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26604580.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropicana Şeftali (20 cl.)",
+      "price": "36 TL",
+      "description": "(20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26604586.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropicana Vişne (20 cl.)",
+      "price": "36 TL",
+      "description": "(20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26604595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İçim Ayran (20 cl.)",
+      "price": "41 TL",
+      "description": "(20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785412.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull Enerji İçeceği (250 ml.)",
+      "price": "94 TL",
+      "description": "(250 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull Şekersiz Enerji İçeceği (250 ml.)",
+      "price": "94 TL",
+      "description": "(250 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şişe Su",
+      "price": "21 TL",
+      "description": "(33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "71 TL",
+      "description": "(1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (1 L.)",
+      "price": "71 TL",
+      "description": "(1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "The Organics By Red Bull Easy Lemon (25 cl.)",
+      "price": "94 TL",
+      "description": "The Organics By Red Bull Easy Lemon (25 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45818925.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "10 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785435.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "10 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785436.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Mayonez",
+      "price": "12 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785437.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Mayonez",
+      "price": "12 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Sos",
+      "price": "12 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785439.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "10 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Sos",
+      "price": "12 TL",
+      "description": "(1 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10785441.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/knzy/karsiyaka-pide-and-kebap-knzy",
+  "google": "",
+  "products": [
+    {
+      "name": "Kıymalı Pide",
+      "price": "136 TL170 TL",
+      "description": "Kıyma ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Kıyma ve rendelenmiş kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "216 TL270 TL",
+      "description": "Kuşbaşı et ve kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "216 TL270 TL",
+      "description": "(140 gr.) Bulgur pilavı, yeşillik, soğan, köz biber, köz domates, acılı ezme, yoğurt ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Rendelenmiş kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası",
+      "price": "108 TL135 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "136 TL170 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "136 TL170 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051132.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Çorba",
+      "price": "128 TL160 TL",
+      "description": "Kelle, paça, işkembe. Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyin Çorbası",
+      "price": "116 TL145 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051136.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası",
+      "price": "108 TL135 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "96 TL120 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/23792084.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "104 TL130 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Lahmacun",
+      "price": "120 TL150 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "88 TL110 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "136 TL170 TL",
+      "description": "Kıyma ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Kıyma ve rendelenmiş kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Pide",
+      "price": "136 TL170 TL",
+      "description": "Peynir ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051146.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Rendelenmiş kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Mantarlı Pide",
+      "price": "160 TL200 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "192 TL240 TL",
+      "description": "Kuşbaşı eti ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "216 TL270 TL",
+      "description": "Kuşbaşı et ve kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pide",
+      "price": "144 TL180 TL",
+      "description": "Tavuk eti, sebze ve baharatlarla hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Tavuk eti ve kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051152.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Pide",
+      "price": "160 TL200 TL",
+      "description": "Sucuk ve kaşar peyniri ile hazırlanan bir pide çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Pide",
+      "price": "144 TL180 TL",
+      "description": "Domates, biber, mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "KSK Spesiyal Pide",
+      "price": "208 TL260 TL",
+      "description": "Sucuk, sosis, salam, mantar, kaşar peyniri, kuşbaşı, kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60775627.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Pide",
+      "price": "144 TL180 TL",
+      "description": "Ispanak, domates, biber, mantar, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051159.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (20 cm.)",
+      "price": "160 TL200 TL",
+      "description": "Sucuk, sosis, salam, kaşar peyniri, mantar, domates, biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "216 TL270 TL",
+      "description": "(140 gr.) Bulgur pilavı, yeşillik, soğan, köz biber, köz domates, acılı ezme, yoğurt ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Kebap",
+      "price": "216 TL270 TL",
+      "description": "(140 gr.) Bulgur pilavı, yeşillik, soğan, köz biber, köz domates, acılı ezme, yoğurt ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": "216 TL270 TL",
+      "description": "(140 gr.) Bulgur pilavı, yeşillik, soğan, köz biber, köz domates, acılı ezme, yoğurt ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "216 TL270 TL",
+      "description": "(180 gr.) Bulgur pilavı, yeşillik, soğan, köz biber, köz domates, acılı ezme, yoğurt ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Köfte",
+      "price": "192 TL240 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Köfte",
+      "price": "208 TL260 TL",
+      "description": "Köfte, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Tavuk",
+      "price": "184 TL230 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Tavuk",
+      "price": "200 TL250 TL",
+      "description": "Kaşar peyniri, tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kuşbaşı",
+      "price": "200 TL250 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Kuşbaşı",
+      "price": "208 TL260 TL",
+      "description": "Kaşar peyniri, kuşbaşı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Mantar",
+      "price": "216 TL270 TL",
+      "description": "Kaşar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tahinli Pide",
+      "price": "176 TL220 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (25 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60775662.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "24 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "12 TL15 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6051204.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

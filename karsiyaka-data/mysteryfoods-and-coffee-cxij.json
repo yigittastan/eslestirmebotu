@@ -1,0 +1,387 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/cxij/mystery-foods-and-coffee-cxij",
+  "google": "",
+  "products": [
+    {
+      "name": "Lahmacun",
+      "price": "300 TL",
+      "description": "Psylliumlu Greçka yufka, dana kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013854.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "230 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37012973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mystery Burger",
+      "price": "400 TL",
+      "description": "Izgara dana köfte, Pylliumlu Greçka burger ekmeği. Patates kızartması, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37012944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mystery Cheeseburger",
+      "price": "425 TL",
+      "description": "Izgara dana köfte, cheddar peyniri, Pylliumlu Greçka burger ekmeği. Patates kızartması, özel sos ile"
+    },
+    {
+      "name": "Glutensiz Vegan Pizza",
+      "price": "440 TL",
+      "description": "Kabak, havuç, yeşil zeytin, mantar, mısır, mystery fesleğenli sos"
+    },
+    {
+      "name": "Sucuklu Karışık Pizza",
+      "price": "495 TL",
+      "description": "Mozzarella peyniri, fermente sucuk, mısır, yeşil zeytin, mantar, fesleğenli domatesli özel pizza sosu, Pyslliumlu Greçka pizza tabanı, zeytinyağı"
+    },
+    {
+      "name": "Greçka Glutensiz Simit",
+      "price": "85 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37052190.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Burger Tost",
+      "price": "300 TL",
+      "description": "Psylliumlu Greçka burger ekmeği, kaşar peyniri, ketçap, mayonez.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Burger Tost",
+      "price": "330 TL",
+      "description": "Psylliumlu Greçka burger ekmeği, kaşar peyniri, sucuk, ketçap, mayonez."
+    },
+    {
+      "name": "Vegan Burger Tost (Glütensiz)",
+      "price": "350 TL",
+      "description": "Glütensiz greçka burger ekmeğine avokado, ceviz, ketçap, vegan mayonez"
+    },
+    {
+      "name": "Glutensiz Ayvalık Tostu",
+      "price": "440 TL",
+      "description": "Greçka tost ekmeği, Mystery ev yapımı sucuk, sosis, mozzarella peyniri, cheddar peyniri, salatalık turşusu, ketçap, mayonez"
+    },
+    {
+      "name": "Keçi Peynirli Burger Tost",
+      "price": "330 TL",
+      "description": "Greçka burger ekmeği, keçi peyniri, ketçap, mayonez"
+    },
+    {
+      "name": "Peynirli Bi Dünya",
+      "price": "325 TL",
+      "description": "Greçka yufka, inek peyniri, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37012749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Bi Dünya",
+      "price": "325 TL",
+      "description": "Greçka yufka, ıspanak, zeytinyağı"
+    },
+    {
+      "name": "Peynirli Ispanaklı Bi Dünya",
+      "price": "345 TL",
+      "description": "Greçka yufka, inek peyniri, ıspanak, zeytinyağı"
+    },
+    {
+      "name": "Kaşarlı Bi Dünya",
+      "price": "345 TL",
+      "description": "Greçka yufka, kaşar peyniri, zeytinyağı"
+    },
+    {
+      "name": "Keçi Peynirli Bi Dünya",
+      "price": "430 TL",
+      "description": "Greçka yufka, keçi peyniri, zeytinyağı"
+    },
+    {
+      "name": "Keçi Peynirli Ispanaklı Bi Dünya",
+      "price": "470 TL",
+      "description": "Greçka yufka, keçi peyniri, ıspanak, zeytinyağı"
+    },
+    {
+      "name": "Mozzarella Peynirli & Ispanaklı Gözleme",
+      "price": "390 TL",
+      "description": "Greçka yufka, mozzarella inek peyniri, ıspanak, zeytinyağı. Domates, salatalık turşusu ile"
+    },
+    {
+      "name": "Vegan Sebzeli Bi Dünya",
+      "price": "345 TL",
+      "description": "Greçka yufka, kabak, havuç, mantar, mısır, zeytin, zeytinyağı, domates, fesleğenli sos ile"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "300 TL",
+      "description": "Psylliumlu Greçka yufka, dana kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013854.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Peynirli Lahmacun",
+      "price": "335 TL",
+      "description": "Roka, limon ile"
+    },
+    {
+      "name": "Vegan Lahmacun",
+      "price": "300 TL",
+      "description": "Greçka alt taban, yeşil mercimek, lahmacun sosu"
+    },
+    {
+      "name": "Margharita Pizza",
+      "price": "440 TL",
+      "description": "Mozzarella peyniri, cherry domates, fesleğenli domatesli özel pizza sosu, Pyslliumlu Greçka pizza, zeytinyağı"
+    },
+    {
+      "name": "Sucuklu Karışık Pizza",
+      "price": "495 TL",
+      "description": "Mozzarella peyniri, fermente sucuk, mısır, yeşil zeytin, mantar, fesleğenli domatesli özel pizza sosu, Pyslliumlu Greçka pizza tabanı, zeytinyağı"
+    },
+    {
+      "name": "Sosisli Karışık Pizza",
+      "price": "495 TL",
+      "description": "Mozzarella peyniri, sosis, mısır, yeşil zeytin, mantar, fesleğenli domatesli özel pizza sosu, Pylliumlu Greçka pizza tabanı, zeytinyağı"
+    },
+    {
+      "name": "Pastırmalı Karışık Pizza",
+      "price": "545 TL",
+      "description": "Mozzarella peyniri, dana pastırma, mısır, yeşil zeytin, mantar, fesleğenli domatesli özel pizza sosu, Psylliumlu Greçka pizza tabanı, zeytinyağı"
+    },
+    {
+      "name": "Glutensiz Vegan Pizza",
+      "price": "440 TL",
+      "description": "Kabak, havuç, yeşil zeytin, mantar, mısır, mystery fesleğenli sos"
+    },
+    {
+      "name": "Mystery Dana Kaburga Füme Etli Pizza",
+      "price": "545 TL",
+      "description": "Mozarella inek peyniri, dana kaburga füme eti, mısır, yeşil zeytin, mantar, domates fesleğenli özel pizza sosu, greçka pizza tabanı, zeytinyağı, fesleğen"
+    },
+    {
+      "name": "Mystery Mix Sucuklu Sosisli Pizza",
+      "price": "515 TL",
+      "description": "Mozzarella inek peyniri, Mystery ev yapımı dana sucuk, sosis, mısır, yeşil zeytin, mantar, domatesli fesleğenli özel pizza sosu, zeytinyağı, fesleğen"
+    },
+    {
+      "name": "Mystery Mix Pizza (Keçi Peynirli)",
+      "price": "670 TL",
+      "description": "Keçi kaşarı, keçi taze loru, ev yapımı dana sucuk, sosis, mısır, yeşil zeytin, mantar, domates fesleğenli özel pizza sosu, greçka pizza tabanı, zeytinyağı, fesleğen"
+    },
+    {
+      "name": "Mystery Margarita (Keçi peynirli)",
+      "price": "600 TL",
+      "description": "Keçi kaşarı, keçi taze loru, çeri domates, domates fesleğenli özel pizza sosu, greçka pizza tabanı, zeytinyağı, fesleğen"
+    },
+    {
+      "name": "Turuncu Tabak",
+      "price": "445 TL",
+      "description": "Tatlı patates, ızgara dana köfte, Mystery sos"
+    },
+    {
+      "name": "Glutensiz Turuncu Tabak (Vegan)",
+      "price": "445 TL",
+      "description": "Tatlı patates, falafel köfte, fesleğenli Mystery sos"
+    },
+    {
+      "name": "Sarı Tabak",
+      "price": "400 TL",
+      "description": "Klasik patates kızartması, ızgara dana köfte, domatesli fesleğenli sos"
+    },
+    {
+      "name": "Vegan Sarı Tabak",
+      "price": "400 TL",
+      "description": "Klasik patates kızartması, falafel topları, domates, fesleğenli sos"
+    },
+    {
+      "name": "Mystery Burger",
+      "price": "400 TL",
+      "description": "Izgara dana köfte, Pylliumlu Greçka burger ekmeği. Patates kızartması, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37012944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mystery Cheeseburger",
+      "price": "425 TL",
+      "description": "Izgara dana köfte, cheddar peyniri, Pylliumlu Greçka burger ekmeği. Patates kızartması, özel sos ile"
+    },
+    {
+      "name": "Glutensiz Msytery Vegan Burger",
+      "price": "400 TL",
+      "description": "Glutensiz burger ekmeği, falafel köfte, ketçap, vegan mayonez, iceberg, domates, salatalık turşusu"
+    },
+    {
+      "name": "Mystery Double Burger",
+      "price": "525 TL",
+      "description": "İki adet ızgara köfte, domates, salatalık turşusu, iceberg marul, karamelize soğan, ketçap, mayonez. Patates kızartması, ketçap, mayonez ile"
+    },
+    {
+      "name": "Mystery Special Füme Cheeseburger",
+      "price": "530 TL",
+      "description": "Izgara dana köfte, dana füme kaburga eti, mantar, cheddar peyniri, domates, salatalık turşusu, iceberg marul, karamelize soğan, ketçap, mayonez. Patates kızartması, ketçap, mayonez ile"
+    },
+    {
+      "name": "Mystery Very Hungry Burger",
+      "price": "600 TL",
+      "description": "İki adet ızgara dana köfte, dana füme kaburga eti, cheddar peynir, domates, salatalık turşusu, ıceberg, karamelize soğan, ketçap, mayonez, psylliumlu greçka burger ekmeği. Patates kızarması, ketçap, mayonez ile"
+    },
+    {
+      "name": "Mystery Double Cheeseburger",
+      "price": "540 TL",
+      "description": "İki adet ızgara dana köfte, iki adet cheddar peyniri, domates, salatalık turşusu, ıceberg, karamelize soğan, ketçap, mayonez, psylliumlu greçka burger ekmeği. patates kızarması ve ketçap, mayonez ile"
+    },
+    {
+      "name": "Fesleğenli Mystery Roll",
+      "price": "415 TL",
+      "description": "Pyslliumlu Greçka yufka, ızgara köfte, maydanoz, fesleğen"
+    },
+    {
+      "name": "Mystery Vegan Roll",
+      "price": "415 TL",
+      "description": "Psyllium greçka yufka, falafel köfte, maydanoz, fesleğen. Özel domates sos ile"
+    },
+    {
+      "name": "Mystery Maydanozlu Roll",
+      "price": "415 TL",
+      "description": "Greçka yufka, ızgara dana köfte, domates, fesleğenli sos, maydanoz"
+    },
+    {
+      "name": "Mystery Roll Hot",
+      "price": "415 TL",
+      "description": "Greçka yufka, ızgara dana köfte, domates fesleğenli sos, acı pul biber, maydanoz"
+    },
+    {
+      "name": "Mystery Hutz",
+      "price": "350 TL",
+      "description": "Nohut, mısır, turşu, közlenmiş kapya biber, yeşil zeytin, maydanoz, iceberg marul, limon, zeytinyağı"
+    },
+    {
+      "name": "Mystery Mexico",
+      "price": "385 TL",
+      "description": "Meksika fasulyesi, mısır, jalapeno biberi, kornişon turşu, közlenmiş kapya biber, yeşil zeytin, maydanoz, iceberg marul, limon, zeytinyağı"
+    },
+    {
+      "name": "Mystery Veggy",
+      "price": "385 TL",
+      "description": "Maş fasulyesi, mısır, kornişon turşu, kapya köz biber, yeşil zeytin, maydanoz, iceberg marul, limon, nar, zeytinyağı, kıtır ekmek"
+    },
+    {
+      "name": "Tobasa Salata",
+      "price": "440 TL",
+      "description": "Ton balığı, rosso, mevsim turşusu, chia tohumu, çiğ badem, çeri domates, dereotu"
+    },
+    {
+      "name": "Mystery Quinoa Paradise",
+      "price": "445 TL",
+      "description": "Kırmızı kinoa, yeşil erik ızgara spagetti kabak, havuç, mısır, maydanoz, çeri domates, ay çekirdeği, lime"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "230 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37012973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie",
+      "price": "230 TL",
+      "description": "Greçka unu, dut, ham kakao, fındık sütü"
+    },
+    {
+      "name": "Greçka Baton Ekmek (500 gr.)",
+      "price": "210 TL",
+      "description": "Çiğ Greçka, zeytinyağı, kaya tuzu"
+    },
+    {
+      "name": "Greçka Lavaş Ekmek",
+      "price": "130 TL",
+      "description": "Psyllumlu çiğ Greçka, zeytinyağı, kaya tuzu"
+    },
+    {
+      "name": "Portakallı Muffin",
+      "price": "110 TL",
+      "description": "Portakal, dut, yumurta, Greçka unu"
+    },
+    {
+      "name": "Harnuplu Fındıklı Muffin",
+      "price": "110 TL",
+      "description": "Dut pekmezi, fındık, Greçka unu, Harnup unu, badem sütü"
+    },
+    {
+      "name": "Cookie",
+      "price": "160 TL",
+      "description": "Damla bitter çikolata, sut, Greçka unu, tereyağı"
+    },
+    {
+      "name": "Meyveli Kakaolu Fındık Kremalı Waffle",
+      "price": "400 TL",
+      "description": "Muz, çilek, kivi, fındık kreması, Greçka unu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37012929.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Ballı Waffle",
+      "price": "405 TL",
+      "description": "Muz, çilek, kivi, bal, Greçka unu"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "105 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013137.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "105 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "105 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "105 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (25 cl.)",
+      "price": "105 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "95 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "100 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "95 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013268.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013274.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull (25 cl.)",
+      "price": "135 TL",
+      "description": "Enerji içeceği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37013281.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    }
+  ]
+}

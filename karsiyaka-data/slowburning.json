@@ -1,0 +1,108 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/wssh/slow-burning",
+  "google": "",
+  "products": [
+    {
+      "name": "Alfredo Burger",
+      "price": "405 TL",
+      "description": "150 gr. antrikot eti, alfredo sos, turşu, cheddar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205907.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Smash Burger",
+      "price": "405 TL",
+      "description": "150 gr. antrikot eti, turşu, cheddar peyniri, Slow burning sos. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205908.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "With Dough Burger",
+      "price": "430 TL",
+      "description": "Kapalı hamur içine; 150 gr. antrikot eti, mozzarella peyniri, cheddar peyniri, yeşillik. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taco Chicken",
+      "price": "285 TL",
+      "description": "Tavuk, renkli biberler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taco Beef",
+      "price": "350 TL",
+      "description": "Et, renkli biberler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205906.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peri Peri Chicken",
+      "price": "290 TL",
+      "description": "350 gr. tavuk, Slow burning peri peri sos. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205910.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Herbs With Chicken",
+      "price": "290 TL",
+      "description": "350 gr. tavuk, Slow Burning Herbs sos. Baharatlı patates kızartması, cheddar peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205911.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": "230 TL",
+      "description": "4 peynirle hazırlanan peynir topları, ev yapımı sos, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205901.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dynamite Chicken",
+      "price": "240 TL",
+      "description": "Acılı dynamite sos, panelenmiş kızarmış tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "190 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Salad",
+      "price": "240 TL",
+      "description": "Tatlı mısır, cherry domates, parmesan peyniri, ranch sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205845.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slow Burning Salad",
+      "price": "240 TL",
+      "description": "Nacho sos, yeşillik, cheddar peyniri, baharatlı patates cipsi, domates, sweet cihili sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205847.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "40 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205915.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205917.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66205918.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

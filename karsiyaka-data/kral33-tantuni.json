@@ -1,0 +1,108 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/zhfb/kral-33-tantuni",
+  "google": "",
+  "products": [
+    {
+      "name": "Et Tantuni Dürüm",
+      "price": "202,50 TL270 TL",
+      "description": "100 gr. dana biftek, maydanoz, soğan, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30366327.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Tantuni",
+      "price": "210 TL280 TL",
+      "description": "100 gr. dana but ayna eti. Maydanoz, soğan, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56509218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Tantuni",
+      "price": "153,75 TL205 TL",
+      "description": "110 gr. tavuk göğüs eti, maydanoz, soğan, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54681407.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm",
+      "price": "150 TL200 TL",
+      "description": "110 gr. tavuk göğüs eti, maydanoz, soğan, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54681408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lagash Çiğ Köfte (200 gr.)",
+      "price": "97,50 TL130 TL",
+      "description": "Iceberg marul, nar ekşisi, turşu, acı sos, limon, 2 adet lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074600.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lagash Çiğ Köfte (400 gr.)",
+      "price": "150 TL200 TL",
+      "description": "Iceberg marul, nar ekşisi, turşu, acı sos, limon, 4 adet lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074601.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lagash Çiğ Köfte Dürüm",
+      "price": "56,25 TL75 TL",
+      "description": "Nar ekşisi, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "48 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074604.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "48 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074606.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "48 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "48 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Şalgam Suyu (30 cl.)",
+      "price": "37,50 TL50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074609.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "37,50 TL50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074610.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "30 TL40 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074611.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "30 TL40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074612.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "22,50 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "18 TL24 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6074614.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

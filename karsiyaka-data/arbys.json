@@ -1,0 +1,796 @@
+{
+  "0": {
+    "name": "Beef'n Cheddar XL Menü",
+    "price": "290 TL",
+    "description": "Beef'n Cheddar XL + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24330837.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "1": {
+    "name": "Coca-Cola Fırsatı (Arby’s®’den Classic Combo Menü)",
+    "price": "350 TL",
+    "description": "Biftek Klasik + Roast Beef Deluxe + Tırtıklı Patates (Orta) + Soğan Halkası (6'lı) + Coca-Cola (1 L.)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594010.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "2": {
+    "name": "Füme Kaburga Peynirli Baget Menü",
+    "price": "275 TL",
+    "description": "Füme Kaburga Peynirli Baget + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331143.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "3": {
+    "name": "Fırsat Menü",
+    "price": "240 TL",
+    "description": "Roast Beef Deluxe Jr. + Roast Chicken Deluxe Jr. + Tırtıklı Patates (Orta) + Soğan Halkası (6'lı) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802990.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "4": {
+    "name": "Beef'n Cheddar Menü",
+    "price": "245 TL",
+    "description": "Beef'n Cheddar + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24330797.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "5": {
+    "name": "3'lü Beef'n Cheddar Jr. Fırsatı",
+    "price": "330 TL",
+    "description": "3 Adet Beef'n Cheddar Jr. Sandviç + Tırtıklı Patates (Büyük) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/46602860.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "6": {
+    "name": "Coca-Cola Fırsatı (Pro Gamer Menü)",
+    "price": "280 TL",
+    "description": "Beef'n Cheddar + Tırtıklı Patates (Orta) + Chicken Tenders (6'lı) + Coca-Cola (1 L.)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802973.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "7": {
+    "name": "Coca-Cola Fırsatı (Arby’s®’den Classic Combo Menü)",
+    "price": "350 TL",
+    "description": "Biftek Klasik + Roast Beef Deluxe + Tırtıklı Patates (Orta) + Soğan Halkası (6'lı) + Coca-Cola (1 L.)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594010.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "8": {
+    "name": "Algida Menüsü (Algida’lı Fırsat)",
+    "price": "290 TL",
+    "description": "Barbekü Deluxe XL + Tırtıklı Patates (Orta) + Algida Magnum Mini Cookie + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384787.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "9": {
+    "name": "3'lü Beef'n Cheddar Jr. Fırsatı",
+    "price": "330 TL",
+    "description": "3 Adet Beef'n Cheddar Jr. Sandviç + Tırtıklı Patates (Büyük) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/46602860.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "10": {
+    "name": "Fırsat Menü",
+    "price": "240 TL",
+    "description": "Roast Beef Deluxe Jr. + Roast Chicken Deluxe Jr. + Tırtıklı Patates (Orta) + Soğan Halkası (6'lı) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802990.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "11": {
+    "name": "Ete Doyuran Teklif",
+    "price": "390 TL",
+    "description": "2 Adet Füme Kaburga Klasik Sandviç + Tırtıklı Patates (Orta) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594023.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "12": {
+    "name": "Arby's® İkilim",
+    "price": "200 TL",
+    "description": "2 Adet Tavukburger® + Tırtıklı Patates (Orta) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/39950683.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "13": {
+    "name": "2'li Beef’n Kampanyası",
+    "price": "430 TL",
+    "description": "2 Adet Beef’n Cheddar Sandviç + Tırtıklı Patates (Orta) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802982.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "14": {
+    "name": "3'lü Beef'n Kampanyası",
+    "price": "600 TL",
+    "description": "3 Adet Beef'n Cheddar Sandviç + Tırtıklı Patates (Büyük) + Soğan Halkası (10'lu) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802984.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "15": {
+    "name": "3 Kişilik Seçmeli Menü",
+    "price": "380 TL",
+    "description": "3 Adet Seçeceğiniz Sandviç + Tırtıklı Patates (Büyük) + Soğan Halkası (10'lu) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802991.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "16": {
+    "name": "4 Kişilik Seçmeli Menü",
+    "price": "440 TL",
+    "description": "4 Adet Seçeceğiniz Sandviç + Tırtıklı Patates (Büyük) + Soğan Halkası (12'li) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10802992.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "17": {
+    "name": "Çıtır Maç Kutusu",
+    "price": "250 TL",
+    "description": "Soğan Halkası (12'li) + Cheese Sticks (3'lü) + Tenders (9'lu) + Tırtıklı Patates (Büyük) + 1L. İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24292710.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "18": {
+    "name": "Beşiktaş Taraftar Menüsü",
+    "price": "270 TL",
+    "description": "Roast Chicken Deluxe + Beef'n Cheddar Jr. + Tırtıklı Patates (Orta) + Soğan Halkası (4’lü) + Tenders (4’lü) + 1L. İçecek (Her aldığın menü ile Beşiktaş’a destek ol, takımın kazansın!)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/48443311.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "19": {
+    "name": "Fenerbahçe Taraftar Menüsü",
+    "price": "270 TL",
+    "description": "Roast Chicken Deluxe + Beef'n Cheddar Jr. + Tırtıklı Patates (Orta) + Soğan Halkası (4’lü) + Tenders (4’lü) + 1L. İçecek (Her aldığın menü ile Fenerbahçe’ye destek ol, takımın kazansın!)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/48457334.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "20": {
+    "name": "Galatasaray Taraftar Menüsü",
+    "price": "270 TL",
+    "description": "Roast Chicken Deluxe + Beef'n Cheddar Jr. + Tırtıklı Patates (Orta) + Soğan Halkası (4’lü) + Tenders (4’lü) + 1L. İçecek (Her aldığın menü ile Galatasaray’a destek ol, takımın kazansın!)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/48457810.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "21": {
+    "name": "Trabzonspor Taraftar Menüsü",
+    "price": "270 TL",
+    "description": "Roast Chicken Deluxe + Beef'n Cheddar Jr. + Tırtıklı Patates (Orta) + Soğan Halkası (4’lü) + Tenders (4’lü) + 1L. İçecek (Her aldığın menü ile Trabzonspor’a destek ol, takımın kazansın!)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/48458231.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "22": {
+    "name": "Beef'n Cheddar Menü",
+    "price": "245 TL",
+    "description": "Beef'n Cheddar + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24330797.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "23": {
+    "name": "Beef'n Cheddar XL Menü",
+    "price": "290 TL",
+    "description": "Beef'n Cheddar XL + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24330837.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "24": {
+    "name": "Beef'n Cheddar Jr. Menü",
+    "price": "195 TL",
+    "description": "Beef'n Cheddar Jr. + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/43453931.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "25": {
+    "name": "Barbekü Deluxe Menü",
+    "price": "235 TL",
+    "description": "Barbekü Deluxe + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331172.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "26": {
+    "name": "Barbekü Deluxe XL Menü",
+    "price": "280 TL",
+    "description": "Barbekü Deluxe XL + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594045.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "27": {
+    "name": "Roast Beef Deluxe Jr. Menü",
+    "price": "220 TL",
+    "description": "Roast Beef Deluxe Jr. + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24333397.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "28": {
+    "name": "Roast Beef Deluxe Menü",
+    "price": "235 TL",
+    "description": "Roast Beef Deluxe + Tırtıklı Patates (Orta)+ Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331543.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "29": {
+    "name": "Arby's® Roast Beef Deluxe XL Menü",
+    "price": "265 TL",
+    "description": "Arby's® Roast Beef Deluxe XL + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594051.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "30": {
+    "name": "Roast Chicken Deluxe Jr. Menü",
+    "price": "160 TL",
+    "description": "Roast Chicken Deluxe Jr. + Tırtıklı Patates (Küçük) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24333458.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "31": {
+    "name": "Roast Chicken Deluxe Menü",
+    "price": "185 TL",
+    "description": "Roast Chicken Deluxe + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331637.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "32": {
+    "name": "Roast Chicken Deluxe XL Menü",
+    "price": "215 TL",
+    "description": "Roast Chicken Deluxe XL + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/43005694.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "33": {
+    "name": "Smoky Chicken Sandviç Menü",
+    "price": "215 TL",
+    "description": "Smoky Chicken + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331296.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "34": {
+    "name": "Smoky Chicken XL Sandviç Menü",
+    "price": "245 TL",
+    "description": "Smoky Chicken XL + Tırtıklı Patates (Orta) +Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/43000759.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "35": {
+    "name": "Klasik Gurme Tavuk Menü",
+    "price": "210 TL",
+    "description": "Klasik Gurme Tavuk + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331923.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "36": {
+    "name": "BBQ Gurme Tavuk Menü",
+    "price": "215 TL",
+    "description": "BBQ Gurme Tavuk + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24332462.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "37": {
+    "name": "Çıtır Baget Etli Menü",
+    "price": "240 TL",
+    "description": "Çıtır Baget Etli + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24332668.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "38": {
+    "name": "Çıtır Baget Tavuklu Menü",
+    "price": "195 TL",
+    "description": "Çıtır Baget Tavuklu + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24333037.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "39": {
+    "name": "Biftek Klasik Menü",
+    "price": "275 TL",
+    "description": "Biftek Klasik + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594047.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "40": {
+    "name": "Biftek Philly Baget Menü",
+    "price": "275 TL",
+    "description": "Biftek Philly Baget + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331430.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "41": {
+    "name": "Biftek Philly Brioche Menü",
+    "price": "275 TL",
+    "description": "Biftek Philly Brioche + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331689.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "42": {
+    "name": "Füme Kaburga Klasik Menü",
+    "price": "265 TL",
+    "description": "Füme Kaburga Klasik + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594042.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "43": {
+    "name": "Füme Kaburga Peynirli Baget Menü",
+    "price": "275 TL",
+    "description": "Füme Kaburga Peynirli Baget + Tırtıklı Patates (Orta) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24331143.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "44": {
+    "name": "Tavukburger® Menü",
+    "price": "155 TL",
+    "description": "Tavukburger® Sandviç + Tırtıklı Patates (Küçük) + Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24333567.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "45": {
+    "name": "Kids Roast Chicken Menü",
+    "price": "180 TL",
+    "description": "Kids Roast Chicken Sandviç + Tırtıklı Patates (Küçük) + Ayran (20 cl.)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803034.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "46": {
+    "name": "Kids Roast Beef Menü",
+    "price": "190 TL",
+    "description": "Kids Roast Beef Sandviç + Tırtıklı Patates (Küçük) + Ayran (20 cl.)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803033.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "47": {
+    "name": "Kids Roast Beef Menü (Oyuncaksız)",
+    "price": "185 TL",
+    "description": "Kids Roast Beef Sandviç + Tırtıklı Patates (Küçük) + Ayran (20 cl.)",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803035.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "48": {
+    "name": "Kids Tavukburger Menü",
+    "price": "165 TL",
+    "description": "Kids Tavukburger + Tırtıklı Patates (Küçük) + Ayran (20 cl.) + Sürpriz Oyuncak",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/66733816.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "49": {
+    "name": "Beef'n Cheddar",
+    "price": "210 TL",
+    "description": "Roast beef, kavrulmuş soğanlı ekmek, cheddar cheese sos, red ranch sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803036.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "50": {
+    "name": "Beef'n Cheddar XL",
+    "price": "260 TL",
+    "description": "Roast beef, kavrulmuş soğanlı ekmek, cheddar cheese sos, red ranch sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803037.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "51": {
+    "name": "Beef'n Cheddar Jr.",
+    "price": "165 TL",
+    "description": "Roast beef, kavrulmuş soğanlı ekmek, cheddar cheese sos, red ranch sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/43453380.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "52": {
+    "name": "Barbekü Deluxe",
+    "price": "205 TL",
+    "description": "Roast beef, ekmek, çıtır soğan, peynir, barbekü sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803040.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "53": {
+    "name": "Barbekü Deluxe XL",
+    "price": "250 TL",
+    "description": "Roast beef, ekmek, çıtır soğan, peynir, barbekü sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594077.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "54": {
+    "name": "Roast Beef Deluxe Jr.",
+    "price": "185 TL",
+    "description": "Roast beef, susamlı ekmek, domates, marul, soğan, ketçap, mayonez, hardal, turşu",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803060.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "55": {
+    "name": "Roast Beef Deluxe",
+    "price": "205 TL",
+    "description": "Roast beef, susamlı ekmek, domates, marul, soğan, ketçap, mayonez, hardal, turşu",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803045.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "56": {
+    "name": "Arby's® Roast Beef Deluxe XL",
+    "price": "250 TL",
+    "description": "Roast beef, susamlı ekmek, domates, marul, soğan, ketçap, mayonez, hardal, turşu",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594083.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "57": {
+    "name": "Roast Chicken Deluxe Jr.",
+    "price": "130 TL",
+    "description": "Susamlı ekmek, domates, marul, mayonez",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803059.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "58": {
+    "name": "Roast Chicken Deluxe",
+    "price": "150 TL",
+    "description": "Roast chicken, susamlı ekmek, domates, marul, mayonez",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803046.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "59": {
+    "name": "Roast Chicken Deluxe XL",
+    "price": "185 TL",
+    "description": "Roast chicken, domates , göbek marul , mayonez",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/43005697.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "60": {
+    "name": "Smoky Chicken Sandviç",
+    "price": "185 TL",
+    "description": "Özel dilimlenmiş roast chicken ve füme eti, çıtır soğan, rendelenmiş mozzarella peyniri, mayonez, barbekü sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803042.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "61": {
+    "name": "Smoky Chicken XL Sandviç",
+    "price": "215 TL",
+    "description": "Özel dilimlenmiş roast chicken ve füme eti, çıtır soğan, rendelenmiş mozzarella peyniri, mayonez, barbekü sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/43000481.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "62": {
+    "name": "Klasik Gurme Tavuk Sandviç",
+    "price": "180 TL",
+    "description": "Gurme tavuk eti, dilim domates, marul, mayonez",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803050.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "63": {
+    "name": "BBQ Gurme Tavuk Sandviç",
+    "price": "185 TL",
+    "description": "Gurme tavuk eti, dilim cheddar peyniri, çıtır soğan, marul, barbekü sos",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803051.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "64": {
+    "name": "Çıtır Baget Etli",
+    "price": "210 TL",
+    "description": "Baget ekmeği, roast beef, domates, şerit turşu, marul, kırmızı soğan, gyro sos ve özel baharatıyla",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803054.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "65": {
+    "name": "Çıtır Baget Tavuklu",
+    "price": "165 TL",
+    "description": "Baget ekmeği, roast chicken, domates, şerit turşu, marul, kırmızı soğan, gyro sos ve özel baharatıyla",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803053.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "66": {
+    "name": "Biftek Klasik Sandviç",
+    "price": "245 TL",
+    "description": "Biftek eti, susamlı ekmek, domates, turşu, marul, dilim soğan, mayonez, gyro baharat",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594079.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "67": {
+    "name": "Biftek Philly Baget Sandviç",
+    "price": "245 TL",
+    "description": "Biftek eti, baget ekmek, philly sos (soğan, kırmızı ve yeşil biberli), mayonez, rende mozzarella peyniri",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803044.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "68": {
+    "name": "Biftek Philly Brioche Sandviç",
+    "price": "245 TL",
+    "description": "Biftek eti, brioche ekmek, philly sos (soğan, kırmızı ve yeşil biberli), mayonez, rende kaşar peyniri",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803048.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "69": {
+    "name": "Füme Kaburga Klasik Sandviç",
+    "price": "245 TL",
+    "description": "Füme kaburga eti, susamlı ekmek, domates, turşu, mayonez",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594074.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "70": {
+    "name": "Füme Kaburga Peynirli Baget Sandviç",
+    "price": "245 TL",
+    "description": "Füme kaburga eti, baget ekmek, rende mozzarella, mayonez",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803039.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "71": {
+    "name": "Tavukburger®",
+    "price": "125 TL",
+    "description": "Tavuk burger eti, ekmek, mayonez, marul, domates",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803061.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "72": {
+    "name": "Kids Tavukburger",
+    "price": "135 TL",
+    "description": "Göbek salata, mayonez, domates",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/66733705.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "73": {
+    "name": "Akdeniz Salata (Mini)",
+    "price": "70 TL",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/24293255.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "74": {
+    "name": "Akdeniz Salata",
+    "price": "75 TL",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803071.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "75": {
+    "name": "Roast Beef Salata",
+    "price": "95 TL",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803070.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "76": {
+    "name": "Roast Chicken Salata",
+    "price": "80 TL",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803069.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "77": {
+    "name": "Soğan Halkası (6'lı)",
+    "price": "30 TL",
+    "description": "6 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803087.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "78": {
+    "name": "Soğan Halkası (8'li)",
+    "price": "40 TL",
+    "description": "8 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803088.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "79": {
+    "name": "Cheese Sticks (4'lü)",
+    "price": "60 TL",
+    "description": "4 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803081.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "80": {
+    "name": "Cheese Sticks (8'li)",
+    "price": "100 TL",
+    "description": "8 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803082.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "81": {
+    "name": "Chicken Tenders (6'lı)",
+    "price": "60 TL",
+    "description": "6 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803084.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "82": {
+    "name": "Chicken Tenders (9'lu)",
+    "price": "80 TL",
+    "description": "9 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803085.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "83": {
+    "name": "Curly Fries (Küçük)",
+    "price": "60 TL",
+    "description": "Küçük Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803072.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "84": {
+    "name": "Curly Fries (Orta)",
+    "price": "65 TL",
+    "description": "Orta Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803073.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "85": {
+    "name": "Curly Fries (Büyük)",
+    "price": "75 TL",
+    "description": "Büyük Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803074.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "86": {
+    "name": "Curly Fries (Jumbo)",
+    "price": "85 TL",
+    "description": "Jumbo Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803075.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "87": {
+    "name": "Tırtıklı Patates (Küçük)",
+    "price": "35 TL",
+    "description": "Küçük Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803076.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "88": {
+    "name": "Tırtıklı Patates (Orta)",
+    "price": "40 TL",
+    "description": "Orta Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803077.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "89": {
+    "name": "Tırtıklı Patates (Büyük)",
+    "price": "45 TL",
+    "description": "Büyük Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803078.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "90": {
+    "name": "Tırtıklı Patates (Jumbo)",
+    "price": "50 TL",
+    "description": "Jumbo Boy",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803079.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "91": {
+    "name": "Çikolatalı Sufle",
+    "price": "70 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803114.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "92": {
+    "name": "Algida Max Classics Vanilya",
+    "price": "25 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384375.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "93": {
+    "name": "Algida Max Classics Kakao",
+    "price": "25 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384378.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "94": {
+    "name": "Algida Max Classics Antep Fıstıklı",
+    "price": "25 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384380.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "95": {
+    "name": "Algida Carte d'Or Mini Cup Meyve Rüyası (110 ml.)",
+    "price": "45 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384789.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "96": {
+    "name": "Algida Carte d'Or Mini Cup Çilekli Yoğurtlu",
+    "price": "45 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384373.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "97": {
+    "name": "Algida Carte d'Or Mini Cup Çikolata Karnavalı",
+    "price": "45 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384791.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "98": {
+    "name": "Algida Maraş Usulü Cup Dondurma",
+    "price": "45 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384790.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "99": {
+    "name": "Algida Classics Cookie Cup",
+    "price": "45 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384371.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "100": {
+    "name": "Algida Mini Nogger Sandwich",
+    "price": "50 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384364.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "101": {
+    "name": "Algida Magnum Mini Cookie",
+    "price": "50 TL",
+    "description": "Dondurma",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/35384357.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "102": {
+    "name": "Algida Magnum Mini Badem (58 ml.)",
+    "price": "45 TL",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/59841365.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "103": {
+    "name": "Coca-Cola Zero Sugar (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803120.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "104": {
+    "name": "Coca-Cola (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803121.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "105": {
+    "name": "Coca-Cola Light (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/26594158.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "106": {
+    "name": "Fuse Tea Şeftali (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803125.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "107": {
+    "name": "Fuse Tea Limon (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803126.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "108": {
+    "name": "Fanta (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803123.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "109": {
+    "name": "Sprite (33 cl.)",
+    "price": "40 TL",
+    "description": "Kutu İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803124.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "110": {
+    "name": "Ayran (Küçük - 200 ml.)",
+    "price": "25 TL",
+    "description": "20 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803134.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "111": {
+    "name": "Ayran (Büyük - 300 ml.)",
+    "price": "30 TL",
+    "description": "30 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803135.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "112": {
+    "name": "Coca-Cola Zero Sugar (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803129.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "113": {
+    "name": "Coca-Cola (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803127.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "114": {
+    "name": "Coca-Cola Light (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803128.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "115": {
+    "name": "Fuse Tea Şeftali (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803132.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "116": {
+    "name": "Fuse Tea Limon (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803133.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "117": {
+    "name": "Fanta (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803130.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "118": {
+    "name": "Sprite (1 L.)",
+    "price": "50 TL",
+    "description": "Litrelik İçecek",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803131.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "119": {
+    "name": "Cappy Şeftali (20 cl.)",
+    "price": "25 TL",
+    "description": "20 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803137.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "120": {
+    "name": "Cappy Karışık (20 cl.)",
+    "price": "25 TL",
+    "description": "20 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803138.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "121": {
+    "name": "Cappy Elma (20 cl.)",
+    "price": "25 TL",
+    "description": "20 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803139.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "122": {
+    "name": "Cappy Kayısı (20 cl.)",
+    "price": "25 TL",
+    "description": "20 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803140.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "123": {
+    "name": "Su (50 cl.)",
+    "price": "15 TL",
+    "description": "50 cl.",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803136.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "124": {
+    "name": "Ketçap",
+    "price": "5 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803152.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "125": {
+    "name": "Mayonez",
+    "price": "5 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803153.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "126": {
+    "name": "Baharatlı Sos",
+    "price": "5 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803156.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "127": {
+    "name": "Sarımsaklı Mayonez",
+    "price": "5 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803160.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "128": {
+    "name": "Barbekü Sos",
+    "price": "8 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803154.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "129": {
+    "name": "Horsey Sos",
+    "price": "8 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803157.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "130": {
+    "name": "Hot Chili Sos",
+    "price": "8 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803159.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "131": {
+    "name": "Ranch Sos",
+    "price": "8 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803161.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "132": {
+    "name": "Cheddar Sos",
+    "price": "30 TL",
+    "description": "1 Adet",
+    "image": "https://images.deliveryhero.io/image/fd-tr/Products/10803158.jpg?width=150.00000223517418&height=150.00000223517418"
+  },
+  "google": ""
+}

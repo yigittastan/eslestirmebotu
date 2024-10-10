@@ -1,0 +1,886 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/bdi5/papa-johns-pizza-bdi5",
+  "google": "",
+  "products": [
+    {
+      "name": "2'li Orta Menüsü",
+      "price": "399,99 TL",
+      "description": "2 Adet Orta Boy Pizza (Vejetaryen pizzalar için geçerlidir. Özel pizzalar 29 TL, Dünya pizzalar 39 TL, Klasik pizzalar 59 TL farkla alınabilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25762731.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Büyük Boy Pizza",
+      "price": "289,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Büyük Boy Pepperoni Fırsatı",
+      "price": "269,99 TL",
+      "description": "1 Adet Büyük Boy Pepperoni Pizza",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771317.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Orta Boy Pizza",
+      "price": "229,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 29 TL, Dünya pizzalar 39 TL, Klasik pizzalar 59 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771331.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Büyük Menü",
+      "price": "499,99 TL",
+      "description": "2 Adet Büyük Boy Pizza (Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25922572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Büyük Boy Sarımsak Fesleğenli Cheddar Peynirli Pizza Fırsatı",
+      "price": "279,99 TL",
+      "description": "Sarımsak, fesleğen, cheddar peyniri, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37521475.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yemek Sepeti Özel Menü.",
+      "price": "309,99 TL417,97 TL",
+      "description": "Favorite Pizza (Büyük) + 2 Adet Sarımsak Sos + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65863280.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Büyük Boy Pepperoni Fırsatı",
+      "price": "269,99 TL",
+      "description": "1 Adet Büyük Boy Pepperoni Pizza",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771317.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Orta Boy Pizza",
+      "price": "229,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 29 TL, Dünya pizzalar 39 TL, Klasik pizzalar 59 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771331.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Büyük Boy Pizza",
+      "price": "289,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Büyük Boy Ispanaklı Alfredo Fırsatı",
+      "price": "249,99 TL",
+      "description": "Enfes alfredo sos ile mozzerella peynirinden oluşan pizza lezzeti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37521294.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Büyük Boy Sarımsak Fesleğenli Cheddar Peynirli Pizza Fırsatı",
+      "price": "279,99 TL",
+      "description": "Sarımsak, fesleğen, cheddar peyniri, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37521475.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red & Roll Menü",
+      "price": "199,99 TL",
+      "description": "Efsane Pepperoni Roll lezzeti ile Red Bull enerjisinin birleşimi!",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66684044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orta Boy Pizza & Kutu İçecek & Sarımsak Sos",
+      "price": "229,99 TL287,74 TL",
+      "description": "Seçeceğiniz Orta Boy Pizza + Sarımsak Sosu + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59282187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orta Boy Peperoni Pizza & Sarımsak Sos",
+      "price": "199,99 TL285,85 TL",
+      "description": "Orta Boy Peperoni Pizza + Sarımsak Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59304148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Orta Boy Pizza + Litre İçecek",
+      "price": "409,99 TL504,58 TL",
+      "description": "Seçeceğiniz 2 Adet Orta Boy + Litrelik İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59304302.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orta Boy Ispanaklı Alfredo Pizza Fırsatı",
+      "price": "179,99 TL312,34 TL",
+      "description": "Ispanaklı Alfredo Pizza (Orta Boy)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59304655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orta Boy Sarımsak Fesleğenli Cheddar Peynirli Pizza Fırsatı",
+      "price": "189,99 TL311,38 TL",
+      "description": "Sarımsak Fesleğenli Cheddar Peynirli Pizza (Orta Boy)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59306824.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull Menü (Büyük)",
+      "price": "399,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Adet Orta Boy Pizza",
+      "price": "549,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 29 TL, Dünya pizzalar 39 TL, Klasik pizzalar 59 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771352.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parti Menüsü",
+      "price": "549,99 TL",
+      "description": "2 Adet Büyük Boy Pizza + Litrelik İçecek + Hediye Lipton (1 L.) (Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Orta Menüsü",
+      "price": "399,99 TL",
+      "description": "2 Adet Orta Boy Pizza (Vejetaryen pizzalar için geçerlidir. Özel pizzalar 29 TL, Dünya pizzalar 39 TL, Klasik pizzalar 59 TL farkla alınabilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25762731.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Büyük Menü",
+      "price": "499,99 TL",
+      "description": "2 Adet Büyük Boy Pizza (Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25922572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dev Doyuran Menü",
+      "price": "1.399,99 TL",
+      "description": "Pepperoni Pizza (Büyük) + Köfteli Pizza (Büyük) + Et Dönerli Pizza (Büyük) + 2 Adet Elma Dilim Patates + 2 Adet Çikolatalı Sufle + 2 Adet Litrelik İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orta Boy Sarımsak Dip Soslu Pizza",
+      "price": "239,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 29 TL, Dünya pizzalar 39 TL, Klasik pizzalar 59 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Büyük Boy Sarımsak Dip Soslu Pizza",
+      "price": "299,99 TL",
+      "description": "Vejetaryen pizzalar için geçerlidir. Özel pizzalar 39 TL, Dünya pizzalar 49 TL, Klasik pizzalar 69 TL farkla alınabilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771357.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Papa'nın Rolleri",
+      "price": "114,99 TL",
+      "description": "Ranch Sos üzerine diledğiniz, lezzet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Roll",
+      "price": "119,99 TL",
+      "description": "Ranch sos üzerine pepperoni ve mozzarella peyniri (8 adet Roll)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Çubuk",
+      "price": "69,99 TL",
+      "description": "Fırında pişirilen 6 çubuk. Pizza sosu ve özel sarımsak sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elma Dilim Patates",
+      "price": "79,99 TL",
+      "description": "Fırında altın rengini alana kadar pişirilen 200 gr. elma dilim patates. BBQ kenar sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biber Turşusu (4 Adet)",
+      "price": "14,99 TL",
+      "description": "4 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biber Turşusu (6 Adet)",
+      "price": "19,99 TL",
+      "description": "6 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771379.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biber Turşusu (20 Adet)",
+      "price": "49,99 TL",
+      "description": "20 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Poppers",
+      "price": "199,99 TL",
+      "description": "10 adet tavuk nugget. BBQ kenar sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771381.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Sarımsak Soslu Parmesanlı Klasik Çubuk",
+      "price": "79,99 TL",
+      "description": "Fırında pişirilen 6 adet çubuk, özel sarımsak sosu, parmesan peyniri. Pizza sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771382.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Çubuk",
+      "price": "169,99 TL",
+      "description": "Papa John's taze hamuru, özel sarımsak sosu, mozzarella peyniri. Pizza sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771384.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Papa'nın Ziyafet Tabağı",
+      "price": "299,99 TL",
+      "description": "4 adet tavuk kanat, 200 gr. elma dilim patates, 4 adet chicken poppers. Acı sos ve BBQ kenar sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771386.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kanat (8 Adet)",
+      "price": "279,99 TL",
+      "description": "BBQ kenar sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771387.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kendi Pizzanı Yarat (Orta)",
+      "price": "349,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri ve seçeceğiniz malzemeler ile (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bodrum Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri, dilim domates (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margarita Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, beyaz soğan, domates, siyah zeytin, beyaz peynir (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bahçe Keyfi Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, dilimlenmiş taze domates, taze mantar, beyaz soğan, yeşil biber, siyah zeytin, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, ekstra pepperoni, pizza sosu (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Favorite Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, mantar, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Tavuklu Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, ızgara tavuk, beyaz soğan, taze mantar, barbekü sosu (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771407.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, sosis, mantar, soğan, yeşil biber, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karnaval Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Mozzarella peyniri, pizza sosu, pepperoni, mantar, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Ateşi Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "BBQ sos üzerine; mozzarella peyniri, top köfte, pepperoni, mantar, jalapeno biberi (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771410.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Dalgası Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, ızgara tavuk, dilimlenmiş taze domates, beyaz soğan, yeşil biber, jalapeno biberi, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771411.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pera Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, pizza sosu, ızgara tavuk, mantar, közlenmiş kırmızıbiber, jalapeno biberi (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771412.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ateşte Kırmızı Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, sucuk, kırmızı köz biber, mantar, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Quattro Formaggi Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, hellim peyniri, taze kaşar peyniri, parmesan peyniri (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hawaii Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, jambon, ananas, ekstra peynir (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Papa Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, sosis, mantar, mısır, siyah zeytin, sucuk (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Denizci Pizza (Orta)",
+      "price": "369,99 TL",
+      "description": "Mozzarella peyniri, mısır, ton balığı, soğan, domates (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Orta)",
+      "price": "409,99 TL",
+      "description": "Yeşil biber, soğan, kavurma, közlenmiş kırmızıbiber (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suda Mozzarellalı Pizza (Orta)",
+      "price": "409,99 TL",
+      "description": "Suda mozzarella, yeşil biber, domates, közlenmiş kırmızıbiber (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Sever Pizza (Orta)",
+      "price": "349,99 TL",
+      "description": "Küp sucuk, pepperoni, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etobur Pizza (Orta)",
+      "price": "409,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, özel kıyma, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Osmanlı Pizza (Orta)",
+      "price": "409,99 TL",
+      "description": "Mozzarella peyniri, sucuk, pastırma, beyaz peynir, yeşil biber, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Küçük İtalya Pizza (Orta)",
+      "price": "409,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, mantar, siyah zeytin, kekik (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Super Papa's Pizza (Orta)",
+      "price": "409,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, jambon, taze mantar, beyaz soğan, yeşil biber, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Pizza (Büyük)",
+      "price": "359,99 TL",
+      "description": "Pizza sosu, domates, mantar, soğan, yeşil biber, zeytin, mısır (Hayvansal gıda ve peynir içermemektedir.) (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kendi Pizzanı Yarat (Büyük)",
+      "price": "399,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri ve seçeceğiniz malzemeler ile (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bodrum Pizza (Büyük)",
+      "price": "399,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri, dilim domates (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771461.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bahçe Keyfi Pizza (Büyük)",
+      "price": "399,99 TL",
+      "description": "Mozzarella peyniri, dilimlenmiş taze domates, taze mantar, beyaz soğan, yeşil biber, siyah zeytin, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771462.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Pizza (Büyük)",
+      "price": "399,99 TL",
+      "description": "Mozzarella peyniri, beyaz soğan, domates, siyah zeytin, beyaz peynir (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margarita Pizza (Büyük)",
+      "price": "399,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Tavuklu Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "Mozzarella peyniri, ızgara tavuk, beyaz soğan, taze mantar, barbekü sosu (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771465.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "Mozzarella peyniri, ekstra pepperoni, pizza sosu (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771467.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "Mozzarella peyniri, sosis, mantar, soğan, yeşil biber, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771468.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Favorite Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, mantar, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771469.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karnaval Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "Mozzarella peyniri, pizza sosu, pepperoni, mantar, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pera Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, pizza sosu, ızgara tavuk, mantar, közlenmiş kırmızıbiber, jalapeno biberi (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ateşte Kırmızı Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, sucuk, kırmızı köz biber, mantar, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hawaii Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, jambon, ananas, ekstra peynir (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Ateşi Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "BBQ sos üzerine; mozzarella peyniri, top köfte, pepperoni, mantar, jalapeno biberi (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771474.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Dalgası Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, ızgara tavuk, dilimlenmiş taze domates, beyaz soğan, yeşil biber, jalapeno biberi, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771475.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Denizci Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, mısır, ton balığı, soğan, domates (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Papa Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, sosis, mantar, mısır, siyah zeytin, sucuk (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Quattro Formaggi Pizza (Büyük)",
+      "price": "449,99 TL",
+      "description": "Mozzarella peyniri, hellim peyniri, taze kaşar peyniri, parmesan peyniri (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Büyük)",
+      "price": "499,99 TL",
+      "description": "Yeşil biber, soğan, kavurma, közlenmiş kırmızıbiber (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suda Mozzarellalı Pizza (Büyük)",
+      "price": "499,99 TL",
+      "description": "Suda mozzarella, yeşil biber, domates, közlenmiş kırmızıbiber (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771480.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Sever Pizza (Büyük)",
+      "price": "429,99 TL",
+      "description": "Küp sucuk, pepperoni, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Super Papa's Pizza (Büyük)",
+      "price": "499,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, jambon, taze mantar, beyaz soğan, yeşil biber, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etobur Pizza (Büyük)",
+      "price": "499,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, özel kıyma, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Küçük İtalya Pizza (Büyük)",
+      "price": "499,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, mantar, siyah zeytin, kekik (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771484.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Osmanlı Pizza (Büyük)",
+      "price": "499,99 TL",
+      "description": "Mozzarella peyniri, sucuk, pastırma, beyaz peynir, yeşil biber, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Pizza (Küçük)",
+      "price": "149,99 TL",
+      "description": "Pizza sosu, domates, mantar, soğan, yeşil biber, zeytin, mısır (Hayvansal gıda ve peynir içermemektedir.) (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kendi Pizzanı Yarat (Küçük)",
+      "price": "209,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri ve seçeceğiniz malzemeler ile (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bodrum Pizza (Küçük)",
+      "price": "209,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri, dilim domates (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Pizza (Küçük)",
+      "price": "209,99 TL",
+      "description": "Mozzarella peyniri, beyaz soğan, domates, siyah zeytin, beyaz peynir (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bahçe Keyfi Pizza (Küçük)",
+      "price": "209,99 TL",
+      "description": "Mozzarella peyniri, dilimlenmiş taze domates, taze mantar, beyaz soğan, yeşil biber, siyah zeytin, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margarita Pizza (Küçük)",
+      "price": "209,99 TL",
+      "description": "Pizza sosu, mozzarella peyniri (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Küçük)",
+      "price": "219 TL",
+      "description": "Mozzarella peyniri, ekstra pepperoni, pizza sosu (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Tavuklu Pizza (Küçük)",
+      "price": "219 TL",
+      "description": "Mozzarella peyniri, ızgara tavuk, beyaz soğan, taze mantar, barbekü sosu (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Pizza (Küçük)",
+      "price": "219 TL",
+      "description": "Mozzarella peyniri, sosis, mantar, soğan, yeşil biber, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karnaval Pizza (Küçük)",
+      "price": "219 TL",
+      "description": "Mozzarella peyniri, pizza sosu, pepperoni, mantar, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Favorite Pizza (Küçük)",
+      "price": "219 TL",
+      "description": "Mozzarella peyniri, pepperoni, mantar, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Quattro Formaggi Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, hellim peyniri, taze kaşar peyniri, parmesan peyniri (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771502.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Dalgası Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, ızgara tavuk, dilimlenmiş taze domates, beyaz soğan, yeşil biber, jalapeno biberi, mısır (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pera Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, pizza sosu, ızgara tavuk, mantar, közlenmiş kırmızıbiber, jalapeno biberi (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ateşte Kırmızı Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, sucuk, kırmızı köz biber, mantar, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771505.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hawaii Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, jambon, ananas, ekstra peynir (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Ateşi Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "BBQ sos üzerine; mozzarella peyniri, top köfte, pepperoni, mantar, jalapeno biberi (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771507.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Papa Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, sosis, mantar, mısır, siyah zeytin, sucuk (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Denizci Pizza (Küçük)",
+      "price": "239,99 TL",
+      "description": "Mozzarella peyniri, mısır, ton balığı, soğan, domates (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Küçük)",
+      "price": "269,99 TL",
+      "description": "Yeşil biber, soğan, kavurma, közlenmiş kırmızıbiber (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771510.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Sever Pizza (Küçük)",
+      "price": "219,99 TL",
+      "description": "Küp sucuk, pepperoni, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suda Mozzarellalı Pizza (Küçük)",
+      "price": "269,99 TL",
+      "description": "Suda mozzarella, yeşil biber, domates, közlenmiş kırmızıbiber (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etobur Pizza (Küçük)",
+      "price": "269,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, özel kıyma, jambon (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Osmanlı Pizza (Küçük)",
+      "price": "269,99 TL",
+      "description": "Mozzarella peyniri, sucuk, pastırma, beyaz peynir, yeşil biber, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Super Papa's Pizza (Küçük)",
+      "price": "269,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, jambon, taze mantar, beyaz soğan, yeşil biber, siyah zeytin (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Küçük İtalya Pizza (Küçük)",
+      "price": "269,99 TL",
+      "description": "Mozzarella peyniri, pepperoni, İtalyan köfte, mantar, siyah zeytin, kekik (Pizzanın yanında gönderilen pepperoncini biber turşusu ve sarımsak sosu ücrete tabidir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Cup (105 ml.)",
+      "price": "54,99 TL",
+      "description": "105 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Carte d'Or Çikolata Rüyası (110 ml.)",
+      "price": "59,99 TL",
+      "description": "100 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27311896.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte D'or Meyve Rüyası Cup (110 ml.)",
+      "price": "59,99 TL",
+      "description": "(110 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64435158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Sufle",
+      "price": "89,99 TL",
+      "description": "Çikolatalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771532.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Çikolatalı Sufle",
+      "price": "169,99 TL",
+      "description": "2 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771535.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Rolls",
+      "price": "109,99 TL",
+      "description": "8 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portakallı Coco (60 gr.)",
+      "price": "44,99 TL",
+      "description": "Hindistan cevizli kakaolu dilim kek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60768487.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "59,99 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "59,99 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771547.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "59,99 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "59,99 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771550.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko Cool Lime (33 cl.)",
+      "price": "59,99 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (20 cl.)",
+      "price": "39,99 TL",
+      "description": "20 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Premium Su (40 cl.)",
+      "price": "29,99 TL",
+      "description": "40 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Maden Suyu (20 cl.)",
+      "price": "35,99 TL",
+      "description": "20 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "74,99 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771557.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (1 L.)",
+      "price": "74,99 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771559.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (1 L.)",
+      "price": "74,99 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (1 L.)",
+      "price": "74,99 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771564.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (1 L.)",
+      "price": "74,99 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko Cool Lime (1 L.)",
+      "price": "74,99 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28951880.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull (25 cl.)",
+      "price": "89,99 TL",
+      "description": "25 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771566.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull Sugarfree (25 cl.)",
+      "price": "89,99 TL",
+      "description": "25 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771567.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull Peach Edition (25 cl.)",
+      "price": "89,99 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66683957.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull Red Edition (25 cl.)",
+      "price": "89,99 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66684010.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "14,99 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ballı Hardallı Sos",
+      "price": "14,99 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Kenar Sosu",
+      "price": "14,99 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771577.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Pizza Sosu",
+      "price": "14,99 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsak Sosu",
+      "price": "24,99 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771580.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Colorado Ranch Sos",
+      "price": "359,99 TL",
+      "description": "510 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27786434.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,120 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/yfp3/chef-salad-son",
+  "google": "",
+  "products": [
+    {
+      "name": "Chef Salad Tavuklu Sezar",
+      "price": "289 TL",
+      "description": "Özel Sezar sos, marine edilmiş tavuk, yeşillik, domates, salatalık, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881042.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad with Izgara Tavuk",
+      "price": "279 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, mısır, siyah zeytin. Özel döküm ızgara tavuk ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad with Schnitzel",
+      "price": "279 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, mısır, siyah zeytin. Özel baharatlı schnitzel ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad Ton Balıklı",
+      "price": "279 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, ton balığı-",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad Ton Balıklı Makarna",
+      "price": "289 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, ton balığı. Yoğurtlu makarna ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Akdeniz Salad",
+      "price": "249 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881073.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad Tavuklu Sezar",
+      "price": "289 TL",
+      "description": "Özel Sezar sos, marine edilmiş tavuk, yeşillik, domates, salatalık, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881042.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Akdeniz Salad",
+      "price": "249 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881073.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad Ton Balıklı",
+      "price": "279 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, ton balığı-",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad Ton Balıklı Makarna",
+      "price": "289 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, ton balığı. Yoğurtlu makarna ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad with Schnitzel",
+      "price": "279 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, mısır, siyah zeytin. Özel baharatlı schnitzel ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad Vegan",
+      "price": "219 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, zeytin, mısır, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881127.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chef Salad with Izgara Tavuk",
+      "price": "279 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, mısır, siyah zeytin. Özel döküm ızgara tavuk ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43433215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43433416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43433418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43433458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43433607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38881176.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

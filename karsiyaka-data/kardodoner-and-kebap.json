@@ -1,0 +1,239 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/s3l4/kardo-doner-and-kebap",
+  "google": "",
+  "products": [
+    {
+      "name": "Coca-Cola Fırsatı (Tavuk Döner Dürüm)",
+      "price": "148,50 TL165 TL",
+      "description": "Tavuk Döner Dürüm + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "160 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153967.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "160 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153968.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "99 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153969.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "99 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153970.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası",
+      "price": "99 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153971.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "235 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153954.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Kebap",
+      "price": "235 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153955.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": "185 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153956.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kanat",
+      "price": "195 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153957.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "199 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153958.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Şiş",
+      "price": "280 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153959.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarma Beyti Kebap",
+      "price": "285 TL",
+      "description": "Lavaşa sarılı, soslu, yoğurtlu. Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153960.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner",
+      "price": "230 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153976.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Tavuk Dönerden)",
+      "price": "230 TL",
+      "description": "Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner",
+      "price": "230 TL",
+      "description": "Pirinç pilavı, tavuk döner. Közlenmiş biber, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153975.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "120 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "120 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Tavuk Döner",
+      "price": "189 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153977.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm",
+      "price": "190 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Dürüm",
+      "price": "190 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153962.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "125 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153963.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Şiş Dürüm",
+      "price": "230 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153964.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte Dürüm",
+      "price": "189 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Yarım Ekmek Arası Köfte",
+      "price": "190 TL",
+      "description": "Yeşillik, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153966.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153985.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153984.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "30 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153979.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "25 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153981.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "10 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153982.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "55 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (2 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153987.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Baklava (1 kg.)",
+      "price": "250 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fıstıklı Baklava (1 kg.)",
+      "price": "400 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153989.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Maraş Dondurması (1 kg.)",
+      "price": "370 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153990.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48153991.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,363 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/cj96/goldenfingers-burger-and-cheesesteak",
+  "google": "",
+  "products": [
+    {
+      "name": "Cheeseburger",
+      "price": "304,88 TL406,50 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF burger sos, karamelize soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559128.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Badass Cheeseburger",
+      "price": "348,90 TL465,20 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, double sayas peyniri, GF burger sos, karamelize soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974936.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Chicken Tenders (120 gr.)",
+      "price": "138,07 TL184,10 TL",
+      "description": "120 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüflü Meaty Burger",
+      "price": "428,92 TL571,90 TL",
+      "description": "Smash burger köftesi, füme antrikot, double American cheddar, GF burger sos, trüflü mayonez, taze karabiber, kırmızı soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33901796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Chicken Tenders (160 gr.)",
+      "price": "170,25 TL227 TL",
+      "description": "160 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974962.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Cheeseburger Menü",
+      "price": "321,38 TL428,50 TL",
+      "description": "2 Adet Gang Cheeseburger + 1 Adet Patates Kızartması"
+    },
+    {
+      "name": "Back To The Home Menü",
+      "price": "448,80 TL598,40 TL",
+      "description": "GF Cheeseburger + Patates Kızartması (Orta Boy) + Soğan Halkası + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29678425.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Back To The City Menü",
+      "price": "641,70 TL855,60 TL",
+      "description": "Gf Cheeseburger + Gf Chicken Burger + Patates Kızartması (Büyük) + Soğan Halkası (6 Adet) + Kutu İçecek (2 Adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29679669.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Back To The School Menü",
+      "price": "373,80 TL498,40 TL",
+      "description": "Gf Chicken Burger + Patates Kızartması (Orta Boy) + Soğan Halkası + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29679867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Snacks Mix Menü",
+      "price": "266,70 TL355,60 TL",
+      "description": "3 adet chicken tenders, 3 adet soğan halkası, 3 adet golden nugget, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974959.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Cheeseburger Menü",
+      "price": "321,38 TL428,50 TL",
+      "description": "2 Adet Gang Cheeseburger + 1 Adet Patates Kızartması"
+    },
+    {
+      "name": "Badass Cheeseburger",
+      "price": "348,90 TL465,20 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, double sayas peyniri, GF burger sos, karamelize soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974936.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "304,88 TL406,50 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF burger sos, karamelize soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559128.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "American Classic BBQ Burger",
+      "price": "328,88 TL438,50 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF barbekü sos, GF burger sos, kırmızı soğan, çubuk turşu, marul, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559129.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "American Classic Burger",
+      "price": "328,88 TL438,50 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF burger sos, kırmızı soğan, çubuk turşu, marul, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mediterranean Burger",
+      "price": "368,92 TL491,90 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, pesto soslu ızgara karışık sebzeler, kıtır soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Burning Man Burger",
+      "price": "368,92 TL491,90 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF burger sos, GF acı sos, jalapeno biberi, köz biber karışımı, karamelize soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559137.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Turco Burger",
+      "price": "388,88 TL518,50 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF burger sos, GF demi glace sos, ızgara mantar, karamelize soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Honeymoon Burger",
+      "price": "508,88 TL678,50 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF Golden honey sos, GF burger sos, karamelize soğan, çubuk turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Texas Meaty Burger",
+      "price": "568,88 TL758,50 TL",
+      "description": "Smash burger köftesi, füme antrikot, triple American cheddar peyniri, GF cheddar sos, GF burger sos, kırmızı soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559140.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Louisiana Chicken Burger",
+      "price": "268,88 TL358,50 TL",
+      "description": "GF louisiana soslu kıtır tavuk, GF burger sos, double American cheddar peyniri, kırmızı soğan, çubuk turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gorillas XXL Burger",
+      "price": "608,92 TL811,90 TL",
+      "description": "Smash burger köftesi, triple American cheddar peyniri, GF cheddar sos, GF burger sos, dilim kırmızı soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüflü Meaty Burger",
+      "price": "428,92 TL571,90 TL",
+      "description": "Smash burger köftesi, füme antrikot, double American cheddar, GF burger sos, trüflü mayonez, taze karabiber, kırmızı soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33901796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fight Club Burger",
+      "price": "448,88 TL598,50 TL",
+      "description": "Smash burger köftesi, füme antrikot, smoked sweaty hot sos, triple American cheddar peyniri, GF cheddar sos, GF burger sos, domates, kırmızı soğan, çubuk turşu. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36089571.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sweet Chili Burger",
+      "price": "368,92 TL491,90 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, GF burger sos, sweet chili sos, kırmızı soğan, marul, domates, çubuk turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39258206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Cheeseburger",
+      "price": "308,92 TL411,90 TL",
+      "description": "Smash burger köftesi, double American cheddar peyniri, barbekü sos, GF burger sos, karamelize soğan, çubuk turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39258209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "GF Chicken Burger",
+      "price": "264,90 TL353,20 TL",
+      "description": "Burger ekmeği arasına, tavuk burger köftesi, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55420440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supernova Cheeseburger",
+      "price": "348,90 TL465,20 TL",
+      "description": "Susamsız GF burger ekmeğine; 70 gr. x 2 smash burger köftesi, double American cheddar peyniri, GF burger sos, turşu, soğan, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64438082.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americana BBQ Steak",
+      "price": "448,88 TL598,50 TL",
+      "description": "BBQ sos ile pişirilmiş Philly biftek, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "American Original Steak",
+      "price": "444,90 TL593,20 TL",
+      "description": "Philly biftek, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Honey Steak",
+      "price": "458,92 TL611,90 TL",
+      "description": "Özel mustard sos ile pişirilmiş Philly biftek, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicana Steak",
+      "price": "454,88 TL606,50 TL",
+      "description": "Meksika baharatı ile pişirilmiş philly biftek, Golden özel sos, cheddar sos, közlenmiş biber karışımı, ızgara mantar, jalapeno biber, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americana Original Philly Chicken",
+      "price": "268,88 TL358,50 TL",
+      "description": "Philly tavuk, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Honey Philly Chicken",
+      "price": "298,88 TL398,50 TL",
+      "description": "Özel mustard sos ile pişirilmiş Philly tavuk, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americana BBQ Philly Chicken",
+      "price": "278,92 TL371,90 TL",
+      "description": "Özel BBQ sosu ile pişirilmiş Philly tavuk, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Mexicana Philly Chicken",
+      "price": "288,90 TL385,20 TL",
+      "description": "Meksika baharatı ile pişirilmiş Philly tavuk, Golden özel sos, cheddar sos, közlenmiş biber karışımı, jalapeno biber, ızgara mantar, karamelize soğan, yeşillik. Patates kızartması ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Americana Steak Non Bread",
+      "price": "377,92 TL503,90 TL",
+      "description": "Philly biftek, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americana BBQ Non Bread",
+      "price": "379,88 TL506,50 TL",
+      "description": "Barbekü sos ile pişirilmiş Philly biftek, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicana Non Bread",
+      "price": "381,90 TL509,20 TL",
+      "description": "Meksika baharatı ile pişirilmiş Philly biftek, Golden özel sos, cheddar sos, köz biber karışımı, jalapeno, ızgara mantar, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Honey Non Bread",
+      "price": "384,67 TL512,90 TL",
+      "description": "Özel mustard sos ile pişirilmiş Philly biftek, Golden özel sos, cheddar sos, karamelize soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27559220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beef Cheese",
+      "price": "309,52 TL412,70 TL",
+      "description": "Günlük hazırlanır."
+    },
+    {
+      "name": "Golden Chicken Tenders (120 gr.)",
+      "price": "138,07 TL184,10 TL",
+      "description": "120 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Chicken Tenders (160 gr.)",
+      "price": "170,25 TL227 TL",
+      "description": "160 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974962.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Nugget (6 Adet)",
+      "price": "127,43 TL169,90 TL",
+      "description": "6 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974963.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Golden Nugget (9 Adet)",
+      "price": "159,52 TL212,70 TL",
+      "description": "9 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974964.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Büyük Boy)",
+      "price": "138,07 TL184,10 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974965.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Orta)",
+      "price": "105,98 TL141,30 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974966.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (6 Adet)",
+      "price": "116,70 TL155,60 TL",
+      "description": "6 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974969.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (9 Adet)",
+      "price": "148,80 TL198,40 TL",
+      "description": "9 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974970.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974977.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayran (30 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "29,17 TL38,90 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974979.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "18,67 TL24,90 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5974980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55013650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55171973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55177057.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Mango (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55179711.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55180097.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "78,07 TL104,10 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55180173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    }
+  ]
+}

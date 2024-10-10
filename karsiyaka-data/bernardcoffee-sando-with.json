@@ -1,0 +1,228 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/whvt/bernard-coffee-sando-with",
+  "google": "",
+  "products": [
+    {
+      "name": "Katsu Sando",
+      "price": "350 TL",
+      "description": "Kaplamalı çıtır et, roka, acı lahana relish, japon mayonez, tonkatsu sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tori Sando",
+      "price": "250 TL",
+      "description": "Kaplamalı çıtır tavuk, marul, turşu, mantar, biber, Japon mayonezi, mozzarella, Tonkatsu sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menchi Sando",
+      "price": "260 TL",
+      "description": "Kaplamalı köfte, roka, közlenmiş biber, halka soğan, Japon mayonezi, cheddar peyniri, Tonkatsu sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470593.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tamago Sando (Kahvaltı Önerisi)",
+      "price": "210 TL",
+      "description": "Yumurta salatası, slice cherry domates, yeşil soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470617.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beef Humus Sando",
+      "price": "300 TL",
+      "description": "Tiftik et, pancarlı humus, roka, kişniş, ızgara peynir, çıtır nohut, acı lahana relish, Tonkatsu sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Mole Sando",
+      "price": "255 TL",
+      "description": "Izgara tavuk, mole sos, roka, cherry domates, biberiye, mozzarella peyniri, istiridye mantarı, közlenmiş biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470681.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yengen Sando",
+      "price": "250 TL",
+      "description": "Izgara sosis, ızgara sucuk, bacon, ızgara peynir, turşu, mozzarella peyniri, Japon mayonezi, Tonkatsu sos, roka, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470696.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Açık Sando",
+      "price": "265 TL",
+      "description": "Izgara kardies, köz sosu, confit domates, enginar, chilli biberi, yeşil soğan, yeşil yağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar & Peynir Pate Açık Sando",
+      "price": "200 TL",
+      "description": "Peynir pate, ızgara mantar, köz biber, taze nane, glaze sos, kuşkonmaz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pancar & Tulum Açık Sando",
+      "price": "200 TL",
+      "description": "Guacamole sos, pancar, chili biber, kişniş, halka salatalık, Bergama tulum peyniri, baby turp, yeşil yağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çılbır",
+      "price": "230 TL",
+      "description": "Poşe yumurta, sarımsaklı yoğurt, ızgara mantar, kuşkonmaz, taze nane, yaprak dereotu, bergama tulum peyniri, yeşil yağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470774.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosis",
+      "price": "245 TL",
+      "description": "Göz yumurta, füme dana sosis, confit domates, küp patates, acı lahana relish, tonkatsu sos, yeşil yağ, dilim avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470840.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Scrambled",
+      "price": "230 TL",
+      "description": "Çırpılmış yumurta, dilim avokado, confit domates, küp patates, Japon mayonezi, acı lahana relish, chili biber, yeşil yağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470932.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Köz Patlıcan Çorbası",
+      "price": "160 TL",
+      "description": "Közlenmiş patlıcan, mantar parçaları, yeşil yağ, sando kruton, shokupan ekmeği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60470983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "110 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60473890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlı Patates Kızartması",
+      "price": "120 TL",
+      "description": "Dilimlenmiş patateslerin kızartılıp baharatlandırılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60474164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Wasabi Cream Patates",
+      "price": "150 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60474410.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ballı Vinaigrette Salata",
+      "price": "110 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60474651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sando Cake",
+      "price": "220 TL",
+      "description": "Beyaz çikolatalı pastacı kreması, böğürtlen, çilek, taze nane",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60471006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıtırlı Lemon Curd",
+      "price": "200 TL",
+      "description": "Kıtır taban, limon kaymağı, Meksika reçeli, rende çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60471123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Mousse",
+      "price": "200 TL",
+      "description": "Kavrulmuş fındık ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60471281.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zemin'den Churros",
+      "price": "170 TL",
+      "description": "Çikolata sos, acı çilek, reçeli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60472284.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475652.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475669.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475685.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475690.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "62 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Efsane Uludağ Şekersiz Gazoz (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60476306.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Capri-Sun Safari (20 cl.)",
+      "price": "42 TL",
+      "description": "Meyve suyu konsantresi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "52 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu Suyu (20 cl.)",
+      "price": "52 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İzmir Neşecan Ayran (28 cl.)",
+      "price": "52 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475844.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Premium Soda (25 cl.)",
+      "price": "55 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "37 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60475955.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Premium Su (40 cl.)",
+      "price": "32 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60476061.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60476851.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

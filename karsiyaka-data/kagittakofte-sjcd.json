@@ -1,0 +1,183 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/sjcd/kagitta-kofte-sjcd",
+  "google": "",
+  "products": [
+    {
+      "name": "Kağıtta Köfte",
+      "price": "285 TL",
+      "description": "170 gr. 10 adet köfte, özel sosla kızartılmış ekmek, domates, biber, yeşillik, baharat, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Köfte",
+      "price": "205 TL",
+      "description": "Özel sosla kızartılmış yarım ekmek arası 6 adet köfte, yeşillik, domates, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3\\4 Ekmek Arası Köfte",
+      "price": "230 TL",
+      "description": "3 parça soslu ekmek, 8 adet köfte, domates, soğan, maydanoz. Acı biber, baharat ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piyaz",
+      "price": "90 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "95 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Kocaman Burger",
+      "price": "320 TL",
+      "description": "Büyük hamburger ekmeğine; 170 gr. burger köfte, 2 adet cheddar peyniri, domates, marul, turşu, karamelize soğan, özel soslar, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24497212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Kağıtta Köfte)",
+      "price": "355,50 TL395 TL",
+      "description": "Kağıtta Köfte + Piyaz + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Köfte Ekmek)",
+      "price": "216 TL240 TL",
+      "description": "Ekmek Arası Köfte + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (2 Kağıtta Köfte)",
+      "price": "774 TL860 TL",
+      "description": "2 Adet Kağıtta Köfte (1,5 Porsiyon) + 2 Adet Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Kağıtta Köfte",
+      "price": "285 TL",
+      "description": "170 gr. 10 adet köfte, özel sosla kızartılmış ekmek, domates, biber, yeşillik, baharat, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Köfte",
+      "price": "205 TL",
+      "description": "Özel sosla kızartılmış yarım ekmek arası 6 adet köfte, yeşillik, domates, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kocaman Köfte",
+      "price": "300 TL",
+      "description": "170 gr. köfte, soslu pita ekmeği, patates kızartması, karamelize soğan, yeşillik, soğan, domates, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Kocaman Köfte",
+      "price": "320 TL",
+      "description": "170 gr. kaşarlı köfte, 3 dilim kaşar peyniri, soslu pita ekmeği, patates kızartması, karamelize soğan, yeşillik, domates, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3\\4 Ekmek Arası Köfte",
+      "price": "230 TL",
+      "description": "3 parça soslu ekmek, 8 adet köfte, domates, soğan, maydanoz. Acı biber, baharat ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kocaman Burger",
+      "price": "300 TL",
+      "description": "170 gr. köfte, büyük boy burger ekmeği, turşu, domates, marul, karamelize soğan. Sos, patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24497087.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Kocaman Burger",
+      "price": "320 TL",
+      "description": "Büyük hamburger ekmeğine; 170 gr. burger köfte, 2 adet cheddar peyniri, domates, marul, turşu, karamelize soğan, özel soslar, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24497212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk",
+      "price": "265 TL",
+      "description": "225 gr. ızgara tavuk. Patates kızartması, domates, yeşillik, biber, baharat ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Tavuk",
+      "price": "195 TL",
+      "description": "Özel sos ile marine edilmiş ızgara tavuk, domates, yeşillik, biber, baharat ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "95 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Patates Kızartması",
+      "price": "190 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piyaz",
+      "price": "90 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Devil's Cake",
+      "price": "110 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162779.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozaik Pasta",
+      "price": "110 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162780.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162791.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su",
+      "price": "20 TL",
+      "description": "İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6162792.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

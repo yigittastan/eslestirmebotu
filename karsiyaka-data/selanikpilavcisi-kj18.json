@@ -1,0 +1,106 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/kj18/selanik-pilavcisi-kj18",
+  "google": "",
+  "products": [
+    {
+      "name": "İkili Kanka Menü",
+      "price": "313,50 TL418 TL",
+      "description": "2 Adet Tavuklu Pilav /Karabiber, tuz, domates, salatalık turşusu, jalapeno biber ile) + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65687698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Nohutlu Pilav",
+      "price": "142,50 TL190 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65687571.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mısırlı Pilav",
+      "price": "121,50 TL162 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalepeno biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65687581.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner",
+      "price": "210 TL280 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalapeno biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65687631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pilav",
+      "price": "133,50 TL178 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jelapeno biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66199811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Ciğerli Karışık Pirinç Pilavı",
+      "price": "150 TL200 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalepeno biberi ile"
+    },
+    {
+      "name": "Ciğerli Pilav",
+      "price": "138,75 TL185 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalapeno biberi ile"
+    },
+    {
+      "name": "Pilav Üstü Et Döner",
+      "price": "234 TL312 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalapeno biberi ile birlikt"
+    },
+    {
+      "name": "Garnitürlü Pilav",
+      "price": "121,50 TL162 TL",
+      "description": "Domates, salatalık turşusu, jalepone biberi ile"
+    },
+    {
+      "name": "Tavuklu Nohutlu Double Pilav",
+      "price": "195 TL260 TL",
+      "description": "Karabiber, tuz, domates, salatalık turşusu, jalapeno turşusu ile"
+    },
+    {
+      "name": "Ciğerli Duble Pilav",
+      "price": "187,50 TL250 TL",
+      "description": "Karabiber, tuz. Domates, salatalık turşusu, jalapeno biberi ile"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "108,75 TL145 TL",
+      "description": "Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65873637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Ciğeri Kavurması",
+      "price": "122,25 TL163 TL",
+      "description": "Domates, salatalık turşusu, 3 çeşit turşu biberi ile"
+    },
+    {
+      "name": "Supangle",
+      "price": "56,25 TL75 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "30 TL40 TL",
+      "description": "(Pet şişe) Vegan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65687636.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "36 TL48 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65930506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "28,50 TL38 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66199949.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65687643.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

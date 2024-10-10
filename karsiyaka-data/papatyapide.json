@@ -1,0 +1,190 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/meef/papatya-pide",
+  "google": "",
+  "products": [
+    {
+      "name": "Kıymalı Lahmacun",
+      "price": "100 TL125 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Kaşarlı Pide",
+      "price": "176 TL220 TL",
+      "description": "Kuşbaşı et, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "120 TL150 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "124 TL155 TL",
+      "description": "Kıyma, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Kıyma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Kuşbaşı Kaşarlı Pide)",
+      "price": "196 TL245 TL",
+      "description": "Kuşbaşı Kaşarlı Pide + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Lahmacun",
+      "price": "128 TL160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Lahmacun",
+      "price": "100 TL125 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Lahmacun",
+      "price": "104 TL130 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "136 TL170 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Yumurtalı Pide",
+      "price": "140 TL175 TL",
+      "description": "Kaşar peyniri, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024195.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "152 TL190 TL",
+      "description": "Kıyma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Yumurtalı Pide",
+      "price": "156 TL195 TL",
+      "description": "Kıyma, kaşar peyniri, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "120 TL150 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "124 TL155 TL",
+      "description": "Kıyma, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Kaşarlı Pide",
+      "price": "176 TL220 TL",
+      "description": "Kuşbaşı et, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Kaşarlı Yumurtalı Pide",
+      "price": "180 TL225 TL",
+      "description": "Kuşbaşı et, kaşar peyniri, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "160 TL200 TL",
+      "description": "Kuşbaşı et",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024230.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "24 TL30 TL",
+      "description": "Büyük",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "8 TL10 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024235.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "56 TL70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024236.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "56 TL70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "56 TL70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024240.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "56 TL70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "52 TL65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024243.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6024246.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

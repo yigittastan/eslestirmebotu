@@ -1,0 +1,102 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/rkvg/donerzade-rkvg",
+  "google": "",
+  "products": [
+    {
+      "name": "Hatay Usulü Zurna Tavuk Döner Dürüm",
+      "price": "130,50 TL145 TL",
+      "description": "Yeşillik, domates, turşu, patates kızartması, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980067.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Tavuk Döner Dürüm",
+      "price": "85,50 TL95 TL",
+      "description": "Turşu, patates kızartması, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980058.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Roket Tavuk Döner Dürüm",
+      "price": "139,50 TL155 TL",
+      "description": "Yeşillik, domates, turşu, patates kızartması, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980072.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (30 cl.)",
+      "price": "45 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zade Tavuk Döner Dürüm",
+      "price": "94,50 TL105 TL",
+      "description": "Patates kızartması, özel sos, turşu, kaşar peyniri, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37979884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zade Tavuk Döner Dürüm",
+      "price": "94,50 TL105 TL",
+      "description": "Patates kızartması, özel sos, turşu, kaşar peyniri, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37979884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Tavuk Döner Dürüm",
+      "price": "85,50 TL95 TL",
+      "description": "Turşu, patates kızartması, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980058.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Zurna Tavuk Döner Dürüm",
+      "price": "130,50 TL145 TL",
+      "description": "Yeşillik, domates, turşu, patates kızartması, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980067.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Roket Tavuk Döner Dürüm",
+      "price": "139,50 TL155 TL",
+      "description": "Yeşillik, domates, turşu, patates kızartması, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980072.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "45 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (30 cl.)",
+      "price": "45 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (30 cl.)",
+      "price": "45 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980169.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (33 cl.)",
+      "price": "45 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "27 TL30 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980371.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "13,50 TL15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37980384.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37979087.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

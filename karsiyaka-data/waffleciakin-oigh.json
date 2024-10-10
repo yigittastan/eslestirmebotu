@@ -1,0 +1,220 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/oigh/waffleci-akin-oigh",
+  "google": "",
+  "products": [
+    {
+      "name": "İdeal Waffle",
+      "price": "180 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 2 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Waffle",
+      "price": "160 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 1 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Waffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 3 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Dondurma",
+      "price": "50 TL",
+      "description": "Sade sütlü dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Goffle",
+      "price": "160 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 1 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "XL İdeal Goffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 2 çeşit meyve"
+    },
+    {
+      "name": "Klasik Waffle",
+      "price": "160 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 1 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İdeal Waffle",
+      "price": "180 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 2 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Waffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 3 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kestaneli Waffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, kestane",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropikal Waffle",
+      "price": "190 TL",
+      "description": "Seçeceğiniz çikolata, kivi, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216166.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enerji Waffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, arı sütü, polen, muz, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Egzotik Waffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, frambuaz, muz, böğürtlen",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kim Tutar Seni Waffle",
+      "price": "105 TL",
+      "description": "Seçeceğiniz ekstra malzemeler ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216169.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kim Tutar Seni Çift Katlı Waffle",
+      "price": "145 TL",
+      "description": "Seçeceğiniz ekstra malzemeler ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Goffle",
+      "price": "160 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 1 çeşit meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kestaneli Goffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, kestane",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enerji Goffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, arı sütü, polen, muz, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İdeal Goffle",
+      "price": "180 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 2 çeşit meyve"
+    },
+    {
+      "name": "Meyveli Goffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 3 çeşit meyve"
+    },
+    {
+      "name": "Tropikal Goffle",
+      "price": "190 TL",
+      "description": "Seçeceğiniz çikolata, kivi, ananas"
+    },
+    {
+      "name": "Egzotik Goffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, frambuaz, muz, böğürtlen"
+    },
+    {
+      "name": "Kim Tutar Seni Goffle",
+      "price": "105 TL",
+      "description": "Seçeceğiniz ekstra malzemeler ile"
+    },
+    {
+      "name": "XL Klasik Goffle",
+      "price": "180 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 1 çeşit meyve"
+    },
+    {
+      "name": "XL İdeal Goffle",
+      "price": "200 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 2 çeşit meyve"
+    },
+    {
+      "name": "XL Meyveli Goffle",
+      "price": "220 TL",
+      "description": "Seçeceğiniz çikolata, seçeceğiniz 3 çeşit meyve"
+    },
+    {
+      "name": "XL Kestaneli Goffle",
+      "price": "220 TL",
+      "description": "Seçeceğiniz çikolata, kestane"
+    },
+    {
+      "name": "XL Tropikal Goffle",
+      "price": "210 TL",
+      "description": "Seçeceğiniz çikolata, kivi, ananas"
+    },
+    {
+      "name": "XL Egzotik Goffle",
+      "price": "220 TL",
+      "description": "Seçeceğiniz çikolata, frambuaz, muz, böğürtlen"
+    },
+    {
+      "name": "XL Kim Tutar Seni Goffle",
+      "price": "125 TL",
+      "description": "Seçeceğiniz ekstra malzemeler ile"
+    },
+    {
+      "name": "XL Enerji Goffle",
+      "price": "220 TL",
+      "description": "Seçeceğiniz çikolata, arı sütü, polen, muz, bal"
+    },
+    {
+      "name": "Bal Bademli Dondurma",
+      "price": "50 TL",
+      "description": "Bal badem",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Dondurma",
+      "price": "50 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Dondurma",
+      "price": "50 TL",
+      "description": "Sade sütlü dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Sakızlı Dondurma",
+      "price": "50 TL",
+      "description": "Damla sakızı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39737602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216207.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (33 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6216208.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

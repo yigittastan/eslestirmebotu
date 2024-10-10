@@ -1,0 +1,256 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/u4tk/makarna-xpress",
+  "google": "",
+  "products": [
+    {
+      "name": "Alfredo Makarna",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Kaşarlı Mantarlı Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. kremalı tavuk, özel soslu makarna",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61018519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. barbekü soslu tavuk, özel soslu makarna (mantar, kırmızıbiber, yeşil biber)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49835738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55,50 TL74 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108074.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Köri Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. acılı köri soslu tavuk. Özel soslu makarna ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108007.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuklu Penne",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49835770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. barbekü soslu tavuk, özel soslu makarna (mantar, kırmızıbiber, yeşil biber)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49835738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Köri Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. acılı köri soslu tavuk. Özel soslu makarna ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108007.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Kaşarlı Mantarlı Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. kremalı tavuk, özel soslu makarna",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61018519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. soya soslu tavuk, özel soslu makarna",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49835746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Café de Paris Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. tavuk, mantar, kırmızıbiber, yeşil biber, Café de Paris sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. köri soslu tavuk. Özel soslu makarna ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61088974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Harbi Paris Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. Paris soslu tavuk, özel soslu makarna"
+    },
+    {
+      "name": "Beğendili Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. tavuk, patlıcan beğendi"
+    },
+    {
+      "name": "Marine Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "160 gr. beğendili tavuk, özel makarna, sos. Akdeniz yeşillikleri ile"
+    },
+    {
+      "name": "Mexican Acılı Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. acılı tavuk. Özel soslu makarna ile"
+    },
+    {
+      "name": "Köz Patlıcanlı Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. közlenmiş patlıcan, tavuk. Özel soslu makarna ile"
+    },
+    {
+      "name": "Tatlı Ekşi Soslu Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. tatlı ekşi soslu tavuk, özel soslu makarna"
+    },
+    {
+      "name": "Çin Usulü Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. Çin soslu tavuk, özel soslu makarna"
+    },
+    {
+      "name": "Kekikli Tavuk",
+      "price": "280,50 TL374 TL",
+      "description": "240 gr. kekikli tavuk, özel soslu makarna"
+    },
+    {
+      "name": "Köri Soslu Tavuklu Penne",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49835770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Köri Soslu Tavuklu Makarna",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086694.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alfredo Makarna",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Makarna",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Arrabbiata",
+      "price": "224,25 TL299 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64593796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Noodle",
+      "price": "224,25 TL299 TL",
+      "description": "Özel marine edilmiş tavuk bonfile şeritleri, mevsim sebzeleri, noodle sos",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sebzeli Noodle",
+      "price": "224,25 TL299 TL",
+      "description": "Mevsim sebzeleri, noodle sos",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sade Kumpir",
+      "price": "123 TL164 TL",
+      "description": "Kaşar peyniri, tereyağı, seçeceğiniz malzemeler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kumpir",
+      "price": "235,50 TL314 TL",
+      "description": "Rus salatası, sosis, mısır, turşu, İtalyan salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "224,25 TL299 TL",
+      "description": "Akdeniz yeşillikleri, ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49835807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tavuklu Salata",
+      "price": "224,25 TL299 TL",
+      "description": "Akdeniz yeşillikleri, acılı tavuk parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "145,50 TL194 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61086709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "55,50 TL74 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108073.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55,50 TL74 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108074.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55,50 TL74 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108075.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55,50 TL74 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108076.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "39,75 TL53 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52620578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Meyve Suyu (33 cl.)",
+      "price": "35,25 TL47 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "38,25 TL51 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "22,50 TL30 TL",
+      "description": "Cam şişe içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108081.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "11,25 TL15 TL",
+      "description": "Pet şişe içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108082.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "66,75 TL89 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61091414.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6108094.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

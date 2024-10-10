@@ -1,0 +1,237 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/i7ii/meshur-corbaci-kadir-usta",
+  "google": "",
+  "products": [
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "240 TL",
+      "description": "Kelle paça",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası",
+      "price": "210 TL",
+      "description": "Tavuk suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117036.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "240 TL",
+      "description": "İşkembe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle & Beyin Çorbası",
+      "price": "290 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35227388.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle & Mercimek Karışık Çorba",
+      "price": "240 TL",
+      "description": "Kelle, mercimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ayak Çorbası",
+      "price": "260 TL",
+      "description": "Kuzu ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyin Çorbası",
+      "price": "240 TL",
+      "description": "Beyin",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Beyin Çorbası (Az)",
+      "price": "180 TL",
+      "description": "Beyin",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "240 TL",
+      "description": "Kelle paça",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "240 TL",
+      "description": "İşkembe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası (Az)",
+      "price": "180 TL",
+      "description": "İşekmbe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ayak Çorbası",
+      "price": "260 TL",
+      "description": "Kuzu ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ayak Çorbası (Az)",
+      "price": "190 TL",
+      "description": "Kuzu ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Ayak Çorbası (Az)",
+      "price": "190 TL",
+      "description": "Dana ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "160 TL",
+      "description": "Mercimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32116930.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "160 TL",
+      "description": "Ezogelin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası",
+      "price": "210 TL",
+      "description": "Tavuk suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117036.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorbası (Az)",
+      "price": "150 TL",
+      "description": "Tavuk suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117039.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle & Mercimek Karışık Çorba",
+      "price": "240 TL",
+      "description": "Kelle, mercimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle & Mercimek Karışık Çorba (Az)",
+      "price": "170 TL",
+      "description": "Kelle, mercimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kadir Usta Spesiyal Çorbası",
+      "price": "320 TL",
+      "description": "Kelle, işkembe, kuzu beyin, dana ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Kelle Karışık (Az)",
+      "price": "190 TL",
+      "description": "Kuzu kelle",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosyete Beyin Çorbası",
+      "price": "240 TL",
+      "description": "Beyin, mecimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117142.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosyete Beyin Çorbası (Az)",
+      "price": "170 TL",
+      "description": "Beyin, mercimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32117362.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosyete Karışık Çorbası",
+      "price": "290 TL",
+      "description": "Kelle beyin, işkembe, mercimek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosyete İşkembe Çorbası",
+      "price": "240 TL",
+      "description": "Mercimek, işkembe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tanesi Bol Kelle Paça Çorbası",
+      "price": "300 TL",
+      "description": "Kelle paça",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118786.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sos Suyu Terbiyeli Çorba",
+      "price": "160 TL",
+      "description": "Terbiyeli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sos Suyu Terbiyeli Çorba (Az)",
+      "price": "135 TL",
+      "description": "Terbiyeli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118799.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cimbom",
+      "price": "160 TL",
+      "description": "Ezogelin, mercimek karışımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spesiyal Çorba (Az)",
+      "price": "280 TL",
+      "description": "Kelle, işkembe, kuzu beyin, dana ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32118883.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Ayak Çorbası",
+      "price": "260 TL",
+      "description": "Dana ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34753374.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle & İşkembe Çorbası",
+      "price": "290 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35227376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle & Beyin Çorbası",
+      "price": "290 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35227388.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Çorba",
+      "price": "290 TL",
+      "description": "Kuzu et, kuzu ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48735860.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ayaklı Karışık",
+      "price": "290 TL",
+      "description": "Kelle, beyin, işkembe, ayak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54905418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosyete İşkembe (Az)",
+      "price": "170 TL",
+      "description": "Mercimek, işkembe"
+    },
+    {
+      "name": "Tanesi Bol Karışık",
+      "price": "320 TL",
+      "description": "Kelle, işkembe, beyin"
+    },
+    {
+      "name": "Dana Ayak & Karışık Çorba",
+      "price": "295 TL",
+      "description": "Ekmek ile"
+    }
+  ]
+}

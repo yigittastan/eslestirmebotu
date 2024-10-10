@@ -1,0 +1,202 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/cml2/kahve-kulubu",
+  "google": "",
+  "products": [
+    {
+      "name": "Alfredo Makarna",
+      "price": "211,50 TL235 TL",
+      "description": "Krema, soslu tavuk, makarna, kaşar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuklu Makarna",
+      "price": "211,50 TL235 TL",
+      "description": "Krema, soslu tavuk, mantar, makarna, köri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Sepeti",
+      "price": "215,10 TL239 TL",
+      "description": "Patates kızartması, kızarmış tavuk parçalar, soğan halkası. Ketçap, mayonez ile"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Tost",
+      "price": "161,10 TL179 TL",
+      "description": "Patates kızartması, turşu, ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Tost",
+      "price": "152,10 TL169 TL",
+      "description": "Patates kızartması, turşu, ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk",
+      "price": "269,10 TL299 TL",
+      "description": "2 adet tavuk incik. Patates kızartması, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218985.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "305,10 TL339 TL",
+      "description": "5 adet dana köfte. Soslu makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Soslu Tavuk",
+      "price": "269,10 TL299 TL",
+      "description": "Makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218987.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Soslu Tavuk",
+      "price": "269,10 TL299 TL",
+      "description": "Makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "269,10 TL299 TL",
+      "description": "Makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218989.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "269,10 TL299 TL",
+      "description": "120 gr. burger köftesi, cheddar peyniri, domates, marul, turşu, soğan. Patates kızartması, ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk Burger",
+      "price": "260,10 TL289 TL",
+      "description": "Izgara tavuk incik, domates, marul, turşu. Patates kızartması, ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger",
+      "price": "269,10 TL299 TL",
+      "description": "Burger köftesi, domates, marul, turşu, soğan. Patates kızartması, ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alfredo Makarna",
+      "price": "211,50 TL235 TL",
+      "description": "Krema, soslu tavuk, makarna, kaşar peyniri, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuklu Makarna",
+      "price": "211,50 TL235 TL",
+      "description": "Krema, soslu tavuk, mantar, makarna, köri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Penne Makarna",
+      "price": "184,50 TL205 TL",
+      "description": "Penne makarna, özel sos, krema, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44526050.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "112,50 TL125 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (8 Adet)",
+      "price": "112,50 TL125 TL",
+      "description": "8 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "13,50 TL15 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "13,50 TL15 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Sepeti",
+      "price": "215,10 TL239 TL",
+      "description": "Patates kızartması, kızarmış tavuk parçalar, soğan halkası. Ketçap, mayonez ile"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "224,10 TL249 TL",
+      "description": "Ton balığı, marul, domates, salatalık, roka, nar ekşisi, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218990.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklu Salata",
+      "price": "215,10 TL239 TL",
+      "description": "Çıtır tavuk parçaları, marul, domates, salatalık, zeytin, nar ekşisi, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218991.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilek Waffle",
+      "price": "161,10 TL179 TL",
+      "description": "Seçeceğiniz çikolata, çilek, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218993.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Waffle",
+      "price": "161,10 TL179 TL",
+      "description": "Seçeceğiniz çikolata, muz, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218994.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İdeal Waffle",
+      "price": "170,10 TL189 TL",
+      "description": "Seçeceğiniz çikolata, 2 çeşit mevsim meyvesi, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Waffle",
+      "price": "179,10 TL199 TL",
+      "description": "Seçeceğiniz çikolata, 3 çeşit mevsim meyvesi, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enerji Waffle",
+      "price": "206,10 TL229 TL",
+      "description": "Seçeceğiniz çikolata, muz, bal, fındık, ceviz, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219005.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Waffle",
+      "price": "251,10 TL279 TL",
+      "description": "Çift katlı Brüksel waffle tabanı arasına; seçeceğiniz çikolata, mevsim meyveleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "134,10 TL149 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36218992.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "134,10 TL149 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219007.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Cheesecake",
+      "price": "134,10 TL149 TL",
+      "description": "Kremsi ve pürüzsüz bir iç dolguya sahip olan, frambuaz ve bisküvi tabanıyla desteklenen bir cheesecake çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36999766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36219274.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

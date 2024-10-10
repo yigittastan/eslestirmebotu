@@ -1,0 +1,282 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/fpel/lezzy-fast-food-and-doner-fpel",
+  "google": "",
+  "products": [
+    {
+      "name": "Et Döner Dürüm",
+      "price": "160 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "115 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711862.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Döner",
+      "price": "160 TL",
+      "description": "Soğan, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27464400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "115 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pita Et Döner (60 gr.)",
+      "price": "165 TL",
+      "description": "Soğan, domates, marul ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27132831.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "320 TL",
+      "description": "Yoğurt, sos, tereyağı, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "260 TL",
+      "description": "Yarım Ekmek Arası Et Döner + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "265 TL",
+      "description": "Pita Ekmeğine Et Döner + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 5",
+      "price": "220 TL",
+      "description": "Yarım Ekmek Arası Tavuk Döner + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 6",
+      "price": "185 TL",
+      "description": "Pita Ekmeğine Tavuk Döner + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 7",
+      "price": "220 TL",
+      "description": "Tavuk Döner Dürüm + Patates Kızartması + Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 4",
+      "price": "460 TL",
+      "description": "İskender + Patates + Salata + Kola (33 cl.)"
+    },
+    {
+      "name": "Menü 8",
+      "price": "350 TL",
+      "description": "İskender (Tavuk Dönerden) + Patates Kızartması + Salata + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Et Döner",
+      "price": "320 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "320 TL",
+      "description": "Yoğurt, sos, tereyağı, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Et Döner",
+      "price": "320 TL",
+      "description": "Çiğ köfte, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm",
+      "price": "160 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Et Döner Dürüm",
+      "price": "250 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711861.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pita Et Döner (60 gr.)",
+      "price": "165 TL",
+      "description": "Soğan, domates, marul ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27132831.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Döner",
+      "price": "160 TL",
+      "description": "Soğan, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27464400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "115 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711862.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "115 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pita Ekmeğine Tavuk Döner",
+      "price": "120 TL",
+      "description": "Domates, göbek marul, isteğe göre soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Tavuk Dönerden)",
+      "price": "210 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711866.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner",
+      "price": "210 TL",
+      "description": "Salata, ikram ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Tavuk Döner",
+      "price": "210 TL",
+      "description": "Salata, garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Orta)",
+      "price": "135 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Küçük)",
+      "price": "120 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Büyük)",
+      "price": "150 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Salata",
+      "price": "160 TL",
+      "description": "Tavuk, domates, göbek marul, roka, nane, nar ekşisi, limon, isteğe göre soğan. Çiğ köfte ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "90 TL",
+      "description": "Göbek marul, roka, domates, salatalık, nar ekşisi, limon. Çiğ köfte ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711901.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711907.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711908.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711911.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711913.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711919.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "40 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711920.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711921.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "25 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711922.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711923.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711924.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711925.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711927.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711929.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yayık Ayran (20 cl.)",
+      "price": "65 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66541494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5711930.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

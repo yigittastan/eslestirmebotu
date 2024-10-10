@@ -1,0 +1,481 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ebhq/tavuk-dunyasi-ebhq",
+  "google": "",
+  "products": [
+    {
+      "name": "Kekiklim",
+      "price": "300 TL",
+      "description": "Kekiklim soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bi'Köri",
+      "price": "300 TL",
+      "description": "Köri soslu tavuk. Özel soslu makarna, Akdeniz salata ile​ (Hint körisi, soğan, taze kültür mantarı içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chili Lokumu (Az Acı)",
+      "price": "300 TL",
+      "description": "Chili lokumu. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremantar",
+      "price": "300 TL",
+      "description": "Kremantar soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Café de Paris Soslu Tavuk",
+      "price": "300 TL",
+      "description": "Café de Paris soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Başlangıç Tabağı",
+      "price": "250 TL",
+      "description": "Çıtır tavuk, mozzarella sticks, cheddarlı patates topları, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862166.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Dörtlük Menü.",
+      "price": "1.235 TL",
+      "description": "4 Adet Seçeceğiniz Tavuk + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48823211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akılalmaz Lezzet Üçlüsü.",
+      "price": "1.035 TL",
+      "description": "3 Adet Seçeceğiniz Tavuk + Beş Baharatlı Patates Kızartması (Büyük) + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48823214.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lezzet İkilisi.",
+      "price": "660 TL",
+      "description": "2 Adet Seçeceğiniz Tavuk + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48823213.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süzme Mercimek Çorbası",
+      "price": "80 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Çorbası",
+      "price": "80 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Suyu Çorba",
+      "price": "125 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Başlangıç Tabağı",
+      "price": "250 TL",
+      "description": "Çıtır tavuk, mozzarella sticks, cheddarlı patates topları, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862166.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Patates Kızartması (Orta)",
+      "price": "110 TL",
+      "description": "İnce dilimlenmiş klasik patatesler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Patates Kızartması (Büyük)",
+      "price": "120 TL",
+      "description": "İnce dilimlenmiş klasik patatesler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alinazik",
+      "price": "125 TL",
+      "description": "Közlenmiş patlıcanlar, süzme yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beğendi",
+      "price": "120 TL",
+      "description": "Közlenmiş patlıcanlar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862169.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Patates Topları (8 Adet)",
+      "price": "150 TL",
+      "description": "Patates, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Börek (5 Adet)",
+      "price": "120 TL",
+      "description": "Kaşar peynirli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Küpleri (8 Adet)",
+      "price": "105 TL",
+      "description": "Marine edilmiş tavukla hazırlanan çıtır tavuk küpleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beş Baharatlı Patates Kızartması (Orta)",
+      "price": "110 TL",
+      "description": "Tavuk Dünyası'na özel baharatlarla hazırlanır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beş Baharatlı Patates Kızartması (Büyük)",
+      "price": "120 TL",
+      "description": "Tavuk Dünyası'na özel baharatlarla hazırlanır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bi'Çıtır",
+      "price": "175 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39613972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Humus",
+      "price": "110 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52617168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel (6 Adet)",
+      "price": "100 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52617189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salsa Meksikana (Az Acılı)",
+      "price": "300 TL",
+      "description": "Salsa Meksikana soslu tavuk. Özel soslu makarna, Akdeniz salata ile​",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65676585.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Bi'Köri",
+      "price": "300 TL",
+      "description": "Acılı köri soslu tavuk. Özel soslu makarna, Akdeniz salata ile​ (Hint körisi, acı sos, soğan, taze kültür mantarı içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alinazik Tavuk",
+      "price": "320 TL",
+      "description": "Alinazik üzerine soslu tavuk. Özel soslu makarna ve Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364019.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlım (Acılı)",
+      "price": "300 TL",
+      "description": "Baharatlım soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364057.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbeküs",
+      "price": "300 TL",
+      "description": "Barbeküs soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364070.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bi'Köri",
+      "price": "300 TL",
+      "description": "Köri soslu tavuk. Özel soslu makarna, Akdeniz salata ile​ (Hint körisi, soğan, taze kültür mantarı içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Café de Paris Soslu Tavuk",
+      "price": "300 TL",
+      "description": "Café de Paris soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chili Lokumu (Az Acı)",
+      "price": "300 TL",
+      "description": "Chili lokumu. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efsane Buffalo (Az Acı)",
+      "price": "300 TL",
+      "description": "Efsane buffalo soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fülfül (Çok Acı)",
+      "price": "300 TL",
+      "description": "Fülfül soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kekiklim",
+      "price": "300 TL",
+      "description": "Kekiklim soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kendini Beğenmiş Tavuk (Az Acı)",
+      "price": "320 TL",
+      "description": "Beğendi üzerinde soslu but. Özel soslu makarna ve Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Közlüce",
+      "price": "300 TL",
+      "description": "Közlüce soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremantar",
+      "price": "300 TL",
+      "description": "Kremantar soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Labiate",
+      "price": "300 TL",
+      "description": "Labiate soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Tavuk",
+      "price": "300 TL",
+      "description": "Mucidinden soslu tavuk. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sriracha Soslu Tavuk (Acı)",
+      "price": "300 TL",
+      "description": "Sriracha soslu but. Özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bi'Margarita",
+      "price": "300 TL",
+      "description": "Margarita soslu tavuk. Özel soslu makarna, Akdeniz salata ile​",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61364810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şefin Tavası",
+      "price": "300 TL",
+      "description": "Şefin tavası, özel soslu makarna. Akdeniz salatası ile (Taze kültür mantarı, California biberi ve arpacık soğan içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61402348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kekiklim Et",
+      "price": "590 TL",
+      "description": "Özel kekik, peynir ve kremalı özel sosla harmanlanan et, özel soslu makarna, Akdeniz salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61388167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbeküs Et",
+      "price": "590 TL",
+      "description": "Özel baharatlar ile marine edilen kontrfile et, barbekü sos, Kaliforniya biberi. Makarna ve Akdeniz salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61388324.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremantar Et",
+      "price": "590 TL",
+      "description": "Kremantar bonfile, özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61388833.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kendini Beğenmiş Köfte",
+      "price": "480 TL",
+      "description": "Beğendi üzerinde ızgara köfte, özel soslu makarna ve Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49277445.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mangal Köfte",
+      "price": "460 TL",
+      "description": "Izgara köfte, özel soslu makarna, Akdeniz salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49277446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sezarım Tavuklum Salata",
+      "price": "280 TL",
+      "description": "Taze göbek marul, Sezar sos, kruton ekmeği, çeri domates, parmesan peyniri ve sote jülyen tavuk parçaları ile hazırlanmış Sezar salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862208.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şefin Salatası",
+      "price": "280 TL",
+      "description": "Akdeniz yeşillikleri, çeri domates, rende kaşar peyniri, tane mısır, rende havuç, şefin tavası tavuk parçaları ve özel sos ile harmanlanmış şefin salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklum Salata",
+      "price": "280 TL",
+      "description": "Akdeniz yeşillikleri, çeri domates, rende kaşar peyniri, tane mısır, rende havuç, çıtır tavuk parçaları ve özel sos ile harmanlanmış çıtır tavuk salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Humuslu Falafel Salata",
+      "price": "280 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52617188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındıklı Fırın Sütlaç",
+      "price": "100 TL",
+      "description": "Porsiyon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (45 cl.)",
+      "price": "60 TL",
+      "description": "Pet Şişe (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757735.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (45 cl.)",
+      "price": "60 TL",
+      "description": "Pet Şişe (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757741.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Şeftali (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Kayısı (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Karışık (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188404.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Portakal (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188433.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Vişne (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet Şişe (50 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25126438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "90 TL",
+      "description": "Pet Şişe (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "90 TL",
+      "description": "Pet Şişe (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "90 TL",
+      "description": "Pet Şişe (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "90 TL",
+      "description": "Pet Şişe (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10757758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İçim Ayran (28,5 cl.)",
+      "price": "50 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Limonlu Soda (20 cl.)",
+      "price": "30 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49893076.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Elmalı Soda (20 cl.)",
+      "price": "30 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49893085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "75 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862227.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Limonata",
+      "price": "75 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadut Suyu",
+      "price": "75 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu",
+      "price": "90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39862230.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

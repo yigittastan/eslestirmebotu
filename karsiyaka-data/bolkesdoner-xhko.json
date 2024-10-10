@@ -1,0 +1,228 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/xhko/bolkes-doner-xhko",
+  "google": "",
+  "products": [
+    {
+      "name": "Külah Patates Kızartması",
+      "price": "40 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10752988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753029.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37687239.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "340 TL",
+      "description": "Tırnak pide üstüne; 120 gr. et döner, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32378572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Büyük Boy)",
+      "price": "100 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33692177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Et Döner",
+      "price": "300 TL",
+      "description": "140 gr. yaprak et döner, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37687252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner (120 gr.)",
+      "price": "275 TL",
+      "description": "120 gr. et döner. Domates, soğan, turşu, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "340 TL",
+      "description": "Tırnak pide üstüne; 120 gr. et döner, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32378572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyti (Et Dönerden)",
+      "price": "340 TL",
+      "description": "120 gr. et döner, garnitür, patates kızartması, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61020858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Et Döner",
+      "price": "300 TL",
+      "description": "140 gr. yaprak et döner, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37687252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Et Döner",
+      "price": "395 TL",
+      "description": "Soğan, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37695002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Et Döner",
+      "price": "200 TL",
+      "description": "Yaprak et döner, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61020523.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm",
+      "price": "200 TL",
+      "description": "Yaprak et döner, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61020816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü XLarge Et Döner Dürüm",
+      "price": "235 TL",
+      "description": "Patates kızartması, sos, sarımsaklı mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021941.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner",
+      "price": "165 TL",
+      "description": "120 gr. tavuk döner. Soğan, domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32378543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Tavuk Dönerden)",
+      "price": "200 TL",
+      "description": "Tırnak pide üstüne; 120 gr. tavuk döner, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32378592.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Bolti Kebap",
+      "price": "200 TL",
+      "description": "120 gr. tavuk döner, garnitür, patates kızartması, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021383.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Tavuk Döner",
+      "price": "140 TL",
+      "description": "140 gr. tavuk döner, soğan, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37694981.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Tavuk Döner",
+      "price": "185 TL",
+      "description": "200 gr. tavuk döner, soğan, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37719882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Tavuk Döner",
+      "price": "95 TL",
+      "description": "Tavuk döner, domates, soğan, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021347.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "95 TL",
+      "description": "Tavuk döner, domates, soğan, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Large Tavuk Döner Dürüm",
+      "price": "120 TL",
+      "description": "Patates kızartması, sos, sarımsaklı mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü XLarge Tavuk Döner Dürüm",
+      "price": "140 TL",
+      "description": "Patates kızartması, sos, sarımsaklı mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61021980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Külah Patates Kızartması",
+      "price": "40 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10752988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Büyük Boy)",
+      "price": "100 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33692177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753029.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753030.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Fruko (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37694988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "30 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753037.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "25 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753038.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51883460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sırma Soda (20 cl.)",
+      "price": "15 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753039.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sırma Su (50 cl.)",
+      "price": "10 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10753040.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37687239.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25228703.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

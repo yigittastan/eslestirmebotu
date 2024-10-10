@@ -1,0 +1,332 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/kw2b/mayka",
+  "google": "",
+  "products": [
+    {
+      "name": "Coca-Cola Fırsatı (Tavuklu Pilav)",
+      "price": "180 TL200 TL",
+      "description": "Tavuklu Pilav + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42039479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Pilav Menü",
+      "price": "275 TL",
+      "description": "Ciğerli Pilav + Sakıpağa Yoğurt (150 gr.) + Supangle (125 gr.) + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Double Tavuklu Pilav Menü",
+      "price": "285 TL",
+      "description": "Double Tavuklu Pilav + Sakıpağa Yoğurt (150 gr.) + Keşkül Tatlısı (125 gr.) + Niğde Gazozu (25 cl.)"
+    },
+    {
+      "name": "Doritoslu Çiğ Köfte (120 gr.) Menü",
+      "price": "170 TL",
+      "description": "Doritoslu Çiğ Köfte (120 gr.) + Supangle + Sprite (33 cl.)"
+    },
+    {
+      "name": "Tavuklu Pilav Menü 2",
+      "price": "235 TL",
+      "description": "Tavuklu Pilav + Sakıpağa Yoğurt (150 gr.) + Keşkül (125 gr.) + Kutu İçecek"
+    },
+    {
+      "name": "Dana Kavurmalı & Kuru Fasulyeli Pilav Menü",
+      "price": "325 TL",
+      "description": "Dana Kavurmalı & Kuru Fasulyeli Pilav (Pirinç pilavı (250 gr.), dana kavurma (60 gr.), kuru fasulye. Salatalık turşusu, domates, acı biber, jalapeno biber turşusu ile) + Cacık (250 gr.) + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Karışık Pilav",
+      "price": "165 TL",
+      "description": "Pirinç Pilavı (250 gr.), tiftiklenmiş tavuk (30 gr.), ciğer sote (40 gr.). Turşu, domates, acı biber, jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156274.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pilav",
+      "price": "110 TL",
+      "description": "Nohut ve pirincin bir arada servis edildiği bir pilav çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41546368.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Ciğerli Pilav",
+      "price": "230 TL",
+      "description": "Salatalık turşusu, domates, acı biber, jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43556516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pilav (1.5 Porsiyon)",
+      "price": "215 TL",
+      "description": "Pirinç pilavı (370 gr.), tiftiklenmiş tavuk (40 gr.), ciğer sote (40 gr.). Turşu, domates, acı biber, jalapeno biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43556817.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pilav (1,5 Porsiyon)",
+      "price": "195 TL",
+      "description": "370 gr. pirinç pilavı, 80 gr. tiftiklenmiş tavuk. Salatalık turşusu, domates, acı biber turşusu, jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43558143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Tavuk pilav",
+      "price": "210 TL",
+      "description": "500 gr. pirinç pilavı, 130 gr. tavuk. Salatalık turşusu, domates, biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43559803.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Pilav Üstü Kuru Fasulye",
+      "price": "215 TL",
+      "description": "Pirinç Pilavı (500 gr.), kuru fasulye, salatalık turşusu, domates, acı biber ve Jalapeno biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52835762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Fasulyeli Pilav (1.5 Porsiyon)",
+      "price": "175 TL",
+      "description": "Pirinç Pilavı (370 gr.), kuru fasulye. Salatalık turşusu, domates, Acı biber, jalapeno biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52867582.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Fasulyeli Pilav",
+      "price": "145 TL",
+      "description": "250 gr. pirinç pilavı, kuru fasulye. Salatalık turşusu, domates, acı biber, jalapeno ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52868724.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Nohutlu Pilav",
+      "price": "215 TL",
+      "description": "Nohut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52887674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Tavuklu Pilav",
+      "price": "160 TL",
+      "description": "Nohut, tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52887690.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Tavuklu Pilav (1.5 Porsiyon)",
+      "price": "195 TL",
+      "description": "Nohut, pirinç pilavı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52894085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pilav",
+      "price": "220 TL",
+      "description": "Turşu, domates, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53693086.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Kavurmalı Pilav",
+      "price": "330 TL",
+      "description": "Dana kavurma, pirinç pilavı. Turşu, acı biber turşusu, jalapeno biber, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54627085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pilav (1,5)",
+      "price": "275 TL",
+      "description": "370 gr. pirinç pilavı, 100 gr. dana kavurma. Salatalık turşusu, domates, acı biber, jalapeno biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54634532.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Mısırlı Pilav",
+      "price": "150 TL",
+      "description": "Pirinç pilavı üzerine; ton balığı, mısır. Domates, salatalık turşusu, jalapeno biberi, acı biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64212800.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Pilav",
+      "price": "150 TL",
+      "description": "Pirinç pilavı üzerine; ton balığı. Domates, salatalık turşusu, jalapeno biberi, acı biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64212806.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mısırlı Pilav",
+      "price": "100 TL",
+      "description": "Pirinç pilavı, mısır. Domates, salatalık turşusu, jalapeno biberi, acı biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64213820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Mısırlı Pilav",
+      "price": "145 TL",
+      "description": "Pirinç pilavı üzerine; mısır, tavuk. Domates, salatalık turşusu, jalapeno biberi, acı biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64213823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Pilav",
+      "price": "155 TL",
+      "description": "Pirinç pilavı, ciğer sote. Salatalık turşusu, acı biber turşusu, jalapeno biber, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65880058.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "145 TL",
+      "description": "Pirinç pilavı, tiftik tavuk. Salatalık turşusu, acı biber turşusu, jalapeno biber, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65880060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Karışık Pilav",
+      "price": "210 TL",
+      "description": "Ciğer, tavuk, pilav. Turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65880064.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cigerli Pilav (1.5 Porsiyon)",
+      "price": "200 TL",
+      "description": "Ciğer, pilav. Turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65880066.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Kavurmalı Kuru Fasulye Pilav",
+      "price": "250 TL",
+      "description": "Pirinç pilavı (250 gr.), dana kavurma (60 gr.), kuru fasulye. Salatalık turşusu, domates, acı biber, jalapeno biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66333925.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Yoğurt (150 gr.)",
+      "price": "25 TL",
+      "description": "(150 gr.)"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "65 TL",
+      "description": "Marul, turşu, nar ekşisi, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doritoslu Çiğ Köfte Dürüm",
+      "price": "75 TL",
+      "description": "Marul, turşu, nar ekşisi, limon, Doritos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156302.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (400 gr.)",
+      "price": "240 TL",
+      "description": "Lavaş, limon, nar ekşisi, acı sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49463740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.)",
+      "price": "450 TL",
+      "description": "Lavaş, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49466611.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.)",
+      "price": "300 TL",
+      "description": "Lavaş, limon, nar ekşisi, acı sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49466651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (200 gr.)",
+      "price": "150 TL",
+      "description": "Lavaş, marul, limon, nar ekşisi, acı sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49467670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156368.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65274149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "30 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "25 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156412.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bursa Gazozu (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49458459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54634702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acısız Şalgam Suyu (30 cl.)",
+      "price": "30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54634720.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu Acısız (30 cl.)",
+      "price": "30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54634894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Gazoz (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55823518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65291746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nescafe Xpress (25 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Beypazarı Maden Suyu (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Lipton Ice Tea Şeftali (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Lipton ıce tea Limon (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Keşkül (125 gr.)",
+      "price": "50 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64219406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41156426.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

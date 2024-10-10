@@ -1,0 +1,283 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ofaz/maroons-tatlicisi",
+  "google": "",
+  "products": [
+    {
+      "name": "Nirvana",
+      "price": "229 TL",
+      "description": "Krep kırığı, Belçika çikolatası, muz, çilek, özel mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170396.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kara Kırmızı Mag",
+      "price": "234 TL",
+      "description": "Krep kırığı, Belçika çikolatası, taze çilek, mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sultan",
+      "price": "229 TL",
+      "description": "Krep kırığı, Belçika çikolatası, muz, Sultan mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "195 TL",
+      "description": "Bisküvi, taze çilek, mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170394.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Waffle",
+      "price": "249 TL",
+      "description": "Brüksel waffle hamuru, sütlü Belçika çikolatası, muz, çilek, kivi, Oreo tozu, krep kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maroons Box",
+      "price": "620 TL",
+      "description": "Waffle, pankek, Japon kek, muz, çilek, kivi, sütlü, çilekli, beyaz Belçika çikolatası (3 adet) ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42234462.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Nirvana)",
+      "price": "269 TL",
+      "description": "Nirvana + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Maroons Box",
+      "price": "620 TL",
+      "description": "Waffle, pankek, Japon kek, muz, çilek, kivi, sütlü, çilekli, beyaz Belçika çikolatası (3 adet) ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42234462.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Krep Pack",
+      "price": "299 TL",
+      "description": "Krep içerisinde; özel krema, muz, çilek, krep kırığı, sütlü Belçika çikolatası, beyaz Belçika çikolatası, Antep Fıstığı tozu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53027747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Bowl",
+      "price": "329 TL",
+      "description": "Özel mag kreması, bisküvi, muz, çilek, krep kırığı, sütlü Belçika çikolata, beyaz Belçika çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60815437.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Bowl",
+      "price": "329 TL",
+      "description": "Özel mag kreması, muz, çilek, Lotus crumble, Lotus topping, krep kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61443300.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dark Love (2-3 Kişilik)",
+      "price": "495 TL",
+      "description": "Waffle, pankek, muz, çilek, sütlü ve beyaz Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65148699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rose",
+      "price": "265 TL",
+      "description": "Japon kek parçaları, özel krema, frambuaz, böğürtlen, sütlü Belçika çikolatası, beyaz Belçika çikolatası, fındık parçaları"
+    },
+    {
+      "name": "Fury",
+      "price": "214 TL",
+      "description": "Bisküvi, Oreo, Antep fıstığı, muz, çilek, özel mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170393.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "195 TL",
+      "description": "Bisküvi, taze çilek, mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170394.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kara Kırmızı Mag",
+      "price": "234 TL",
+      "description": "Krep kırığı, Belçika çikolatası, taze çilek, mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nirvana",
+      "price": "229 TL",
+      "description": "Krep kırığı, Belçika çikolatası, muz, çilek, özel mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170396.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Summer",
+      "price": "195 TL",
+      "description": "Bisküvi, çilek, muz, özel mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170397.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sultan",
+      "price": "229 TL",
+      "description": "Krep kırığı, Belçika çikolatası, muz, Sultan mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Mag",
+      "price": "195 TL",
+      "description": "Bisküvi, taze muz, özel mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Rüyası Mag",
+      "price": "234 TL",
+      "description": "Krep kırığı, frambuaz, Belçika çikolatası, özel mag kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutellalı Mag",
+      "price": "224 TL",
+      "description": "Nutella, muz, çilek, bisküvi, özel krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10991151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreolu Mag",
+      "price": "189 TL",
+      "description": "Oreo bisküvisi, oreo bisküvi tozu, özel mag kreması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24354682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pink Lemonade",
+      "price": "265 TL",
+      "description": "Özel limonlu mag kreması, pankek parçaları, krep kırığı, çilek, çilekli Belçika çikolata, Antep fıstığı tozu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24943380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berryland",
+      "price": "240 TL",
+      "description": "Özel mag kreması, oreo bisküvi tozu, bisküvi tozu, frambuaz, böğürtlen, krep kırığı, sütlü Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34754613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Cup",
+      "price": "259 TL",
+      "description": "Özel mag kreması, çilek, Lotus crumble, Lotus topping, krep kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60815252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roselina",
+      "price": "249 TL",
+      "description": "Mag kreması, Japon kek, sütlü Belçika çikolatası, Antep fıstığı tozu, Antep fıstığı"
+    },
+    {
+      "name": "Saksı",
+      "price": "235 TL",
+      "description": "Krema, krep kırığı, muz, çilek, sütlü Belçika çikolatası, Oreo bisküvi tozu, taze nane yaprağı, jelibon"
+    },
+    {
+      "name": "Klasik Waffle",
+      "price": "249 TL",
+      "description": "Brüksel waffle hamuru, sütlü Belçika çikolatası, muz, çilek, kivi, Oreo tozu, krep kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İki Meyveli Waffle",
+      "price": "249 TL",
+      "description": "Brüksel waffle hamuru, sütlü Belçika çikolatası, seçeceğiniz 2 adet meyve, Oreo tozu, krep kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Meyveli Waffle",
+      "price": "249 TL",
+      "description": "Brüksel waffle hamuru, sütlü Belçika çikolatası, seçeceğiniz 1 adet meyve, Oreo tozu, krep kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170404.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eli's",
+      "price": "289 TL",
+      "description": "15 adet mini pancake, muz, çilek, sütlü Belçika çikolatası, beyaz Belçika çikolatası, Antep fıstığı tozu, krep kırığı, Oreo tozu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65285674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maroons Chocolate",
+      "price": "279 TL",
+      "description": "Muz, çilek, krep kırığı, sütlü Belçika çikolatası, beyaz çikolata"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Limonata",
+      "price": "105 TL",
+      "description": "Böğürtlen, frambuaz, limon, nane",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28243056.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice White Chocolate Mocha",
+      "price": "129 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28243098.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Caramel Macchiato",
+      "price": "129 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28243080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Latte",
+      "price": "119 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28243086.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Americano",
+      "price": "109 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28243088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Mocha",
+      "price": "129 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28243103.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Vanilla Latte",
+      "price": "135 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65389603.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Latte",
+      "price": "129 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65390022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6170417.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

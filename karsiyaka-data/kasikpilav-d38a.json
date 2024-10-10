@@ -1,0 +1,149 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/d38a/kasik-pilav-d38a",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Pilav Menü",
+      "price": "276 TL345 TL",
+      "description": "Tavuklu Pilav + Tatlı + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61218059.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Pilav Menü",
+      "price": "276 TL345 TL",
+      "description": "Ciğerli Pilav + Seçeceğiniz Tatlı + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61224131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sriracha Soslu Tavuklu Pilav Menü",
+      "price": "292 TL365 TL",
+      "description": "Sriracha Soslu Tavuklu Pilav + Tatlı + Ayran (20 cl.)"
+    },
+    {
+      "name": "Nohutlu Pilav",
+      "price": "148 TL185 TL",
+      "description": "250 gr. nohutlu pirinç pilavı. Salata, mısır, salatalık turşusu, jalapeno biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955628.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tiftiklenmiş Tavuk",
+      "price": "182,40 TL228 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 100 gr. tiftiklenmiş tavuk. Salata, mısır, salatalık turşusu, jalapeno biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955629.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Köri Soslu Tavuk",
+      "price": "206,40 TL258 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 100 gr. köri soslu tavuk. Salata, mısır, salatalık turşusu, jalapeno biberi turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955630.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü BBQ Soslu Tavuk",
+      "price": "206,40 TL258 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 100 gr. bbq soslu tavuk. Salata, mısır, salatalık turşusu, jalapeno turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Sriracha Soslu Tavuk",
+      "price": "206,40 TL258 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 100 gr. acı soslu tavuk. Salata, mısır, salatalık turşusu, jalapeno biberi turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955632.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tikka Masala Soslu Tavuk",
+      "price": "206,40 TL258 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 100 gr. ticca masala soslu tavuk. Salata, mısır, salatalık turşusu, jalapeno biberi turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Ciğer",
+      "price": "182,40 TL228 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 100 gr. ciğer, Salata, mısır, salatalık turşusu, jalapeno biberi turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54446572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Ton Balığı",
+      "price": "284 TL355 TL",
+      "description": "250 gr. nohutlu pirinç pilavı. Salata, mısır, salatalık turşusu, jalapeno turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54778479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Soya Soslu Kremalı Tavuk",
+      "price": "260 TL325 TL",
+      "description": "200 gr. nohutlu pirinç pilavı, 100 gr. soya soslu kremalı tavuk. salata, mısır, salatalık turşusu, jalapeno biberi turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54779314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Karışık",
+      "price": "192 TL240 TL",
+      "description": "250 gr. nohutlu pirinç pilavı, 50 gr. tiftiklenmiş tavuk, 50 gr. ciğer. Salata, mısır, salatalık turşusu, jalapeno biberi turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56739629.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Supangle (150 gr.)",
+      "price": "58,40 TL73 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955638.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Profıterol (150 gr.)",
+      "price": "58,40 TL73 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955639.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Kazandibi (150 gr.)",
+      "price": "58,40 TL73 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (20 cl.)",
+      "price": "48 TL60 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955643.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (30 cl.)",
+      "price": "52 TL65 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955644.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (1 L.)",
+      "price": "88 TL110 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "58,40 TL73 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955646.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "58,40 TL73 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53955648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Yoğurt",
+      "price": "56 TL70 TL",
+      "description": "150 gr. olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65818759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    }
+  ]
+}

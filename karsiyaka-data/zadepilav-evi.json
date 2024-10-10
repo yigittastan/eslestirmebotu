@@ -1,0 +1,127 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/k8x7/zade-pilav-evi",
+  "google": "",
+  "products": [
+    {
+      "name": "Pilav Üstü Tavuk",
+      "price": "104 TL130 TL",
+      "description": "Pirinç pilavı, tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Sade Pilav",
+      "price": "144 TL180 TL",
+      "description": "Pirinç pilavı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66510575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Pilav Üstü Tavuk",
+      "price": "160 TL200 TL",
+      "description": "Pirinç pilavı, tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66510576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Ciğer",
+      "price": "104 TL130 TL",
+      "description": "Pirinç pilavı, ciğer"
+    },
+    {
+      "name": "Karışık Pilav",
+      "price": "120 TL150 TL",
+      "description": "Pirin pilavı, ciğer, tavuk"
+    },
+    {
+      "name": "Double Pilav Üstü Ciğer",
+      "price": "160 TL200 TL",
+      "description": "Pirinç pilavı, ciğer"
+    },
+    {
+      "name": "Double Karışık Pilav",
+      "price": "176 TL220 TL",
+      "description": "Pirin pilavı, ciğer, tavuk"
+    },
+    {
+      "name": "Sade Pilav",
+      "price": "96 TL120 TL",
+      "description": "Domates, biber ile"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "56 TL70 TL",
+      "description": "Göbek marul, limon, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509115.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doritoslu Çiğ Köfte Dürüm",
+      "price": "68 TL85 TL",
+      "description": "Göbek marul, limon, maydanoz, Doritos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509119.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509224.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "16 TL20 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509354.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (27 cl.)",
+      "price": "24 TL30 TL",
+      "description": "Büyük Boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509359.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "16 TL20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "12 TL15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66509764.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66510594.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

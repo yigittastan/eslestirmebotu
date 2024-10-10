@@ -1,0 +1,100 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/m7nl/yali-pilav-m7nl",
+  "google": "",
+  "products": [
+    {
+      "name": "Sporcu Menüsü",
+      "price": "245 TL",
+      "description": "Nohutlu Tavuklu Pirinç Pilavı (Nohutlu pirinç pilavı, duble tiftiklenmiş tavuk) + Baharat + Biberler + Ev Yapımı Ayran (50 cl.)"
+    },
+    {
+      "name": "Süper İkili Menü 1",
+      "price": "225 TL",
+      "description": "Tavuklu Pilav + Midye (5 Adet) + Ev Yapımı Ayran (50 cl.)"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "110 TL",
+      "description": "Nohutlu pirinç pilavı, tiftiklenmiş tavuk. Baharat, jalapeno biber, sivri biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pilav",
+      "price": "85 TL",
+      "description": "Nohutlu pirinç pilavı. Baharat, salatalık turşusu, jalapeno biber, sivri biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Midye Dolma (250 gr.)",
+      "price": "100 TL",
+      "description": "Limon ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Midye Dolma (500 gr.)",
+      "price": "200 TL",
+      "description": "Limon ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Midye Dolma (1 kg.)",
+      "price": "400 TL",
+      "description": "Limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66302141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Ayran (50 cl.)",
+      "price": "45 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267748.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (29 cl.)",
+      "price": "50 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "45 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66267757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66302158.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

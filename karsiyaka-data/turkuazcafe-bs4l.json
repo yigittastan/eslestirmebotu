@@ -1,0 +1,408 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/bs4l/turkuaz-cafe-bs4l",
+  "google": "",
+  "products": [
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "145 TL",
+      "description": "Patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orjinal Ayvalık Tostu",
+      "price": "160 TL",
+      "description": "Dana sucuk, salam, sosis, kaşar peyniri, domates, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045122.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "Dana sucuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Domatesli Gözleme",
+      "price": "145 TL",
+      "description": "kaşar peyniri, ince dilim domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36731818.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kaşarlı Gözleme",
+      "price": "145 TL",
+      "description": "Ispanak, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "140 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045146.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Ekmeğine Karışık Tost",
+      "price": "140 TL",
+      "description": "Dana sucuk, kaşar peyniri, domates, turşu, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045043.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orjinal Ayvalık Tostu",
+      "price": "160 TL",
+      "description": "Dana sucuk, salam, sosis, kaşar peyniri, domates, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045122.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Sanayi Tostu",
+      "price": "150 TL",
+      "description": "Yarım ekmeğe; dana sucuk, kaşar peyniri, domates, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Sanayi Tostu (3 Parça)",
+      "price": "195 TL",
+      "description": "(3 Adet) Yarım ekmeğe; dana sucuk, kaşar peyniri, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yumurtalı Tost",
+      "price": "155 TL",
+      "description": "Dana sucuk, yumurta, kaşar peyniri, karabiber, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045142.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Ayvalık Tostu",
+      "price": "130 TL",
+      "description": "Ayvalık ekmeği, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35831170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Sucuklu Ayvalık Tostu",
+      "price": "140 TL",
+      "description": "Sucuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35834494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası 3 Peynirli Sanayi Tost",
+      "price": "140 TL",
+      "description": "Beyaz peynir, tulum peyniri, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49203929.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Yumurtalı Tost",
+      "price": "205 TL",
+      "description": "Dana sucuk, yumurta, kaşar peyniri, tuz, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49203932.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domatesli Kaşarlı Ayvalık Tostu",
+      "price": "135 TL",
+      "description": "Kaşar peynirii dilim domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204137.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Ayvalık Tostu",
+      "price": "150 TL",
+      "description": "Beyaz peynir, tulum peyniri, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204181.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Yumurtalı kavurmalı Sanayi Tostu",
+      "price": "185 TL",
+      "description": "Yumurta, kavurma, karabiber, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Kavurmalı Kaşarlı Sanayi Tostu",
+      "price": "180 TL",
+      "description": "Kavurma, kaşar peyniri, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Penne",
+      "price": "250 TL",
+      "description": "Penne, ton balığı, mısır, kaşar peyniri, tuz, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42119887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Penne",
+      "price": "220 TL",
+      "description": "Penne makarna, domates, kekik, karabiber, tuz, tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42126145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Alfredo",
+      "price": "240 TL",
+      "description": "Penne, tavuk, mantar, krema, tuz, kara biber, kekik, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42131767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menemen",
+      "price": "150 TL",
+      "description": "Soğan, biber, domates, yumurta, tuz, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42125626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Menemen",
+      "price": "155 TL",
+      "description": "Soğan, biber, domates, kaşar peyniri, tuz, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42126211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yumurtalı Kaşarlı Menemen",
+      "price": "165 TL",
+      "description": "Soğan, biber, domates, tuz, karabiber, yumurta, kaşar peyniri",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Menemen",
+      "price": "190 TL",
+      "description": "Soğan, biber, domates, tuz, karabiber, sucuk, yumurta, kaşar peyniri",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kaşarlı Patso Sandviç",
+      "price": "145 TL",
+      "description": "Kaşar peyniri, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49202866.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patso Sandviç",
+      "price": "130 TL",
+      "description": "Yarım ekmek, patates kızartması, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49202868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Sosisli Kaşarlı Patso Sandviç",
+      "price": "155 TL",
+      "description": "Patates kızartması, sosis, kaşar peyniri, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49205689.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "130 TL",
+      "description": "Patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "145 TL",
+      "description": "Patates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "140 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045146.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Kaşarlı Gözleme",
+      "price": "140 TL",
+      "description": "Beyaz peynir, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "Dana sucuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Gözleme",
+      "price": "220 TL",
+      "description": "Kıyma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Gözleme",
+      "price": "165 TL",
+      "description": "Ispanak, patates, lor peyniri, kaşar peyniri, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Gözleme",
+      "price": "130 TL",
+      "description": "Ispanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kaşarlı Gözleme",
+      "price": "145 TL",
+      "description": "Ispanak, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Kaşarlı Gözleme",
+      "price": "240 TL",
+      "description": "Kavurma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "145 TL",
+      "description": "Ispanak, lor peyniri, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35824000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Kaşarlı Gözleme",
+      "price": "175 TL",
+      "description": "Mantar, soğan, kaşar peyniri, tuz, karabiber, kekik, toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36183598.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Domatesli Gözleme",
+      "price": "145 TL",
+      "description": "kaşar peyniri, ince dilim domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36731818.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Gözleme",
+      "price": "175 TL",
+      "description": "Beyaz peynir, tulum peyniri, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49203990.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinli Peynirli Gözleme",
+      "price": "185 TL",
+      "description": "Yeşil zeytin, siyah zeytin, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204126.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mısırlı Kaşarlı Gözleme",
+      "price": "190 TL",
+      "description": "Tane mısır, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biber Turşusu",
+      "price": "5 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49202863.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "110 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49202865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salatalık Turşusu",
+      "price": "5 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49203986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kajunlu Patates Kızartması",
+      "price": "120 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49204046.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "195 TL",
+      "description": "Mevsim yeşillikleri, zeytin, mısır, salatalık, kapya biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34340328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Salata",
+      "price": "160 TL",
+      "description": "Akdeniz yeşillikleri, domates, salatalık, mısır, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34348090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Salata",
+      "price": "210 TL",
+      "description": "Mevsim yeşillikleri, salatalık, mısır, zeytin, kapya biber, ızgara tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34348867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Söğüş Tabağı",
+      "price": "105 TL",
+      "description": "Domates, salatalık, yeşil biber, siyah zeytin, yeşil zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36320739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl. )",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34325552.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34330978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34351000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34352114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sarıkız Mandalina (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34352759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Ayran (29.5 cl.)",
+      "price": "45 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34353303.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarıkız Meyveli Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34353325.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarıkız Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34355428.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doğanay Acılı Şalgam Suyu (30 cl.)",
+      "price": "45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34355572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37236170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37236707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33045177.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,618 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ldxr/yasemin-doner-ldxr",
+  "google": "",
+  "products": [
+    {
+      "name": "Yasemin Zurna Tavuk Döner Dürüm",
+      "price": "129,50 TL185 TL",
+      "description": "120 gr. tavuk döner, özel sos, patates kızartması, turşu, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Tavuk Döner Dürüm",
+      "price": "105 TL150 TL",
+      "description": "Tavuk döner (80 gr.), özel sos, patates kızartması, turşu, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tombik Ekmek Arası Tavuk Döner",
+      "price": "94,50 TL135 TL",
+      "description": "80 gr. tavuk döner, soğan, yeşillik, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34934677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Tavuk Döner Dürüm",
+      "price": "87,50 TL125 TL",
+      "description": "Tavuk döner (80 gr.), domates, soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Soslu Zurna Tavuk Döner Dürüm",
+      "price": "147 TL210 TL",
+      "description": "120 gr. tavuk döner, ranch sos, patates kızartması, turşu, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30244572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Zurna Et Döner Dürüm",
+      "price": "168 TL240 TL",
+      "description": "Et döner (100 gr.), soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34025274.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm Menü",
+      "price": "136,50 TL195 TL",
+      "description": "Çift Lavaş Tavuk Döner Dürüm + Tatlı (125 ml.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32383316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Tavuk Döner Dürüm Menü",
+      "price": "182 TL260 TL",
+      "description": "Çift Lavaş Zurna Tavuk Döner Dürüm + Tatlı (125 ml.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32383522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hatay Usulü Tavuk Döner Menü",
+      "price": "154 TL220 TL",
+      "description": "Hatay Usulu Tavuk Döner Dürüm + Tatlı (125 ml.) + Ayran (20 cl.)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "4'lü Kanka Zurna Tavuk Döner Dürüm Menü",
+      "price": "560 TL800 TL",
+      "description": "4 Adet Çift Lavaş Zurna Tavuk Döner + 4 Adet Tatlı (125 gr.) + İçecek (1 L.)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "3'lü Kanka Zurna Et Döner Dürüm Menü",
+      "price": "630 TL900 TL",
+      "description": "3 Adet Çift Lavaş Zurna Et Döner Dürüm + 3 Adet Tatlı (125 ml.) + Ayran (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32385768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm Menü",
+      "price": "175 TL250 TL",
+      "description": "Et Döner Dürüm + Günün Tatlısı (125 ml.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32385896.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka 3'lü Zurna Tavuk Döner Dürüm Menü",
+      "price": "490 TL700 TL",
+      "description": "3 Adet Çift Lavaş Zurna Tavuk Döner Dürüm + 3 Adet Tatlı (125 ml.) + Ayran (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32385937.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Öğrenci Menü 2",
+      "price": "385 TL550 TL",
+      "description": "3 Adet Tavuk Döner Dürüm + 3 Adet Patates Kızartması + 3 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34031453.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çocuk Menü",
+      "price": "245 TL350 TL",
+      "description": "2 Adet Tavuk Döner Dürüm + 2 Adet Patates Kızartması + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34031543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Öğrenci Menü 4",
+      "price": "490 TL700 TL",
+      "description": "4 Adet Tavuk Döner Dürüm + 4 Adet Patates Kızartması + 4 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34031707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Öğrenci Menü 1",
+      "price": "252 TL360 TL",
+      "description": "2 Adet Tavuk Döner Dürüm + 2 Adet Patates Kızartması + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34031755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'Lü Kanka Zurna Tavuk Döner Dürüm Menü",
+      "price": "560 TL800 TL",
+      "description": "4 Adet Çift Lavaş Zurna Tavuk Döner + 4 Adet Tatlı + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35369972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Kanka Zurna Et Döner Menü",
+      "price": "770 TL1.100 TL",
+      "description": "4 Adet Çift Lavaş Zurna Et Döner Dürüm + 4 Adet Tatlı (125 ml.) + Ayran (1 L.)"
+    },
+    {
+      "name": "Zurna Et Döner Menü",
+      "price": "229,50 TL285 TL",
+      "description": "Çift Lavaş Zurna Et Döner Dürüm + Tatlı (125 ml.) + Ayran (20 cl.)"
+    },
+    {
+      "name": "Jumbo Tavuk Döner Menü",
+      "price": "140 TL200 TL",
+      "description": "jumbo Ekmek Arası Tavuk Döner + Tatlı (125 ml.) + Ayran (20 cl.)"
+    },
+    {
+      "name": "Jumbo Et Döner Menü",
+      "price": "175 TL250 TL",
+      "description": "Jumbo Et Döner + Tatlı (125 ml.) + Ayran (20 cl.)"
+    },
+    {
+      "name": "Ögrenci Zurna Menü 1",
+      "price": "350 TL500 TL",
+      "description": "2 Adet Zurna Tavuk Döner + 2 Adet Patates Kızartması + 2 Adet İçecek (33 cl.)"
+    },
+    {
+      "name": "2'li Zurna Tavuk Döner Menü",
+      "price": "420 TL600 TL",
+      "description": "2 Adet Zurna Tavuk Döner + 2 Adet Patates Kızartması + 2 Adet Günün Tatlısı + İçecek (1 L.)"
+    },
+    {
+      "name": "Öğrenci Menü 3",
+      "price": "630 TL900 TL",
+      "description": "4 Adet Zurna Tavuk Döner + 4 Adet Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "3'lü Kanka Zurna Tavuk Döner Menü",
+      "price": "490 TL700 TL",
+      "description": "3 Adet Zurna Tavuk Döner Dürüm + 3 Adet Günün Tatlısı + İçecek (1 L.)"
+    },
+    {
+      "name": "YD Tavuk Döner (250 gr.) Menü",
+      "price": "385 TL550 TL",
+      "description": "Tavuk Döner (250 gr.) + Patates Kızartması + 3 Adet Lavaş + İçecek (1 L.)"
+    },
+    {
+      "name": "YD Tavuk Döner (1 kg.) Menü",
+      "price": "840 TL1.200 TL",
+      "description": "Tavuk Döner (1 kg.) + Patates Kızartması + 6 Adet Lavaş + İçecek (2,5 L.)"
+    },
+    {
+      "name": "Hatay Usulü Tavuk Döner Dürüm",
+      "price": "105 TL150 TL",
+      "description": "Tavuk döner (80 gr.), özel sos, patates kızartması, turşu, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Tavuk Döner Dürüm",
+      "price": "87,50 TL125 TL",
+      "description": "Tavuk döner (80 gr.), domates, soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Zurna Tavuk Döner Dürüm",
+      "price": "129,50 TL185 TL",
+      "description": "120 gr. tavuk döner, özel sos, patates kızartması, turşu, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Buffalo Soslu Zurna Tavuk Döner Dürüm",
+      "price": "147 TL210 TL",
+      "description": "Tavuk döner (120 gr.), özel sos, patates kızartması, turşu, sarımsaklı mayonez, buffalo sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30226626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Sweet Chili Soslu Zurna Tavuk Döner",
+      "price": "147 TL210 TL",
+      "description": "Tavuk döner (120 gr.), sweet chili sos, patates kızartması, turşu,sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30228343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbeque Soslu Zurna Tavuk Döner",
+      "price": "147 TL210 TL",
+      "description": "120 gr. tavuk döner, barbeque sos, patates, turşu, yeşilik, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30230435.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Meat Soslu Zurna Tavuk Döner",
+      "price": "147 TL210 TL",
+      "description": "Tavuk döner (120 gr.), özel sos, meat sos, turşu, sarımsaklı mayonez, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30232154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Sriracha Acılı Zurna Tavuk Döner",
+      "price": "154 TL220 TL",
+      "description": "Tavuk döner 120 gr. yeşillik, özel sos, patates kızartması, turşu, sarımsaklı mayonez, sriracha acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30233608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Cheddar Soslu Zurna Tavuk Döner",
+      "price": "164,50 TL235 TL",
+      "description": "120 gr. tavuk döner, cheddar sos, patates, turşu, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30233690.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Hot Chili Garlic Soslu Zurna Tavuk Döner Dürüm",
+      "price": "147 TL210 TL",
+      "description": "Tavuk döner (120 gr.), özel sos, meat sos, marul, turşu, sarımsaklı mayonez, patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30237313.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Soslu Zurna Tavuk Döner Dürüm",
+      "price": "147 TL210 TL",
+      "description": "120 gr. tavuk döner, ranch sos, patates kızartması, turşu, sarımsaklı mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30244572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Guacamelo Soslu Zurna Tavuk Döner",
+      "price": "157,50 TL225 TL",
+      "description": "120 gr. tavuk döner, guacamelo sos, patates kızartması, turşu, yeşillik, mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30248562.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Hot Chili Soslu Zurna Tavuk Döner",
+      "price": "147 TL210 TL",
+      "description": "120 gr. tavuk döner, özel sos, patates kızartması, turşu, sarımsaklı mayonez, hot chili sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30249134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Slim Zurna Tavuk Döner",
+      "price": "122,50 TL175 TL",
+      "description": "80 gr. tavuk döner, özel sos, patates kızartması, turşu, sarımsaklı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31230882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tombik Ekmek Arası Tavuk Döner",
+      "price": "94,50 TL135 TL",
+      "description": "80 gr. tavuk döner, soğan, yeşillik, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34934677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Usulü Tavuk Döner Dürüm",
+      "price": "112 TL160 TL",
+      "description": "Antakya sosu, patates kızartması, turşu, sarımsaklı mayonez, soğan, maydanoz, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51251434.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Zurna Antakya Usulü Tavuk Döner Dürüm",
+      "price": "140 TL200 TL",
+      "description": "Antakya sosu, patates kızartması, turşu, sarımsaklı mayonez, soğan, maydanoz, domates, özel sos",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "3/4 Ekmek Arası Tavuk Döner",
+      "price": "140 TL200 TL",
+      "description": "120 gr. tavuk döner, soğan, yeşillik, domates, özel sos",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "98 TL140 TL",
+      "description": "80 gr. tavuk döner, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66307754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Tavuk Döner",
+      "price": "105 TL150 TL",
+      "description": "100 gr. tavuk döner, soğan, yeşillik, domates, özel sos"
+    },
+    {
+      "name": "Yasemin Buffalo Soslu Zurna Et Döner Dürüm",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaşa; 100 gr. et döner, buffalo sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30226403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm (80 gr.)",
+      "price": "126 TL180 TL",
+      "description": "Et döner, soğan, yeşillik, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30229913.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Sriracha Acı Soslu Zurna Et Döner (100 gr.)",
+      "price": "192,50 TL275 TL",
+      "description": "Çift lavaş ,et döner, sriracha sos, soğan,domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30230016.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Barbeque Soslu Zurna Et Döner",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaş, et döner (100 gr.), barbeque sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30233671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Ranch Soslu Zurna Et Döner",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaş; 100 gr. et döner, ranch sos, soğan, domates, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30236889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Meat Soslu Zurna Et Döner Dürüm",
+      "price": "185,50 TL265 TL",
+      "description": "Çİft lavaş,et döner (100 gr.) meat sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30236902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Sarımsak Soslu Zurna Et Döner Dürüm",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaş, et döner (100 gr.), sarımsak sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30236932.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Et Döner",
+      "price": "140 TL200 TL",
+      "description": "Et döner (80 gr.), soğan,domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30236939.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Sweet Chili Soslu Zurna Et Döner Dürüm",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaşa; 100 gr. et döner, sweet chili sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30237087.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Hot Chili Garlic Soslu Zurna Et Döner Dürüm (100 gr.)",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaşa; 100 gr. et döner, hot chili garlic sos, soğan,domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30237109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Hot Chili Zurna Et Döner Dürüm",
+      "price": "185,50 TL265 TL",
+      "description": "Çift lavaş, et döner (100 gr.), hot chili sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30237138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Guacamole Soslu Zurna Et Döner",
+      "price": "192,50 TL275 TL",
+      "description": "Çift lavaşa; 100 gr. et döner, guacamole sos, soğan,domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30239393.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar soslu Zurna Et Döner Dürüm",
+      "price": "199,50 TL285 TL",
+      "description": "Çift lavaş, et döner (100 gr.), cheddar sos, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30244460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Slim Zurna Et Döner Dürüm",
+      "price": "154 TL220 TL",
+      "description": "Tek lavaş, 70 gr. et döner, patates, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31230886.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yasemin Zurna Et Döner Dürüm",
+      "price": "168 TL240 TL",
+      "description": "Et döner (100 gr.), soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34025274.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Yaprak Döner (80 gr.)",
+      "price": "140 TL200 TL",
+      "description": "Yaprak döner, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34934465.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dürüm Yaprak Döner (80 gr.)",
+      "price": "140 TL200 TL",
+      "description": "Soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34934471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tombik Ekmek Arası Yaprak Et Döner",
+      "price": "140 TL200 TL",
+      "description": "80 gr. Ankara yaprak et döner, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34938292.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Döner",
+      "price": "140 TL200 TL",
+      "description": "80 gr. et döner, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66307793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kasap Sucuk Sandviç",
+      "price": "126 TL180 TL",
+      "description": "Kasap sucuk, yeşillik, patates kızartması, turşu, mayonez, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820662.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Atom Sandviç",
+      "price": "140 TL200 TL",
+      "description": "Sucuk, sosis, salam, kaşar peyniri, turşu, mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patso Sandviç",
+      "price": "84 TL120 TL",
+      "description": "Parmak patates kızartması, özel sos, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820664.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Patso Sandviç",
+      "price": "101,50 TL145 TL",
+      "description": "Patates kızartması, özel sos, kaşar peyniri, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820665.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Patso Sandviç",
+      "price": "112 TL160 TL",
+      "description": "Patates kızartması, özel sos, cheddar peyniri, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Patso Sandviç",
+      "price": "154 TL220 TL",
+      "description": "Kaşar peyniri, sucuk, sosis, patates, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32452319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Patso Sandviç",
+      "price": "115,50 TL165 TL",
+      "description": "Sucuk, patates, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32452341.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Kaşarlı Patso Sandviç",
+      "price": "129,50 TL185 TL",
+      "description": "Sosis, kaşar peyniri, patates, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32452356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "YD İskender (Tavuk Dönerden)",
+      "price": "168 TL240 TL",
+      "description": "Tavuk döner, tırnak pide, özel sos, yoğurt. Közlenmiş domates, közlenmiş biber, acılı Antep ezme, çiğ köfte ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34174479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "YD İskender (Et Dönerden)",
+      "price": "210 TL300 TL",
+      "description": "120 gr. Ankara yaprak döner, tırnak pide. Közlenmiş biber, közlenmiş domates, yoğurt ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34934607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "YD Sade Et Döner",
+      "price": "210 TL300 TL",
+      "description": "120 gr. et döner. Lavaş, soğan, yeşillik, domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34936255.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "YD Et Döner (500 gr.) Menü",
+      "price": "665 TL950 TL",
+      "description": "Et Döner (500 gr.) + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34937035.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "YD Et Döner (1 kg.) Menü",
+      "price": "1.190 TL1.700 TL",
+      "description": "Et Döner (1 kg.) + Lavaş + Patates Kızartması + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Patates kızartması",
+      "price": "80,50 TL115 TL",
+      "description": "Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34995263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Keşkül (125 gr.)",
+      "price": "24,50 TL35 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34025265.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Supangle (125 gr.)",
+      "price": "24,50 TL35 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34025267.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "25,90 TL37 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "21 TL30 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "52,50 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966284.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "52,50 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966286.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "14 TL20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966287.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazoz (25 cl.)",
+      "price": "21 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adanus Acılı Şalgam Suyu (33 cl.)",
+      "price": "24,50 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966290.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero (33 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966291.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Şalgam Suyu (1 L.)",
+      "price": "52,50 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "52,50 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966298.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero (1 L.)",
+      "price": "52,50 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966299.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adanus Şalgam Suyu (Acısız)(30 cl.)",
+      "price": "24,50 TL35 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29966301.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (1,5 L.)",
+      "price": "24,50 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29971428.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "17,50 TL25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29982294.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakınağa Ayran (1 L.)",
+      "price": "52,50 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30622725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64269186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64269187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29820675.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,200 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ilte/tarihi-pasaport-pilavcisi-ilte",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Pirinç Pilavı",
+      "price": "135 TL",
+      "description": "Turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792140.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "155 TL",
+      "description": "Tavuklu Pirinç Pilavı (Turşu ile) + Ayran (18 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Nohutlu Pirinç Pilavı",
+      "price": "80 TL",
+      "description": "Turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "45 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60237815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4",
+      "price": "195 TL",
+      "description": "Kuru Fasulye + Sade Nohutlu Pilav (Turşu ile)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Pirinç Pilavı",
+      "price": "145 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Pilav Üstü Dana Kavurma)",
+      "price": "284,75 TL",
+      "description": "Pilav Üstü Dana Kavurma + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Tavuklu Pirinç Pilavı)",
+      "price": "279 TL310 TL",
+      "description": "Tavuk Suyu Çorbası + Tavuklu Pirinç Pilavı + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Menü 1",
+      "price": "155 TL",
+      "description": "Tavuklu Pirinç Pilavı (Turşu ile) + Ayran (18 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "165 TL",
+      "description": "Ciğerli Pirinç Pilavı (Turşu ile) + Ayran (18 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 3",
+      "price": "215 TL",
+      "description": "Tavuklu Pirinç Pilavı (Turşu ile) + Fırın Sütlaç + Ayran (18 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4",
+      "price": "195 TL",
+      "description": "Kuru Fasulye + Sade Nohutlu Pilav (Turşu ile)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Çorba",
+      "price": "120 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792136.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "100 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31737730.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Nohutlu Pirinç Pilavı",
+      "price": "80 TL",
+      "description": "Turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı",
+      "price": "135 TL",
+      "description": "Turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792140.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Dana Kavurma",
+      "price": "280 TL",
+      "description": "Turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Sote",
+      "price": "145 TL",
+      "description": "Tavuk sote",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49966255.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Pirinç Pilavı",
+      "price": "145 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Fasulye",
+      "price": "165 TL",
+      "description": "Kuru fasulyenin pişirilerek hazırlandığı yemek çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süt Dana Kavurma",
+      "price": "350 TL",
+      "description": "Turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Sote",
+      "price": "175 TL",
+      "description": "Tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35625188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Sütlaç",
+      "price": "115 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemalpaşa Tatlısı",
+      "price": "115 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30792148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "40 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898505.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "45 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60237815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10898506.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

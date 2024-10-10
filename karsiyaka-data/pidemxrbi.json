@@ -1,0 +1,378 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/xrbi/pidem-xrbi",
+  "google": "",
+  "products": [
+    {
+      "name": "2'li Lahmacun Menüm",
+      "price": "189 TL",
+      "description": "2 Adet Lahmacun + 2 Adet Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751041.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun (30 cm.)",
+      "price": "89 TL",
+      "description": "Dana kıyma, biber salçası, domates, kuru soğan, çarliston biber, kapya biber, maydanoz, karabiber, pul biber, lahmacun garnitürü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45234138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Lahmacun Menüm",
+      "price": "369 TL",
+      "description": "4 Adet Lahmacun + 4 Adet Garnitür + Litrelik İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35319672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Kıymalı Patateslim + 2 İçecek",
+      "price": "300,00 TL416 TL",
+      "description": "2 Kıymalı Patateslim + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341579.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pidem + Tavuklu Pidem + 2 İçecek",
+      "price": "340,00 TL462 TL",
+      "description": "Kıymalı Pidem + Tavuklu Pidem + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "69 TL",
+      "description": "Karton kase içerisinde mercimek çorbası (285 ml.) + Tırnak Pide",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24808754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Karışık Pidem & Tavuklu Pidem)",
+      "price": "380,00 TL472 TL",
+      "description": "Karışık Pidem + Tavuklu Pidem + 2 Adet Coca-Cola (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Kıymalı Patateslim + 2 İçecek",
+      "price": "300,00 TL416 TL",
+      "description": "2 Kıymalı Patateslim + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341579.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Lahmacun Menüm",
+      "price": "189 TL",
+      "description": "2 Adet Lahmacun + 2 Adet Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751041.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Menüm",
+      "price": "219,00 TL258 TL",
+      "description": "Karışık Pidem (45 cm.) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51644363.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pidem + Tavuklu Pidem + 2 İçecek",
+      "price": "340,00 TL462 TL",
+      "description": "Kıymalı Pidem + Tavuklu Pidem + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Patatesli Menüm",
+      "price": "135,00 TL198 TL",
+      "description": "Tavuklu Patateslim + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66833160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Menüm",
+      "price": "149 TL",
+      "description": "Patatesli Pidem (45 cm.) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51664392.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Menüm",
+      "price": "205 TL",
+      "description": "Tavuklu Pidem (45 cm.) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51643071.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gamer Menüm",
+      "price": "219 TL",
+      "description": "Sucuklu Şahanem (45 cm.) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51644650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çok Açım Patateslim",
+      "price": "179 TL",
+      "description": "Patatesli Pidem (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51644872.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çok Açım Tavuklu Patateslim",
+      "price": "209 TL",
+      "description": "Tavuklu Patatesli (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51645209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çok Açım Kıymalı Patateslim",
+      "price": "219 TL",
+      "description": "Kıymalı Patatesli Pidem (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51645289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dilediğin Tavuklu Menüm",
+      "price": "229 TL",
+      "description": "Seçeceğiniz Tavuklu Pidem (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51645332.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efsane Menüm",
+      "price": "259 TL",
+      "description": "Kıymalı Pidem (45 cm.) veya Kıymalı Peynirlim (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51645479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gurme Menüm",
+      "price": "279 TL",
+      "description": "Kuşbaşılı Pidem (45 cm.) veya Kuşbaşılı Peynirlim (45 cm.) + Mercimek Çorbası (Tırnak Pide ile) + İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51645698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantaj 2'lim",
+      "price": "329 TL",
+      "description": "2 Adet Seçeceğiniz Pidem (45 cm.)(Patatesli / Tavuklu Patateslim / Kıymalı Patateslim) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51645769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Menü",
+      "price": "399 TL",
+      "description": "Karışık Pidem (45 cm.) veya Sucuklu Şahanem (45 cm.) + Seçeceğiniz Tavuklu Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51646074.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırsat 2'lim",
+      "price": "349 TL",
+      "description": "Seçeceğiniz Patatesli Pidem (45 cm.) + Seçeceğiniz Tavuklu Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51646143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taraftar Menüsü",
+      "price": "329 TL",
+      "description": "Patatesli Pidem (45 cm.) + Karışık Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51646251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper 2'lim",
+      "price": "389 TL",
+      "description": "Tavuklu Pidem (45 cm.) + Karışık Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51646421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik 2'lim",
+      "price": "379 TL",
+      "description": "Patatesli Pidem (45 cm.) veya Peynirli Pidem (45 cm.) + Tavuklu Pidem (45 cm.) veya Kıymalı Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51647986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ortaya Karışık 3'lüm",
+      "price": "479 TL",
+      "description": "2 Adet Seçeceğiniz Patatesli Pidem (45 cm.) + 1 Adet Karışık Pidem (45 cm.) veya Sucuklu Pidem (45 cm.) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51655512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Popüler 2'lim",
+      "price": "379 TL",
+      "description": "Tavuklu Pidem (45 cm.) + Kıymalı Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51646321.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuksever 2'lim",
+      "price": "379 TL",
+      "description": "Seçeceğiniz 2 Adet Tavuklu Pidem (45 cm.) + 2 Adet İçecek (450 ml.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51652952.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Lahmacun Menüm",
+      "price": "369 TL",
+      "description": "4 Adet Lahmacun + 4 Adet Garnitür + Litrelik İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35319672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun Menüm",
+      "price": "149 TL",
+      "description": "1 Lahmacun + 1 Çorba (Tırnak Pide ile) + 1 İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48671093.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Pidem (45 cm.)",
+      "price": "129 TL",
+      "description": "Patates püresi, çarliston biber, kuru soğan, maydanoz, pul biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Patateslim (45 cm.)",
+      "price": "169 TL",
+      "description": "Dana kıyma, domates, patates, kuru soğan, çarliston biber, maydanoz, pul biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233605.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pidem (45 cm.)",
+      "price": "185 TL",
+      "description": "Tavuk göğsü, domates, çarliston biber, peynir, kırmızıbiber, kekik, pul biber, karabiber, kimyon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233612.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Pidem (45 cm.)",
+      "price": "185 TL",
+      "description": "Peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233635.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tavuklum (45 cm.)",
+      "price": "189 TL",
+      "description": "Tavuk göğsü, domates, çarliston biber, kırmızı biber, peynir, kekik, pul biber, karabiber, kimyon, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233646.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Tavuklum (45 cm.)",
+      "price": "189 TL",
+      "description": "Tavuk göğsü, domates, çarliston biber, kırmızıbiber, peynir, kekik, pul biber, karabiber, kimyon, barbekü sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233657.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pidem (45 cm.)",
+      "price": "199 TL",
+      "description": "Dana kıyma, domates, kuru soğan, çarliston biber, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Şahanem (45 cm.)",
+      "price": "199 TL",
+      "description": "Sucuk, domates sosu, peynir, domates, çarliston biber, mantar, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pidem (45 cm.)",
+      "price": "209 TL",
+      "description": "Dana kuşbaşı, dana kıyma, domates, çarliston biber, kuru soğan, peynir, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233764.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekülü Patateslim (45 cm.)",
+      "price": "135 TL",
+      "description": "Patates püresi, çarliston biber, kuru soğan, maydanoz, pul biber, barbekü sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53028370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Peynirlim (45 cm.)",
+      "price": "209 TL",
+      "description": "Dana kıyma, domates, kuru soğan, çarliston biber, peynir, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pidem (45 cm.)",
+      "price": "225 TL",
+      "description": "Dana kuşbaşı, domates, çarliston biber, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Peynirlim (45 cm.)",
+      "price": "235 TL",
+      "description": "Dana kuşbaşı, domates, çarliston biber, peynir, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45233843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Patateslim (45 cm.)",
+      "price": "159 TL",
+      "description": "Tavuk göğsü, domates, çarliston biber, kırmızı biber, peynir, tuz, kekik, pul biber, karabiber, kimyon, patates püresi, kuru soğan, maydanoz, toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49165650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun (30 cm.)",
+      "price": "89 TL",
+      "description": "Dana kıyma, biber salçası, domates, kuru soğan, çarliston biber, kapya biber, maydanoz, karabiber, pul biber, lahmacun garnitürü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45234138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "69 TL",
+      "description": "Karton kase içerisinde mercimek çorbası (285 ml.) + Tırnak Pide",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24808754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (90 gr.)",
+      "price": "39 TL",
+      "description": "Marul, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66418042.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütlaç",
+      "price": "69 TL",
+      "description": "Folyo kâsede sunulur",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64438490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "49 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751089.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "49 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (1 L.)",
+      "price": "49 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "49 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (450 ml.)",
+      "price": "39 TL",
+      "description": "45 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39496198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İçim Ayran (285 ml.)",
+      "price": "35 TL",
+      "description": "28,5 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39496421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Soda (200 ml.)",
+      "price": "25 TL",
+      "description": "20 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39496715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (500 ml.)",
+      "price": "15 TL",
+      "description": "50 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39497099.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Vişne (330 ml.)",
+      "price": "39 TL",
+      "description": "25 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39497111.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Karışık (330 ml.)",
+      "price": "39 TL",
+      "description": "25 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39497118.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Şeftali (330 ml.)",
+      "price": "39 TL",
+      "description": "25 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39498238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10751093.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

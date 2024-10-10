@@ -1,0 +1,265 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/skun/tastyy",
+  "google": "",
+  "products": [
+    {
+      "name": "German Döner Tavuk",
+      "price": "230 TL",
+      "description": "Soğuk soslarla servis edilir. 90 gr. döner, beyaz lahana turşusu, kırmızı soğan, domates, karışık salata, mor lahana turşusu, sarımsaklı beyaz sos, kokteyl sos, maydanoz, peynir, tatlı toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46514204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etibol Sandviç Tavuk",
+      "price": "240 TL",
+      "description": "120 gr. döner, kırmızı sos, salatalık turşusu, sumaklı soğan, domates, sarımsaklı beyaz sos, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48155859.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Burger Döner Tavuk",
+      "price": "230 TL",
+      "description": "Soğuk soslarla servis edilir. 90 gr. döner, kokteyl sos, burger turşusu, kızarmış soğan, cheddar sos, ıceberg marul, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48156726.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chili Cheese Döner Et",
+      "price": "360 TL",
+      "description": "Soğuk soslarla servis edilir. 90 gr. döner, chili sos, beyaz lahana turşusu, iceberg marul, chipotle biberi, kızarmış soğan, cheddar sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52742584.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "German Döner Et",
+      "price": "360 TL",
+      "description": "Soğuk soslarla servis edilir. 90 gr. et döner, beyaz lahana turşusu, kırmızı soğan, domates, karışık salata, mor lahana turşusu, sarımsaklı beyaz sos, kokteyl sos, maydanoz, peynir, tatlı toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52758993.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chili Cheese Döner Tavuk",
+      "price": "230 TL",
+      "description": "90 gr. tavuk döner, chili sos, beyaz lahana turşusu, iceberg marul, chipotle biberi, kızarmış soğan, cheddar sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48156593.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etibol Sandviç Et",
+      "price": "375 TL",
+      "description": "120 gr. döner, kırmızı sos, salatalık turşusu, sumaklı soğan, domates, sarımsaklı beyaz sos, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55183135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etibol Et Döner Dürüm",
+      "price": "375 TL",
+      "description": "120 gr. döner, sumaklı soğan, salatalık turşusu, domates, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48156595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etibol Döner Dürüm Tavuk",
+      "price": "245 TL",
+      "description": "120 gr. döner, sumaklı soğan, salatalık turşusu, domates, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52747631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tastyy Antakya Tavuk",
+      "price": "220 TL",
+      "description": "90 gr. tavuk döner, karışık salata, sumaklı soğan, patates kızartması, white sos, Antakya sos, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52758772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fresh Greek Et",
+      "price": "350 TL",
+      "description": "Soğuk soslarla servis edilir. 90 gr. döner, caciki sos, beyaz lahana turşusu, iceberg marul, Yunan salatası, patates kızartması, kırmızı soğan, siyah zeytin, peynir, maydanoz, tatlı toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55184534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fresh Greek Tavuk",
+      "price": "235 TL",
+      "description": "90 gr. tavuk döner, caciki sos, beyaz lahana turşusu, marul iceberg, Yunan salatası, patates kızartması, kırmızı soğan, siyah zeytin, peynir, maydanoz, tatlı toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59098824.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tastyy Antakya Et Döner Dürüm",
+      "price": "310 TL",
+      "description": "90 gr. et, karışık salata, sumaklı soğan, patates kızartması, white sos, Antakya sos, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61444447.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fresh Greek Kase Tavuk",
+      "price": "245 TL",
+      "description": "(80 gr.) döner, patates kızartması, Yunan salata, iceberg marul, caciki sos, peynir, siyah zeytin, kırmızı soğan, mor lahana turşusu, beyaz lahana turşusu, tatlı toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48168061.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "German Döner Kase Tavuk",
+      "price": "245 TL",
+      "description": "80 gr. döner, patates kızartması, kokteyl sarımsaklı beyaz sos, beyaz lahana turşusu, mor lahana turşusu, peynir, iceberg marul, kırmızı soğan, domates, tatlı toz biber, soğuk sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48238649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fit Döner Kase Tavuk",
+      "price": "245 TL",
+      "description": "Soğuk soslarla servis edilir. 80 gr. tavuk döner, karışık salata, beyaz lahana turşusu, Yunan salatası, roka, peynir, caciki sos, kırmızı soğan, salatalık turşusu, mor lahana turşusu, kızarmış pita ekmeği, iceberg marul, nohut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48474525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fresh Greek Kase Et",
+      "price": "350 TL",
+      "description": "80 gr. et döner, patates kızartması, Yunan salatası, iceberg marul, caciki sos, peynir, siyah zeytin, kırmızı soğan, mor lahana turşusu, beyaz lahana turşusu, tatlı toz biber, soğuk sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52742401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fit Döner Kase Et",
+      "price": "350 TL",
+      "description": "Soğuk soslarla servis edilir. (80 gr.) et döner, karışık salata, beyaz lahana turşusu, Yunan salatası, roka, peynir, caciki sos, kırmızı soğan, salatalık turşusu, mor lahana turşusu, kızarmış pita ekmeği, marul iceberg, nohut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52756509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "German Döner Kase Et",
+      "price": "350 TL",
+      "description": "80 gr. et döner, patates kızartması, kokteyl sos, sarımsaklı beyaz sos, beyaz lahana turşusu, mor lahana turşusu, peynir, iceberg marul, kırmızı soğan, domates, tatlı toz biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52758974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Döner Kase Et",
+      "price": "350 TL",
+      "description": "80 gr. döner, patates kızartması, karışık salata, sumaklı soğan, salatalık turşusu, sarımsaklı beyaz sos, Antakya sos, maydanoz, köz biber, pita ekmeği, yağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55183338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Döner Kase Tavuk",
+      "price": "245 TL",
+      "description": "80 gr. döner, patates kızartması, karışık salata, sumaklı soğan, salatalık turşusu, sarımsaklı beyaz sos, Antakya sos, maydanoz, köz biber, pita ekmeği, ayçiçek yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59582904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Cheddar Tavuk",
+      "price": "190 TL",
+      "description": "70 gr. döner, patates kızartması üstüne; kızarmış soğan, barbekü sos, cheddar sos, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48167822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Burger Döner French Fries Tavuk",
+      "price": "190 TL",
+      "description": "Soğuk soslarla servis edilir. 70 gr. döner, patates kızartması, domates, salatalık turşusu, kızarmış soğan, ıceberg marul, kokteyl, cheddar sos, susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48168106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tex-Mex French Fries Tavuk",
+      "price": "190 TL",
+      "description": "Soğuk soslarla servis edilir. 70 gr. döner, patates kızartması, chili sos, cheddar sos, kırmızı soğan, mısır, siyah zeytin, jalapeno turşusu, maydanoz, nachos baharatlı kokteyl sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52742569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Cheddar Et",
+      "price": "245 TL",
+      "description": "Soğuk soslarla servis edilir. 70 gr. et döner, patates kızartması, kızarmış soğan, barbekü sos, cheddar sos, maydanoz ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52743481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tex-Mex French Fries Et",
+      "price": "245 TL",
+      "description": "70 gr. et döner, patates kızartması üstüne; chili sos, cheddar sos, kırmızı soğan, mısır, siyah zeytin, jalapeno turşusu, maydanoz, acılı nachos baharatı, kokteyl sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52751091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Burger Döner French Fries Et",
+      "price": "245 TL",
+      "description": "70 gr. et döner, patates kızartması üstüne; domates, salatalık turşusu, kızarmış soğan, iceberg marul, kokteylli cheddar sos, susam. Sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55195199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Burger",
+      "price": "360 TL",
+      "description": "Soğuk soslarla servis edilir. 90 gr. et döner, kokteyl sos, burger turşusu, kızarmış soğan, cheddar sos, iceberg marul, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64670144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "75 TL",
+      "description": "Dip sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55200567.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Soğan",
+      "price": "100 TL",
+      "description": "Dip sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55232999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tastyy Combo",
+      "price": "140 TL",
+      "description": "Çıtır soğan, çıtır nohut, patates kızartması"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48182683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (33 cl.)",
+      "price": "55 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48187389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48189622.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48260241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55200409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55241563.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe"
+    },
+    {
+      "name": "Sarımsaklı Beyaz Sos",
+      "price": "35 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48212045.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Sos",
+      "price": "35 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48219382.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caciki Sos",
+      "price": "35 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Kokteyl Sos",
+      "price": "35 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32250136.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ujdh/sifa-corba",
+  "google": "",
+  "products": [
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "200 TL",
+      "description": "Kelle, paça ve baharatlarla hazırlanan bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Çorba",
+      "price": "220 TL",
+      "description": "Kelle paça çorbası, işkembe çorbası, beyin çorbası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayak Paça Çorbası",
+      "price": "210 TL",
+      "description": "Ayak, paça ve baharatlarla hazırlanan bir çorba çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Çorba",
+      "price": "230 TL",
+      "description": "Ayak, kelle paça, beyin, işkembe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27985569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "200 TL",
+      "description": "Dilimlenmiş işkembe parçalarının pişirilerek hazırlandığı bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224191.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça & Ayak Paça Karışık Çorba",
+      "price": "220 TL",
+      "description": "Kelle, ayak karışık çorba",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43521143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası (Yarım)",
+      "price": "190 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayak Paça Çorbası",
+      "price": "210 TL",
+      "description": "Ayak, paça ve baharatlarla hazırlanan bir çorba çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayak Paça Çorbası (Yarım)",
+      "price": "200 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuzlama Çorbası",
+      "price": "210 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuzlama Çorbası (Yarım)",
+      "price": "200 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyin Çorbası",
+      "price": "210 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyin Çorbası (Yarım)",
+      "price": "200 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224190.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "200 TL",
+      "description": "Dilimlenmiş işkembe parçalarının pişirilerek hazırlandığı bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224191.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası (Yarım)",
+      "price": "190 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224192.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Çorba",
+      "price": "220 TL",
+      "description": "Kelle paça çorbası, işkembe çorbası, beyin çorbası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Çorba (Yarım)",
+      "price": "210 TL",
+      "description": "Kelle paça çorbası, işkembe çorbası, beyin çorbası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "130 TL",
+      "description": "Kırmızı mercimek, sebzeler ve baharatlarla hazırlanan bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224195.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası (Yarım)",
+      "price": "120 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İlik Suyu",
+      "price": "170 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Çorba",
+      "price": "230 TL",
+      "description": "Ayak, kelle paça, beyin, işkembe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27985569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "200 TL",
+      "description": "Kelle, paça ve baharatlarla hazırlanan bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça & Ayak Paça Karışık Çorba",
+      "price": "220 TL",
+      "description": "Kelle, ayak karışık çorba",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43521143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6224203.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

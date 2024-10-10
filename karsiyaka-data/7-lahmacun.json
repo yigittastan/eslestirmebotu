@@ -1,0 +1,96 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/vgtr/7-lahmacun-vgtr",
+  "google":"https://maps.app.goo.gl/V3nd5unSWcaCEpyN7",
+  "products": [
+    {
+      "name": "Sokak Lahmacunu",
+      "price": "36 TL45 TL",
+      "description": "90 gr. yumuşak hamur üzerine; dana eti, üzerinde yeşillik ve domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26479056.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "20 TL25 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37059044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Turşu Suyu (30 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29631177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eko Aile Menü",
+      "price": "292 TL365 TL",
+      "description": "7 Adet Sokak Lahmacunu (90 gr. yumuşak hamur) (Lütfen acı seçiminizi sipariş notu kısmında belirtiniz.) + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200024.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Aile Menü",
+      "price": "348 TL435 TL",
+      "description": "10 Adet Sokak Lahmacunu (90 gr.) 8Lütfen acı seçiminizi sipariş notu kısmında belirtiniz.) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64201973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doyuran Menü",
+      "price": "96 TL120 TL",
+      "description": "2 Adet Sokak Lahmacunu (90 gr. hamur, kıyma) + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64202645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sokak Lahmacunu",
+      "price": "36 TL45 TL",
+      "description": "90 gr. yumuşak hamur üzerine; dana eti, üzerinde yeşillik ve domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26479056.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Dönerli Mantarlı Pizza",
+      "price": "108 TL135 TL",
+      "description": "Tavuk döner, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200129.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (22 cm.)",
+      "price": "100 TL125 TL",
+      "description": "Kaşar peyniri, sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200486.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (22 cm.)",
+      "price": "108 TL135 TL",
+      "description": "120 gr. pizza hamuru üzerine; salam, sucuk, sosis, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64201983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kumru",
+      "price": "104 TL130 TL",
+      "description": "Sucuk, kaşar, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64202660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Turşu Suyu (30 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29631177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52618713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "20 TL25 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37059044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29631192.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

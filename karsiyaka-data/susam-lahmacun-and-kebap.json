@@ -1,0 +1,516 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/pu24/susam-lahmacun-and-kebap",
+  "google": "",
+  "products": [
+    {
+      "name": "Lahmacun",
+      "price": "92 TL115 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54062131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gaziantep Lahmacunu",
+      "price": "111,20 TL139 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "111,20 TL139 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "159,20 TL199 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54065805.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Lahmacun",
+      "price": "108 TL135 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54061961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Yumurtalı Pide",
+      "price": "167,20 TL209 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54063062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Lahmacun Menü",
+      "price": "519,20 TL649 TL",
+      "description": "5 Adet Lahmacun (Roka, domates, limon ile) + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54296650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "10'Lu Lahmacun Menü",
+      "price": "879,20 TL1.099 TL",
+      "description": "10 Adet Lahmacun (Roka, domates, limon ile) + Pepsi (1 L.) (Acı seçimini notlar kısmında belirtiniz.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54363310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susamlı Special Pide",
+      "price": "279,20 TL349 TL",
+      "description": "Susamlı Special Pide (Kuşbaşı et, kıyma, sucuk, kaşar peyniri, ıspanak, tavuk) + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54209003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Antep Lahmacun Menü",
+      "price": "519,20 TL649 TL",
+      "description": "5 Adet Antep Lahmacun (Roka, domates, limon) + Pepsi (1 L.) (Lütfen acılı / acısız seçiminizi müşteri notu kısmında belirtiniz.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54364980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk Dürüm (150 gr.) Menü",
+      "price": "159,20 TL199 TL",
+      "description": "Izgara Tavuk Dürüm (150 gr.) + Eker Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55911473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "183,20 TL229 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54065885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Pide Menü",
+      "price": "316 TL395 TL",
+      "description": "2 Adet Pide (Roka, domates, limon) + Ayran (20 cl.)"
+    },
+    {
+      "name": "4'lü Pide Menü",
+      "price": "480 TL600 TL",
+      "description": "4 Adet Pide (roka, domates, limon ile) + Ayran (20 cl.)"
+    },
+    {
+      "name": "6'lı Pide Menü",
+      "price": "720 TL900 TL",
+      "description": "6 Adet Pide (roka, domates, limon) + İçecek (1 L.)"
+    },
+    {
+      "name": "7'Li Pide Menü",
+      "price": "839,20 TL1.049 TL",
+      "description": "7 Adet Pide + (Roka, domates limon ile) + Ayran (1 L.)"
+    },
+    {
+      "name": "10'lu Pide Menü",
+      "price": "1.119,20 TL1.399 TL",
+      "description": "10 Adet Pide (Roka, domates, limon ile) + İçecek (1 L.)"
+    },
+    {
+      "name": "8'li Pide Menü",
+      "price": "960 TL1.200 TL",
+      "description": "Seçeceğiniz Pide (8 Adet) (roka, domates, limon ile) + İçecek (1 L.)"
+    },
+    {
+      "name": "9'lu Pide Menü",
+      "price": "1.159,20 TL1.449 TL",
+      "description": "Seçeceğiniz Pide (9 Adet) (Roka, domates, limon ile) + İçecek (2,5 L.)"
+    },
+    {
+      "name": "5'li Pide Menü",
+      "price": "639,20 TL799 TL",
+      "description": "5 Adet Kıymalı Pide + Roka + Domates + Limon + İçecek (1 L.)"
+    },
+    {
+      "name": "Aile Menü 8",
+      "price": "624 TL780 TL",
+      "description": "2 Adet Lahmacun + 3 Adana Dürüm (Roka, domates, limon ile) + Ayran (1 L.)"
+    },
+    {
+      "name": "Aile Menü 3",
+      "price": "799,20 TL999 TL",
+      "description": "4 Adet Lahmacun (Roka, domates limon) + 2 Adet Pizza + Salata + Patates Kızartması + Ayran (1 L.)"
+    },
+    {
+      "name": "Aile Menü 10",
+      "price": "959,20 TL1.199 TL",
+      "description": "2 Adet Seçeceğiniz Pide + Adana Dürüm + Urfa Dürüm + Roka + Domates + Limon + Katmer + Ayran (1 L.)"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide Menü",
+      "price": "119,20 TL149 TL",
+      "description": "Kıymalı Yumurtalı Pide + Roka + Domates + Limon"
+    },
+    {
+      "name": "Karışık Pide Menü",
+      "price": "239,20 TL299 TL",
+      "description": "Karışık Pide (Pide kıyması, sucuk, kaşar peyniri, kuşbaşı eti) + Roka + Domates + Limon"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Pide Menü",
+      "price": "159,20 TL199 TL",
+      "description": "Sucuklu Kaşarlı Pide + Mevsim Salata"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide Menü",
+      "price": "175,20 TL219 TL",
+      "description": "Kuşbaşılı Kaşarlı Pide + Mevsim Salata"
+    },
+    {
+      "name": "Aile Menü 5",
+      "price": "640 TL800 TL",
+      "description": "4 Adet Lahmacun + 2 Adet Adana Dürüm + Double Salata + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55013004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Menü 11",
+      "price": "680 TL850 TL",
+      "description": "2 Adet Lahmacun + 1 Adet Pide + 1 Porsiyon Adana Kebap + Mercimek Çorbası + İçecek"
+    },
+    {
+      "name": "Aile Menü 14",
+      "price": "800 TL1.000 TL",
+      "description": "Adana Kebap + Urfa Kebap + Pizza + Salata + İçecek"
+    },
+    {
+      "name": "Aile Menü 15",
+      "price": "680 TL850 TL",
+      "description": "2 Adet Lahmacun + 1 Porsiyon Adana Kebap + Pide + Künefe + Salata + İçecek"
+    },
+    {
+      "name": "Aile Menü 1",
+      "price": "760 TL950 TL",
+      "description": "4 Adet Lahmacun + Seçeceğiniz Pide + Mevsim Salata + Patates Kızartması + İçecek"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Yumurtalı Pide",
+      "price": "212 TL265 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54063485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pide",
+      "price": "279,20 TL349 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54066229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Sucuklu Yumurtalı Pide",
+      "price": "167,20 TL209 TL",
+      "description": "Kaşar peyniri, sucuk, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54148768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "111,20 TL139 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Yumurtalı Pide",
+      "price": "111,20 TL139 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54062237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Yumurtalı Pide",
+      "price": "196 TL245 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54062665.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Yumurtalı Pide",
+      "price": "167,20 TL209 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54063062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Pide",
+      "price": "87,20 TL109 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54063382.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Kaşarlı Pide",
+      "price": "119,20 TL149 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54064075.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "111,20 TL139 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54064091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Yumurtalı Pide",
+      "price": "119,20 TL149 TL",
+      "description": "Roka, domates limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54065645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "159,20 TL199 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54065805.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Yumurtalı Pide",
+      "price": "119,20 TL149 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54148453.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Pide",
+      "price": "239,20 TL299 TL",
+      "description": "Roka, domates, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54148484.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "119,20 TL149 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66392672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Kaşarlı Pide",
+      "price": "199,20 TL249 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66756761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Pide Menü",
+      "price": "479,20 TL599 TL",
+      "description": "3 Adet Pide (roka domates limon ile) + Ayran (20 cl.)"
+    },
+    {
+      "name": "Gaziantep Lahmacunu",
+      "price": "111,20 TL139 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Lahmacun",
+      "price": "108 TL135 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54061961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "92 TL115 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54062131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "56 TL70 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54062172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Fındık Lahmacun",
+      "price": "76 TL95 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54062182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Lahmacun",
+      "price": "108 TL135 TL",
+      "description": "Mevsim salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54208861.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "279,20 TL349 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, roka salatası, soğan piyazı ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54061781.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola",
+      "price": "199,20 TL249 TL",
+      "description": "2 adet pirzola. Közlenmiş biber, közlenmiş domates, mevsim salatası, sumaklı soğan, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66389879.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kanat (8 Adet)",
+      "price": "239,20 TL299 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, roka salatası, tırnak pide ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66392202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": "239,20 TL299 TL",
+      "description": "Roka salatası, soğan piyazı, lavaş ile"
+    },
+    {
+      "name": "Kiremitte Kasap Köfte (200 gr.)",
+      "price": "279,20 TL349 TL",
+      "description": "Kuru soğan, köy biberi, domates, özel baharatlı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816126.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Tavuk Kanat",
+      "price": "212 TL265 TL",
+      "description": "Kuru soğan, köy biberi, domates, özel baharatlı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54207203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Kasap Köfte (200 gr.)",
+      "price": "311,20 TL389 TL",
+      "description": "Kuru soğan, köy biberi, domates, özel baharatlı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54207210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Tavuk Pirzola",
+      "price": "236 TL295 TL",
+      "description": "Kuru soğan, köy biberi, domates, özel baharatlı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54208458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Et Basma",
+      "price": "279,20 TL349 TL",
+      "description": "200 gr. dana eti, közlenmiş biber, közlenmiş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54209871.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Sebzeli Köfte (200 gr.)",
+      "price": "279,20 TL349 TL",
+      "description": "Kuru soğan, köy biberi, domates, özel baharatlı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54210127.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Tavuk",
+      "price": "239,20 TL299 TL",
+      "description": "Roka salatası, tırnak pide ile"
+    },
+    {
+      "name": "Kilis Tava",
+      "price": "279,20 TL349 TL",
+      "description": "Roka salatası, tırnak pide ile"
+    },
+    {
+      "name": "Adana Dürüm (100 gr.)",
+      "price": "159,20 TL199 TL",
+      "description": "Domates, mevsim yeşilliği, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816127.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Dürüm",
+      "price": "159,20 TL199 TL",
+      "description": "Domates, yeşillik, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54064577.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni",
+      "price": "143,20 TL179 TL",
+      "description": "Biber turşusu ile"
+    },
+    {
+      "name": "Ekmek Arası Köfte (120 gr.)",
+      "price": "159,20 TL199 TL",
+      "description": "Mevsim yeşilliği, soğan, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çoban Salata",
+      "price": "120 TL150 TL",
+      "description": "Domates, salatalık, roka, köy biberi, özel sos, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816119.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gaziantep Katmeri",
+      "price": "264 TL330 TL",
+      "description": "Antep fıstığı, kaymak, şeker, sadeyağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Künefe",
+      "price": "144 TL180 TL",
+      "description": "Özel Hatay'dan gelen peynirimiz, sade yağ",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54208333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'Or Çikolata Rüyası (110 ml.)",
+      "price": "60 TL75 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55465282.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Usulü Cup (100 ml.)",
+      "price": "52 TL65 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55467871.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte D'or Meyve Rüyası",
+      "price": "60 TL75 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55509504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54296861.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54291218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54294333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54296662.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (20 cl.)",
+      "price": "44 TL55 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53816115.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54294310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "63,20 TL79 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54293873.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "63,20 TL79 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54294301.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "63,20 TL79 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54291731.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Limonata (1 L.)",
+      "price": "63,20 TL79 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54300426.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (25 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54300431.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54300435.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/t0n2/oztan-tatli-dunyasi",
+  "google": "",
+  "products": [
+    {
+      "name": "Algida Menüsü (Aşure)",
+      "price": "88 TL110 TL",
+      "description": "Aşure + Algida Maraş Usulü Dilim (82 ml.)"
+    },
+    {
+      "name": "Limonlu Beze",
+      "price": "32 TL40 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Çilekli Beze",
+      "price": "32 TL40 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Kavunlu beze",
+      "price": "32 TL40 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Magnum Mini Cookie (58 ml.)",
+      "price": "40 TL50 TL",
+      "description": "Paketli",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Magnum Mini Sunlover (60 ml.)",
+      "price": "40 TL50 TL",
+      "description": "Paket ürün",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Algida Maraş Cup (100 ml.)",
+      "price": "24 TL30 TL",
+      "description": "Paketli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60804012.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Usulü Dilim (82 ml.)",
+      "price": "28 TL35 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60804013.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'Or Premıum Meyve Ruyası Cup (110 ml.)",
+      "price": "25,60 TL32 TL",
+      "description": "Paket ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60804032.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte D'Or Premium Çikolata Rüyası Cup (110 ml.)",
+      "price": "40 TL50 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60804045.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşure",
+      "price": "128 TL160 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54766233.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Ekler",
+      "price": "120 TL150 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50387815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "128 TL160 TL",
+      "description": "Çikolatalı ve puding kıvamında bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52123944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Sütlaç",
+      "price": "128 TL160 TL",
+      "description": "Pirinç, süt, nişaşta, şeker",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52126383.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşhaşlı Revani",
+      "price": "128 TL160 TL",
+      "description": "Şeker, süt, irmik, yağ, haşhaş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52189647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mandalina Soslu İrmik Tatlısı",
+      "price": "128 TL160 TL",
+      "description": "İrmik üzerine mandalina jolesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51635381.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "128 TL160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54277676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fıstıklı Baklava",
+      "price": "160 TL200 TL",
+      "description": "Fıstık",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Cevizli Baklava",
+      "price": "120 TL150 TL",
+      "description": "Ceviz, şerbet",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Cevizli Soğuk Baklava",
+      "price": "140 TL175 TL",
+      "description": "Ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50008048.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lor Tatlısı",
+      "price": "119,20 TL149 TL",
+      "description": "Tereyağı, şerbet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50763725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Özel Baklava (1 kg.)",
+      "price": "400 TL500 TL",
+      "description": "Tereyağlı, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54137521.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Özel Baklava (750 gr.)",
+      "price": "300 TL375 TL",
+      "description": "Tereyağlı, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54137531.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Özel Baklava (500 gr.)",
+      "price": "200 TL250 TL",
+      "description": "Tereyağlı, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54137544.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Özel Baklava (250 gr.)",
+      "price": "120 TL150 TL",
+      "description": "Tereyağlı, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54137548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Özel Baklava (12 Dilim)",
+      "price": "192 TL240 TL",
+      "description": "Tereyağlı, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54137584.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Halka Tatlısı",
+      "price": "24 TL30 TL",
+      "description": "Hamurun halka şekli verilerek kızartılmasıyla elde edilen tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55547808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "HÜRREM SULTAN",
+      "price": "120 TL150 TL"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64594175.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

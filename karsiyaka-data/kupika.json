@@ -1,0 +1,208 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/k8ln/kupika",
+  "google": "",
+  "products": [
+    {
+      "name": "Margherita",
+      "price": "260 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), taze fesleğen, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Melez",
+      "price": "380 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), kasap sucuk, dana sosis, kestane mantarı, köy biberi, siyah zeytin, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiftik İsli Tavuk",
+      "price": "300 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), acı barbekü soslu tiftik tavuk, kırmızı soğan, köy biberi, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rozbif Cheddar",
+      "price": "410 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), cheddar peyniri, ev yapımı rozbif, Bergama tulum peyniri, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginar Kuşkonmaz",
+      "price": "350 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), enginar kalbi, kuşkonmaz, roka, Bergama tulum peyniri, pesto sos, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar",
+      "price": "400 TL",
+      "description": "Suda mozzarella (Fior di Latte), istiridye mantarı, kestane mantarı, baby ıspanak, ev yapımı rozbif, Grana Padano parmesan peyniri, balzamik glaze, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita",
+      "price": "260 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), taze fesleğen, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Girit",
+      "price": "310 TL",
+      "description": "Suda mozzarella peyniri (Fior di Latte), girit kabak, Çanakkale Ezine peyniri, ceviz, limon zest, pesto sos, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginar Kuşkonmaz",
+      "price": "350 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), enginar kalbi, kuşkonmaz, roka, Bergama tulum peyniri, pesto sos, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar",
+      "price": "400 TL",
+      "description": "Suda mozzarella (Fior di Latte), istiridye mantarı, kestane mantarı, baby ıspanak, ev yapımı rozbif, Grana Padano parmesan peyniri, balzamik glaze, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuk",
+      "price": "310 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), kasap sucuk, sarımsaklı maydanozlu tereyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900777.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Melez",
+      "price": "380 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), kasap sucuk, dana sosis, kestane mantarı, köy biberi, siyah zeytin, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynir",
+      "price": "290 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), cheddar peyniri, isli Çerkez peyniri, Grana Padano parmesan peyniri, roka, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900774.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rozbif Cheddar",
+      "price": "410 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), cheddar peyniri, ev yapımı rozbif, Bergama tulum peyniri, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiftik İsli Tavuk",
+      "price": "300 TL",
+      "description": "Urla domates sos, suda mozzarella peyniri (Fior di Latte), acı barbekü soslu tiftik tavuk, kırmızı soğan, köy biberi, sızma zeytinyağı (400 derece meşe odunu ateşinde pişirilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Perso Pizza",
+      "price": "370 TL",
+      "description": "Urla domastes sos, suda mozzarella peyniri (Fior di latte), kasap sucuk, istiridye mantarı, cheddar peyniri, Bergama tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26846905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Mantar",
+      "price": "285 TL",
+      "description": "Urla domates sos, suda mozzerella (fior di latte), istiridye mantarı, kestane mantarı, taze fesleğen, sızma zeytinyağı"
+    },
+    {
+      "name": "Patlıcanlı Pizza",
+      "price": "295 TL",
+      "description": "Urla domates sos, suda mozzerella peyniri, fesleğen, fırın patlıcan, tulum peyniri, maydanoz, sızma zeytinyağı"
+    },
+    {
+      "name": "Margherita Pesto",
+      "price": "280 TL",
+      "description": "Urla domates sosu, suda mozzarella peyniri, taze fesleğen, pesto sos"
+    },
+    {
+      "name": "Peperonni Pizza",
+      "price": "360 TL",
+      "description": "Urla domates sos, suda mozzerella peyniri, pepperoni, çıtır soğan, acılı bal, sızma zeytinyağı"
+    },
+    {
+      "name": "Rozbif V2",
+      "price": "430 TL",
+      "description": "Urla domates sos, suda mozzerella peyniri, cheddar peyniri, ev yapımı rozbif, tulum peyniri, karemelize soğan, çıtır soğan, sızma zeytinyağı"
+    },
+    {
+      "name": "Vegan Pizza",
+      "price": "280 TL",
+      "description": "Urla domates sos, enginar kalbi, kuşkonmaz, istiridye mantarı, kuru domates, limon zest, baby ıspanak"
+    },
+    {
+      "name": "Marinara Pizza",
+      "price": "230 TL",
+      "description": "Urla domates sos, fırınlanmış domates, confit sarımsak, taze kekik, limon zest"
+    },
+    {
+      "name": "Tavuk Pesto",
+      "price": "316 TL",
+      "description": "Iceberg marul, tiftik tavuk, suda mozzarella peyniri, kuru domates, ceviz, vinegret sos, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900779.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roka Kabak",
+      "price": "222 TL",
+      "description": "Roka, taze fesleğen, slice kabak, ceviz, süzme peynir, limon zest, baharatlı çıtır, vinegret",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil",
+      "price": "266 TL",
+      "description": "Iceberg marul, roka, maydanoz, dereotu, fesleğen, taze nane, avokado, ceviz, limon zest, çörekotu, vinegret sos"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropicana (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Premium Soda (25 cl.)",
+      "price": "55 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Premium Su (40 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900794.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Yağ",
+      "price": "4 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Yağ",
+      "price": "4 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Soğanlı & Maydanozlu Yağ",
+      "price": "4 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5900799.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

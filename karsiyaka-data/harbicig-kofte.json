@@ -1,0 +1,319 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ul1u/harbi-cig-kofte",
+  "google": "",
+  "products": [
+    {
+      "name": "Ultra Çiğ Köfte Dürüm",
+      "price": "84 TL105 TL",
+      "description": "Fırın Lavaşa; 150 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.)",
+      "price": "252 TL315 TL",
+      "description": "Marul, nane, roka, turşu, limon, nar ekşisi, acı sos, 4 adet fırın lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Çiğ Köfte Dürüm",
+      "price": "76 TL95 TL",
+      "description": "Fırın lavaşa; 125 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019977.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (250 gr.)",
+      "price": "140 TL175 TL",
+      "description": "Marul, nane, roka, turşu, limon, nar ekşisi, acı sos, 2 adet fırın lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019979.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sek Ayran (1 L.)",
+      "price": "60 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020027.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sek Ayran (20 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Terapi Menü 1",
+      "price": "100 TL125 TL",
+      "description": "Çiğ Köfte Dürüm + Sek Ayran (20 cl. )",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019955.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Terapi Menü 2",
+      "price": "116 TL145 TL",
+      "description": "Çiğ Köfte Dürüm + Günün Tatlısı + Sek Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019956.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Terapi Menü 3",
+      "price": "136 TL170 TL",
+      "description": "Çiğ Köfte Dürüm + Meze + Sek Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019957.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Terapi Menü 4",
+      "price": "180 TL225 TL",
+      "description": "Çiğ Köfte Dürüm + Meze + Günün Tatlısı + Sek Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019958.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Terapi Menü 5",
+      "price": "132 TL165 TL",
+      "description": "Mega Çiğ Köfte Dürüm + Günün Tatlısı+ Sek Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019959.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İki Kafadar Menü",
+      "price": "200 TL250 TL",
+      "description": "Çiğ Köfte Dürüm (2 Adet) + Günün Tatlısı (2 Adet) + 2 Adet Sek Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019968.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Çiğ Köfte Dürüm Menü",
+      "price": "332 TL415 TL",
+      "description": "Çiğ Köfte Dürüm (3 Adet) + Günün Tatlısı (3 Adet) + Ayran (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019969.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biz Ayrılamayız Menü",
+      "price": "256 TL320 TL",
+      "description": "Mega Çig Köfte Dürüm (2 Adet) + Günün Tatlısı (2 Adet) + Sek Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 3",
+      "price": "340 TL425 TL",
+      "description": "Çiğ Köfte (400 gr. ) + Günün Tatlısı (3 Adet) + İçecek (1 L.)"
+    },
+    {
+      "name": "Aperitif Menü",
+      "price": "168 TL210 TL",
+      "description": "Çiğ Köfte (200 gr.) + Günün Tatlısı + Sek Ayran (20 cl.)"
+    },
+    {
+      "name": "Aile Menü",
+      "price": "480 TL600 TL",
+      "description": "Çiğ Köfte (1 kg.) + İçecek (1 L.)"
+    },
+    {
+      "name": "Harbi Menü",
+      "price": "308 TL385 TL",
+      "description": "Çiğ Köfte (500 gr.) + Çiğ Köfte (250 gr.) (4 adet tandır lavaşı, 2 adet nar ekşisi, 2 adet acı sos ile)"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "67,20 TL84 TL",
+      "description": "Fırın lavaşa; 90 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019976.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Çiğ Köfte Dürüm",
+      "price": "76 TL95 TL",
+      "description": "Fırın lavaşa; 125 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019977.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ultra Çiğ Köfte Dürüm",
+      "price": "84 TL105 TL",
+      "description": "Fırın Lavaşa; 150 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (250 gr.)",
+      "price": "140 TL175 TL",
+      "description": "Marul, nane, roka, turşu, limon, nar ekşisi, acı sos, 2 adet fırın lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019979.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.)",
+      "price": "252 TL315 TL",
+      "description": "Marul, nane, roka, turşu, limon, nar ekşisi, acı sos, 4 adet fırın lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (750 gr.)",
+      "price": "384 TL480 TL",
+      "description": "Marul, nane, roka, turşu, limon, nar ekşisi, acı sos, 6 adet fırın lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019981.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.)",
+      "price": "436 TL545 TL",
+      "description": "Marul, nane, roka, turşu, limon, nar ekşisi, acı sos, 8 adet fırın lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019982.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Çiğ Köfte Dürüm",
+      "price": "92 TL115 TL",
+      "description": "Çift tandır lavaşına; 180 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6019983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (750 gr.)(Garnitürsüz)",
+      "price": "312 TL390 TL",
+      "description": "6 adet tandır lavaşı, 3 adet acı sos, 3 adet nar ekşisi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51879648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.) (Garnitürsüz)",
+      "price": "216 TL270 TL",
+      "description": "4 adet tandır lavaşı, 2 adet acı sos, 2 adet nar ekşisi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51879702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (250 gr.) (Garnitürsüz)",
+      "price": "112 TL140 TL",
+      "description": "2 adet tandır lavaşı, 1 adet acı sos, 1 adet nar ekşisi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51880816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Doritoslu Çiğ Köfte Dürüm",
+      "price": "84 TL105 TL",
+      "description": "Tandır lavaşa; 130 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, Doritos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51881021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.) (Garnitürsüz)",
+      "price": "364 TL455 TL",
+      "description": "8 adet tandır lavaş, 4 adet acı sos, 4 adet nar ekşisi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51881030.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doritoslu Çiğ Köfte Dürüm",
+      "price": "76 TL95 TL",
+      "description": "Tandır lavaşa; 100 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, Doritos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51881156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doritoslu Zurna Çiğ Köfte Dürüm",
+      "price": "100 TL125 TL",
+      "description": "180 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, Doritos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51883438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ultra Mega Doritoslu Çiğ Köfte Dürüm",
+      "price": "92 TL115 TL",
+      "description": "150 gr. çiğ köfte, marul, nane, roka, turşu, limon, nar ekşisi, Doritos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51883450.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Lavaş (Adet)",
+      "price": "9,60 TL12 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşilik Salata",
+      "price": "48 TL60 TL",
+      "description": "Mevsim yeşillikleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kornişon Turşu (100 gr.)",
+      "price": "12 TL15 TL",
+      "description": "100 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Biber Turşusu (100 gr.)",
+      "price": "12 TL15 TL",
+      "description": "100 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nar Ekşisi",
+      "price": "6 TL7,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limon (Adet)",
+      "price": "6 TL7,50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020005.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "48 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "48 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Zafer Gazoz (20 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020015.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sek Ayran (19 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020016.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sek Ayran (20 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Has Adıyaman Şalgam Suyu (50 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020019.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "24 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "16 TL20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020023.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020025.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Has Adıyaman Şalgam Suyu (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020026.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sek Ayran (1 L.)",
+      "price": "60 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020027.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6020029.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

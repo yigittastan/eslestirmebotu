@@ -1,0 +1,276 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ha9r/spontini",
+  "google": "",
+  "products": [
+    {
+      "name": "Kayseri Yağlaması",
+      "price": "287,20 TL359 TL",
+      "description": "Yoğurt ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66306268.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Bohça Mantı",
+      "price": "320 TL400 TL",
+      "description": "İnce hamur, dana kıyması, iç harcı ile Spontini sade mantı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "price": "180 TL225 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30627071.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üçgen Mantı",
+      "price": "328 TL410 TL",
+      "description": "210 gr. dana etli üçgen üzerine; yoğurt, tereyağlı sos, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66309156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çi Börek (2 Adet)",
+      "price": "296 TL370 TL",
+      "description": "2 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Rus Mantısı",
+      "price": "320 TL400 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Çi Börek",
+      "price": "152 TL190 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çi Börek (2 Adet)",
+      "price": "296 TL370 TL",
+      "description": "2 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimekli Afyon Bükmesi (2 Adet)",
+      "price": "96 TL120 TL",
+      "description": "Mercimekli iç harç, bol haşhaşlı hamur",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30781936.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paçanga Böreği (4 Adet)",
+      "price": "320 TL400 TL",
+      "description": "İçerisinde; kaşar peyniri, pastırma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33803147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sigara Böreği (10 Adet)",
+      "price": "200 TL250 TL",
+      "description": "10 adet sigara böreği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45511424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie Kek",
+      "price": "96 TL120 TL",
+      "description": "Ev yapımı kek cikolatayla muhtesem buluşması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43613422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Gözleme",
+      "price": "200 TL250 TL",
+      "description": "El açması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "200 TL250 TL",
+      "description": "Anne usulü el açması gözleme",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626829.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "200 TL250 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48189009.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Gözleme",
+      "price": "224 TL280 TL",
+      "description": "Dana kıyması, el açması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48195970.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Bohça Mantı",
+      "price": "320 TL400 TL",
+      "description": "İnce hamur, dana kıyması, iç harcı ile Spontini sade mantı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Mantı",
+      "price": "320 TL400 TL",
+      "description": "İncecik sebze püreleri ile hazırlanan hamur içine dana kıyması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üçgen Mantı",
+      "price": "328 TL410 TL",
+      "description": "210 gr. dana etli üçgen üzerine; yoğurt, tereyağlı sos, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66309156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Patatesli Mantı",
+      "price": "320 TL400 TL",
+      "description": "Patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66463534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Rus Mantısı",
+      "price": "320 TL400 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çökertme Kebabı",
+      "price": "360 TL450 TL",
+      "description": "Kibrit patates üzerine; domates sos, sarımsaklı yoğurt"
+    },
+    {
+      "name": "Krema Soslu Taze Fettuccine",
+      "price": "248 TL310 TL",
+      "description": "El yapımı taze fettuccine, özel kremalı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Soslu Taze Makarna",
+      "price": "280 TL350 TL",
+      "description": "El yapımı taze makarna, kremalı, mantarlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Kremalı Taze Fettuccine",
+      "price": "312 TL390 TL",
+      "description": "El yapımı makarna",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626657.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolonez Soslu Taze Fettuccine Makarna",
+      "price": "312 TL390 TL",
+      "description": "Bolonez sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626678.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Soslu Fesleğenli Taze Fettuccine Makarna",
+      "price": "256 TL320 TL",
+      "description": "El yapımı fettuccine",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30626699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "price": "180 TL225 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30627071.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Fellah Köftesi",
+      "price": "120 TL150 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30627258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haydari",
+      "price": "112 TL140 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30627355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Köftesi",
+      "price": "128 TL160 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30627506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızartma İçli Köfte (Adet)",
+      "price": "80 TL100 TL",
+      "description": "Dana kıyma, cevizli Antep usulü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30692891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baby Kızartma İçli Köfte (4 Adet)",
+      "price": "160 TL200 TL",
+      "description": "Dana kıyması, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30787561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köz Patlıcan Yoğurtlu",
+      "price": "112 TL140 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32555328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tabak",
+      "price": "312 TL390 TL",
+      "description": "5 adet sigara böreği, 3 adet baby içli köfte, patates kızartması ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kadınbudu Köfte (2 Adet)",
+      "price": "240 TL300 TL",
+      "description": "Patates kızartması ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kayseri Yağlaması",
+      "price": "287,20 TL359 TL",
+      "description": "Yoğurt ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66306268.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (25 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31042131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (25 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31041894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurulmus Ev Yapımı Bohça Mantı (1 kg.)",
+      "price": "680 TL850 TL",
+      "description": "Dana kıyması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66677770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Mantı (Dondurulmuş)",
+      "price": "680 TL850 TL",
+      "description": "1 kg. olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66678408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dereotlu Poğaça (1 kg.) (Dondurulmuş)",
+      "price": "640 TL800 TL",
+      "description": "Dereotu, labne, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66694807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurulmuş Bayby İçli Köfte (20-22 Adet)",
+      "price": "680 TL850 TL",
+      "description": "1 kg. dana eti, ceviz"
+    },
+    {
+      "name": "Dondurulmuş Sigara Böreği (1 kg.)",
+      "price": "640 TL800 TL",
+      "description": "Peynirli"
+    },
+    {
+      "name": "Dondurulmuş Afyon Bükmesi (1 kg.)",
+      "price": "640 TL800 TL",
+      "description": "Mercimekli, haşhaşlı"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30627538.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

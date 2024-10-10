@@ -1,0 +1,215 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ulqq/nappo",
+  "google": "",
+  "products": [
+    {
+      "name": "Margherita",
+      "price": "370 TL",
+      "description": "Roma domates, fior di latte mozzarella, grana padano d.o.p, taze fesleğen, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174465.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nappo Burger",
+      "price": "305 TL",
+      "description": "Burger köftesi, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beefs N'Roses",
+      "price": "595 TL",
+      "description": "Roma domates, Bergama tulum, Divle obruk tulumu, rozbif, İtalyan roka, mantar, taze kekik, karabiber, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Con i Fungi",
+      "price": "470 TL",
+      "description": "Roma domates, datterini domates, fior di latte mozzarella, grana padano d.o.p, mantar, fesleğen, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fun Guy",
+      "price": "450 TL",
+      "description": "Fior di latte mozzarella, manda mozzarella, kültür mantarı, kestane mantarı, istiridye mantarı, gorgonzola d.o.p, kıtır soğan, sarımsak granül, biberiye, taze fesleğen, limon zest",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "88 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Marinara Burrata & Pesto",
+      "price": "615 TL",
+      "description": "Roma domates, Burrata, İtalyan roka, Antep fıstığı, datterini, sarımsak, kekik, taze fesleğen, pesto sos, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita",
+      "price": "370 TL",
+      "description": "Roma domates, fior di latte mozzarella, grana padano d.o.p, taze fesleğen, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174465.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Con i Fungi",
+      "price": "470 TL",
+      "description": "Roma domates, datterini domates, fior di latte mozzarella, grana padano d.o.p, mantar, fesleğen, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Verace",
+      "price": "445 TL",
+      "description": "San Marzano d.o.p, domates, manda mozzarella, datterini domates, taze fesleğen, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174467.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fun Guy",
+      "price": "450 TL",
+      "description": "Fior di latte mozzarella, manda mozzarella, kültür mantarı, kestane mantarı, istiridye mantarı, gorgonzola d.o.p, kıtır soğan, sarımsak granül, biberiye, taze fesleğen, limon zest",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheesus Crust",
+      "price": "535 TL",
+      "description": "Manchego, gorgonzola d.o.p, grana padano d.o.p, emmental, fior di latte mozzarella, acı ile demlenmiş bal, taze chili biber, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beefs N'Roses",
+      "price": "595 TL",
+      "description": "Roma domates, Bergama tulum, Divle obruk tulumu, rozbif, İtalyan roka, mantar, taze kekik, karabiber, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Over The Clouds",
+      "price": "595 TL",
+      "description": "Roma tipi soyulmuş domates, fermente biber salçalı dana köfte, sarımsaklı yoğurt, tütsülenmiş toz biber, frenk maydanoz, ekstra sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni (Dana Eti)",
+      "price": "550 TL",
+      "description": "Pizza sos, dana pepperoni",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44485585.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni (Domuz Eti İçerir.)",
+      "price": "615 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41548492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zuccheesy",
+      "price": "450 TL",
+      "description": "Ricotta liscia, fior di latte mozzarella, gorgonzola d.o.p, kabak jülyen, chili biber, istiridye mantarı, sarımsak yağı, pesto sos"
+    },
+    {
+      "name": "Meat Busters",
+      "price": "615 TL",
+      "description": "Roma tipi domates, fior di latte mozzarella , asado, pastrame, pepperoni ve yabani mantarlar"
+    },
+    {
+      "name": "Marinara Classico",
+      "price": "320 TL",
+      "description": "San Marzano d.o.p, domates, kekik, sarımsak, ekstra sızma zeytinyağı"
+    },
+    {
+      "name": "Nappo Burger",
+      "price": "305 TL",
+      "description": "Burger köftesi, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Focaccia & Marine Zeytinler",
+      "price": "215 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Burrata",
+      "price": "420 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Nappo",
+      "price": "360 TL",
+      "description": "Akdeniz yeşillikleri, kuşkonmaz, avokado, kiraz domates, limon & portakal segmentleri, fındık turp, grana padano d.o.p, nane & limon citronette",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Kabak",
+      "price": "165 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "235 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "88 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "88 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809678.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "88 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayran (24.5 cl.)",
+      "price": "80 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Minera (33 cl.)",
+      "price": "85 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31174510.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (33 cl.)",
+      "price": "50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "San Pellegrino (25 cl.)",
+      "price": "110 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41108565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "88 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63786742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "88 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63797890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "88 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63800856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/2809688.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

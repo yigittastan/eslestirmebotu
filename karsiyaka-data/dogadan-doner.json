@@ -1,0 +1,244 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/f3or/dogadan-doner",
+  "google": "",
+  "products": [
+    {
+      "name": "Et Döner Menü 1",
+      "price": "460 TL",
+      "description": "İskender (Et Döner) (Tırnaklı pide üzerine; 130 gr. et döner, yoğurt, özel sos, tereyağı) + Salata + Köz Biber + Kutu İçecek (33 cl.)"
+    },
+    {
+      "name": "Et Döner Menü 2",
+      "price": "370 TL",
+      "description": "Pilav Üstü Et Döner (130 gr.) + Salata + Köz Biber + İçecek"
+    },
+    {
+      "name": "2'li Et Arkadaş Menü",
+      "price": "430 TL",
+      "description": "2 Adet Çift Et Döner Dürüm + İçecek (1 L.)"
+    },
+    {
+      "name": "Aile Menü",
+      "price": "970 TL",
+      "description": "2 Adet Yarım Ekmek Arası Et Döner + 2 Adet Et Döner Dürüm + İçecek (1,5 L.)"
+    },
+    {
+      "name": "Tavuk Döner (1 kg.) Menü",
+      "price": "930 TL",
+      "description": "Tavuk Döner (1 kg.) + 8 Adet Lavaş + Duble Salata + İçecek (2 L.)"
+    },
+    {
+      "name": "Et Döner (500 gr.) Menü",
+      "price": "900 TL",
+      "description": "Et Döner (500 gr.) + Duble Salata + Köz Biber + Pişmiş Soğan + 5 Adet Lavaş + İçecek (1 L.)"
+    },
+    {
+      "name": "Tavuk Döner (500 gr.) Menü",
+      "price": "640 TL",
+      "description": "Tavuk Döner (500 gr.) + 5 Adet Lavaş + Duble Salata + Biber Turşusu + Salatalık Turşusu + İçecek (1,5 L.)"
+    },
+    {
+      "name": "Tavuk Döner Menü 1",
+      "price": "620 TL",
+      "description": "İskender Tavuk Döner (180 gr.) (Tırnaklı pide üzerine; tavuk döner, yoğurt, sos, tereyağı) + Salata + Köz Biber + Kutu İçecek (33 cl.)"
+    },
+    {
+      "name": "Tavuk Döner Menü 2",
+      "price": "370 TL",
+      "description": "Pilav Üstü Tavuk Döner (180 gr.) + Salata + Köz Biber + İçecek"
+    },
+    {
+      "name": "2'li Arkadaş Tavuk Döner Menü",
+      "price": "410 TL",
+      "description": "2 Adet 3/4 Ekmek Arası Tavuk Döner + İçecek (1 L.)"
+    },
+    {
+      "name": "Aile Tavuk Döner Menü",
+      "price": "620 TL",
+      "description": "2 Adet Yarım Ekmek Arası Tavuk Döner + 2 Adet Tavuk Döner Dürüm + İçecek (1,5 L.)"
+    },
+    {
+      "name": "Et Döner (1 kg.) Menü",
+      "price": "1.799 TL",
+      "description": "Et Döner (1 kg.) (Duble salata, köz biber, pişmiş soğan, 8 adet lavaş ile) + İçecek (1,5 L.)"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "380 TL",
+      "description": "Tırnak pide üzerine; 200 gr. et döner, yoğurt, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748559.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Et Döner",
+      "price": "350 TL",
+      "description": "Pilav üstüne; yaprak et döner. Çoban salata, lavaş ekmeği ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748586.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner",
+      "price": "380 TL",
+      "description": "Et döner. Çoban salata, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748624.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Et Döner",
+      "price": "370 TL",
+      "description": "Kara fırın ekmeği arasına; yaprak et döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Et Döner (110 gr.)",
+      "price": "290 TL",
+      "description": "Kara fırın ekmeği arasına yaprak et döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748817.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Döner",
+      "price": "170 TL",
+      "description": "Kara fırın ekmeği arasına; et döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Et Döner Dürüm (140 gr.)",
+      "price": "370 TL",
+      "description": "Yaprak et döner, marul, domates, soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm (80 gr.)",
+      "price": "170 TL",
+      "description": "Yaprak et döner, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748834.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Et Döner Dürüm",
+      "price": "170 TL",
+      "description": "Yaprak et döner, soğan, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748838.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Tereyağlı Et Döner",
+      "price": "350 TL",
+      "description": "Tırnak pide üzerine (200 gr.) et döner, yoğurt, tereyağı"
+    },
+    {
+      "name": "İskender (Tavuk Dönerden)",
+      "price": "250 TL",
+      "description": "Tırnak pide üzerine; 200 gr. tavuk döner, yoğurt, sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749381.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Döner",
+      "price": "248 TL",
+      "description": "İncik etinden tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner",
+      "price": "200 TL",
+      "description": "İncik etinden tavuk döner (200 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Tavuk Döner (200 gr.)",
+      "price": "259 TL",
+      "description": "Kara fırın ekmeği arasına; domates, soğan, marul, özel sos, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Tavuk Döner (130 gr.)",
+      "price": "195 TL",
+      "description": "Kara fırın ekmeği arasına; domates, soğan, marul, özel sos, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "120 TL",
+      "description": "Kara fırın ekmeği arasına; domates, soğan, marul, özel sos, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749487.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Tavuk Döner Dürüm",
+      "price": "249 TL",
+      "description": "Tavuk incik, soğan, domates, marul, turşu, sos, mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "120 TL",
+      "description": "Tavuk incik, soğan, domates, marul, turşu, sos, mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Tavuk Döner Dürüm (90 gr.)",
+      "price": "125 TL",
+      "description": "Tavuk incik, soğan, domates, marul, turşu, sos, mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Tereyağlı Tavuk Döner",
+      "price": "250 TL",
+      "description": "Tırnak pide üzerine; 200 gr. tavuk döner, tereyağı, yoğurt"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748872.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.) (Pet Şişe)",
+      "price": "50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748875.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748878.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Şeftali (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748888.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65748890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (27 cl.)",
+      "price": "40 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749012.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749015.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Zero Sugar (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65749122.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

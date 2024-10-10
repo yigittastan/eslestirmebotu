@@ -1,0 +1,222 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/nbaa/bono-coffee-and-bakery-nbaa",
+  "google": "",
+  "products": [
+    {
+      "name": "Bademli Berliner",
+      "price": "114 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Belçika Çikolatalı Berliner",
+      "price": "109 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bavyera Kremalı Berliner",
+      "price": "109 TL",
+      "description": "Bavyera krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34820605.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie",
+      "price": "149 TL",
+      "description": "İçi beyaz Belçika çikolatalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "102 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34863414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaban Mersinli Berliner",
+      "price": "114 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51881865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Belçika Çikolatalı Berliner",
+      "price": "109 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Berliner",
+      "price": "114 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie",
+      "price": "149 TL",
+      "description": "İçi beyaz Belçika çikolatalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Bavyera Kremalı Berliner & Americano",
+      "price": "294,90 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Bademli Berliner & Americano",
+      "price": "304,90 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061784.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Belçika Çikolatalı Berliner & Americano",
+      "price": "294,90 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061781.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Belçika Çikolatalı Berliner & Latte",
+      "price": "299,90 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Bavyera Kremalı Berliner & Latte",
+      "price": "299,90 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061788.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Bademli Berliner & Latte",
+      "price": "309,90 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bavyera Kremalı Berliner",
+      "price": "109 TL",
+      "description": "Bavyera krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34820605.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaban Mersinli Berliner",
+      "price": "114 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51881865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Americano",
+      "price": "96 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced White Chocalate Mocha",
+      "price": "110 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Mocha",
+      "price": "110 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34863409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "102 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34863414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Filter Coffee",
+      "price": "90 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34882822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Colombia (200 gr.)",
+      "price": "295 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Salvador (200 gr.)",
+      "price": "275 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etiyopya (200 gr.)",
+      "price": "290 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Honduras (200 gr.)",
+      "price": "275 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kenya (200 gr.)",
+      "price": "275 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061828.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Costa Rica (200 gr.)",
+      "price": "295 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061829.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nicaragua (200 gr.)",
+      "price": "290 TL",
+      "description": "200 gr. servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Peru (200 gr.)",
+      "price": "275 TL",
+      "description": "200 gr. servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Intense (200 gr.)",
+      "price": "275 TL",
+      "description": "200 gr. servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyoğlu Zencefilli Gazoz (20 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061840.png?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "17 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6061845.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Gazoz (20 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34867938.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyoğlu Reyhan Gazoz (20 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34912365.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Premium Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65679850.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/v0vn/arti-plus-sandvic-and-kumru",
+  "google": "",
+  "products": [
+    {
+      "name": "Mega Karışık Sandviç Menü",
+      "price": "275 TL",
+      "description": "Karışık Sandviç + Patates Kızartması (Küçük Boy) + Soğan Halkası (5 Adet) + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49156801.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maxi Karışık Sandviç Menü",
+      "price": "245 TL",
+      "description": "Maxi Karışık Sandviç + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49165314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Arkadaş Sandviç Menü",
+      "price": "425 TL",
+      "description": "2 Adet Karışık Sandviç + Patates Kızartması (Küçük Boy) + İçecek (1 L.)"
+    },
+    {
+      "name": "Aile Sandviç Menü",
+      "price": "600 TL",
+      "description": "3 Adet Karışık Sandviç + Duble Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Üç Peynirli Gözleme",
+      "price": "150 TL",
+      "description": "Cheddar peyniri, kaşar peyniri, sayas peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50407210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Gözleme",
+      "price": "140 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50407218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salam Kaşarlı Gözleme",
+      "price": "150 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50407224.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "125 TL",
+      "description": "İnce hamurun içine rendelenmiş kaşar peyniri eklenerek hazırlanan bir gözleme çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50407231.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Salamlı Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50407237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuk Kaşarlı Gözleme",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50407272.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salamlı Kaşarlı Ayvalık Tostu",
+      "price": "140 TL",
+      "description": "Salam, kaşar peyniri, turşu, domates, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49156970.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Ayvalık Tostu",
+      "price": "125 TL",
+      "description": "Kaşar peyniri, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49157047.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Ayvalık Tostu",
+      "price": "145 TL",
+      "description": "Sucuk, salam, sosis, kaşar peyniri, turşu, domates, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49157523.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Ayvalık Tostu",
+      "price": "140 TL",
+      "description": "Sayas peyniri, kaşar peyniri, cheddar peyniri, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49174789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Ayvalık Tostu",
+      "price": "145 TL",
+      "description": "Sucuk, kaşar peyniri, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49174814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maxi Karışık Sandviç",
+      "price": "160 TL",
+      "description": "Sucuk, salam, sosis, eritme kaşar peyniri, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638696.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Maxi Sandviç",
+      "price": "160 TL",
+      "description": "Sucuk, eritme kaşar peyniri, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salamlı Kaşarlı Maxi Sandviç",
+      "price": "150 TL",
+      "description": "Salam, eritme kaşar peyniri, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Maxi Sandviç",
+      "price": "150 TL",
+      "description": "Kaşar peyniri, Sayas peyniri, cheddar peyniri, turşu, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Maxi Sandviç",
+      "price": "140 TL",
+      "description": "Eritilmiş kaşar peyniri, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49172505.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Bazlama Tost",
+      "price": "190 TL",
+      "description": "Özel salça, sucuk, kaşar peyniri, turşu, domates, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49120124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salamlı Kaşarlı Bazlama Tost",
+      "price": "180 TL",
+      "description": "Özel salça, salam, kaşar peyniri, turşu, domates, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49120143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Bazlama Tost",
+      "price": "160 TL",
+      "description": "Özel salça, kaşar peyniri, turşu, domates, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49120145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Bazlama Tost",
+      "price": "180 TL",
+      "description": "Özel salça, sayas peyniri, cheddar peyniri, kaşar peyniri, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49120151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Bazlama Tost",
+      "price": "190 TL",
+      "description": "Özel salça, sucuk, salam, kaşar peyniri, turşu, domates, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49120155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Patso",
+      "price": "125 TL",
+      "description": "Kaşar peyniri, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Patso",
+      "price": "140 TL",
+      "description": "Cheddar peyniri, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Patso",
+      "price": "140 TL",
+      "description": "Tulum peyniri, ketçap, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638694.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49157211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49159492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49123943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49155899.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49158706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49155900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (1 L.)",
+      "price": "60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49156845.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49158633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (1 L.)",
+      "price": "60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49123944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (1 L.)",
+      "price": "60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49157070.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (1 L.)",
+      "price": "60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49157080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "55 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49163660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48638700.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

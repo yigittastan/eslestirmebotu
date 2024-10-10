@@ -1,0 +1,351 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ts5a/neuf-patisserie-and-boulangerie",
+  "google": "",
+  "products": [
+    {
+      "name": "Croissant d'amande",
+      "price": "150 TL",
+      "description": "Bademli kruvasan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berry Danish",
+      "price": "155 TL",
+      "description": "Kruvasan hamuru içerisine; pastacı kreması, mevsimsel kırmızı meyveler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paris Brest",
+      "price": "265 TL",
+      "description": "Fındık pralinli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiteroles",
+      "price": "265 TL",
+      "description": "4 adet profiterol topu, çikolata sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458618.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Apple Crumble",
+      "price": "130 TL",
+      "description": "Karamelize elma parçaları, crumble",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Tartine",
+      "price": "350 TL",
+      "description": "Ekşi mayalı ekmek üzerine; scramble yumurta, dilim avokado. Mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456384.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avocat Tartine",
+      "price": "310 TL",
+      "description": "Ekşi mayalı dilim ekmek üzerine; avokado, yeşillik, tulum peyniri ile"
+    },
+    {
+      "name": "Mantar Tartine",
+      "price": "330 TL",
+      "description": "Ekşi mayalı ekmek üzerine; scramble yumurta, istridye mantarı, üzerine rendelenmiş tulum peyniri"
+    },
+    {
+      "name": "Avocat",
+      "price": "350 TL",
+      "description": "Kruvasan arasına; sürülebilir peynir, mevsimsel yeşillik, avokado, salatalık, üzerine; tulum peynir rendesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456365.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Hindi Croissant Sandviç",
+      "price": "335 TL",
+      "description": "Kruvasan arasına; lutenitsa sos, sürülebilir peynir, hindi füme, mevsimsel yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458051.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salmon",
+      "price": "370 TL",
+      "description": "Kruvasan arasına; sürülebilir peynir, füme somon, salatalık dilimleri, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458803.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yumurta & Avokado Kruvasan arası",
+      "price": "395 TL",
+      "description": "Kruvasan arasına; scramble yumurta, dilim avokado, sürülebilir peynir. Mevsim yeşillikleri ile"
+    },
+    {
+      "name": "Yumurtalı Mantarlı Kruvasan",
+      "price": "395 TL",
+      "description": "Kruvasan arasına; scramble yumurta, istridye mantarı, sürülebilir peynir, rendelenmiş tulum peyniri. Mevsim yeşillikleri ile"
+    },
+    {
+      "name": "Apple Crumble",
+      "price": "130 TL",
+      "description": "Karamelize elma parçaları, crumble",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berry Danish",
+      "price": "155 TL",
+      "description": "Kruvasan hamuru içerisine; pastacı kreması, mevsimsel kırmızı meyveler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kruvasan",
+      "price": "110 TL",
+      "description": "Sade kruvasan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456729.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Croissant d'amande",
+      "price": "150 TL",
+      "description": "Bademli kruvasan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru domatesli Croissant",
+      "price": "160 TL",
+      "description": "Kuru domates, mozarella, pesto soslu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458642.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pain Aux Raisins",
+      "price": "140 TL",
+      "description": "Kuru üzümlü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36811463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pain Suisse",
+      "price": "160 TL",
+      "description": "Kruvasan hamuru içerisine; pastacı kreması, çikolata parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36811540.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cevizli Ekşi Mayalı Ekmek",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456679.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Mayalı Ekmek",
+      "price": "130 TL",
+      "description": "Mayalı ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456895.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eclair au Chocolate",
+      "price": "230 TL",
+      "description": "Sütlü, bitter çikolatalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456883.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paris Brest",
+      "price": "265 TL",
+      "description": "Fındık pralinli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiteroles",
+      "price": "265 TL",
+      "description": "4 adet profiterol topu, çikolata sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tarte au Chocolat",
+      "price": "265 TL",
+      "description": "Kakaolu tart hamuru içerisine; brownie, fındık pralin, çikolatalı mousse",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tarte aux Fraises",
+      "price": "265 TL",
+      "description": "Sable hamuru içerisine; bademli kek, çilek püresi, çilek, Antep fıstığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458870.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tarte Au Citron",
+      "price": "265 TL",
+      "description": "Tart hamuru içerisine; limon kreması, üzerine; mereng",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tarte Aux Mûres",
+      "price": "265 TL",
+      "description": "Bademli kek, böğürtlen püresi, taze böğürtlen"
+    },
+    {
+      "name": "Karadut",
+      "price": "130 TL",
+      "description": "Karadut aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458620.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "120 TL",
+      "description": "Taze sıkma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portakal Suyu",
+      "price": "120 TL",
+      "description": "Taze sıkma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "60 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çay",
+      "price": "70 TL",
+      "description": "Fincan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Earl Grey",
+      "price": "155 TL",
+      "description": "Bergamotlu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chinese Spring",
+      "price": "155 TL",
+      "description": "Beyaz çay, çarkıfelek meyvesi"
+    },
+    {
+      "name": "Get the Power",
+      "price": "155 TL",
+      "description": "Kırmızı meyve çayı"
+    },
+    {
+      "name": "Ginger Twist",
+      "price": "155 TL",
+      "description": "Zencefilli yeşil çay"
+    },
+    {
+      "name": "Huckleberry Friend",
+      "price": "155 TL",
+      "description": "Elmalı yeşil çay"
+    },
+    {
+      "name": "Americano",
+      "price": "125 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cafe Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456523.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chai Tea Latte",
+      "price": "145 TL",
+      "description": "Baharat, süt, siyah çay",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cortado",
+      "price": "130 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Espresso",
+      "price": "115 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456963.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve",
+      "price": "130 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34457003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34457539.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cold Brew",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456701.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Americano",
+      "price": "130 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Cappuccino",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Filter Coffee",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Flat White",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458594.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458618.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Chai Tea Latte",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39065832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındıklı Çikolatalı Biscotti",
+      "price": "180 TL",
+      "description": "Çikolatalı, fındıklı, kakaolu biscotti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34457011.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gingerboi",
+      "price": "120 TL",
+      "description": "125 gr. paketli tarçınlı, zencefilli kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parmesan Sable Cookies",
+      "price": "180 TL",
+      "description": "125 gr. parmesan peyniri, tereyağlı kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458780.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

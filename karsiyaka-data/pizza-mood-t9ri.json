@@ -1,0 +1,174 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/t9ri/pizza-mood-t9ri",
+  "google": "",
+  "products": [
+    {
+      "name": "Margherita Pizza (Orta)",
+      "price": "126 TL180 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (Orta)",
+      "price": "126 TL180 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Pizza (Orta)",
+      "price": "126 TL180 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sosis",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salamlı Zeytinli Pizza (Orta)",
+      "price": "126 TL180 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, salam, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825331.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Mısırlı Pizza (Orta)",
+      "price": "126 TL180 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sosis, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825371.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efso 5'li Pizza (Orta)",
+      "price": "140 TL200 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sucuk, sosis, mantar, yeşil biber, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mood Parti Pizza (Orta)",
+      "price": "140 TL200 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sucuk, salam, mantar, kırmızıbiber, yeşil biber, siyah zeytin, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bol Etli Pizza (Orta)",
+      "price": "140 TL200 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sucuk, salam, sosis, kırmızıbiber, siyah zeytin, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48825431.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efso 3'lü Pizza (Orta)",
+      "price": "140 TL200 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sosis, mantar, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48826007.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdenizli Pizza (Orta)",
+      "price": "140 TL200 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, beyaz peynir, küp domates, siyah zeytin, kekik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48826018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İtalia Mood Pizza (Orta)",
+      "price": "154 TL220 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, salam, sosis, mantar, yeşil biber, mısır, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48826880.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Pizza (Orta)",
+      "price": "154 TL220 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, sucuk, mantar, jalapeno biber, mısır, küp domates, kekik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48826890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli Pizza (Orta)",
+      "price": "154 TL220 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, beyaz peynir, tulum peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48826969.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Pizza (Orta)",
+      "price": "154 TL220 TL",
+      "description": "Özel pizza sosu, mozzarella peyniri, yeşil zeytin, siyah zeytin, mantar, mısır, soğan, domates, yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827042.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (150 gr.)",
+      "price": "49 TL70 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827069.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "59,50 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827096.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "59,50 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827098.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "59,50 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827102.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "59,50 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "59,50 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "14 TL20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "7 TL10 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "70 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827538.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "70 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827540.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "2,10 TL3 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827078.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "2,10 TL3 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48827088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pizza Baharatı",
+      "price": "2,10 TL3 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55453981.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64505316.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

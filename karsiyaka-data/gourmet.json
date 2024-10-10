@@ -1,0 +1,135 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/s7ni/gourmet",
+  "google": "",
+  "products": [
+    {
+      "name": "Ekşi Mayalı Çavdarlı Cevizli Artizan Ekmek",
+      "price": "105 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Mayalı Ruşeymli Tam Buğday Artizan Ekmek",
+      "price": "75 TL",
+      "description": "520 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Mayalı Proteinli Sporcu Ekmeği",
+      "price": "95 TL",
+      "description": "520 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390604.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Mayalı Karakılçıklı tam Buğdaylı Artizan Ekmek",
+      "price": "80 TL",
+      "description": "520 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390622.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Mayalı Bavyera Çavdarlı Artzian Ekmek",
+      "price": "80 TL",
+      "description": "520 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Mayalı Karabuğdaylı Çavdar Ekmeği",
+      "price": "80 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Focaccia",
+      "price": "105 TL",
+      "description": "Zeytin, ceviz, soğan, biberiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Premium Sütlü Hamburger Ekmeği",
+      "price": "85 TL",
+      "description": "5 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Premium Mini Sütlü Kanepe Ekmeği",
+      "price": "85 TL",
+      "description": "12 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Glütensiz Çiğdemli Yaprak Galeta",
+      "price": "115 TL",
+      "description": "Glütensiz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52766295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekşi Myalı Ciabatta Ekmeği",
+      "price": "75 TL",
+      "description": "4 adet"
+    },
+    {
+      "name": "Ekşi Mayalı Tam Buğdaylı Artizan Grissini",
+      "price": "100 TL",
+      "description": "Biberiye, domates"
+    },
+    {
+      "name": "Alman Kızılbuğday Ekmeği",
+      "price": "125 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Glutensiz Avusturya Pastası",
+      "price": "200 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390967.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Glutensiz Limonlu Kurabiye",
+      "price": "135 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44390970.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Badem Kurabiyesi",
+      "price": "125 TL",
+      "description": "4 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44391059.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Belçika Çikolatalı Cookie",
+      "price": "120 TL",
+      "description": "4 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44391063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Cevizli Tart",
+      "price": "125 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44391081.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "205 TL",
+      "description": "Mascarpone peyniri, kakao",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52746425.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biscotti",
+      "price": "80 TL",
+      "description": "Tereyağlı, kakaolu, bademli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52766178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paper Coco",
+      "price": "85 TL",
+      "description": "Tarçınlı, zencefilli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52766391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44391599.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

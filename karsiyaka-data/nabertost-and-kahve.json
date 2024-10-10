@@ -1,0 +1,532 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/w3o3/naber-tost-and-kahve",
+  "google": "",
+  "products": [
+    {
+      "name": "Dört Dörtlük Sucuklu Tost",
+      "price": "179 TL",
+      "description": "Ekmek arasına; salça, sucuk, kaşar peyniri, tulum peyniri, mozzarella peyniri, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu",
+      "price": "75 TL",
+      "description": "Taze Sıkma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İyi Gün Tostu",
+      "price": "159 TL",
+      "description": "Ekmek arasına aydın usulü tost ; salça, sucuk, kaşar peyniri, soğan, roka, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günaydın Naber",
+      "price": "159 TL",
+      "description": "Ekmek arasına; salça, tulum peyniri, roka, maydanoz, kapya biberi, domates, dilim zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avo Kardiyo",
+      "price": "155 TL",
+      "description": "Siyez kare ekmeğine; beyaz peynir, hindi füme, yumurta, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46527141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Dört Dörtlük Sucuklu Tost)",
+      "price": "229 TL",
+      "description": "Dört Dörtlük Sucuklu Tost + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Günaydın Naber",
+      "price": "159 TL",
+      "description": "Ekmek arasına; salça, tulum peyniri, roka, maydanoz, kapya biberi, domates, dilim zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Naber Tost Canlısı",
+      "price": "144 TL",
+      "description": "Ekmek arasına; salça, kaşar peyniri, roka, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076439.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İyi Gün Tostu",
+      "price": "159 TL",
+      "description": "Ekmek arasına aydın usulü tost ; salça, sucuk, kaşar peyniri, soğan, roka, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tost Acı Söyler",
+      "price": "159 TL",
+      "description": "Ekmek arasına Aydın usulü tost; kuru biber, pul biber, salça, sucuk, kaşar peyniri, soğan, roka, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076441.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Dörtlük Peynirli Tost",
+      "price": "174 TL",
+      "description": "Ekmek arasına; salça, kaşar peyniri, tulum peyniri, mozzarella peyniri, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076445.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Dörtlük Sucuklu Tost",
+      "price": "179 TL",
+      "description": "Ekmek arasına; salça, sucuk, kaşar peyniri, tulum peyniri, mozzarella peyniri, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Dörtlük Sosisli Tost",
+      "price": "179 TL",
+      "description": "Salça, sosis, kaşar peyniri, tulum peyniri, mozarella peyniri, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25913573.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Sandviç Tostum",
+      "price": "169 TL",
+      "description": "Salça, sosis, salam, sucuk, turşu, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25948584.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Dörtlük Salamlı Tost",
+      "price": "179 TL",
+      "description": "Salça, salam, kaşar peyniri, tulum peyniri, mozarella peyniri, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sayas Sucuklu Kaşarlı Tost",
+      "price": "164 TL",
+      "description": "Salça, sucuk, sayas, domates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sayas Domates Kaşarlı Tost",
+      "price": "159 TL",
+      "description": "Salça, sayas, kaşar peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sayas Salam Kaşarlı Tost",
+      "price": "164 TL",
+      "description": "Salça, salam, sayas, domates, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurma Kaşar Tostum",
+      "price": "199 TL",
+      "description": "Çemen, kavurma, kaşar peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949907.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sayaslı Karışık Sandviç Tostum",
+      "price": "179 TL",
+      "description": "Salça, sosis, sucuk, salam, turşu, sayas, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949984.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aydın Havası",
+      "price": "159 TL",
+      "description": "Ekmek arasına; salça, sucuk, turşu, soğan, domates, roka, maydanoz"
+    },
+    {
+      "name": "Naber İzmir",
+      "price": "159 TL",
+      "description": "Ekmek arasında; salça, tulum peyniri, sucuk, domates, kekik"
+    },
+    {
+      "name": "Çak Bi Salam",
+      "price": "159 TL",
+      "description": "Ekmek arasında; salça, salam, kaşar peyniri, domates, maydanoz"
+    },
+    {
+      "name": "Naber Pastırma",
+      "price": "199 TL",
+      "description": "Ekmek arasına; çemen, pastırma, kaşar peyniri"
+    },
+    {
+      "name": "Sayas Sosis Kaşar",
+      "price": "164 TL",
+      "description": "Salça, sosis, kaşar peyniri, sayas, domates"
+    },
+    {
+      "name": "Naber Sosis",
+      "price": "159 TL",
+      "description": "Tandır ekmeğine; çemen, sosis, kaşar peyniri, kapya biberi, kekik, maydanoz süslemesi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Naber Sucuk",
+      "price": "159 TL",
+      "description": "Tandır ekmeğine; çemen, sucuk, kaşar peyniri veya tulum peyniri, kapya biberi, kekik, maydanoz süslemesi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076449.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menüyü Getir",
+      "price": "249 TL",
+      "description": "Tandır ekmeğine; çemen, kavurma, karamelize soğan, sucuk, salam, sosis, kaşar peyniri, kapya biberi, dilim zeytin, kekik, maydanoz süslemesi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076450.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Naber Macar",
+      "price": "159 TL",
+      "description": "Tandır ekmeğine; çemen, salam, kaşar peyniri, kapya biberi, kekik, maydanoz süslemesi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076451.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşler Karışık",
+      "price": "189 TL",
+      "description": "Tandır ekmeğine; çemen, sucuk, salam, sosis, kaşar peyniri, kapya biberi, dilim zeytin, kekik, üzerine maydanoz süslemesi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076452.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Naber Kavurma",
+      "price": "199 TL",
+      "description": "Tandır ekmeğine; kavurma, çemen, kaşar peyniri, kapya biberi, karamelize soğan, kekik, maydanoz süslemesi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076453.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşar Domates Kare Tost",
+      "price": "95 TL",
+      "description": "Kare tost ekmeğine; kaşar peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuk Kaşar Kare Tost",
+      "price": "105 TL",
+      "description": "Kare tost ekmeğine; sucuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076455.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salam Kaşar Kare Tost",
+      "price": "105 TL",
+      "description": "Kare tost ekmeğine; salam, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076456.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosis Kaşar Kare Tost",
+      "price": "105 TL",
+      "description": "Kare tost ekmeğine; sosis, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076457.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurma Kaşar Kare Tost",
+      "price": "150 TL",
+      "description": "Kare tost ekmeğine; kavurma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırma Kaşar Kare Tost",
+      "price": "150 TL",
+      "description": "Kare tost ekmeğine; pastırma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fit Tostum",
+      "price": "135 TL",
+      "description": "Tahıllı kare ekmeğine; hindi füme, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Domates Kare Tost",
+      "price": "95 TL",
+      "description": "Kare tost ekmeğine; tulum peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076461.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Dörtlük Kare Tost",
+      "price": "140 TL",
+      "description": "Kare tost ekmeğine; kaşar peyniri, tulum peyniri, mozzarella peyniri, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076462.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avo Kardiyo",
+      "price": "155 TL",
+      "description": "Siyez kare ekmeğine; beyaz peynir, hindi füme, yumurta, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46527141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Naber Çikilop",
+      "price": "150 TL",
+      "description": "Tandır ekmeğine; Nutella, muz, Hindistan cevizi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "60 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076469.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "70 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte",
+      "price": "70 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "70 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mocha",
+      "price": "70 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Mocha",
+      "price": "70 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076474.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Macchiato",
+      "price": "75 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve",
+      "price": "60 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076468.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilyalı Filtre Kahve",
+      "price": "65 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047987.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Filtre Kahve",
+      "price": "65 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındıklı Filtre Kahve",
+      "price": "65 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047989.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütlü Filtre Kahve",
+      "price": "60 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047990.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Americano",
+      "price": "70 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "80 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Flat White",
+      "price": "80 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğuk Filtre Kahve",
+      "price": "70 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076480.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "price": "80 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Mocha",
+      "price": "80 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced White Chocolate Mocha",
+      "price": "80 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Vanilyalı Filtre Kahve",
+      "price": "75 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047991.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Karamelli Filtre Kahve",
+      "price": "75 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047992.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Fındıklı Filtre Kahve",
+      "price": "75 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047993.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Sütlü Filtre Kahve",
+      "price": "75 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11047994.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Toffenut Latte",
+      "price": "80 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25949968.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ihlamur",
+      "price": "50 TL",
+      "description": "Ihlamur yapraklarının demlenerek hazırlandığı bir çay çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076486.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ada Çayı",
+      "price": "50 TL",
+      "description": "Sindirimi destekleyici özellikleriyle bilinen bir bitki çayıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Melisa Çayı",
+      "price": "50 TL",
+      "description": "Melisa bitkisinin yapraklarından elde edilen bir çay çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kış Çayı",
+      "price": "50 TL",
+      "description": "Baharatlar ve turunçgiller ile hazırlanan bir çay çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Demleme Çay",
+      "price": "35 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076487.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Demleme Yeşil Çay",
+      "price": "50 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyoğlu Gazozu (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076510.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca Cola (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca Cola Zero (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu",
+      "price": "75 TL",
+      "description": "Taze Sıkma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6076495.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,661 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/mzp7/cupcake-house",
+  "google": "",
+  "products": [
+    {
+      "name": "Cupcake Red Velved",
+      "price": "88 TL110 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27856814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Çikolatalı Beyaz Çikolata Dolgulu Cupcake",
+      "price": "96 TL120 TL",
+      "description": "Portakal, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28859226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Çikolatalı Brownie",
+      "price": "120 TL150 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Çikolatalı Brownie",
+      "price": "120 TL150 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "6 Al 5 Öde Cupcake",
+      "price": "440 TL550 TL",
+      "description": "Seçeceğiniz 6 adet cupcake"
+    },
+    {
+      "name": "Cupcake Frambuaz",
+      "price": "88 TL110 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Cupcake Birthday Cake)",
+      "price": "88 TL110 TL",
+      "description": "Cupcake Birthday Cake + Coca-Cola (20 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Cupcake Tiramisu)",
+      "price": "96 TL120 TL",
+      "description": "Cupcake Tiramisu + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Cupcake Kırmızı Pasta)",
+      "price": "60 TL75 TL",
+      "description": "Cupcake Red Velved + Coca-Cola (20 cl.)"
+    },
+    {
+      "name": "10 Al 8 Öde Mini Berliner",
+      "price": "320 TL400 TL",
+      "description": "Seçeceğiniz 10 Adet Mini Berliner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52852529.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "10 Al 8 Öde Makaron",
+      "price": "320 TL400 TL",
+      "description": "Seçeceğiniz 10 Adet Makaron",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52870502.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "6 Al 5 Öde Berliner",
+      "price": "360 TL450 TL",
+      "description": "Seçeceğiniz 6 Adet Berliner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52870697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Al 3 Öde Sade Kruvasan",
+      "price": "262 TL240 TL",
+      "description": "4 Adet Sade Kruvasan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52873911.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "10 Al 8 Öde Cupcake",
+      "price": "704 TL880 TL",
+      "description": "Seçeceğiniz çeşitler ile"
+    },
+    {
+      "name": "18 Al 12 Öde Cupcake",
+      "price": "1.056 TL1.320 TL",
+      "description": "Seçeceğiniz 18 adet cupcake"
+    },
+    {
+      "name": "12 Al 9 Öde Cupcake",
+      "price": "792 TL990 TL",
+      "description": "Seçeceğiniz 12 adet cupcake"
+    },
+    {
+      "name": "6 Al 5 Öde Cupcake",
+      "price": "440 TL550 TL",
+      "description": "Seçeceğiniz 6 adet cupcake"
+    },
+    {
+      "name": "Arkadaş Donut Menü (3 Kişilik)",
+      "price": "360 TL450 TL",
+      "description": "Seçeceğiniz 3 Donut yanında 3 Filtre Kahve"
+    },
+    {
+      "name": "Arkadaş Cupcake Menü (2 Kişilik)",
+      "price": "280 TL350 TL",
+      "description": "2 Adet Seçeceğiniz Cupcake + 2 Adet Filtre Kahve"
+    },
+    {
+      "name": "Arkadaş Cupcake Menü (3 Kişilik)",
+      "price": "320 TL400 TL",
+      "description": "Seçeceğiniz 3 Adet Cupcake + Filtre Kahve"
+    },
+    {
+      "name": "Arkadaş Berliner Menü (3 Kişilik)",
+      "price": "320 TL400 TL",
+      "description": "Seçeceğiniz 3 adet Berliner + 3 Adet Filtre Kahve"
+    },
+    {
+      "name": "Arkadaş Donut Menü (2 Kişilik)",
+      "price": "280 TL350 TL",
+      "description": "Seçeceğiniz 2 Donut + 2 Adet Filtre Kahve"
+    },
+    {
+      "name": "Arkadaş Berliner Menü (2 Kişilik)",
+      "price": "280 TL350 TL",
+      "description": "Seçeceğiniz 2 adet Berliner + 2 Adet Filtre Kahve"
+    },
+    {
+      "name": "Anneler Günü Paketi",
+      "price": "400 TL500 TL",
+      "description": "4 adet seçeceğiniz supcake (Anneler gününe özel süsleme yapılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120632.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sevgililer Paketi",
+      "price": "400 TL500 TL",
+      "description": "4 adet seçeceğiniz cupcake (Sevgililer gününe özel süsleme yapılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120634.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşk Konsept Cupcake",
+      "price": "400 TL500 TL",
+      "description": "4 adet aşk konspetli cupcake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doğum Günü Paketi",
+      "price": "400 TL500 TL",
+      "description": "Seçeceğiniz 4 adet cupcake (Doğum günü konsepti ile süslenmektedir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Babalar Günü Paketi",
+      "price": "400 TL500 TL",
+      "description": "4 adet seçeceğiniz cupcake (Babalar gününe özel süsleme yapılmaktadır.)"
+    },
+    {
+      "name": "Cadılar Bayramı Paketi",
+      "price": "400 TL500 TL",
+      "description": "(Konsepte uygun süslenmiş 4 adet cupcake)"
+    },
+    {
+      "name": "29 Ekim Cumhuriyet Bayramı Paketi",
+      "price": "400 TL500 TL",
+      "description": "4 Adet 29 Ekim Temalı Cupcake & 2 Adet Türk Bayrağı Kurabiye"
+    },
+    {
+      "name": "Mutluluk Paketi",
+      "price": "480 TL600 TL",
+      "description": "6 adet makaron, 6 adet mini berliner, 2 adet chocalate chips kurabiye, 1 adet brownie"
+    },
+    {
+      "name": "Cupcake Birthday Cake",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, beyaz çikolata sosu, renkli şekerli cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120681.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Black&White",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, dolgu çikolata sosu, dolgu beyaz çikolata sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Böğürtlen",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı Kek, dolgu böğürtlen sosu, cupcake kreması",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Cupcake Bounty",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, dolgu beyaz çikolata sosu, Hindistan cevizli cupcake kreması",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Cupcake Brownie",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, dolgu çikolata sosu, sert çikolatalı cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120685.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Chocolate",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, dolgu çikolata sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Çilek",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, dolgu çilek sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120688.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Karamel",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, dolgu karamel sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Karaorman",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, dolgu vişne sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Kurabiye Canavarı",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, fındıklı kurabiyeli cupcake kreması (Renk farklılık gösterebilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Oreo",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, dolgu çikolata sosu, Oreolu cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Tiramisu",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, dolgu karamel kahve sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Toblerone",
+      "price": "88 TL110 TL",
+      "description": "Kakaolu kek, dolgu çikolata sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake White Chocolate",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, dolgu beyaz çikolata sosu, cupcake kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Red Velved",
+      "price": "88 TL110 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27856814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cupcake Limon",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, dolgu limon peltesi, cupcake kreması"
+    },
+    {
+      "name": "Cupcake Unicorn",
+      "price": "88 TL110 TL",
+      "description": "Vanilyalı kek, beyaz çikolata frosting, beyaz çikolata sos, unicorn boynuz ve kulaklı cupcake kreması"
+    },
+    {
+      "name": "Cupcake Yaban Mersini",
+      "price": "88 TL110 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Cupcake Frambuaz",
+      "price": "88 TL110 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "American Style Red Cupcake",
+      "price": "88 TL110 TL",
+      "description": "1 kişilik servis edilir."
+    },
+    {
+      "name": "Çilekli Macaron",
+      "price": "40 TL50 TL",
+      "description": "Çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Macaron",
+      "price": "40 TL50 TL",
+      "description": "Limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120726.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Macaron",
+      "price": "40 TL50 TL",
+      "description": "Frambuaz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "144 TL180 TL",
+      "description": "Üstü yanık, altı tabansız İspanyol cheesecake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake (4 Kişilik)",
+      "price": "520 TL650 TL",
+      "description": "4 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52961199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Çikolatalı Brownie",
+      "price": "120 TL150 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Çikolatalı Brownie",
+      "price": "120 TL150 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mini Çikolatalı Berliner",
+      "price": "40 TL50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35280997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Mini Berliner",
+      "price": "40 TL50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35283066.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayısılı Mini Berliner",
+      "price": "40 TL50 TL",
+      "description": "Kayısı Dolgulu Mini Berliner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66085418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Kruvasan",
+      "price": "56 TL70 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/23775355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutellalı Kruvasan",
+      "price": "84 TL105 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/23777318.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Çikolatalı Beyaz Çikolata Dolgulu Cupcake",
+      "price": "96 TL120 TL",
+      "description": "Portakal, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28859226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Brownie",
+      "price": "120 TL150 TL",
+      "description": "Bitkisel yağ, vegan çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43351568.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Çikolatalı Vişne Cupcake",
+      "price": "96 TL120 TL",
+      "description": "Vişne, çikolata"
+    },
+    {
+      "name": "Çikolatalı Baton Kek",
+      "price": "120 TL150 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32296999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilyalı Beyaz Çikolatalı Baton Kek",
+      "price": "120 TL150 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32297002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cream Popcake",
+      "price": "64 TL80 TL",
+      "description": "Külah üzerinde üstü çikolata ile kaplanmış kakaolu cakepops",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120718.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Birthday Popcake",
+      "price": "40 TL50 TL",
+      "description": "Çikolata, kek, krema, birthday şekeri"
+    },
+    {
+      "name": "Çikolatalı Donut",
+      "price": "64 TL80 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Chips Beyaz Çikolata",
+      "price": "56 TL70 TL",
+      "description": "Beyaz damla çikolatalı cookie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Chips Sütlü Çikolata",
+      "price": "56 TL70 TL",
+      "description": "Sütlü çikolatalı cookie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120794.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşk Kurabiye",
+      "price": "40 TL50 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kurabiye Canavarı",
+      "price": "40 TL50 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Caramel Macchiato",
+      "price": "76 TL95 TL",
+      "description": "Sıcak süt, espresso ve karamel sosunun katmanlı olarak servis edildiği, tatlı ve kremalı bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "52 TL65 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120809.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Americano",
+      "price": "56 TL70 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte",
+      "price": "68 TL85 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Latte",
+      "price": "72 TL90 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mocha",
+      "price": "76 TL95 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Mocha",
+      "price": "80 TL100 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Chocolate Mocha",
+      "price": "76 TL95 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice White Chocolate Mocha",
+      "price": "80 TL100 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Macchiato",
+      "price": "68 TL85 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Macchiato",
+      "price": "72 TL90 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve",
+      "price": "52 TL65 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120821.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Çikolata",
+      "price": "40 TL50 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32052259.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salep",
+      "price": "40 TL50 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32060656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Latte",
+      "price": "76 TL95 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622169.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cold Brew",
+      "price": "56 TL70 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Vanilla Latte",
+      "price": "80 TL100 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Latte",
+      "price": "80 TL100 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "68 TL85 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilla Latte",
+      "price": "76 TL95 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "76 TL95 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622183.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Flat White",
+      "price": "80 TL100 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "price": "80 TL100 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Hibiskus Çayı",
+      "price": "36 TL45 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Tarçınlı Çay",
+      "price": "36 TL45 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Earl Grey",
+      "price": "24 TL30 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Elma Çayı",
+      "price": "40 TL50 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Limon Melisa Çayı",
+      "price": "40 TL50 TL",
+      "description": "(Sıcak servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Hibiscus Çayı",
+      "price": "40 TL50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622224.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (20 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (20 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120829.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (20 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120830.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (20 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120833.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (20 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120834.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Şeftali (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120836.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Limonata",
+      "price": "60 TL75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120842.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120837.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120838.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6120843.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

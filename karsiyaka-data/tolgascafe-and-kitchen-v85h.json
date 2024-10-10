@@ -1,0 +1,233 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/v85h/tolgas-cafe-and-kitchen-v85h",
+  "google": "",
+  "products": [
+    {
+      "name": "Izgara Köfte",
+      "price": "155,90 TL",
+      "description": "Pirinç pilavı, patates kızartması, mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695870.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anne Köfte & Patates Kızartması",
+      "price": "85 TL",
+      "description": "Patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "45 TL",
+      "description": "Pirinç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": "169,90 TL",
+      "description": "Pirinç pilavı, patates kızartması, mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günün Menüsü 1",
+      "price": "155,90 TL",
+      "description": "Günün Ana Yemeği + 2 Adet Seçeceğiniz Yardımcı Yemek + Mevsim Salata"
+    },
+    {
+      "name": "Günün Menüsü 2",
+      "price": "165,90 TL",
+      "description": "Seçeceğiniz Çorba + Günün Ana Yemeği + Seçeceğiniz Yardımcı Yemek + Mevsim Salata"
+    },
+    {
+      "name": "Günün Menüsü 1",
+      "price": "155,90 TL",
+      "description": "Günün Ana Yemeği + 2 Adet Seçeceğiniz Yardımcı Yemek + Mevsim Salata"
+    },
+    {
+      "name": "Günün Menüsü 2",
+      "price": "165,90 TL",
+      "description": "Seçeceğiniz Çorba + Günün Ana Yemeği + Seçeceğiniz Yardımcı Yemek + Mevsim Salata"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "55 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29693577.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Tire Köfte",
+      "price": "85 TL",
+      "description": "Köfte",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anne Köfte & Patates Kızartması",
+      "price": "85 TL",
+      "description": "Patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kalamar",
+      "price": "85 TL",
+      "description": "Tavuk kalamar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975136.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Kuru Fasulye",
+      "price": "85 TL",
+      "description": "Zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29694161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Soslu Karışık Kızartma",
+      "price": "85 TL",
+      "description": "Mevsim sebzeleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29694673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kekikli Tavuk",
+      "price": "85 TL",
+      "description": "Tavuk"
+    },
+    {
+      "name": "Köfteli Patlıcan Kebabı",
+      "price": "85 TL",
+      "description": "1 kişilik servis edilir."
+    },
+    {
+      "name": "Erişteli Yeşil Mercimek",
+      "price": "85 TL",
+      "description": "Erişte"
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": "169,90 TL",
+      "description": "Pirinç pilavı, patates kızartması, mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "155,90 TL",
+      "description": "Pirinç pilavı, patates kızartması, mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695870.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Çökertme Kebabı",
+      "price": "199,90 TL",
+      "description": "Çıtır saman patates, üzerine yoğurt, özel sos, 8 adet parmak köfte. Pilav, mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36896683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Izgara",
+      "price": "199,90 TL",
+      "description": "2 adet tavuk şiş, 4 adet ızgara köfte. Patates kızartması, günün pilavı, mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53010177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalçalı Makarna",
+      "price": "45 TL",
+      "description": "Salça",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29694770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "45 TL",
+      "description": "Pirinç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgur Pilavı",
+      "price": "45 TL",
+      "description": "Bulgur",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Napolitan Soslu Makarna",
+      "price": "45 TL",
+      "description": "Napolitan sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kısır",
+      "price": "45 TL",
+      "description": "Bulgur ve baharatlarla hazırlanan salata çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salatası",
+      "price": "45 TL",
+      "description": "Mevsim yeşillikleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maş Fasulyesi",
+      "price": "45 TL",
+      "description": "Mevsim yeşillikleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29695528.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Makarna",
+      "price": "45 TL",
+      "description": "Yoğurt, makarna",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36846296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Rüyası",
+      "price": "55 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zebra Kek",
+      "price": "45 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975183.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "30 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31975188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38224642.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Mango & Ananas (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38225539.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

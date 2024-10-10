@@ -1,0 +1,270 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/c72x/seyhan-ciger-and-kebap-and-lahmacun",
+  "google": "",
+  "products": [
+    {
+      "name": "Acılı Lahmacun",
+      "price": "138,60 TL198 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acısız Lahmacun",
+      "price": "138,60 TL198 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "347,90 TL497 TL",
+      "description": "(180 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İkili Karışık Izgara",
+      "price": "372,40 TL532 TL",
+      "description": "Et şiş, kuzu ciğer, sumaklı soğan, tablacı salatası, ezme, haydari, közlenmiş domates,közlenmiş biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42249891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer",
+      "price": "371 TL530 TL",
+      "description": "(200 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm (110 gr.)",
+      "price": "218,40 TL312 TL",
+      "description": "Közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Lahmacun Menü",
+      "price": "466,90 TL667 TL",
+      "description": "3 Adet Lahmacun (Maydanoz, roka, limon ile) + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28817527.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Lahmacun Menü",
+      "price": "735 TL1.050 TL",
+      "description": "5 Adet Büyük Boy Lahmacun (Maydanoz, roka, limon ile) + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28821882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "138,60 TL198 TL",
+      "description": "Limon, turp, turşu, ezme, yeşillik, pide ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "150,50 TL215 TL",
+      "description": "Limon, turp, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171390.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "184,10 TL263 TL",
+      "description": "Limon, turp, turşu, ezme, yeşillik, pide ekmeği ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Çorbası",
+      "price": "184,10 TL263 TL",
+      "description": "Limon, turp, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171392.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer",
+      "price": "371 TL530 TL",
+      "description": "(200 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Lokum",
+      "price": "448 TL640 TL",
+      "description": "(200 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171396.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Şiş",
+      "price": "372,40 TL532 TL",
+      "description": "(200 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171397.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "347,90 TL497 TL",
+      "description": "(180 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk Kanat",
+      "price": "308 TL440 TL",
+      "description": "(350 gr.) Sumaklı soğan, közlenmiş domates, biber, tablacı salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş (Kemiksiz)",
+      "price": "297,50 TL425 TL",
+      "description": "Sumaklı soğan, közlenmiş domates, biber, mevsim salata, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171394.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İkili Karışık Izgara",
+      "price": "372,40 TL532 TL",
+      "description": "Et şiş, kuzu ciğer, sumaklı soğan, tablacı salatası, ezme, haydari, közlenmiş domates,közlenmiş biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42249891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcan Kebabı",
+      "price": "372,40 TL532 TL",
+      "description": "Sumaklı soğan, közlenmiş domates, biber, mevsim salata, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48428319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acısız Lahmacun",
+      "price": "138,60 TL198 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Lahmacun",
+      "price": "138,60 TL198 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "79,10 TL113 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "198,80 TL284 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171404.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "208,60 TL298 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "223,30 TL319 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "228,20 TL326 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "243,60 TL348 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Yumurtalı Pide",
+      "price": "253,40 TL362 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "189 TL270 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171411.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Yumurtalı Pide",
+      "price": "198,80 TL284 TL",
+      "description": "Maydanoz, roka, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171412.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (12 Adet)",
+      "price": "128,80 TL184 TL",
+      "description": "Marul, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46748121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm (110 gr.)",
+      "price": "218,40 TL312 TL",
+      "description": "Közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Et Dürüm (120 gr.)",
+      "price": "218,40 TL312 TL",
+      "description": "Közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer Dürüm (120 gr.)",
+      "price": "218,40 TL312 TL",
+      "description": "Közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm (120 gr.)",
+      "price": "198,80 TL284 TL",
+      "description": "Közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "44,80 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "44,80 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "44,80 TL64 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL50 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "19,60 TL28 TL",
+      "description": "Cam Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "10,50 TL15 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6171425.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

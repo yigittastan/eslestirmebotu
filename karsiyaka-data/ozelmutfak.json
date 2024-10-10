@@ -1,0 +1,195 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/mwip/ozel-mutfak",
+  "google": "",
+  "products": [
+    {
+      "name": "Kuru Fasulye Menü",
+      "price": "260 TL",
+      "description": "Kuru Fasulye + Günün Pilavı + Cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48608356.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Tandır Menü",
+      "price": "400 TL",
+      "description": "Kuzu Tandır + Salata veya Cacık + Pirinç Pilavı veya Bulgur Pilavı"
+    },
+    {
+      "name": "Köfte Menü",
+      "price": "320 TL",
+      "description": "Günün Köftesi + Seçeceğiniz Pilav + Cacık veya Yoğurt"
+    },
+    {
+      "name": "Kıymalı Menü",
+      "price": "300 TL",
+      "description": "Günün Kıymalı Yemeği + Bulgur Pilavı Veya Makarna + Salata Veya Cacık"
+    },
+    {
+      "name": "Tavuk Menü",
+      "price": "300 TL",
+      "description": "Günün Tavuklu Yemeği + Günün Pilavı + Salata veya Cacık"
+    },
+    {
+      "name": "Güveç Menü",
+      "price": "330 TL",
+      "description": "Güveç + Günün Pilavı + Salata veya Cacık"
+    },
+    {
+      "name": "Taze Fasulye Menü",
+      "price": "300 TL",
+      "description": "Taze Fasulye + Bulgur Pilavı Veya Makarna"
+    },
+    {
+      "name": "Sarma Menü",
+      "price": "260 TL",
+      "description": "Sarma (250 gr.) + Kuru Cacık (200 gr.) veya Havuç Tarator (200 gr.)"
+    },
+    {
+      "name": "Tas Kebabı Menü",
+      "price": "380 TL",
+      "description": "Tas Kebabı + Günün Pilavı + Cacık"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "130 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607623.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fava",
+      "price": "100 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Pancar",
+      "price": "100 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607875.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şakşuka",
+      "price": "100 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mücver",
+      "price": "180 TL",
+      "description": "3 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607878.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Havuç Tarator",
+      "price": "100 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Girit Ezmesi",
+      "price": "100 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Cacık",
+      "price": "100 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu",
+      "price": "66 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma (250 gr.)",
+      "price": "150 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49582448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pazı Kavurmalı Atom",
+      "price": "100 TL",
+      "description": "200 gr."
+    },
+    {
+      "name": "Tereyağlı Pirinç Pilavı",
+      "price": "100 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mardin Bulgur Pilavı",
+      "price": "100 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607654.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607831.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607833.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Sarma (1 kg)",
+      "price": "380 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48607637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48608442.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

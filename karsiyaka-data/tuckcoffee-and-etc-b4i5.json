@@ -1,0 +1,534 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/b4i5/tuck-coffee-and-etc-b4i5",
+  "google": "",
+  "products": [
+    {
+      "name": "Ice Americano",
+      "price": "110 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Latte",
+      "price": "120 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte",
+      "price": "115 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Caramel Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Coconut Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice White Mocha",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714225.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Toffeenut Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714214.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Vanilya Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Americano",
+      "price": "110 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Hazelnut",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Flat White",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Coconut Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Pumpkin Spice Latte",
+      "price": "160 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Salted Caramel Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714221.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Latte",
+      "price": "120 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Caramel Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Mocha",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714224.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice White Mocha",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714225.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Chai Tea Latte",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28098843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cream Latte",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66051142.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Black Coco",
+      "price": "155 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66714766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Holy White",
+      "price": "145 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66716030.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "95 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "139 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte",
+      "price": "115 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mocha",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Mocha",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hazelnut Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Toffeenut Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714208.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coconut Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilya Aromalı Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pumpkin Spice Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salted Caramel Latte",
+      "price": "140 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714213.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Black Coco",
+      "price": "150 TL",
+      "description": "Sıcak servis edilir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45404884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Filtre Kahve",
+      "price": "100 TL",
+      "description": "Tuck Brezilya kahve çekirdeği, aromatik filtre kahve ve buzun mükemmel buluşmasıyla ferahlatıcı bir kahve deneyimi yaşayın.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714233.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve",
+      "price": "95 TL",
+      "description": "Tuck Brezilya kahve çekirdeklerinden demlenen bu filtre kahve, dengeli ve zengin aromasıyla mükemmel bir lezzet deneyimi sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714234.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Karamel Frappe",
+      "price": "170 TL",
+      "description": "Gerçek Maraş dondurmasıyla hazırlanan karamel sos ve Tuck espresso nun mükemmel birleşimi, her yudumda yoğun ve tatmin edici bir lezzet.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28106415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Mocha Frappe",
+      "price": "170 TL",
+      "description": "Gerçek Maraş dondurması ile hazırlanan el yapımı çikolata sos ve Tuck Espresso nun birleşimi, zengin ve ferahlatıcı bir tat sunar Çikolata ve kahvenin kusursuz uyumunu keşfet.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28106424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck W.Mocha Frappe",
+      "price": "170 TL",
+      "description": "Çikolata sosu,Tuck espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40833541.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Vanilla Frappe",
+      "price": "170 TL",
+      "description": "Vanilya sosu, Tuck espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40847578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Hazelnut Frappe",
+      "price": "170 TL",
+      "description": "Maraş dondurması, fındık sosu, Tuck espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40869707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Cocostar Frappe",
+      "price": "140 TL",
+      "description": "Maraş dondurması, Hindistan cevizi sosu, Tuck espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40869710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Espresso Frappe",
+      "price": "170 TL",
+      "description": "Maraş dondurması, Tuck espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40869866.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Lime",
+      "price": "150 TL",
+      "description": "Günlük olarak doğal yeşil çayların özenle demlenmesiyle hazırlanan, lime aromalı ferahlatıcı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Fresh",
+      "price": "150 TL",
+      "description": "Günlük olarak taptaze hibiscus çaylarının demlenmesiyle hazırlanan, lime ve nane aromalı ferahlatıcı içecek, her yudumda canlılık ve serinlik sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714257.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Tropic",
+      "price": "150 TL",
+      "description": "Günlük olarak taze portakal ve elma çaylarının özenle demlenmesiyle hazırlanan, mango aromalı ferahlatıcı içecek, her yudumda tropik bir lezzet sunar ve serinletici bir tat deneyimi yaşatır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27535289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Applemint",
+      "price": "130 TL",
+      "description": "Tuckberry çayı, elma, nane",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40833546.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Superberry",
+      "price": "150 TL",
+      "description": "Tuckberry çayı, ahududu, dut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40870668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Green Lemonade",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir."
+    },
+    {
+      "name": "Addiction Smoothie",
+      "price": "170 TL",
+      "description": "Tuck Double Chocolate Chip Cookie, gerçek Maraş dondurması, mocha sos ve sütün enfes uyumu ile hazırlanan Tuck Addiction. Her yudumda tatlı ve yoğun bir lezzet sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sunshine Smoothie",
+      "price": "170 TL",
+      "description": "Gerçek muz ve mango meyvelerine, ananas ve portakal aromalarının eşlik ettiği, serinletici Tuck Sunshine Smoothie. Her yudumda egzotik bir tat ve ferahlık sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuckberry Smoothie",
+      "price": "170 TL",
+      "description": "Gerçek çilek, orman meyveleri ve muzun, bal ile buluştuğu, serinletici Tuck Tuckberry Smoothie. Her yudumda doğal tatlılığı ve tazeliği sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tutti Frutti Smoothie",
+      "price": "140 TL",
+      "description": "Gerçek çilek ve muz meyvelerine, ananas aromasının eşlik ettiği, serinletici Tuck tutti frutti smoothie, her yudumda canlandırıcı bir lezzet sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31061079.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Passion Fruit Smoothies",
+      "price": "170 TL",
+      "description": "Gerçek muz ve çarkıfelek meyvelerine, mango aromasının eşlik ettiği, serinletici Tuck passion fruit smoothies. Her yudumda tropikal bir tat patlaması ve ferahlık sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66051139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Muzlu Cheesecake Milkshake",
+      "price": "170 TL",
+      "description": "New York Cheesecake, gerçek Maraş dondurması, Tuck özel mocha sosu ve taze muzun birleşimiyle hazırlanan bu ferahlatıcı milkshake, her yudumda zengin ve tatlı bir lezzet şöleni sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Cheesecake Milkshake",
+      "price": "170 TL",
+      "description": "New York cheesecake, gerçek Maraş dondurması ve Tuck özel karamel sosunun birleşimiyle hazırlanan bu ferahlatıcı milkshake, her yudumda yoğun ve leziz bir tat deneyimi sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714267.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chai Tea Milkshake",
+      "price": "170 TL",
+      "description": "Aromatik bitki baharat karışımı ve gerçek Maraş dondurmasıyla hazırlanan bu ferahlatıcı milkshake, her yudumda baharatlı ve kremamsı bir lezzet sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30806420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Childhood Milkshake",
+      "price": "170 TL",
+      "description": "Muz, Cicibebe, Maraş dondurması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40847979.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Çikolata",
+      "price": "125 TL",
+      "description": "Sıcak süt ve çikolata sosu ile hazırlanan bu içecek, her yudumda kremamsı ve tatlı bir lezzet sunar. Çikolata keyfini sıcak ve rahatlatıcı bir şekilde yaşayın.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714236.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rooibos Vanilla",
+      "price": "105 TL",
+      "description": "Rooibos yaprağı ve vanilya aromasıyla hazırlanan bu sıcak çay, tatlı ve yumuşak bir lezzet deneyimi sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Winter Tea",
+      "price": "99 TL",
+      "description": "Kuşburnu bitkisi, portakal kabuğu, karanfil, hibiscus, tarçın ve zencefilin harmanlandığı bu sıcak çay, meyvemsi ve baharatlı aromasıyla. Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jasmine Pearl",
+      "price": "99 TL",
+      "description": "Yasemin çiçeği, yeşil çayJasmine çiçeği ve yeşil çay yapraklarıyla hazırlanan bu sıcak çay, hafif tatlı ve çiçeksi aromasıyla zarif ve rahatlatıcı bir lezzet sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714239.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chai Tea Latte",
+      "price": "125 TL",
+      "description": "Aromatik bitki baharat karışımının, çay ve sütle buluştuğu bu sıcak çay, her yudumda sıcak ve dengeli bir lezzet sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28744057.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tea Pandastic",
+      "price": "105 TL",
+      "description": "Limon otu, hibiscus, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42724299.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tea Tuckberry",
+      "price": "105 TL",
+      "description": "Mavi sarmaşık çiçeği, ahududu, lime",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42724524.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tea Green Mint",
+      "price": "105 TL",
+      "description": "Yeşil çay, elma, nane, Isparta gülü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42725590.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tea Borderline",
+      "price": "105 TL",
+      "description": "Hibiscus, zencefil, portakal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42725593.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Holy White",
+      "price": "130 TL",
+      "description": "Beyaz çikolata sosu, karadut, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45404892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Jambonlu Mozzarellalı Baget Sandviç",
+      "price": "175 TL",
+      "description": "Dana jambon, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54891786.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Verry Berry Crumble",
+      "price": "175 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54891596.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Cheesecake",
+      "price": "160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54891773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süt Reçelli Cheesecake",
+      "price": "160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54891819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Cheesecake",
+      "price": "200 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65648315.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Panna Cotta",
+      "price": "160 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Tiramisu Kup",
+      "price": "150 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Beyaz Çikolatalı Bademli Cheesecake",
+      "price": "200 TL"
+    },
+    {
+      "name": "Uludağ Premium Doğal Maden Suyu (25 cl.)",
+      "price": "75 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5714251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Su (40 cl.)",
+      "price": "40 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31063100.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Gazoz (25 cl.)",
+      "price": "75 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31063177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck S Machine Espresso (250 gr.)",
+      "price": "550 TL",
+      "description": "Bitter çikolata, fındık aromaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Star Espresso (250 gr.)",
+      "price": "600 TL",
+      "description": "Karamel, çikolata, fıstık aromaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160265.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Caffeine Bomb Espresso (250 gr.)",
+      "price": "500 TL",
+      "description": "Bitter çikolata, karamel, badem",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160292.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Dark Filter (250 gr.)",
+      "price": "550 TL",
+      "description": "Kuru meyve, karame, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160304.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Office Filter (250 gr.)",
+      "price": "550 TL",
+      "description": "Kırmızı meyve, tereyağı, karamel",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160327.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Caffeine Bomb Filter (250 gr.)",
+      "price": "500 TL",
+      "description": "Bitter çikolata ve fındığın büyüleyici birleşimiyle hazırlanmış bu kahve, orta derece kavrumu sayesinde akıcı ve yumuşak bir içim keyfi sunar.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Bombe (250 gr.)",
+      "price": "600 TL",
+      "description": "Kırmızı meyveler, portakal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuck Dark Espresso (250 gr.)",
+      "price": "600 TL",
+      "description": "Karamel, çikolata, fıstık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42160393.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622028.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

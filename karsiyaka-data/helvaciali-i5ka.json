@@ -1,0 +1,264 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/i5ka/helvaci-ali-i5ka",
+  "google": "",
+  "products": [
+    {
+      "name": "Dondurmalı Sade İrmik Helvası (Büyük Boy)",
+      "price": "150 TL",
+      "description": "Maraş dövme dondurması, tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Cennet Çamuru (Küçük Boy)",
+      "price": "150 TL",
+      "description": "Maraş dövme dondurması, Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348833.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Cennet Çamuru (Büyük Boy)",
+      "price": "245 TL",
+      "description": "Maraş dövme dondurması, Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348842.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Sade İrmik Helvası (Büyük Boy)",
+      "price": "150 TL",
+      "description": "Tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade İrmik Helvası (500 gr.)",
+      "price": "215 TL",
+      "description": "Tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051533.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Lotuslu İrmik Helvası (Küçük Boy)",
+      "price": "130 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30486717.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Sade İrmik Helvası (Küçük Boy)",
+      "price": "97,50 TL",
+      "description": "Maraş dövme dondurması, tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Sade İrmik Helvası (Büyük Boy)",
+      "price": "150 TL",
+      "description": "Maraş dövme dondurması, tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Sade İrmik Helvası (Küçük Boy)",
+      "price": "97,50 TL",
+      "description": "Tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Sade İrmik Helvası (Büyük Boy)",
+      "price": "150 TL",
+      "description": "Tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Cennet Çamuru (Küçük Boy)",
+      "price": "150 TL",
+      "description": "Maraş dövme dondurması, Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348833.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Cennet Çamuru (Büyük Boy)",
+      "price": "245 TL",
+      "description": "Maraş dövme dondurması, Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348842.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Cennet Çamuru (Büyük)",
+      "price": "375 TL",
+      "description": "Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27349020.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Çikolatalı İrmik Helvası (Küçük Boy)",
+      "price": "115 TL",
+      "description": "Maraş dövme dondurması, çikolata, tereyağı, irmik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348849.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Çikolatalı İrmik Helvası (Büyük Boy)",
+      "price": "165 TL",
+      "description": "Maraş dövme dondurması, çikolata, tereyağı, irmik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Çikolatalı İrmik Helvası (Küçük Boy)",
+      "price": "115 TL",
+      "description": "Çikolata, tereyağı, irmik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Çikolatalı İrmik Helvası (Büyük Boy)",
+      "price": "165 TL",
+      "description": "Çikolata, tereyağı, irmik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27348926.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Lotuslu İrmik Helvası (Küçük Boy)",
+      "price": "130 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30486717.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmalı Lotuslu İrmik Helvası (Büyük Boy)",
+      "price": "195 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30486396.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Lotuslu İrmik Helvası (Küçük Boy)",
+      "price": "130 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30486079.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Lotuslu İrmik Helvası (Büyük Boy)",
+      "price": "195 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30485822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurmasız Cennet Çamuru (Küçük Boy)",
+      "price": "195 TL",
+      "description": "Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59305129.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Maraş Dondurma (500 gr.)",
+      "price": "400 TL",
+      "description": "Maraş usulü sade dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051524.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kestane Şekeri (470 gr.)",
+      "price": "465 TL",
+      "description": "Cam kavanozda gönderilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051521.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tahin (500 gr.)",
+      "price": "245 TL",
+      "description": "Cam kavanozda gönderilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üzüm Pekmezi (620 gr.)",
+      "price": "205 TL",
+      "description": "Cam kavanozda gönderilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dut Pekmezi (620 gr.)",
+      "price": "205 TL",
+      "description": "Cam kavanozda gönderilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keçiboynuzu Özü (620 gr.)",
+      "price": "205 TL",
+      "description": "Cam kavanozda gönderilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Talkan Kurabiyesi (200 gr.)",
+      "price": "85 TL",
+      "description": "Leblebi tozundan yapılmış glutensiz enfes kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındıklı Talkan Kurabiyesi (200 gr.)",
+      "price": "85 TL",
+      "description": "Leblebi tozundan yapılmış glutensiz kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051502.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tarçınlı Talkan Kurabiyesi (200 gr.)",
+      "price": "85 TL",
+      "description": "Leblebi tozundan yapılmış glutensiz kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Tahin Helvası (500 gr.)",
+      "price": "240 TL",
+      "description": "Şeker pancarından üretilmiştir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051505.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fıstıklı Tahin Helvası (500 gr.)",
+      "price": "325 TL",
+      "description": "Şeker pancarından üretilmiştir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kakaolu Tahin Helvası (500 gr.)",
+      "price": "240 TL",
+      "description": "Şeker pancarından üretilmiştir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sade İrmik Helvası (500 gr.)",
+      "price": "215 TL",
+      "description": "Tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051533.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade İrmik Helvası (1 kg.)",
+      "price": "422,50 TL",
+      "description": "Tereyağı, irmik, süt, şeker, ceviz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cennet Çamuru (500 gr.)",
+      "price": "585 TL",
+      "description": "Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051535.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cennet Çamuru (1 kg.)",
+      "price": "1.170 TL",
+      "description": "Antep fıstığı, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051538.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı İrmik Helvası (500 gr.)",
+      "price": "255 TL",
+      "description": "Çikolata, tereyağı, irmik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı İrmik Helvası (1 kg.)",
+      "price": "505 TL",
+      "description": "Çikolata, tereyağı, irmik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051537.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotuslu İrmik Helvası (500 gr.)",
+      "price": "345 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41003112.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotuslu İrmik Helvası (1 kg.)",
+      "price": "682,50 TL",
+      "description": "Lotus bisküvisi, tereyağı, irmik, şeker, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41003113.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28051543.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

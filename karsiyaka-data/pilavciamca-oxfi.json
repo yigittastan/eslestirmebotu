@@ -1,0 +1,218 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/oxfi/pilavci-amca-oxfi",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Nohutlu Pirinç Pilavı",
+      "price": "85 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Tavuklu Double Pilav",
+      "price": "185 TL",
+      "description": "Jalapeno biber, salatalık turşusu, kırmızılahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839313.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sporcu Pilav",
+      "price": "155 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu & Mısırlı & Nohutlu Mix Pilav",
+      "price": "115 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susurluk Açık Ayran (1 L.)",
+      "price": "110 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Double Tavuklu Double Pilav)",
+      "price": "220,50 TL245 TL",
+      "description": "Double Tavuklu Double Pilav + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "3'lü Menü",
+      "price": "400 TL",
+      "description": "3 Adet Tavuklu Pirinç Pilavı + 3 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35982106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Dürüm Menü",
+      "price": "110 TL",
+      "description": "Mega Çiğ Köfte Dürüm + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35996064.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Çiğ Köfte Menü",
+      "price": "140 TL",
+      "description": "2 Adet Çiğ Köfte Dürüm + 2 Adet Ayran (25 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35998243.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Menü",
+      "price": "250 TL",
+      "description": "2 Adet Tavuklu Pirinç Pilavı + 2 Adet Ayran (25 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36012494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Menü",
+      "price": "750 TL",
+      "description": "4 Adet Tavuklu Pilav + Çiğ Köfte (500 gr. çiğ köfte, iceberg marul, 7 adet lavaş, nar ekşisi, acı sos, turşu, kırmızı lahana, domates) + Ayran (1 L.)"
+    },
+    {
+      "name": "Kombo Menü",
+      "price": "380 TL",
+      "description": "2 Adet Mega Çiğ Köfte Dürüm + 2 Adet Tavuklu Pirinç Pilavı + 2 Adet Ayran (25 cl.)"
+    },
+    {
+      "name": "Tıka Basa Menü",
+      "price": "245 TL",
+      "description": "Çiğ Köfte Dürüm + Tavuklu Pirinç Pilavı + Ayran (25 cl.)"
+    },
+    {
+      "name": "Tavuklu Nohutlu Pirinç Pilavı",
+      "price": "85 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Tavuklu Double Pilav",
+      "price": "185 TL",
+      "description": "Jalapeno biber, salatalık turşusu, kırmızılahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839313.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mısırlı Pirinç Pilavı",
+      "price": "90 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pirinç Pilavı",
+      "price": "75 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu & Mısırlı & Nohutlu Mix Pilav",
+      "price": "115 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sporcu Pilav",
+      "price": "155 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Pirinç Pilavı",
+      "price": "75 TL",
+      "description": "Jalepeno biber, salatalık turşusu, kırmızı lahana, domates, maydanoz, sivri yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31838758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.)",
+      "price": "200 TL",
+      "description": "10 adet lavaş, marul, nar ekşisi, acı sos, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35983296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doritos'lu Çiğ Köfte Dürüm",
+      "price": "75 TL",
+      "description": "Doritos, çiğ köfte, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35983349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.)",
+      "price": "130 TL",
+      "description": "4 adet lavaş, marul, nar ekşisi, acı sos, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35984278.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (800 gr.)",
+      "price": "180 TL",
+      "description": "8 adet lavaş, marul, nar ekşisi, acı sos, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35984594.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1,5 kg.) (Parti Boy)",
+      "price": "250 TL",
+      "description": "Marul, 13 adet lavaş, limon, nar ekşisi sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36108079.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm (100 gr.)",
+      "price": "60 TL",
+      "description": "Mevsim yeşillikleri, isteğe göre acı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40312856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Link (20 cl.)",
+      "price": "35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42997936.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susurluk Açık Ayran (25 cl.)",
+      "price": "30 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susurluk Açık Ayran (1 L.)",
+      "price": "110 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31839497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31840609.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,443 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/b45l/macaroni-express-b45l",
+  "google": "",
+  "products": [
+    {
+      "name": "Alfredo Makarna",
+      "price": "255 TL",
+      "description": "Penne makarna, krema, mantar, soslu tavuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832780.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Tavuk",
+      "price": "275 TL",
+      "description": "Krema, mantar, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ravioli",
+      "price": "280 TL",
+      "description": "5 peynirli ravioli, krema, pesto sos, kaşar peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32695953.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Napoliten Makarna",
+      "price": "245 TL",
+      "description": "Spaghetti makarna, domates sosu, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolonez Soslu Makarna",
+      "price": "270 TL",
+      "description": "Spaghetti makarna, domates sos, dana kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carbonara Makarna",
+      "price": "265 TL",
+      "description": "Penne makarna, krema, hindi jambon, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Fusilli Makarna",
+      "price": "230 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832741.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolonez Soslu Makarna",
+      "price": "270 TL",
+      "description": "Spaghetti makarna, domates sos, dana kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Spaghetti",
+      "price": "230 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832743.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Penne",
+      "price": "230 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Usulü Makarna",
+      "price": "240 TL",
+      "description": "Fusilli makarna, tereyağı, pul biber sosu, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Soslu Makarna",
+      "price": "240 TL",
+      "description": "Penne makarna, domates sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Arrabbiata Makarna",
+      "price": "240 TL",
+      "description": "Penne makarna, domates sosu, acı biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bosco Makarna",
+      "price": "245 TL",
+      "description": "Burgu makarna, domates sosu, fesleğen, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832748.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Napoliten Makarna",
+      "price": "245 TL",
+      "description": "Spaghetti makarna, domates sosu, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto Makarna",
+      "price": "250 TL",
+      "description": "Spagetti makarna, pesto sosu, krema, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Masala Makarna",
+      "price": "250 TL",
+      "description": "Fusilli makarna, köri sos, tavuk, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Prima Makarna",
+      "price": "245 TL",
+      "description": "Penne makarna, domates sosu, mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "250 TL",
+      "description": "Yoğurt, pul biber, tereyağlı sos, kıymalı mantı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pollo Makarna",
+      "price": "250 TL",
+      "description": "Penne makarna, soya sosu, soslu tavuk, mantar, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tonno Makarna",
+      "price": "295 TL",
+      "description": "Fusilli makarna, ton balığı, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alfredo Makarna",
+      "price": "255 TL",
+      "description": "Penne makarna, krema, mantar, soslu tavuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "La Carne Makarna",
+      "price": "280 TL",
+      "description": "Fusilli makarna, soya sosu, krema, mantar, soslu et",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Melanzane Makarna",
+      "price": "250 TL",
+      "description": "Fusili makarna, köz patlıcan, közlenmiş kırmızıbiber, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tortellini Makarna",
+      "price": "280 TL",
+      "description": "Tortellini makarna, krema, mantar, parmesan peyniri, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ravioli",
+      "price": "280 TL",
+      "description": "5 peynirli ravioli, krema, pesto sos, kaşar peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32695953.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Salad",
+      "price": "275 TL",
+      "description": "Acı sos, soslu tavuk, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, közlenmiş kırmızıbiber, mısır, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellim Salad",
+      "price": "275 TL",
+      "description": "Kızarmış hellim peyniri, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, közlenmiş kırmızıbiber, havuç, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Thai Salad",
+      "price": "275 TL",
+      "description": "Soya sosu, soslu tavuk, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, mısır, közlenmiş kırmızıbiber, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832774.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Steak Salad",
+      "price": "370 TL",
+      "description": "Soya sosu, krema, mantar, soslu et, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, közlenmiş kırmızıbiber, mısır, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parma Salad",
+      "price": "275 TL",
+      "description": "Parmesan peyniri sosu, dereotu, soslu tavuk, çeşni, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, közlenmiş kırmızıbiber, mısır, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Milanese Salad",
+      "price": "275 TL",
+      "description": "Hardal, krema, soslu tavuk, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, közlenmiş kırmızıbiber, mısır, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832777.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bombay Salad",
+      "price": "275 TL",
+      "description": "Köri sosu, soya sosu, soslu tavuk, salatalık, cherry domates, iceberg marul, Akdeniz yeşillikleri, közlenmiş kırmızıbiber, mısır, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Salata (Küçük)",
+      "price": "75 TL",
+      "description": "Akdeniz yeşillikleri, iceberg marul, mısır, közlenmiş kırmızıbiber, salatalık, cherry domates, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832779.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Noodle",
+      "price": "265 TL",
+      "description": "Noodle, soslu tavuk, şerit biber, mantar, soya sosu, köri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Noodle",
+      "price": "290 TL",
+      "description": "Noodle, soslu et, şerit biber, mantar, soya sosu, köri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tavuk",
+      "price": "270 TL",
+      "description": "Acı sos, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Tavuk",
+      "price": "270 TL",
+      "description": "Tatlı ekşi sos, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Tavuk",
+      "price": "275 TL",
+      "description": "Cheddar sos, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Barbekü sos, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832763.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Köri sosu, soya sosu, soslu tavuk, kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10965629.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Soya sosu, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832764.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Tavuk",
+      "price": "275 TL",
+      "description": "Krema, mantar, soslu tavuk. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Et",
+      "price": "370 TL",
+      "description": "Soya sosu, krema, soslu et, mantar. Kremalı peynirli makarna, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı Menü",
+      "price": "330 TL",
+      "description": "Mantı + Salata + İçecek"
+    },
+    {
+      "name": "Carbonara Menü",
+      "price": "345 TL",
+      "description": "Corbonara Makarna + Salata + İçecek"
+    },
+    {
+      "name": "Bosco Menü",
+      "price": "325 TL",
+      "description": "Bosco + Salata + İçecek"
+    },
+    {
+      "name": "La Carne Menü",
+      "price": "360 TL",
+      "description": "La Carne + Salata + İçecek"
+    },
+    {
+      "name": "Prima Menü",
+      "price": "325 TL",
+      "description": "Prima + Salata + İçecek"
+    },
+    {
+      "name": "Tortellini Menü",
+      "price": "360 TL",
+      "description": "Tortellini + Salata + İçecek"
+    },
+    {
+      "name": "Arrabbiata Menü",
+      "price": "320 TL",
+      "description": "Arrabbiata + Salata + İçecek"
+    },
+    {
+      "name": "Melanzane Menü",
+      "price": "330 TL",
+      "description": "Melanzane + Salata + İçecek"
+    },
+    {
+      "name": "Napoliten Menü",
+      "price": "325 TL",
+      "description": "Napoliten + Salata + İçecek"
+    },
+    {
+      "name": "Masala Menü",
+      "price": "330 TL",
+      "description": "Masala + Salata + İçecek"
+    },
+    {
+      "name": "Pesto Menü",
+      "price": "330 TL",
+      "description": "Pesto + Salata + İçecek"
+    },
+    {
+      "name": "Alfredo Menü",
+      "price": "335 TL",
+      "description": "Alfredo Makarna + Salata + İçecek"
+    },
+    {
+      "name": "Pollo Menü",
+      "price": "330 TL",
+      "description": "Pollo + Salata + İçecek"
+    },
+    {
+      "name": "Tavuklu Noodle Menü",
+      "price": "345 TL",
+      "description": "Tavuklu Noodle + Salata + İçecek"
+    },
+    {
+      "name": "Etli Noodle Menü",
+      "price": "370 TL",
+      "description": "Etli Noodle + Salata + İçecek"
+    },
+    {
+      "name": "Ev Usulü Makarna Menü",
+      "price": "265 TL",
+      "description": "Ev Usulü Makarna + Salata + İçecek"
+    },
+    {
+      "name": "Domatesli Makarna Menü",
+      "price": "265 TL",
+      "description": "Domatesli Makarna + Salata + Sütaş Ayran (28,5 cl.)"
+    },
+    {
+      "name": "Ravioli Menü",
+      "price": "360 TL",
+      "description": "Ravioli + Salata + Kutu İçecek"
+    },
+    {
+      "name": "Bolonez Menü",
+      "price": "350 TL",
+      "description": "Bolonez Soslu Makarna + Küçük Mevsim Salata + İçecek"
+    },
+    {
+      "name": "Ekmek (Adet)",
+      "price": "6 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Galeta",
+      "price": "4 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10965630.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurt (200 gr.)",
+      "price": "25 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32695959.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832780.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832784.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko Cool Lime (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropicana (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832788.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (28,5 cl.)",
+      "price": "45 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "18 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832791.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5832792.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,409 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/qvzy/balikhanee",
+  "google": "",
+  "products": [
+    {
+      "name": "Sardalya Fileto Izgara (300 gr.)(kılçıksız)",
+      "price": "200 TL",
+      "description": "Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975095.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Mezgit Tava",
+      "price": "190 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sardalya Fileto Tava (kılçıksız)",
+      "price": "170 TL",
+      "description": "Roka, marul, limon, ekmek, tarator sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975107.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Sardalya Fileto Tava",
+      "price": "140 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Levrek (500 - 600 gr.) (Pişirilmiş)",
+      "price": "290 TL",
+      "description": "(Gramaj bilgisi ürünün çiğ halinin gramajıdır.) Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975097.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yerli Kalamar Tava (200 gr.)",
+      "price": "420 TL",
+      "description": "Roka, marul, soğan, limon, tarator sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Jumbo Ekmek Arası Uskumru Izgara)",
+      "price": "112,50 TL125 TL",
+      "description": "Jumbo Ekmek Arası Uskumru Izgara + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Sardalya Tava Menü 1(kılçıksız)",
+      "price": "230 TL",
+      "description": "Sardalya Tava (300 gr.) + Salata + Helva + Limon + Ekmek + Tarator Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975065.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Panga Tava Menü(kılçıksız)",
+      "price": "350 TL",
+      "description": "Panga Tava (300 gr.) + Salata + Helva + Limon + Ekmek + Tarator Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975070.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mezgit Tava Menü(sıfır kılçıksız)",
+      "price": "350 TL",
+      "description": "Mezgit Tava (300 gr.) + Salata + Limon + Ekmek + Tarator Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975071.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbun Tava Menü",
+      "price": "450 TL",
+      "description": "Barbun Tava (400 gr.) + Salata + Helva + Limon + Ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975073.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sardalya Fileto Izgara Menü (kılçıksız)",
+      "price": "250 TL",
+      "description": "Sardalya Izgara (300 gr.) + Salata + Helva + Limon + Ekmek + Tarator Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975075.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Çipura Menü",
+      "price": "330 TL",
+      "description": "Çipura Izgara (500 - 600 gr.) + Salata + Helva + Limon + Ekmek (Gramaj bilgisi ürünün çiğ halinin gramajıdır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975076.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uskumru Izgara Menü (kılçıksız)",
+      "price": "260 TL",
+      "description": "Uskumru Izgara (400 gr.) + Salata + Helva + Limon + Ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975078.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norveç Somon Izgara Menü",
+      "price": "430 TL",
+      "description": "Somon Izgara (300 gr.) + Salata + Helva + Limon + Ekmek + Tarator Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamsi Tava Menü",
+      "price": "230 TL",
+      "description": "Hamsi Tava (300 gr.) + Salata + Helva + Limon + Ekmek"
+    },
+    {
+      "name": "Karışık Tava Menü(kılçıksız)",
+      "price": "370 TL",
+      "description": "Karışık Tava + Salata + Helva + Limon + Ekmek + Tarator Sos"
+    },
+    {
+      "name": "Izgara Deniz Levrek Menü",
+      "price": "340 TL",
+      "description": "Levrek Izgara (500 - 600 gr.) + Salata + Helva + Limon + Ekmek (Gramaj bilgisi ürünün çiğ halinin gramajıdır.)"
+    },
+    {
+      "name": "Midye Tava (12 Adet)",
+      "price": "220 TL",
+      "description": "Roka, marul, soğan, limon, tarator sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975084.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yerli Kalamar Tava (200 gr.)",
+      "price": "420 TL",
+      "description": "Roka, marul, soğan, limon, tarator sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tereyağlı Karides",
+      "price": "350 TL",
+      "description": "Günlük olarak hazırlanır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "120 TL",
+      "description": "Mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975093.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (10 Adet)",
+      "price": "120 TL",
+      "description": "Mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975094.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sardalya Fileto Izgara (300 gr.)(kılçıksız)",
+      "price": "200 TL",
+      "description": "Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975095.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Çipura (500 - 600 gr.) (Pişirilmiş)",
+      "price": "280 TL",
+      "description": "(Gramaj bilgisi ürünün çiğ halinin gramajıdır.) Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975096.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Deniz Levrek (500 - 600 gr.) (Pişirilmiş)",
+      "price": "290 TL",
+      "description": "(Gramaj bilgisi ürünün çiğ halinin gramajıdır.) Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975097.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uskumru Izgara (400 gr.)(kılçıksız)",
+      "price": "220 TL",
+      "description": "Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975098.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norveç Somon Izgara (300 gr.)",
+      "price": "380 TL",
+      "description": "Roka, soğan, limon, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975100.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sardalya Fileto Tava (kılçıksız)",
+      "price": "170 TL",
+      "description": "Roka, marul, limon, ekmek, tarator sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975107.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamsi Tava",
+      "price": "170 TL",
+      "description": "Roka, marul, limon, ekmek, tarator sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Panga Tava(kılçıksız)",
+      "price": "270 TL",
+      "description": "Roka, marul, limon, ekmek, tartar sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mezgit Tava (300 gr.)(sıfır kılçıksız)",
+      "price": "270 TL",
+      "description": "Roka, marul, limon, ekmek, tartar sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975110.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbun Tava (400 gr.)",
+      "price": "400 TL",
+      "description": "Roka, marul, limon, ekmek, tartar sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975112.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Tava(kılçıksız)",
+      "price": "290 TL",
+      "description": "Roka, marul, limon, ekmek, tartar sos"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Sardalya Fileto Tava",
+      "price": "140 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Panga Tava",
+      "price": "190 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Mezgit Tava",
+      "price": "190 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Midye Tava",
+      "price": "190 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975118.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Kalamar Tava",
+      "price": "270 TL",
+      "description": "Tarator sos, yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975119.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jumbo Ekmek Arası Uskumru Izgara",
+      "price": "170 TL",
+      "description": "Yeşillik, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975120.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tekmil Fava",
+      "price": "110 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Atom",
+      "price": "110 TL",
+      "description": "250 gr. patlıcan ezmeli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975126.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fava",
+      "price": "110 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haydari",
+      "price": "100 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975132.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabak Ceviz Girit Ezme",
+      "price": "110 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Cacık",
+      "price": "100 TL",
+      "description": "250 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcan Ezmesi",
+      "price": "110 TL",
+      "description": "250 gr.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Çoban Salata (3 Kişilik)",
+      "price": "140 TL",
+      "description": "Domates, salatalık, biber, roka, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata (3 Kişilik)",
+      "price": "110 TL",
+      "description": "Mevsim yeşillikleri, turp, havuç, kırmızılahana, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Salata (3 Kişilik)",
+      "price": "110 TL",
+      "description": "Roka, marul, nane, dereotu, maydanoz, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gavurdağı Salata (3 Kişilik)",
+      "price": "210 TL",
+      "description": "3 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşık Salata (3 Kişilik)",
+      "price": "180 TL",
+      "description": "3 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Balıkhanee Salata (3 Kişilik)",
+      "price": "160 TL",
+      "description": "İnce kıyılmış roka, domates, kırmızı soğan, kekik, pul biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata (3 Kişilik)",
+      "price": "190 TL",
+      "description": "Ton balığı, mevsim yeşillikleri, domates, salatalık, isteğe göre kırmızı soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karidesli Salata (3 Kişilik)",
+      "price": "300 TL",
+      "description": "Karides, mevsim yeşillikleri, domates, salatalık, isteğe göre kırmızı soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roka Salata (3 Kişilik)",
+      "price": "140 TL",
+      "description": "Roka, domates, kırmızı soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tahin Helvası (Dilim)",
+      "price": "30 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975169.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavaklıdere Şalgam Suyu (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975181.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5975184.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

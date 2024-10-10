@@ -1,0 +1,351 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/brod/ozsut-brod",
+  "google": "",
+  "products": [
+    {
+      "name": "Profiterol",
+      "price": "180 TL",
+      "description": "Özel çikolata sosu, şu hamuru, süt kreması, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kazandibi",
+      "price": "160 TL",
+      "description": "Süt, şeker, sübye, süt kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "180 TL",
+      "description": "Kakaolu kek, damla çikolata, özel çikolatalı supangle kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754246.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Sütlaç",
+      "price": "170 TL",
+      "description": "Süt, şeker, sübye, yumurtai pirinç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavukgöğsü Kazandibi",
+      "price": "170 TL",
+      "description": "Tavukgöğsünün dibinin özel ocaklarda karamelize edilmesiyle hazırlanmaktadır. Süt, süt kreması, şeker, sübye, tavuk eti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Kadayıfı",
+      "price": "160 TL",
+      "description": "En kaliteli malzemelerle ve geleneksel yöntemlerle hazırlanan Osmanlı saraylısı. Görselde belirtilen kaymak ilavedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Parça Çikolatalı Kurabiye",
+      "price": "90 TL",
+      "description": "Beyaz çikolata parçalı tereyağlı kakaolu kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Kurabiye (120 gr.)",
+      "price": "130 TL",
+      "description": "120 gr. olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maydanozlu Mayalı Poğaça (120 gr.)",
+      "price": "120 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Ay Poğaça (120 gr.)",
+      "price": "120 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967474.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Oval Poğaça (120 gr.)",
+      "price": "120 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967475.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "180 TL",
+      "description": "Kakaolu kek, damla çikolata, özel çikolatalı supangle kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754246.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavukgöğsü Kazandibi",
+      "price": "170 TL",
+      "description": "Tavukgöğsünün dibinin özel ocaklarda karamelize edilmesiyle hazırlanmaktadır. Süt, süt kreması, şeker, sübye, tavuk eti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aşure",
+      "price": "160 TL",
+      "description": "Buğday, fasulye, nohut, şeker, incir, kuş üzümü, susam, ceviz, pirinç unu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Sütlaç",
+      "price": "170 TL",
+      "description": "Süt, şeker, sübye, yumurtai pirinç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kazandibi",
+      "price": "160 TL",
+      "description": "Süt, şeker, sübye, süt kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keşkül",
+      "price": "160 TL",
+      "description": "Süt, şeker, sübye, badem, vanilya, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakızlı Muhallebi",
+      "price": "160 TL",
+      "description": "Süt, şeker, sübye, sakız, nişasta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "180 TL",
+      "description": "Özel çikolata sosu, şu hamuru, süt kreması, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/11693503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Asansör",
+      "price": "325 TL",
+      "description": "Ekmek kadayıfı üzerine yarım porsiyon kazandibi, 2 top kaymaklı dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754250.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Kadayıfı",
+      "price": "160 TL",
+      "description": "En kaliteli malzemelerle ve geleneksel yöntemlerle hazırlanan Osmanlı saraylısı. Görselde belirtilen kaymak ilavedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaymak (40 gr.)",
+      "price": "70 TL",
+      "description": "Günlük çiftlik sütünden",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı (Bardak)",
+      "price": "155 TL",
+      "description": "Frambuazlı şurup ile ıslatılmış kakaolu genoise kek, çikolatalı pastacı kreması, frambuaz sos, frambuaz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Krokanlı (Bardak)",
+      "price": "155 TL",
+      "description": "Kakaolu genoise kek, çikolatalı pastacı kreması, toffee karamel sos, fındık krokan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı (Bardak)",
+      "price": "155 TL",
+      "description": "Çikolatalı sos ile ıslatılmış kakaolu genoise kek, çikolatalı pastacı kreması, bol kakaolu özel sos, çikolata dilimleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu (Bardak)",
+      "price": "165 TL",
+      "description": "Kahveli şurup ile ıslatılmış tiramisu keki, özel Mascarpone peyniri ile hazırlanan krema, kakao dekoru",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754265.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Balım (Adet)",
+      "price": "245 TL",
+      "description": "Sade kek katları arasında karamel sos, karamel çikolatalı mus, bal ile karamelize edilmiş badem ve özel parfe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754273.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Fondü (Adet)",
+      "price": "190 TL",
+      "description": "Bademli özel kek ve bitter çikolatalı fondü kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754274.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuaz Küpü (Adet)",
+      "price": "190 TL",
+      "description": "Frambuaz sosuyla ıslatılmış kakaolu kek katları arasında çikolatalı krema ve frambuaz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754275.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gülücük (Adet)",
+      "price": "190 TL",
+      "description": "Çocuklar için; alt kısmında kakaolu kek, üzerine muzlu mus, üst kısımda kakaolu kek ile çikolatalı fındık krema ve çikolatalı mus",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754276.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozaik Pasta (Adet)",
+      "price": "155 TL",
+      "description": "Çifte kavrulmuş bisküvi, bitter çikolatalı özel sos ve portakal parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754278.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özsüt'ün Aynası (Adet)",
+      "price": "190 TL",
+      "description": "Kakaolu kek, yaban mersinli özel mus, yaban mersini kreması ve şeftali parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754279.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yer Fıstıklı Karamelli Pasta (Adet)",
+      "price": "190 TL",
+      "description": "Yumuşak sünger kek, sütlü çikolata kaplı yer fıstığı, karamel",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49308290.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lemon Coconut",
+      "price": "190 TL",
+      "description": "Naneli sponge kek, taze limonlu yoğun sos, Hindistan cevizli krema, beyaz çikolata"
+    },
+    {
+      "name": "Vişneli Cheesecake (Dilim)",
+      "price": "175 TL",
+      "description": "Bademli kıtır sable üstüne özel krema, vişne sosu",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Limonlu Cheesecake (Dilim)",
+      "price": "175 TL",
+      "description": "Bademli kıtır sable üstüne özel krema, limon sosu",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Frambuazlı Cheesecake (Dilim)",
+      "price": "175 TL",
+      "description": "Bademli kıtır sable üstüne özel krema, frambuaz sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake (Dilim)",
+      "price": "190 TL",
+      "description": "Üstü hafifçe yanık ve karamelize edilmiş, kremsi bir iç dolguya sahip bir cheesecake çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31200620.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özsütün Aynası (4 Kişilik)",
+      "price": "665 TL",
+      "description": "Kakaolu kek katları arasında yaban mersini ile hazırlanmış özel mus, yaban mersini kreması ve şeftali parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özsüt'ün Aynası (6 Kişilik)",
+      "price": "835 TL",
+      "description": "Kakaolu kek katları arasında yaban mersini ile hazırlanmış özel mus, yaban mersini kreması ve şeftali parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Frambuaz (6 Kişilik)",
+      "price": "835 TL",
+      "description": "Yaprak beyaz çikolata ile süslenmiş, sade genoise kek katları arasında frambuazlı özel krema, fambuazlı sos ve frambuaz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754327.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Trio (6 Kişilik)",
+      "price": "835 TL",
+      "description": "Kakaolu kek katları arasında bitter, sütlü ve fildişi çikolatalı 3 kat krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754332.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Trio (4 Kişilik)",
+      "price": "665 TL",
+      "description": "Kakaolu kek katları arasında bitter, sütlü ve fildişi çikolatalı 3 kat krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967622.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Fıstık (4 Kişilik)",
+      "price": "700 TL",
+      "description": "Bitter çikolata ve Antep fıstığı ile süslenmiş kakaolu genoise kek katları arasında enfes çikolatalı mus, Antep fıstıklı nugat ve özel Antep fıstık ezmesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967623.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Frambuaz (4 Kişilik)",
+      "price": "665 TL",
+      "description": "Yaprak beyaz çikolata ile süslenmiş, sade genoise kek katları arasında frambuazlı özel krema, fambuazlı sos ve frambuaz parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967625.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Krokan (4 Kişilik)",
+      "price": "665 TL",
+      "description": "Fındıklı çikolata ile kaplı, kakaolu genoise kek katları arasında çikolatalı mus, özel fındık krokan ve karamel sos ile hazırlanan lezzet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36967626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Krokan (6 Kişilik)",
+      "price": "835 TL",
+      "description": "Fındıklı çikolata ile kaplı, kakaolu genoise kek katları arasında çikolatalı mus, özel fındık krokan ve karamel sos ile hazırlanan lezzet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Muz (6 Kişilik)",
+      "price": "835 TL",
+      "description": "Beyaz rende çikolata ve muzla süslenmiş, muzlu şurupla lezzetlendirilmiş kakaolu genoise kek katları arasında çikolatalı mus, çikolata parçacıkları ve muz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754339.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Vişne (6 Kişilik)",
+      "price": "835 TL",
+      "description": "Bitter çikolata ve vişne taneleri ile süslenmiş, vişne suyu ile lezzetlendirilmiş, çikolata kaplı kakaolu genoise kek katları arasında çikolatalı mus, vişne taneleri"
+    },
+    {
+      "name": "Limonlu Çilekli Pasta",
+      "price": "835 TL",
+      "description": "Mereng kaplama, özel limon kreması, limon şekerlemesi, toz badem, Hindistan cevizi, dakuaz kek katları arasına; limon mus, çilek parfe, çilek"
+    },
+    {
+      "name": "Dondurma (Top)",
+      "price": "75 TL",
+      "description": "Seçeceğiniz çeşit ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754390.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurma (500 gr.)",
+      "price": "450 TL",
+      "description": "Seçeceğiniz çeşit ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dondurma (1 kg.)",
+      "price": "795 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754392.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "100 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "70 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754412.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "70 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (33 cl.)",
+      "price": "45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10754415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64622106.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

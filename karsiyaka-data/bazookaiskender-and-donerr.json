@@ -1,0 +1,467 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/aivj/bazooka-iskender-and-donerr",
+  "google": "",
+  "products": [
+    {
+      "name": "Bazooka Tavuk Döner Dürüm",
+      "price": "148,50 TL165 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Cheddar Tavuk Döner Dürüm",
+      "price": "180 TL200 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre ekstra sos, soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852718.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Et Döner Dürüm",
+      "price": "202,50 TL225 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Ranch Soslu Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "70 gr. ranch soslu tavuk döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852720.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Cheddar Et Döner Dürüm",
+      "price": "234 TL260 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "108 TL120 TL",
+      "description": "Özel baharatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Bazooka Et Döner Dürüm Menü",
+      "price": "873 TL970 TL",
+      "description": "4 Adet Bazooka Et Döner + İçecek (1 L.) (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Bazooka Tavuk Döner Dürüm Menü",
+      "price": "657 TL730 TL",
+      "description": "4 Adet Bazooka Tavuk Döner Dürüm + İçecek (1 L.) (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852688.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Arkadaş Et Menü",
+      "price": "765 TL850 TL",
+      "description": "3 Adet Bazooka Et Döner Dürüm + Patates Kızartması + İçecek (1 L.) (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852689.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Arkadaş Tavuk Menü",
+      "price": "603 TL670 TL",
+      "description": "3 Adet Bazooka Tavuk Döner Dürüm + Patates Kızartması + İçecek (1 L.) (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852690.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Et Döner Dürüm & Ayran Menü",
+      "price": "231,30 TL257 TL",
+      "description": "Bazooka Et Döner Dürüm + Ayran (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852691.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Et Menü",
+      "price": "346,50 TL385 TL",
+      "description": "Bazooka Et Döner Dürüm + Seçeceğiniz Yan Ürün + İçecek (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Tavuk Döner Dürüm & Ayran Menü",
+      "price": "181,80 TL202 TL",
+      "description": "Bazooka Tavuk Döner Dürüm + Ayran (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852694.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Et Döner Dürüm Menü",
+      "price": "249,30 TL277 TL",
+      "description": "Bazooka Et Döner Dürüm + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Tavuk Döner Dürüm Menü",
+      "price": "195,30 TL217 TL",
+      "description": "Bazooka Tavuk Döner Dürüm + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Tavuk Menü",
+      "price": "288 TL320 TL",
+      "description": "Bazooka Tavuk Döner Dürüm + Seçeceğiniz Yan Ürün + İçecek (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852696.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Tavuk Menü",
+      "price": "454,50 TL505 TL",
+      "description": "2 Adet Bazooka Tavuk Döner Dürüm + Patates Kızartması + İçecek (1 L.) veya 2 Adet Ayran (20 cl.) (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kanka Et Menü",
+      "price": "562,50 TL625 TL",
+      "description": "2 Adet Bazooka Et Döner Dürüm + Patates Kızartması + İçecek (1 L.) veya 2 Adet Ayran (20 cl.) (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)"
+    },
+    {
+      "name": "Bazooka Et İskender",
+      "price": "342 TL380 TL",
+      "description": "Tereyağı, köz biber, domates sos, serpme yoğurt ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Sade Et Döner",
+      "price": "324 TL360 TL",
+      "description": "Lavaş ekmeği, domates, soğan, turşu, köz biber, patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka C4 Bomba Et Döner Dürüm",
+      "price": "620,10 TL689 TL",
+      "description": "250 gr. et döner, cheddar peyniri, ranch sos, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852701.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Et Döner Dürüm",
+      "price": "202,50 TL225 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Mexicano Soslu Et Döner Dürüm",
+      "price": "216 TL240 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852703.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Cheese Et Döner Dürüm",
+      "price": "234 TL260 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Cheddar Et Döner Dürüm",
+      "price": "234 TL260 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Et Döner Dürüm",
+      "price": "189 TL210 TL",
+      "description": "İsteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Ranch Soslu Et Döner Dürüm",
+      "price": "216 TL240 TL",
+      "description": "70 gr. ranch soslu et döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka BBQ Soslu Et Döner Dürüm",
+      "price": "216 TL240 TL",
+      "description": "70 gr. BBQ soslu et döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Köri Soslu Et Döner Dürüm",
+      "price": "216 TL240 TL",
+      "description": "70 gr. köri soslu et döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Meat Et Döner Dürüm",
+      "price": "216 TL240 TL",
+      "description": "70 gr. meat soslu et döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Hot Chili Soslu Et Döner Dürüm",
+      "price": "216 TL240 TL",
+      "description": "70 gr. hot chili soslu et döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852711.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Mozzarella Et Döner Dürüm",
+      "price": "234 TL260 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36169798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Tavuk İskender",
+      "price": "288 TL320 TL",
+      "description": "Tereyağı, köz biber, domates sos, serpme yoğurt ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Sade Tavuk Döner",
+      "price": "279 TL310 TL",
+      "description": "Lavaş ekmeği, domates, soğan, turşu, köz biber, patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka C4 Bomba Tavuk Döner Dürüm",
+      "price": "476,10 TL529 TL",
+      "description": "250 gr. tavuk döner, cheddar peyniri, ranch sos, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852714.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Tavuk Döner Dürüm",
+      "price": "148,50 TL165 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Mexicano Soslu Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852716.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Cheese Tavuk Döner Dürüm",
+      "price": "180 TL200 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre ekstra sos, soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852717.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Cheddar Tavuk Döner Dürüm",
+      "price": "180 TL200 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre ekstra sos, soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852718.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Tavuk Döner Dürüm",
+      "price": "135 TL150 TL",
+      "description": "İsteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852719.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Ranch Soslu Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "70 gr. ranch soslu tavuk döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852720.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka BBQ Soslu Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "70 gr. BBQ soslu tavuk döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852721.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Köri Soslu Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "70 gr. köri soslu tavuk döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852722.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Meat Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "70 gr. meat soslu tavuk döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852723.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Hot Chili Soslu Tavuk Döner Dürüm",
+      "price": "163,80 TL182 TL",
+      "description": "70 gr. hot chili soslu tavuk döner, patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan. (Seçeceğiniz ekstra sos ürün içinde kullanılmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852724.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bazooka Mozzarella Tavuk Döner Dürüm",
+      "price": "180 TL200 TL",
+      "description": "Patates kızartması, turşu, özel sos, mayonez, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36178419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Patso Dürüm",
+      "price": "126 TL140 TL",
+      "description": "Kaşar peyniri, patates kızartması, isteğe göre soğan, turşu, mayonez, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Patso Dürüm",
+      "price": "126 TL140 TL",
+      "description": "Cheddar peyniri, patates kızartması, isteğe göre soğan, turşu, mayonez, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852726.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "108 TL120 TL",
+      "description": "Özel baharatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elma Dilim Patates Kızartması",
+      "price": "135 TL150 TL",
+      "description": "Özel baharatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852728.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Çikolatalı Puding (100 gr.)",
+      "price": "36 TL40 TL",
+      "description": "1 Kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852729.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Muzlu Puding (100 gr.)",
+      "price": "36 TL40 TL",
+      "description": "1 Kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852730.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "49,50 TL55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852732.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "49,50 TL55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852733.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "49,50 TL55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852734.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "49,50 TL55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852735.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "49,50 TL55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "31,50 TL35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "31,50 TL35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (30 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (20 cl.)",
+      "price": "31,50 TL35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "27 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852741.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "18 TL20 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "72 TL80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852743.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "72 TL80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "72 TL80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "72 TL80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Ayran (1 L.)",
+      "price": "72 TL80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Sos",
+      "price": "36 TL40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Sos",
+      "price": "36 TL40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Sos",
+      "price": "36 TL40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meat Sos",
+      "price": "36 TL40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicano Sos",
+      "price": "36 TL40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Chili Sos",
+      "price": "36 TL40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "18 TL20 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "18 TL20 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5852760.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

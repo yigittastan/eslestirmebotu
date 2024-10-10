@@ -1,0 +1,135 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/hizo/anne-eli-manticisi",
+  "google": "",
+  "products": [
+    {
+      "name": "Kayseri Mantısı",
+      "price": "255 TL",
+      "description": "(600 gr.) İsteğe göre yoğurt, özel sos (350 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sivas Mantısı",
+      "price": "250 TL",
+      "description": "(600 gr.) İsteğe göre yoğurt, özel sos (Üçgen mantı)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Mantı",
+      "price": "245 TL",
+      "description": "350 gr. mantı. Yoğurt, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Kişilik Doyurucu Mantı Menü",
+      "price": "550 TL",
+      "description": "2 Adet Kayseri Mantısı + 2 Adet Cacık + 2 Adet Salata"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Kayseri Mantısı)",
+      "price": "216 TL240 TL",
+      "description": "Kayseri Mantısı + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Sivas Mantısı",
+      "price": "250 TL",
+      "description": "(600 gr.) İsteğe göre yoğurt, özel sos (Üçgen mantı)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayseri Mantısı",
+      "price": "255 TL",
+      "description": "(600 gr.) İsteğe göre yoğurt, özel sos (350 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Mantı",
+      "price": "245 TL",
+      "description": "350 gr. mantı. Yoğurt, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Kişilik Doyurucu Mantı Menü",
+      "price": "550 TL",
+      "description": "2 Adet Kayseri Mantısı + 2 Adet Cacık + 2 Adet Salata"
+    },
+    {
+      "name": "Cacık",
+      "price": "70 TL",
+      "description": "İsteğe göre sarımsak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66243744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "100 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66247974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Sarma (200 gr.)",
+      "price": "180 TL",
+      "description": "1 porsiyon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66337571.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "48 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "25 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "18 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66308892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Şeftali (33 cl.)",
+      "price": "48 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66330870.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66111764.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

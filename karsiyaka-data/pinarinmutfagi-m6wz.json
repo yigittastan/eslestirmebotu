@@ -1,0 +1,176 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/m6wz/pinarin-mutfagi-m6wz",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Şehriye Çorbası",
+      "price": "100 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "120 TL",
+      "description": "(Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573055.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Fasulye",
+      "price": "100 TL",
+      "description": "(Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Sarma",
+      "price": "90 TL",
+      "description": "(Günlük olarak hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65727588.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bezelye Yemeği",
+      "price": "100 TL",
+      "description": "Patates, havuç, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66530424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Kabak Çiçeği Dolması",
+      "price": "100 TL",
+      "description": "Günlük hazırlanır."
+    },
+    {
+      "name": "Kuru Patlıcan Dolması",
+      "price": "100 TL",
+      "description": "Günlük olarak hazırlanır."
+    },
+    {
+      "name": "Kuru Biber Dolması",
+      "price": "100 TL",
+      "description": "Günlük olarak hazırlanır."
+    },
+    {
+      "name": "Çiğ Köfte",
+      "price": "50 TL",
+      "description": "Marul, domates, turşu, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573243.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "50 TL",
+      "description": "Marul, domates, turşu, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573246.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Yaprak Sarma",
+      "price": "90 TL",
+      "description": "10 adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "100 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66564868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakızlı Muhallebi",
+      "price": "40 TL",
+      "description": "Sütlü tatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65891398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "40 TL",
+      "description": "Sütlü tatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65891405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keşkül",
+      "price": "40 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65893011.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "120 TL",
+      "description": "Çilek, mag kreması, bisküvi"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66103566.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Şeftali (33 cl.)",
+      "price": "30 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66103576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadut & Frenk Üzümlü Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66104055.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66104098.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (20 cl.)",
+      "price": "20 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66104272.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66104346.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66104395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66103691.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızılay Karpuz & Çilek Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66301282.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızılay Kırmızı Meyveler - Hibiskus (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66302108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızılay Yeşil Çaylı Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66304175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Süt",
+      "price": "15 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66335508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65573358.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

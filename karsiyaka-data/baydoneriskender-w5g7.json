@@ -1,0 +1,264 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/w5g7/baydoner-iskender-w5g7",
+  "google": "",
+  "products": [
+    {
+      "name": "Tek İskender",
+      "price": "269 TL",
+      "description": "Tek porsiyon et İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26844019.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble İskender",
+      "price": "349 TL",
+      "description": "Duble porsiyon et İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755564.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "1,5 İskender",
+      "price": "319 TL",
+      "description": "1,5 porsiyon et İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755563.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Coss 1,5 İskender)",
+      "price": "359,00 TL447 TL",
+      "description": "1,5 İskender + Patates Kızartması + Coca-Cola (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37119312.png?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Coss Menü",
+      "price": "499,00 TL597 TL",
+      "description": "2 Adet Tek İskender + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "79 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755566.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Coss 1,5 İskender)",
+      "price": "359,00 TL447 TL",
+      "description": "1,5 İskender + Patates Kızartması + Coca-Cola (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37119312.png?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (2'li Tek İskender)",
+      "price": "539,00 TL695 TL",
+      "description": "Tek İskender (2 Adet) + Turşu + Patates Kızartması + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35771167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yemeksepeti Öğle Menüsü",
+      "price": "329,00 TL407 TL",
+      "description": "Tek İskender + Sufle + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49311025.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yemeksepeti Özel Coss Fırsat",
+      "price": "314,00 TL446 TL",
+      "description": "Tek İskender + Turşu + Patates Kızartması + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64573989.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yemeksepeti Özel 2'li Tek İskender",
+      "price": "430 TL538 TL",
+      "description": "2 Adet Tek İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66240868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Buçuk İskender Menü",
+      "price": "660,00 TL776 TL",
+      "description": "2 Adet 1,5 İskender + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755552.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Duble İskender Menü",
+      "price": "720,00 TL836 TL",
+      "description": "2 Adet Duble İskender + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Dolu Dolu Menü",
+      "price": "620,00 TL834 TL",
+      "description": "2 Adet Tek İskender + 2 Adet Mercimek Çorbası + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Coss Menü",
+      "price": "499,00 TL597 TL",
+      "description": "2 Adet Tek İskender + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2’li Coss Buçuk Menü",
+      "price": "610,00 TL697 TL",
+      "description": "2 Adet 1,5 İskender + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Duble İskender & İçecek",
+      "price": "650,00 TL757 TL",
+      "description": "2 Adet Duble İskender + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755556.png?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3’lü İskender Menü",
+      "price": "710,00 TL866 TL",
+      "description": "3 Tek İskender + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755557.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coss Menü",
+      "price": "249 TL318 TL",
+      "description": "Tek İskender + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755558.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çorba & Salata Menü",
+      "price": "199,00 TL218 TL",
+      "description": "Mercimek Çorbası + Salata + Ayran",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27272988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek İskender",
+      "price": "269 TL",
+      "description": "Tek porsiyon et İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26844019.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "1,5 İskender",
+      "price": "319 TL",
+      "description": "1,5 porsiyon et İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755563.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble İskender",
+      "price": "349 TL",
+      "description": "Duble porsiyon et İskender",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755564.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "79 TL",
+      "description": "Özel olarak üretilen tereyağı ve kırmızı mercimek, sebze ve baharatlar ile günlük hazırlanan çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "79 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755566.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu",
+      "price": "49 TL",
+      "description": "Doğal yöntemlerle olgunlaşan, kütür kütür meşhur çubuk kornişon turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755567.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata",
+      "price": "99 TL",
+      "description": "Iceberg marul, havuç, kırmızılahana, kaşar peyniri, roka, salatalık, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755568.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sufle",
+      "price": "89 TL",
+      "description": "İçerisinde sıcak ve kremamsı bir dolgu bulunan çikolatalı tatlı çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33886567.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (45 cl.)",
+      "price": "49 TL",
+      "description": "450 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26844028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (45 cl.)",
+      "price": "49 TL",
+      "description": "450 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26844030.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "49 TL",
+      "description": "330 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "49 TL",
+      "description": "330 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755576.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "49 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39094997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "49 TL",
+      "description": "330 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "45 TL",
+      "description": "330 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755579.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (275 ml.)",
+      "price": "40 TL",
+      "description": "27,5 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39095000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "200 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (33 cl.)",
+      "price": "18 TL",
+      "description": "330 ml.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755582.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "59 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755583.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "59 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755585.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "59 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755587.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "59 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755588.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10755589.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

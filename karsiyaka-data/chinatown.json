@@ -1,0 +1,1205 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/thwy/chinatown",
+  "google": "",
+  "products": [
+    {
+      "name": "Sushi Set Menü 2",
+      "price": "569,50 TL670 TL",
+      "description": "California Roll (8 Pcs.) + Ebiten Roll (4 Pcs.) + Sake Maki (3 Pcs.) + Unagi Nigiri (1 Pcs.) + Tobiko Nigiri (1 Pcs.) + Kani Nigiri (1 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551596.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "509,15 TL599 TL",
+      "description": "Tavuklu Noodle + California Roll (8 Pcs.) + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40552476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 5",
+      "price": "446,25 TL525 TL",
+      "description": "Tavuklu Noodle + California Roll (4 pcs.) + Sake Maki (3 pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43735656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İstanbul Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızarmış karides, salatalık, tobiko, dışı kızarmış somon ile kaplı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pad Thai Tavuklu",
+      "price": "293,25 TL345 TL",
+      "description": "Pirinç eriştesi, tavuk eti, biber, brokoli, lahana, marul, havuç, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36271318.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buharda Pişmiş Çin Mantısı",
+      "price": "225,25 TL265 TL",
+      "description": "4 adet dana etli (Pişirilme süresi 20 dakikadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Sebzeli Noodle Menü",
+      "price": "539,75 TL635 TL",
+      "description": "2 Adet Sebzeli Noodle + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551585.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "509,15 TL599 TL",
+      "description": "Tavuklu Noodle + California Roll (8 Pcs.) + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40552476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 3",
+      "price": "429,25 TL505 TL",
+      "description": "Tavuklu Noodle + 2 Adet Çin Böreği + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551586.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Dana Etli Noodle Menü",
+      "price": "667,25 TL785 TL",
+      "description": "2 Adet Dana Etli Noodle + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551587.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Tavuklu Noodle Menü",
+      "price": "578 TL680 TL",
+      "description": "2 Adet Tavuklu Noodle + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551589.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4",
+      "price": "599,25 TL705 TL",
+      "description": "Sake Maki (6 Pcs.) + California Roll (8 Pcs.) + 2 Adet Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551590.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Karidesli Noodle Menü",
+      "price": "675,75 TL795 TL",
+      "description": "2 Adet Karidesli Noodle + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40552408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "467,50 TL550 TL",
+      "description": "California Roll (8 pcs.) + 2 Adet Çin Böreği + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40552417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 5",
+      "price": "446,25 TL525 TL",
+      "description": "Tavuklu Noodle + California Roll (4 pcs.) + Sake Maki (3 pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43735656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dragon Menü",
+      "price": "403,75 TL475 TL",
+      "description": "Tavuklu Noodle + California Roll (4 Adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45181091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Soslu Tavuk Menü",
+      "price": "348,50 TL410 TL",
+      "description": "Tatlı Ekşi Soslu Tavuk + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45210003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nigiri Set Menü (7 Pcs.)",
+      "price": "641,75 TL755 TL",
+      "description": "Sake (1 Pcs.) + Unagi (1 Pcs.) + Ebi (1 Pcs.) + Kani (1 Pcs.) + Tobiko (1 Pcs.) + Suzuki (1 Pcs.) + Avakado (1 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551594.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Set Menü 1",
+      "price": "412,25 TL485 TL",
+      "description": "Boston Roll (4 Pcs.) + Sesame Roll (4 Pcs.) + Sake Maki (3 Pcs.) + Kani Nigiri (1 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Set Menü 2",
+      "price": "569,50 TL670 TL",
+      "description": "California Roll (8 Pcs.) + Ebiten Roll (4 Pcs.) + Sake Maki (3 Pcs.) + Unagi Nigiri (1 Pcs.) + Tobiko Nigiri (1 Pcs.) + Kani Nigiri (1 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551596.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Set Menü",
+      "price": "548,25 TL645 TL",
+      "description": "Kappa Maki (6 Pcs.) + Avokado Maki (6 Pcs.) + Veggie Roll (8 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551597.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Cooked Menü (24 Pcs.)",
+      "price": "913,75 TL1.075 TL",
+      "description": "İstanbul Roll (8 Pcs.) + Crispy Salmon Roll (8 Pcs.) + Tokyo Roll (8 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551598.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Set Menü 3",
+      "price": "849,15 TL999 TL",
+      "description": "California Roll (8 Pcs.) + Boston Roll (8 Pcs.) + Ebiten Roll (8 Pcs.) + Sake Nigiri (2 Pcs.) + Suzuki (2 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36283671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Set Menü 4",
+      "price": "891,65 TL1.049 TL",
+      "description": "Kappa Maki (6 Pcs.) + Sake Maki (6 Pcs.) + Avocado Maki (6 Pcs.) + Boston Roll (8 Pcs.) + California Roll (8 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36283696.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gosushi Special Set 1",
+      "price": "1.061,65 TL1.249 TL",
+      "description": "Kappa Maki (6 Pcs.) + Sake Maki (6 Pcs.) + Avocado Maki (6 Pcs.) + Salmon California Roll (4 Pcs.) + Ebiten Roll (8 Pcs.) + Sandwich Sake Avocado (4 Pcs.) + Suzuki Nigiri (1 Pcs.) + Kani Nigiri (1 Pcs.) + Sake Somon Nigiri (1 Pcs.) + Ebi Nigiri (1 Pcs.) + Unagi Nigiri (1 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36283713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gosushi Special Set 2",
+      "price": "1.104,15 TL1.299 TL",
+      "description": "Kappa Maki (6 Pcs.) + Sake Maki (6 Pcs.) + Kani Maki (6 Pcs.) + California Roll (8 Pcs.) + Crunch Roll (8 Pcs.) + Philadelphia Roll (8 Pcs.) + Ebi (1 Pcs.) + Kani (1 Pcs.) + Sake (1 Pcs.) + Suzuki (1 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36283731.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Box 1",
+      "price": "331,50 TL390 TL",
+      "description": "California Roll (4 pcs.) + Philadelphia Roll (4 pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40201704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Box 3",
+      "price": "331,50 TL390 TL",
+      "description": "Philadelphia Roll (4 Pcs.) + Boston Roll (4 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40220355.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Box 4",
+      "price": "365,50 TL430 TL",
+      "description": "California Roll (4 Pcs.) + Sake Maki (6 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551605.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sushi Box 2",
+      "price": "331,50 TL390 TL",
+      "description": "California Roll (4 Pcs.) + Boston Roll (4 Pcs.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40552595.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mısırlı Tavuk Çorbası",
+      "price": "161,50 TL190 TL",
+      "description": "Mısır, tavuk, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Ramen Çorba",
+      "price": "242,25 TL285 TL",
+      "description": "Ramen makarna, sebze, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Wonton Çorbası",
+      "price": "165,75 TL195 TL",
+      "description": "Wonton mantısı, sebze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Ekşili Çorba",
+      "price": "161,50 TL190 TL",
+      "description": "Tavuk, sebze, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894748.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Deniz Ürünleri Çorbası",
+      "price": "212,50 TL250 TL",
+      "description": "Karides, surumi yengeç, sebze, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Sebze Çorbası",
+      "price": "148,75 TL175 TL",
+      "description": "Soya filizi, Çin turşusu, şitaki mantar, tofu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Etli Ramen Çorba",
+      "price": "289 TL340 TL",
+      "description": "Dana eti, ramen makarna, sebze, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Etli Ramen Çorba",
+      "price": "246,50 TL290 TL",
+      "description": "Tavuk eti, ramen makarna, sebze, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Miso Ramen Çorba",
+      "price": "221 TL260 TL",
+      "description": "Ramen makarna, tofu, miso peast",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Ramen Çorba",
+      "price": "297,50 TL350 TL",
+      "description": "Karides, ramen makarna, sebze, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yengeç Etli Kuşkonmaz Çorba",
+      "price": "212,50 TL250 TL",
+      "description": "Surimi yengeç, kuşkonmaz, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Köfteli Çorba",
+      "price": "212,50 TL250 TL",
+      "description": "Karidesli köfte topları, sebze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Xian Usulü Taze Fasulye",
+      "price": "267,75 TL315 TL",
+      "description": "Taze fasulye, soğan, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Si Chuan Usulü Tofu",
+      "price": "327,25 TL385 TL",
+      "description": "Tofu, biber, havuç, mantar, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894774.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Sebzeleri Sotesi",
+      "price": "314,50 TL370 TL",
+      "description": "Soya filizi, yosun, marul, bambu, şitaki mantarı, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Brokoli",
+      "price": "246,50 TL290 TL",
+      "description": "Haşlanmış brokoli, sarımsak sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Sebze",
+      "price": "229,50 TL270 TL",
+      "description": "Brokoli, koçan mısır, havuç, fasulye, soya filizi, yosuın",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894777.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mapa Tofu",
+      "price": "327,25 TL385 TL",
+      "description": "Acı soslu tofu, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambu Filizli Çin Mantarı",
+      "price": "314,50 TL370 TL",
+      "description": "Bambu, şitaki mantarı, kültür mantarı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894779.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Brokoli (Acılı)",
+      "price": "246,50 TL290 TL",
+      "description": "Brokoli, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894780.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Soslu Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, biber, soğan, havuç, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894781.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Manchurian Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, yosun, brokoli, mantar, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susamlı Kıtır Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Kızarmış tavuk parçaları, dışı susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Black Bean Soslu Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, black bean sos, biber, havuç, kabak, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894784.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Bademli Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, marul, havuç, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, köri sos, kabak, soğan, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36271258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambu Filizli Mantarlı Tavuk",
+      "price": "357 TL420 TL",
+      "description": "Tavuk, şitaki mantarı, kültür mantarı, bambu, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gong Bao Usulü Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, fıstık, acı sos, biber, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894788.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Acılı Kıtır Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Acı soslu tavuk, susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Acı Soslu Tavuk",
+      "price": "323 TL380 TL",
+      "description": "Tavuk, tatlı acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894791.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Usulü Acılı Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, biber, soğan, havuç, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894792.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Black Bean Soslu Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, black bean sos, biber, havuç, kabak, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Soslu Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, biber, soğan, havuç, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894794.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, mantar, soğan, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, mantar, soya filizi, havuç, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894797.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsaklı Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, sarımsak sos, soğan, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, köri sos, kabak, soğan, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894799.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambu Filizli Mantarlı Dana Eti",
+      "price": "522,75 TL615 TL",
+      "description": "Dana eti, şitaki mantar, kültür mantarı, bambu, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894800.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Soslu Köfte",
+      "price": "497,25 TL585 TL",
+      "description": "Köfte topları, biber, soğan, havuç, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894801.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Biberli Dana Eti",
+      "price": "497,25 TL585 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Kıtır Tavuk",
+      "price": "331,50 TL390 TL",
+      "description": "Kızartılmış tavuk, badem, istiridye sos, soğan, susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894802.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Lezzetli Dana & Tavuk & Karides",
+      "price": "365,50 TL430 TL",
+      "description": "Dana eti, tavuk, çim çim karides, mantar, biber, soğan, havuç, kıtır pirinç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894803.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İstiridye Soslu Tavuk",
+      "price": "331,50 TL390 TL",
+      "description": "Tavuk, marul, havuç, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894804.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İstiridye Soslu Dana Eti",
+      "price": "497,25 TL585 TL",
+      "description": "Dana eti, marul, havuç, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894805.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Kızarmış Tavuk",
+      "price": "331,50 TL390 TL",
+      "description": "Kızarmış tavuk but, acı sos, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894806.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Patates",
+      "price": "212,50 TL250 TL",
+      "description": "Patates, özel sos, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Bıldırcın",
+      "price": "403,75 TL475 TL",
+      "description": "3 adet kızarmış bıldırcın, acılı özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Si Chuan Usulü Dana",
+      "price": "510 TL600 TL",
+      "description": "Dana eti, lahana, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894809.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Sarımsaklı Karides",
+      "price": "429,25 TL505 TL",
+      "description": "Karides, koçan mısır, soğan, soya filizi, brokoli, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susamlı Kızarmış Karides",
+      "price": "429,25 TL505 TL",
+      "description": "Dışı susam kaplı kızarmış karides",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Si Chuan Usulü Bütün Balık (Acılı)",
+      "price": "344,25 TL405 TL",
+      "description": "Kızarmış levrek, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Tempura",
+      "price": "429,25 TL505 TL",
+      "description": "Tatlı acı sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Karides",
+      "price": "429,25 TL505 TL",
+      "description": "Karides, köri sos, kabak, soğan, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Soslu Karides",
+      "price": "429,25 TL505 TL",
+      "description": "Karides, biber, soğan, havuç, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Karides",
+      "price": "454,75 TL535 TL",
+      "description": "Kabuklu kızarmış karides, soğan, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894817.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Kalamar",
+      "price": "361,25 TL425 TL",
+      "description": "Kalamar, soğan, soya filizi, brokoli, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894818.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Kalamar",
+      "price": "361,25 TL425 TL",
+      "description": "Kızarmış",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Pekin Ördeği (Yarım)",
+      "price": "956,25 TL1.125 TL",
+      "description": "Özel yufkalı, erik soslu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambulu & Mantarlı Pekin Ördeği",
+      "price": "956,25 TL1.125 TL",
+      "description": "Ördek, şitaki mantarı, kültür mantarı, bambu, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portakal Soslu Pekin Ördeği",
+      "price": "956,25 TL1.125 TL",
+      "description": "1/2 ördek, portakal sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu & Acılı Ördek",
+      "price": "956,25 TL1.125 TL",
+      "description": "1/2 ördek, acı sos, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ebi Nigiri (2 Pcs.)",
+      "price": "246,50 TL290 TL",
+      "description": "Karides",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tobiko Nigiri (2 Pcs.)",
+      "price": "331,50 TL390 TL",
+      "description": "Uçan balık yumurtası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894845.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Saba Nigiri (2 Pcs.)",
+      "price": "199,75 TL235 TL",
+      "description": "Uskumru",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894846.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maguro Nigiri (2 Adet)",
+      "price": "199,75 TL235 TL",
+      "description": "Ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kani Nigiri (2 Pcs.)",
+      "price": "199,75 TL235 TL",
+      "description": "Yengeç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sake Nigiri (2 Pcs.)",
+      "price": "199,75 TL235 TL",
+      "description": "Somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894854.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Nigiri (2 Pcs.)",
+      "price": "199,75 TL235 TL",
+      "description": "Somon, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suzuki Nigiri (2 Pcs.)",
+      "price": "199,75 TL235 TL",
+      "description": "Levrek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Unagi Nigiri (2 Pcs.)",
+      "price": "331,50 TL390 TL",
+      "description": "Yılan balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sake Sashimi (4 Pcs.)",
+      "price": "306 TL360 TL",
+      "description": "Somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894869.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suzuki Sashimi (4 Pcs.)",
+      "price": "306 TL360 TL",
+      "description": "Levrek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551685.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Unagi Sashimi (4 Pcs.)",
+      "price": "408 TL480 TL",
+      "description": "Yılan balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894871.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Saba Sashimi (4 Pcs.)",
+      "price": "306 TL360 TL",
+      "description": "Uskumru",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maguro Sashimi (4 Pcs.)",
+      "price": "306 TL360 TL",
+      "description": "Ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551688.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ebi Sashimi (4 Pcs.)",
+      "price": "408 TL480 TL",
+      "description": "Karides",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551689.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kappa Maki (6 Pcs.)",
+      "price": "216,75 TL255 TL",
+      "description": "Salatalık rulo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Saba Maki (6 Pcs.)",
+      "price": "250,75 TL295 TL",
+      "description": "Uskumru",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894859.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maguro Maki (6 Pcs.)",
+      "price": "250,75 TL295 TL",
+      "description": "Ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avocado Maki (6 Pcs.)",
+      "price": "216,75 TL255 TL",
+      "description": "Avokado rulo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894862.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ebi Maki (6 Pcs.)",
+      "price": "276,25 TL325 TL",
+      "description": "Karides rulo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894863.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sake Maki (6 Pcs.)",
+      "price": "250,75 TL295 TL",
+      "description": "Somon rulo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Suzuki Maki (6 Pcs.)",
+      "price": "250,75 TL295 TL",
+      "description": "Levrek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kani Maki (6 Pcs.)",
+      "price": "250,75 TL295 TL",
+      "description": "Yengeç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Unagi Maki (6 Pcs.)",
+      "price": "331,50 TL390 TL",
+      "description": "Yılan balığı rulo",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "California Crunchy Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Yengeç, salatalık, avokado, ekmek kırıntısı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maguro Roll (8 Adet)",
+      "price": "314,50 TL370 TL",
+      "description": "Ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Veggie Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Krem peynir, salatalık, havuç dışı avokado kaplı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551703.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alaska Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Krem peynir, ton balık, üstü somon kaplı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rock N Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Krem peynir, karides, yengeç, mayo sos, dışı balık yumurtası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rolls Royce Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Somon, ton balığı, karides, avokado, krem peynir, balık yumurta, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salmon Rainbow Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Krem peynir, somon, salatalık, dışı avokado, levrek balığı, ton balığı, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894899.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sunset Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Karides, yengeç, dışı somon, avokado, ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Queen Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Karides, yengeç, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894901.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Manhattan Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Somon, levrek, tobiko, salatalık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "California Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Yengeç, avokado, uçan balık yumurtası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894903.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "California Sake Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Somon, salatalık, avokado, balık yumurtası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894907.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sesame Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Yengeç, karides, avokado, dışı susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894908.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Boston Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Avokado, salatalık, dışı somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894910.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Philadelphia Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "Philadelphia peyniri, somon, salatalık, avokado, susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894911.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dragon Roll (8 Pcs.)",
+      "price": "420,75 TL495 TL",
+      "description": "Avokado, yılan balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Canadia Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "İçi yengeç, salatalık, dışı somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894918.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rainbow Roll (8 Pcs.)",
+      "price": "314,50 TL370 TL",
+      "description": "İçi yengeç, salatalık, somon, avokado, levrek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894919.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crunchy Crab Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Teriyaki sos ile kızarmış yengeç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894875.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crispy Salmon Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Teriyaki sos ile kızarmış somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crispy King Maki Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Acı sos ile kızarmış somon, levrek, karides, yengeç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894877.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crispy Maguro Maki (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Teriyaki sos ile kızarmış ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894879.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Canadian Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Krem peynir, yengeç, avokado, salatalık, dışı kızarmış somon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551735.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Osaka Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızarmış ton balığı, salatalık, yeşil soğan, marul, krem peynir, dışı mısır gevreği, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Samuray Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızarmış yengeç, salatalık, yeşil soğan, dışı ekmek kırıntıları, mayonez, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuji Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızarmış karides, avokado, salatalık, dışı ekmek kırıntıları, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tokyo Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızarmış somon, marul, salatalık, krem peynir, mısır gevreği, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ebiten Mango Roll (8 pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızartılmış karides, krem peynir, salatalık, dışı mango, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İstanbul Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Kızarmış karides, salatalık, tobiko, dışı kızarmış somon ile kaplı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ebiten Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Karides pane, avokado, dışı susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894913.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ebiten California Roll (8 Pcs.)",
+      "price": "335,75 TL395 TL",
+      "description": "Salatalık, avokado, kızarmış karides, uçan balık yumurtası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894914.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dynamite Roll (6 Pcs.)",
+      "price": "361,25 TL425 TL",
+      "description": "Yılan balığı, surimi yengeç, yeşil soğan, mayonez, acı sos, togorashi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45513713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Pirinç Makarnası",
+      "price": "259,25 TL305 TL",
+      "description": "Pirinç eriştesi, yumurta, soya sos, sebze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Çin Eriştesi",
+      "price": "271,15 TL319 TL",
+      "description": "Tavuk, soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894838.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Etli Çin Eriştesi",
+      "price": "331,50 TL390 TL",
+      "description": "Dana eti, soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894839.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karidesli Çin Eriştesi",
+      "price": "340 TL400 TL",
+      "description": "Çim çim karides, soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894840.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Mevsim Çin Eriştesi",
+      "price": "340 TL400 TL",
+      "description": "Dana eti, tavuk, çim çim karides, soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ördek Etli Çin Eriştesi",
+      "price": "340 TL400 TL",
+      "description": "Ördek eti, soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894842.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Singapur Usulü Çin Eriştesi",
+      "price": "340 TL400 TL",
+      "description": "Çim çim karides, köri sos, acı sos, biber, soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pad Thai Tavuklu",
+      "price": "293,25 TL345 TL",
+      "description": "Pirinç eriştesi, tavuk eti, biber, brokoli, lahana, marul, havuç, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36271318.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pad Thai Karidesli",
+      "price": "365,50 TL430 TL",
+      "description": "Pirinç eriştesi, çim çim karides, biber, brokoli, lahana, marul, havuç, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36271319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pad Thai Dana Etli",
+      "price": "348,50 TL410 TL",
+      "description": "Pirinç eriştesi, dana eti, biber, brokoli, lahana, marul, havuç, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36271320.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Çin Eriştesi",
+      "price": "254,15 TL299 TL",
+      "description": "Soğan, havuç, marul, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40201641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Çin Eriştesi",
+      "price": "238 TL280 TL",
+      "description": "Sade",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40201663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Etli Pilav",
+      "price": "233,75 TL275 TL",
+      "description": "Dana eti, soğan, havuç, bezelye, mısır, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Yumurtalı Pilav",
+      "price": "169,15 TL199 TL",
+      "description": "Soğan, havuç, bezelye, mısır, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894829.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Etli Pilav",
+      "price": "186,15 TL219 TL",
+      "description": "Tavuk, soğan, havuç, bezelye, mısır, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894830.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karidesli Pilav",
+      "price": "267,75 TL315 TL",
+      "description": "Karides, soğan, havuç, bezelye, mısır, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Pilav",
+      "price": "153 TL180 TL",
+      "description": "Buharda pişmiş sade pilav",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Karışık Pilav",
+      "price": "267,75 TL315 TL",
+      "description": "Dana eti, tavuk, karides, soğan, bezelye, havuç, mısır",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Karides Cipsi",
+      "price": "136 TL160 TL",
+      "description": "15 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Wonton",
+      "price": "225,25 TL265 TL",
+      "description": "4 adet kıymalı wonton böreği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salatalık Salatası",
+      "price": "165,75 TL195 TL",
+      "description": "Acılı, soslu, kırılmış salatalık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36271231.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Cipsli Köfte",
+      "price": "187 TL220 TL",
+      "description": "Küçük köfte topları, karides cipsi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Çin Mantısı",
+      "price": "225,25 TL265 TL",
+      "description": "4 adet dana etli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susamlı Karides Tostu",
+      "price": "195,50 TL230 TL",
+      "description": "4 adet tost ekmeği üzerine karides, susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Böreği (2 Adet)",
+      "price": "153 TL180 TL",
+      "description": "Kıyma, sebze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buharda Pişmiş Çin Mantısı",
+      "price": "225,25 TL265 TL",
+      "description": "4 adet dana etli (Pişirilme süresi 20 dakikadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tavuk Kanadı",
+      "price": "170 TL200 TL",
+      "description": "5 adet tatlı acı soslu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Edamame",
+      "price": "153 TL180 TL",
+      "description": "Soya fasulyesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşlanmış Çin Mantısı",
+      "price": "225,25 TL265 TL",
+      "description": "4 adet dana etli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894771.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Kızarmış Fıstık",
+      "price": "165,75 TL195 TL",
+      "description": "Baharatlı fıstık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Salatası",
+      "price": "157,25 TL185 TL",
+      "description": "Salatalık, havuç, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Tofulu Yosun Salata",
+      "price": "357 TL420 TL",
+      "description": "Kuru tofu, yosun, soğan, lahana, havuç, salatalık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894763.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fasulye Filizli Salata",
+      "price": "165,75 TL195 TL",
+      "description": "Soya filizi, salatalık, lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894764.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Lahana Salatası",
+      "price": "182,75 TL215 TL",
+      "description": "Lahana, acı biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Ballı Ananas",
+      "price": "187 TL220 TL",
+      "description": "Bal, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894920.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Ballı Ceviz",
+      "price": "208,25 TL245 TL",
+      "description": "Bal, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894923.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Ballı Dondurma",
+      "price": "195,50 TL230 TL",
+      "description": "Bal, dondurma (1 top)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894924.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kızarmış Ballı Muz",
+      "price": "178,50 TL210 TL",
+      "description": "Bal, muz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894925.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "51 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48598384.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "51 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (28,5 cl.)",
+      "price": "34 TL40 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "34 TL40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "25,50 TL30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40551792.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "85 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48572640.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (1 L.)",
+      "price": "85 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48572650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7Up (33 cl.)",
+      "price": "51 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48598391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "51 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48598398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "51 TL60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48598408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Sos",
+      "price": "12,75 TL15 TL",
+      "description": "20 cc.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894927.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "12,75 TL15 TL",
+      "description": "20 cc.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894928.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Wasabi",
+      "price": "17 TL20 TL",
+      "description": "20 cc.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Tatlı Ekşi Sos",
+      "price": "12,75 TL15 TL",
+      "description": "20 cc.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Tatlı Acı Sos",
+      "price": "12,75 TL15 TL",
+      "description": "20 cc.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5894932.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

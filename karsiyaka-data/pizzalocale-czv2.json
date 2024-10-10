@@ -1,0 +1,909 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/czv2/pizza-locale-czv2",
+  "google": "",
+  "products": [
+    {
+      "name": "Karışık Pizza (Büyük)",
+      "price": "515 TL",
+      "description": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza (Orta)",
+      "price": "490 TL",
+      "description": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720691.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza (Orta)",
+      "price": "270 TL",
+      "description": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (Orta)",
+      "price": "425 TL",
+      "description": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122051.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza (Küçük)",
+      "price": "330 TL",
+      "description": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza (Küçük)",
+      "price": "195 TL",
+      "description": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720657.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Green Margherita Pizza (Küçük)",
+      "price": "235 TL",
+      "description": "Mozzarella peyniri, domates sosu, fesleğen, kurutulmuş domates, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keçi Peynirli Pizza (Küçük)",
+      "price": "245 TL",
+      "description": "Domates sos, mozzarella peyniri, keçi peyniri, köz soğan, ceviz, roka, balsamik glaze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720640.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Peynirli Pizza (Küçük)",
+      "price": "230 TL",
+      "description": "Mozzarella peyniri, domates sos, parmesan peyniri, rokfor peyniri, süzme beyaz peynir, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720642.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Dolgulu Sosisli Pizza (Küçük)",
+      "price": "320 TL",
+      "description": "Mozzarella peyniri, domates sos, cheddar dolgulu sosis (Dışında organik zar), kırmızıbiber, parmesan peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720646.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza (Küçük)",
+      "price": "330 TL",
+      "description": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanak Ricotta Pizza (Küçük)",
+      "price": "215 TL",
+      "description": "Mozzarella peyniri, domates sos, ıspanak, ricotta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabaklı Pizza (Küçük)",
+      "price": "230 TL",
+      "description": "Mozzarella peyniri, domates sos, marine kabak, ricotta peyniri, cherry domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720652.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roast Beef Pizza (Küçük)",
+      "price": "345 TL",
+      "description": "Mozzarella peyniri, domates sos, roast beef, kültür mantarı, trüf mantarı yağı, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237377.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (Küçük)",
+      "price": "295 TL",
+      "description": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720654.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Küçük)",
+      "price": "385 TL",
+      "description": "Mozzarella peyniri, domates sos, kavurma, roka, fırın biber, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Pizza (Küçük)",
+      "price": "215 TL",
+      "description": "Mozzarella peyniri, domates sos, kültür mantarı, trüf mantarı yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Pizza (Küçük)",
+      "price": "315 TL",
+      "description": "Mozzarella peyniri, domates sos, pastırma, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720658.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Pizza (Küçük)",
+      "price": "215 TL",
+      "description": "Mozzarella peyniri, domates sos, marine patlıcan, ricotta peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Küçük)",
+      "price": "255 TL",
+      "description": "Mozzarella peyniri, domates sos, dana pepperoni, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ricotta Pizza (Küçük)",
+      "price": "220 TL",
+      "description": "Mozzarella peyniri, ricotta peyniri, parmesan peyniri, cherry domates, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720661.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şarküteri Pizza (Küçük)",
+      "price": "330 TL",
+      "description": "Mozzarella peyniri, domates sos, salam, pepperoni, sucuk, pastırma, kavurma, mısır, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720662.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Somon Pizza (Küçük)",
+      "price": "355 TL",
+      "description": "Mozzarella peyniri, domates sosu, füme somon, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720644.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somon Füme Pizza (Küçük)",
+      "price": "355 TL",
+      "description": "Mozzarella peyniri, domates sos, füme somon, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Pizza (Küçük)",
+      "price": "235 TL",
+      "description": "Mozzarella peyniri, domates sos, dana sosis, yeşil biber, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720664.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (Küçük)",
+      "price": "235 TL",
+      "description": "Mozzarella peyniri, domates sos, sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720665.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Sezar Pizza (Küçük)",
+      "price": "260 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, Sezar sos (marul), parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Tavuk (Küçük)",
+      "price": "255 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, bbq sos, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Teriyaki Soslu Tavuklu Pizza (Küçük)",
+      "price": "280 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, teriyaki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tire Sucuklu Pizza (Küçük)",
+      "price": "320 TL",
+      "description": "Mozzarella peyniri, domates sos, tire sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720669.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Pizza (Küçük)",
+      "price": "280 TL",
+      "description": "Mozzarella peyniri, domates sos, ton balığı, mısır, kırmızı soğan, ceviz, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meso Pizza (Küçük)",
+      "price": "385 TL",
+      "description": "Mozzarella peyniri, domates sos, tütsülenerek kurutulmuş et, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Antrikot Pizza (Küçük)",
+      "price": "345 TL",
+      "description": "Mozzarella peyniri, domates sos, füme antrikot, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginarlı Pizza (Küçük)",
+      "price": "280 TL",
+      "description": "Mozzarella peyniri, domates sos, enginar kalbi, közlenmiş soğan, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34499068.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chorizo Pizza (Küçük)",
+      "price": "270 TL",
+      "description": "Domates sos, mozzarella peyniri, chorizo (İspanyol sucuğu), kültür mantarı, tulum peyniri, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49100301.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tandoori Tavuk Pizza (Küçük)",
+      "price": "270 TL",
+      "description": "Domates sos, mozzarella peyniri, tandoori tavuk, raita sos, kişniş, lime",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237367.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kars Kaşarlı Sucuklu Pizza (Küçük)",
+      "price": "265 TL",
+      "description": "Mozzarella peyniri, domates sos, Kars kaşarı dolgulu sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66470583.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüf Mayonezli Tavuklu Pizza (Küçük)",
+      "price": "290 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, karamelize soğan, roka, trüf soslu mayonez, tulum peyniri.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66470805.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keçi Peynirli Pizza (Orta)",
+      "price": "360 TL",
+      "description": "Domates sos, mozzarella peyniri, keçi peyniri, köz soğan, ceviz, roka, balsamik glaze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Peynirli Pizza (Orta)",
+      "price": "330 TL",
+      "description": "Mozzarella peyniri, domates sos, parmesan peyniri, rokfor peyniri, süzme beyaz peynir, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720684.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Somon Pizza (Orta)",
+      "price": "525 TL",
+      "description": "Mozzarella peyniri, domates sosu, füme somon, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720686.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Tavuk (Orta)",
+      "price": "360 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, bbq sos, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720687.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Dolgulu Sosisli Pizza (Orta)",
+      "price": "430 TL",
+      "description": "Mozzarella peyniri, domates sos, cheddar dolgulu sosis (Dışında organik zar), kırmızıbiber, parmesan peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720688.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginarlı Pizza (Orta)",
+      "price": "410 TL",
+      "description": "Mozzarella peyniri, domates sos, enginar kalbi, közlenmiş soğan, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237411.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza (Orta)",
+      "price": "490 TL",
+      "description": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720691.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Green Margherita Pizza (Orta)",
+      "price": "330 TL",
+      "description": "Mozzarella peyniri, domates sosu, fesleğen, kurutulmuş domates, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanak Ricotta Pizza (Orta)",
+      "price": "285 TL",
+      "description": "Mozzarella peyniri, domates sos, ıspanak, ricotta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720694.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabaklı Pizza (Orta)",
+      "price": "325 TL",
+      "description": "Mozzarella peyniri, domates sos, marine kabak, ricotta peyniri, cherry domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roast Beef Pizza (Orta)",
+      "price": "530 TL",
+      "description": "Mozzarella peyniri, domates sos, roastbeef, kültür mantarı, trüf mantarı yağı, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (Orta)",
+      "price": "425 TL",
+      "description": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Orta)",
+      "price": "615 TL",
+      "description": "Mozzarella peyniri, domates sos, kavurma, roka, fırın biber, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Pizza (Orta)",
+      "price": "285 TL",
+      "description": "Mozzarella peyniri, domates sos, kültür mantarı, trüf mantarı yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza (Orta)",
+      "price": "270 TL",
+      "description": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Pizza (Orta)",
+      "price": "460 TL",
+      "description": "Mozzarella peyniri, domates sos, pastırma, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Pizza (Orta)",
+      "price": "285 TL",
+      "description": "Mozzarella peyniri, domates sos, marine patlıcan, ricotta peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720703.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Orta)",
+      "price": "350 TL",
+      "description": "Mozzarella peyniri, domates sos, dana pepperoni, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ricotta Pizza (Orta)",
+      "price": "300 TL",
+      "description": "Mozzarella peyniri, ricotta peyniri, parmesan peyniri, cherry domates, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şarküteri Pizza (Orta)",
+      "price": "490 TL",
+      "description": "Mozzarella peyniri, domates sos, salam, pepperoni, sucuk, pastırma, kavurma, mısır, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somon Füme Pizza (Orta)",
+      "price": "525 TL",
+      "description": "Mozzarella peyniri, domates sos, füme somon, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Pizza (Orta)",
+      "price": "310 TL",
+      "description": "Mozzarella peyniri, domates sos, dana sosis, yeşil biber, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (Orta)",
+      "price": "310 TL",
+      "description": "Mozzarella peyniri, domates sos, sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Sezar Pizza (Orta)",
+      "price": "360 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, Sezar sos (marul), parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Teriyaki Soslu Tavuklu Pizza (Orta)",
+      "price": "395 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, teriyaki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720714.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tire Sucuklu Pizza (Orta)",
+      "price": "465 TL",
+      "description": "Mozzarella peyniri, domates sos, tire sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Pizza (Orta)",
+      "price": "405 TL",
+      "description": "Mozzarella peyniri, domates sos, ton balığı, mısır, kırmızı soğan, ceviz, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720716.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Antrikot Pizza (Orta)",
+      "price": "530 TL",
+      "description": "Mozzarella peyniri, domates sos, füme antrikot, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720719.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chorizo Pizza (Orta)",
+      "price": "395 TL",
+      "description": "Domates sos, mozzarella peyniri, chorizo (İspanyol sucuğu), kültür mantarı, tulum peyniri, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49100335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tandoori Tavuk Pizza (Orta)",
+      "price": "370 TL",
+      "description": "Domates sos, mozzarella peyniri, tandoori tavuk, raita sos, kişniş, lime",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kars Kaşarlı Sucuklu Pizza (Orta)",
+      "price": "395 TL",
+      "description": "Mozzarella peyniri, domates sos, Kars kaşarı dolgulu sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66470618.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüf Mayonezli Tavuklu Pizza (Orta)",
+      "price": "410 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, karamelize soğan, roka, trüf soslu mayonez, tulum peyniri.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66470828.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Peynirli Pizza (Büyük)",
+      "price": "395 TL",
+      "description": "Mozzarella peyniri, domates sos, parmesan peyniri, rokfor peyniri, süzme beyaz peynir, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720720.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keçi Peynirli Pizza (Büyük)",
+      "price": "430 TL",
+      "description": "Domates sos, mozzarella peyniri, keçi peyniri, köz soğan, ceviz, roka, balsamik glaze",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720722.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Somon Pizza (Büyük)",
+      "price": "615 TL",
+      "description": "Mozzarella peyniri, domates sosu, füme somon, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Tavuk (Büyük)",
+      "price": "445 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, bbq sos, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720726.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Dolgulu Sosisli Pizza (Büyük)",
+      "price": "555 TL",
+      "description": "Mozzarella peyniri, domates sos, cheddar dolgulu sosis (Dışında organik zar), kırmızıbiber, parmesan peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginarlı Pizza (Büyük)",
+      "price": "495 TL",
+      "description": "Mozzarella peyniri, domates sos, enginar kalbi, közlenmiş soğan, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza (Büyük)",
+      "price": "640 TL",
+      "description": "Mozzarella peyniri, domates sos, füme kaburga, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720731.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Green Margherita Pizza (Büyük)",
+      "price": "395 TL",
+      "description": "Mozzarella peyniri, domates sosu, fesleğen, kurutulmuş domates, avokado",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720732.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanak Ricotta Pizza (Büyük)",
+      "price": "345 TL",
+      "description": "Mozzarella peyniri, domates sos, ıspanak, ricotta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720734.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabaklı Pizza (Büyük)",
+      "price": "395 TL",
+      "description": "Mozzarella peyniri, domates sos, marine kabak, ricotta peyniri, cherry domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720735.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roast Beef Pizza (Büyük)",
+      "price": "665 TL",
+      "description": "Mozzarella peyniri, domates sos, roast beef, kültür mantarı, trüf mantarı yağı, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (Büyük)",
+      "price": "515 TL",
+      "description": "Mozzarella peyniri, domates sos, mantar, mısır, salam, sucuk, cherry domates, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Büyük)",
+      "price": "685 TL",
+      "description": "Mozzarella peyniri, domates sos, kavurma, roka, fırın biber, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Pizza (Büyük)",
+      "price": "345 TL",
+      "description": "Mozzarella peyniri, domates sos, kültür mantarı, trüf mantarı yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza (Büyük)",
+      "price": "335 TL",
+      "description": "Mozzarella peyniri, domates sos, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720740.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Pizza (Büyük)",
+      "price": "620 TL",
+      "description": "Mozzarella peyniri, domates sos, pastırma, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Büyük)",
+      "price": "430 TL",
+      "description": "Mozzarella peyniri, domates sos, dana pepperoni, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ricotta Pizza (Büyük)",
+      "price": "365 TL",
+      "description": "Mozzarella peyniri, ricotta peyniri, parmesan peyniri, cherry domates, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şarküteri Pizza (Büyük)",
+      "price": "640 TL",
+      "description": "Mozzarella peyniri, domates sos, salam, pepperoni, sucuk, pastırma, kavurma, mısır, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somon Füme Pizza (Büyük)",
+      "price": "615 TL",
+      "description": "Mozzarella peyniri, domates sos, füme somon, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Pizza (Büyük)",
+      "price": "400 TL",
+      "description": "Mozzarella peyniri, domates sos, dana sosis, yeşil biber, siyah zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720748.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (Büyük)",
+      "price": "400 TL",
+      "description": "Mozzarella peyniri, domates sos, sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Sezar Pizza (Büyük)",
+      "price": "445 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, Sezar sos (marul), parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Teriyaki Soslu Tavuklu Pizza (Büyük)",
+      "price": "460 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, teriyaki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tire Sucuklu Pizza (Büyük)",
+      "price": "560 TL",
+      "description": "Mozzarella peyniri, domates sos, tire sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Pizza (Büyük)",
+      "price": "450 TL",
+      "description": "Mozzarella peyniri, domates sos, ton balığı, mısır, kırmızı soğan, ceviz, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Antrikot Pizza (Büyük)",
+      "price": "665 TL",
+      "description": "Mozzarella peyniri, domates sos, füme antrikot, roka, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chorizo Pizza (Büyük)",
+      "price": "500 TL",
+      "description": "Domates sos, mozzarella peyniri, chorizo (İspanyol sucuğu), kültür mantarı, tulum peyniri, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49100390.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tandoori Tavuk Pizza (Büyük)",
+      "price": "455 TL",
+      "description": "Domates sos, mozzarella peyniri, tandoori tavuk, raita sos, kişniş, lime",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237443.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kars Kaşarlı Sucuklu Pizza (Büyük)",
+      "price": "500 TL",
+      "description": "Mozzarella peyniri, domates sos, Kars kaşarı dolgulu sucuk, mantar, biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66470749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüf Mayonezli Tavuklu Pizza (Büyük)",
+      "price": "490 TL",
+      "description": "Mozzarella peyniri, domates sos, tavuk dilimleri, karamelize soğan, roka, trüf soslu mayonez, tulum peyniri.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66470864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper Sucuklu Pizza (Orta)",
+      "price": "690 TL",
+      "description": "Mozzarella peyniri, domates sos, sucuk (300 gr.), mantar, mısır, siyah zeytin, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duo Pizza (Büyük)",
+      "price": "690 TL",
+      "description": "Mozzarella peyniri, domates sos, kavurma (Calzona kısmı için); Mozzarella peyniri, domates sos, füme kavurma, roka, parmesan peyniri (Açık kısmı için)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Vegan Pizza (Küçük)",
+      "price": "215 TL",
+      "description": "Domates sos, patlıcan, enginar, kırmızıbiber, mısır, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Enginarlı Pizza (Küçük)",
+      "price": "290 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, enginar kalbi, kırmızı soğan, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Mantarlı Pizza (Küçük)",
+      "price": "220 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, kültür mantarı, trüf mantarı yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237400.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Margherita Pizza (Küçük)",
+      "price": "220 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237401.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Patlıcanlı Pizza (Küçük)",
+      "price": "220 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, marine patlıcan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Kabaklı Pizza (Küçük)",
+      "price": "220 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, marine kabak, pesto sos, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Enginarlı Pizza (Orta)",
+      "price": "430 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, enginar kalbi, kırmızı soğan, vegan pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Mantarlı Pizza (Orta)",
+      "price": "305 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, kültür mantarı, trüf mantarı yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Margherita Pizza (Orta)",
+      "price": "305 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498830.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Patlıcanlı Pizza (Orta)",
+      "price": "305 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, marine patlıcan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498848.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Kabaklı Pizza (Orta)",
+      "price": "305 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, marine kabak, pesto sos, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498911.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Vegan Pizza (Orta)",
+      "price": "300 TL",
+      "description": "Domates sos, patlıcan, enginar, kırmızıbiber, mısır, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Enginarlı Pizza (Büyük)",
+      "price": "505 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, enginar kalbi, kırmızı soğan, vegan pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498804.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Mantarlı Pizza (Büyük)",
+      "price": "380 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, kültür mantarı, trüf mantarı yağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Margherita Pizza (Büyük)",
+      "price": "380 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, fesleğen, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498840.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Patlıcanlı Pizza (Büyük)",
+      "price": "380 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, marine patlıcan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498897.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Kabaklı Pizza (Büyük)",
+      "price": "380 TL",
+      "description": "Domates sos, vegan mozzarella peyniri, marine kabak, pesto sos, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498924.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Vegan Pizza (Büyük)",
+      "price": "370 TL",
+      "description": "Domates sos, patlıcan, enginar, kırmızıbiber, mısır, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34498973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Salata",
+      "price": "235 TL",
+      "description": "Lolorosso, endivyen, roka, mısır, beyaz peynir, dereotu, domates, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginar Salatası",
+      "price": "275 TL",
+      "description": "Lolorosso, rende havuç, enginar, taze soğan, dereotu, pesto sos, parmesan peyniri, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Peynirli Salata",
+      "price": "275 TL",
+      "description": "Roka, mozzarella peyniri, cherry domates, avokado, ceviz, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somon Füme Salata",
+      "price": "320 TL",
+      "description": "Marul, roka, cherry domates, avokado, kapari, somon füme, dereotu, taze soğan, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "260 TL",
+      "description": "Lolorosso, endivyen, roka, mısır, ton balığı, dereotu, domates, kapari, taze soğan, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Calzone",
+      "price": "165 TL",
+      "description": "Kapalı pizza içerisinde çikolata ve muz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutella & M&M's Pizza",
+      "price": "165 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27720767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütlü Çikolata Pizza",
+      "price": "165 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34237486.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutella & Oreo",
+      "price": "165 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34499078.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122051.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122053.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122054.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122055.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Portakal Suyu (25 cl.)",
+      "price": "55 TL",
+      "description": "Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122056.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Vişne (25 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35068454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Kayısı (25 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35068456.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Karışık (25 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35068460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (25 cl.)",
+      "price": "55 TL",
+      "description": "Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122057.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (25 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35068467.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (20 cl.)",
+      "price": "55 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122058.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122059.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL",
+      "description": "30 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (33 cl.)",
+      "price": "35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26049795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jalapeno Sos",
+      "price": "10 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Sos",
+      "price": "10 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122064.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Teriyaki Sos",
+      "price": "10 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6122065.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Sos (350 gr.)",
+      "price": "130 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28813524.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Sos (320 gr.)",
+      "price": "130 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28845623.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jalapeno Sos (290 gr.)",
+      "price": "140 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34499102.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

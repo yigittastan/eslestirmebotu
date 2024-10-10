@@ -1,0 +1,72 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/k20e/serap-manti-evi",
+  "google": "",
+  "products": [
+    {
+      "name": "Kayseri Mantısı",
+      "price": "250 TL",
+      "description": "(200 gr.) ev yapımı Kayseri mantısı. Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43905813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayseri Mantısı (1,5 Porsiyon)",
+      "price": "330 TL",
+      "description": "(300 gr.) Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43893574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Mantı",
+      "price": "250 TL",
+      "description": "(200 gr.) Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43893677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muska Mantı",
+      "price": "250 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43886221.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayseri Mantısı (1,5 Porsiyon)",
+      "price": "330 TL",
+      "description": "(300 gr.) Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43893574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Mantı",
+      "price": "250 TL",
+      "description": "(200 gr.) Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43893677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bohça Mantı (1,5 Porsiyon)",
+      "price": "330 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43902153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayseri Mantısı",
+      "price": "250 TL",
+      "description": "(200 gr.) ev yapımı Kayseri mantısı. Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43905813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bohça Mantı",
+      "price": "250 TL",
+      "description": "(200 gr.) ev yapımı bohça mantı. Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43906826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Sütlaç",
+      "price": "100 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37700062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37700065.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

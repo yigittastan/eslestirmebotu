@@ -1,0 +1,275 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/dmtj/pakari-coffee",
+  "google": "",
+  "products": [
+    {
+      "name": "Crêpe Nutella & White Chocolate",
+      "price": "156 TL195 TL",
+      "description": "Nutella, beyaz çikolata, üzerinde meyve, krep kırığı ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crêpe Belgian Chocolate",
+      "price": "180 TL225 TL",
+      "description": "Sütlü Belçika çikolatası, muz, çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059039.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutella Muz Çilek",
+      "price": "156 TL195 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29957647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Vanilla Latte",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056965.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "La Paris",
+      "price": "212 TL265 TL",
+      "description": "Beşamel soslu mantarlı tavuk, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059570.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Flat White",
+      "price": "96 TL120 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056883.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "La Classique",
+      "price": "196 TL245 TL",
+      "description": "Yumurta, hindi füme, mozzarella peyniri, taze peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "La Paris",
+      "price": "212 TL265 TL",
+      "description": "Beşamel soslu mantarlı tavuk, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059570.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crepe Nutella Biscuits Çilek",
+      "price": "156 TL195 TL",
+      "description": "Nutella, karamelize bisküvi parçaları ve çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059019.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crêpe Nutella Badem",
+      "price": "148 TL185 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crêpe Belgian Chocolate",
+      "price": "180 TL225 TL",
+      "description": "Sütlü Belçika çikolatası, muz, çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059039.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crêpe Nomad",
+      "price": "156 TL195 TL",
+      "description": "Cookie butter, beyaz çikolata, bisküvi ve çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059065.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crêpe Nutella & White Chocolate",
+      "price": "156 TL195 TL",
+      "description": "Nutella, beyaz çikolata, üzerinde meyve, krep kırığı ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29059206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutella Muz Çilek",
+      "price": "156 TL195 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29957647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Americano",
+      "price": "88 TL110 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056870.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Flat White",
+      "price": "96 TL120 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056883.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Cappucino",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056895.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "92 TL115 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Latte",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056915.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Vanilla Latte",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056965.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Creme Brulee Latte",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29056994.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Chai Tea Latte",
+      "price": "96 TL120 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057013.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Mocha",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced White Mocha",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057036.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "88 TL110 TL",
+      "description": "Espresso kahvesine sıcak su eklenerek hazırlanan bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cortado",
+      "price": "92 TL115 TL",
+      "description": "Espresso ve sütün eşit miktarlarda kullanıldığı sıcak bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054640.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "92 TL115 TL",
+      "description": "Eşit oranlarda espresso, sıcak süt ve süt köpüğünün bir araya getirilmesiyle hazırlanan, köpüklü ve kremalı bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054643.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "92 TL115 TL",
+      "description": "Espresso üzerine sıcak süt köpüğü eklenerek hazırlanan bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chai Tea Latte",
+      "price": "92 TL115 TL",
+      "description": "Karışık baharatların sıcak süt ve siyah çay ile karıştırılmasıyla hazırlanan, tatlı ve baharatlı bir karışımdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mocha",
+      "price": "100 TL125 TL",
+      "description": "Espresso ile çikolata aromasının ve süt köpüğünün harmanlandığı bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Mocha",
+      "price": "100 TL125 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cafe Latte",
+      "price": "92 TL115 TL",
+      "description": "Espresso çekirdeği ile sıcak sütün karıştırılmasıyla hazırlanan, sütlü ve hafif tatlı bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilla Latte",
+      "price": "100 TL125 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Çikolata",
+      "price": "100 TL125 TL",
+      "description": "Çikolata aromalı sıcak bir içecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054721.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Eye",
+      "price": "116 TL145 TL",
+      "description": "Filtre kahveye bir shot espresso eklenerek hazırlanan bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Black Eye",
+      "price": "132 TL165 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve",
+      "price": "88 TL110 TL",
+      "description": "Kahve çekirdeklerinin filtrelerden geçirilerek sıcak su ile demlenmesiyle hazırlanan bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29054862.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "96 TL120 TL",
+      "description": "Limon suyu, şeker, su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057231.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Limonata",
+      "price": "100 TL125 TL",
+      "description": "Limon suyu, şeker, su, çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Elmalı Limonata",
+      "price": "100 TL125 TL",
+      "description": "Limon suyu, şeker, su, yeşil elma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057245.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cool Lime",
+      "price": "96 TL120 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29057281.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Böğürtlen Kavun Cool Lime",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65416960.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mango & Karpuz Cool Lime",
+      "price": "100 TL125 TL",
+      "description": "Soğuk servis edilir."
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29060109.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

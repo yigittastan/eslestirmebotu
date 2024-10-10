@@ -1,0 +1,385 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/m0mj/bostanli-mutfagi",
+  "google": "",
+  "products": [
+    {
+      "name": "İzmir Köfte Menü",
+      "price": "230 TL",
+      "description": "İzmir Köfte + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Püre Yatağında Soslu Köfte Menü",
+      "price": "230 TL",
+      "description": "Püre Yatağında Soslu Köfte + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Patlıcan Musakka Menü",
+      "price": "225 TL",
+      "description": "Patlıcan Musakka + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Menü",
+      "price": "195 TL",
+      "description": "Pilav Üstü Tavuk + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Pilav Üstü Patlıcan Musakka Menü",
+      "price": "225 TL",
+      "description": "Pilav Üstü Patlıcan Musakka + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Tavuk Tandır Menü",
+      "price": "200 TL",
+      "description": "Tavuk Tandır + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (İzmir Köfte)",
+      "price": "206,10 TL229 TL",
+      "description": "İzmir Köfte + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Patlıcan Musakka Menü)",
+      "price": "201,60 TL224 TL",
+      "description": "Patlıcan Musakka Menü + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Tandır Menü",
+      "price": "200 TL",
+      "description": "Pilav Üstü Tavuk Tandır + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Püre Yatağında Tavuk Tandır Menü",
+      "price": "200 TL",
+      "description": "Püre Yatağında Tavuk Tandır + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Püre Yatağında Tava Köfte Menü",
+      "price": "230 TL",
+      "description": "Püre Yatağında Tava Köfte + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Püre Yatağında Soslu Köfte Menü",
+      "price": "230 TL",
+      "description": "Püre Yatağında Soslu Köfte + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Püre Yatağında Patlıcan Musakka Menü",
+      "price": "225 TL",
+      "description": "Püre Yatağında Patlıcan Musakka + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Püre Üstü Kaşarlı Köfte Menü",
+      "price": "230 TL",
+      "description": "Püre Üstü Kaşarlı Köfte + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Menü",
+      "price": "195 TL",
+      "description": "Pilav Üstü Tavuk + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Pilav Üstü Tava Köfte Menü",
+      "price": "230 TL",
+      "description": "Pilav Üstü Tava Köfte + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Pilav Üstü Patlıcan Musakka Menü",
+      "price": "225 TL",
+      "description": "Pilav Üstü Patlıcan Musakka + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Pilav Üstü Nohut Menü",
+      "price": "180 TL",
+      "description": "Pilav Üstü Nohut + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Pilav Üstü Kaşarlı Köfte Menü",
+      "price": "230 TL",
+      "description": "Pilav Üstü Kaşarlı Köfte + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Bulgur Üstü Soslu Köfte Menü",
+      "price": "230 TL",
+      "description": "Bulgur Üstü Soslu Köfte + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Bulgur Pilavı Üstü Tavuk Tandır Menü",
+      "price": "200 TL",
+      "description": "Bulgur Pilavı Üstü Tavuk Tandır + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "Bulgur Pilavı Üstü Patlıcan Musakka Menü",
+      "price": "225 TL",
+      "description": "Bulgur Pilavı Üstü Patlıcan Musakka + Seçeceğiniz 2 Adet Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Bulgur Pilavı Üstü Nohut Menü",
+      "price": "180 TL",
+      "description": "Bulgur Pilavı Üstü Nohut + Seçeceğiniz 2 Adet Yan Ürün"
+    },
+    {
+      "name": "İzmir Köfte Menü",
+      "price": "230 TL",
+      "description": "İzmir Köfte + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Tavuk Tandır Menü",
+      "price": "200 TL",
+      "description": "Tavuk Tandır + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün"
+    },
+    {
+      "name": "Tava Köfte Menü",
+      "price": "230 TL",
+      "description": "Tava Köfte + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Patlıcan Musakka Menü",
+      "price": "225 TL",
+      "description": "Patlıcan Musakka + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün (Etli ürünlerde Taşköy Kasabı yerli dana eti kullanılmaktadır.)"
+    },
+    {
+      "name": "Kıymalı Patates Menü",
+      "price": "225 TL",
+      "description": "Patates Graten + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün"
+    },
+    {
+      "name": "Fırında Tavuk Menü",
+      "price": "200 TL",
+      "description": "Fırında Tavuk + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün"
+    },
+    {
+      "name": "Güveçte Nohut Menü",
+      "price": "180 TL",
+      "description": "Etli Nohut + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün"
+    },
+    {
+      "name": "Beyti Kebabı Menü",
+      "price": "230 TL",
+      "description": "Beyti Kebabı + Seçeceğiniz Yardımcı Yemek + Seçeceğiniz Yan Ürün"
+    },
+    {
+      "name": "Zeytinyağlı Taze Fasulye Menü",
+      "price": "180 TL"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "75 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Yayla Çorba",
+      "price": "75 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İzmir Köfte",
+      "price": "210 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922276.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcan Musakka",
+      "price": "205 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922348.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tava Köfte",
+      "price": "210 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tandır",
+      "price": "180 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytinyağlı Taze Fasulye",
+      "price": "160 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Soslu Köfte",
+      "price": "210 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırında Tavuk But",
+      "price": "180 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Güveçte Nohut",
+      "price": "160 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922254.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Köfte",
+      "price": "210 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922288.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Patates",
+      "price": "205 TL",
+      "description": "(Günlük hazırlanmaktadır.)"
+    },
+    {
+      "name": "Patates Püresi",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Makarna",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salçalı Makarna",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Soslu Makarna",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgur Pilavı",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Bulgur Pilavı",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beğendi",
+      "price": "70 TL",
+      "description": "(Günlük hazırlanmaktadır.)"
+    },
+    {
+      "name": "Yoğurtlu Patlıcan Ezme",
+      "price": "55 TL",
+      "description": "(Günlük hazırlanmaktadır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cacık",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922562.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurt",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kırmızıbiberli Karışık Nohut Salatası",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Semizotu Salatası",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922552.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karpuz",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buğday Salatası",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922567.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Salata",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922583.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Salatası",
+      "price": "55 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922598.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fincan Kadayıf",
+      "price": "65 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922644.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kemalpaşa Tatlısı",
+      "price": "65 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "32 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "12 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922685.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5922689.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

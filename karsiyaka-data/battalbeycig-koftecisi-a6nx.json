@@ -1,0 +1,150 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/a6nx/battalbey-cig-koftecisi-a6nx",
+  "google": "",
+  "products": [
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "56 TL70 TL",
+      "description": "Çift lavaş arasına; 100 gr. çiğ köfte, marul, turşu, limon, nar ekşisi, maydanoz, roka, domates, kırmızılahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050232.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Çiğ Köfte Dürüm",
+      "price": "112 TL140 TL",
+      "description": "Çift lavaş arasına; 150 gr. çiğ köfte, marul, turşu, limon, nar ekşisi, nane, maydanoz, domates, sumaklı soğan, kımızılahana, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37739150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Çiğ Köfte (500 gr.)",
+      "price": "280 TL350 TL",
+      "description": "500 gr. çiğ köfte. 5 adet lavaş, marul, turşu, limon, nar ekşisi, acı sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050368.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Boyu Çiğ Köfte (700 gr.)",
+      "price": "392 TL490 TL",
+      "description": "700 gr. çiğ köfte. 7 adet lavaş, marul, turşu, limon, nar ekşisi, acı sos, kırmızılahana ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ne Varsa Koy Çiğ Köfte Dürüm",
+      "price": "160 TL200 TL",
+      "description": "200 gr. çift lavaş arasına; turşu, domates, sumaklı soğan, nane, maydanoz, roka, Doritos, marul, limon, nar ekşisi, kırmızılahana, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37739154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doğanay Şalgam Suyu (30 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38195106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Karışık Tost",
+      "price": "160 TL200 TL",
+      "description": "Salça, kaşar peyniri, kasap sucuk, salam, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51882961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "56 TL70 TL",
+      "description": "Çift lavaş arasına; 100 gr. çiğ köfte, marul, turşu, limon, nar ekşisi, maydanoz, roka, domates, kırmızılahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050232.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Çiğ Köfte Dürüm",
+      "price": "112 TL140 TL",
+      "description": "Çift lavaş arasına; 150 gr. çiğ köfte, marul, turşu, limon, nar ekşisi, nane, maydanoz, domates, sumaklı soğan, kımızılahana, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37739150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ne Varsa Koy Çiğ Köfte Dürüm",
+      "price": "160 TL200 TL",
+      "description": "200 gr. çift lavaş arasına; turşu, domates, sumaklı soğan, nane, maydanoz, roka, Doritos, marul, limon, nar ekşisi, kırmızılahana, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37739154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Çiğ Köfte (500 gr.)",
+      "price": "280 TL350 TL",
+      "description": "500 gr. çiğ köfte. 5 adet lavaş, marul, turşu, limon, nar ekşisi, acı sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050368.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Boyu Çiğ Köfte (700 gr.)",
+      "price": "392 TL490 TL",
+      "description": "700 gr. çiğ köfte. 7 adet lavaş, marul, turşu, limon, nar ekşisi, acı sos, kırmızılahana ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.)",
+      "price": "480 TL600 TL",
+      "description": "1 kg. çiğ köfte , 10 adet lavaş, marul, turşu, limon, nar ekşisi, acı sos, kırmızılahana ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050441.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.) (Garnitürsüz)",
+      "price": "400 TL500 TL",
+      "description": "Garnitürsüz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32301105.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte İplik Dürüm (100 gr.)",
+      "price": "32 TL40 TL",
+      "description": "100 gr. çiğ köfte, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65987339.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yumurtalı Sandviç",
+      "price": "95,20 TL119 TL",
+      "description": "Ekmek arasına; 2 adet haşlanmış yumurta, domates, maydanoz, sumaklı soğan, salça, burger sos, salam, tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39302973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Konya Kırması Gözleme",
+      "price": "144 TL180 TL",
+      "description": "İsteğe göre domates, yeşillik (Dürüm olarak gönderilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48294339.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Köfte",
+      "price": "240 TL300 TL",
+      "description": "120 gr. ızgara köfte, sumaklı soğan, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65616605.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lavaş",
+      "price": "8 TL10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050452.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Turşu",
+      "price": "80 TL100 TL",
+      "description": "Günün çeşitleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31805750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doğanay Şalgam Suyu (30 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38195106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050480.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31050490.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

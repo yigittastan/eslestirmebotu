@@ -1,0 +1,216 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/q35k/gibi-vegan",
+  "google": "",
+  "products": [
+    {
+      "name": "Antakya Usulü Gibi Tavuk Döner Dürüm (Vegan)",
+      "price": "220 TL",
+      "description": "Bezelye proteini, patates kızartması, özel sos, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48396369.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gibi Tavuk Dürüm (Vegan)",
+      "price": "165 TL",
+      "description": "Gluten & bezelye proteini, Gibi sos, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45634123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Burrito (Vegan)",
+      "price": "230 TL",
+      "description": "Lavaş, pirinç pilavı, kıyma Gibi, jalapeno biberi, kırmızı fasulye, mısır, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42065565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan İskender",
+      "price": "295 TL",
+      "description": "Vegan yaprak döner, pide, vegan yoğurt, salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65756569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pita Et Döner (Vegan)",
+      "price": "220 TL",
+      "description": "Vegan yaprak döner, salça sos, vegan mayonez, sumaklı soğan, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65755086.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohut Dürüm (Vegan)",
+      "price": "125 TL",
+      "description": "Baharatlı nohut, sumaklı soğan, domates, marul, vegan mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65754292.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Burrito (Vegan)",
+      "price": "230 TL",
+      "description": "Lavaş, pirinç pilavı, kıyma Gibi, jalapeno biberi, kırmızı fasulye, mısır, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42065565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tofu Katsu Sando (Vegan)",
+      "price": "220 TL",
+      "description": "Tost ekmeğine, çıtır tofu, kewpie mayo & tonkatsu sos Gibi, coleslaw salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42065568.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Sandviç (Vegan)",
+      "price": "250 TL",
+      "description": "Sandviç ekmeği, Gibi sucuk, Gibi sosis, Gibi salam, mayonez, ketçap, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42066398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gibi Ekmek Arası Köfte (Vegan)",
+      "price": "200 TL",
+      "description": "Pita ekmeğine; soya soslu nohut köftesi, sumaklı soğan, marul, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42724297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Sucuk Gibi (Vegan)",
+      "price": "230 TL",
+      "description": "Sandviç ekmeğine; sucuk gibi, mayonez, ketçap, turşu, domates (Gluten, soya içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42725115.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gibi Tavuk Dürüm (Vegan)",
+      "price": "165 TL",
+      "description": "Gluten & bezelye proteini, Gibi sos, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45634123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Usulü Gibi Tavuk Döner Dürüm (Vegan)",
+      "price": "220 TL",
+      "description": "Bezelye proteini, patates kızartması, özel sos, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48396369.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohut Dürüm (Vegan)",
+      "price": "125 TL",
+      "description": "Baharatlı nohut, sumaklı soğan, domates, marul, vegan mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65754292.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pita Et Döner (Vegan)",
+      "price": "220 TL",
+      "description": "Vegan yaprak döner, salça sos, vegan mayonez, sumaklı soğan, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65755086.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tofu Katsu Pilav (Vegan)",
+      "price": "255 TL",
+      "description": "Pirinç pilavı, çıtır tofu, kewpie mayo, tonkatsu sos, edamame, takuan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42530125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Tantuni Gibi (Vegan)",
+      "price": "275 TL",
+      "description": "Kavurma gibi, lavaş, sumaklı soğan, domates, yoğurt gibi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42530131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chili Cheese Fries (Vegan)",
+      "price": "230 TL",
+      "description": "Patates kızartması, cheddar sos gibi, bolognese sos gibi, gibi sos, çizi toz, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42530139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yufkalama (Vegan)",
+      "price": "255 TL",
+      "description": "Çıtır yufka mantısı, yoğurt gibi (tofu), bolognese sos gibi, nane, sumak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42531296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Tavuk Gibi (Vegan)",
+      "price": "175 TL",
+      "description": "Pirinç pilavı, tavuk gibi (gluten, bezelye proteini), turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42531760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli İskender Gibi (Vegan)",
+      "price": "270 TL",
+      "description": "Köfte gibi (soya & nohut), pita ekmeği, yoğurt gibi (tofu), salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42532698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Kase (Vegan)",
+      "price": "255 TL",
+      "description": "Pirinç pilavı, coleslaw, chili sin carne (Soya kıyması, fasulye, mısır, acı biber turşusu)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42546541.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Ekşi Tofu (Vegan)",
+      "price": "275 TL",
+      "description": "Pirinç pilavı, çıtır tofu küpleri, sote sebzeler, ananas, tatlı ekşi sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48403328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mütenazik (Vegan)",
+      "price": "285 TL",
+      "description": "Yoğurt (tofu), tahinli köz patlıcan, kıyma (soya). Lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48403449.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan İskender",
+      "price": "295 TL",
+      "description": "Vegan yaprak döner, pide, vegan yoğurt, salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65756569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Banoffee (Vegan)",
+      "price": "200 TL",
+      "description": "Karamelli bisküvi taban, muz, karamel, ekşi krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42064352.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie (Vegan)",
+      "price": "200 TL",
+      "description": "Yoğun bitter çikolata, vişneli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59677858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu Gibi (Vegan)",
+      "price": "200 TL",
+      "description": "Kahveli bisküvi, krema, kakao",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089240.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40331985.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "56 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40331988.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40331990.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40331992.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40331995.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40332027.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40332036.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

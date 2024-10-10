@@ -1,0 +1,706 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/b4o0/villa-grilla-b4o0",
+  "google": "",
+  "products": [
+    {
+      "name": "Chicken Fingers Menü",
+      "price": "270 TL",
+      "description": "6 Parça Çıtır Tavuk + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802075.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lüx Grilla Pizza Menü",
+      "price": "250 TL",
+      "description": "Karışık Pizza (1 Kişilik) (Sosis, mantar, kaşar peyniri) + Patates Kızartması + 3 Adet Chicken Fingers + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802077.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pizza Menü",
+      "price": "205 TL",
+      "description": "Karışık Pizza (1 Kişilik) (Sosis, mantar, kaşar peyniri) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802078.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano Menü",
+      "price": "295 TL",
+      "description": "Americano Pizza (Özel sos, pizza peyniri, dana jambon, yeşil zeytin, mantar) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802079.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anatolia Menü",
+      "price": "265 TL",
+      "description": "Anatolia Pizza (Özel sos, pizza peyniri, sucuk, salam, mantar) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802080.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bollywood Pizza Menü",
+      "price": "265 TL",
+      "description": "Bollywood Pizza (Doğranmış tavuk fileto, soğan, köri sos, özel sos, pizza peyniri) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802081.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dönerli Pizza Menü",
+      "price": "300 TL",
+      "description": "Dönerli Pizza (Özel sos, pizza peyniri, döner, jalapeno biberi) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802082.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Dog Pizza Menü",
+      "price": "265 TL",
+      "description": "Hot Dog Pizza (Özel sos, pizza peyniri, sosis, mantar, çarliston biber) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802083.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicano Menü",
+      "price": "265 TL",
+      "description": "Mexicano Pizza (Özel sos, pizza peyniri, dilimlenmiş chicken fingers, mantar, jalapeno biberi) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802084.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Opera Menü",
+      "price": "265 TL",
+      "description": "Opera Pizza (Özel sos, pizza peyniri, sucuk, mantar, çarliston biber) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slim Margherita Menü",
+      "price": "250 TL",
+      "description": "Slim Margherita Pizza (Özel sos, pizza peyniri, domates, çarliston biber) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802086.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sweet Danger Menü",
+      "price": "340 TL",
+      "description": "Sweet Danger Pizza (Özel sos, pizza peyniri, pastırma, jalapeno biber) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802087.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Pizza Menü",
+      "price": "320 TL",
+      "description": "Ton Balıklı Pizza (Özel sos, pizza peyniri, ton balığı, soğan, mısır) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Veggie Menü",
+      "price": "265 TL",
+      "description": "Veggie Pizza (Özel sos, pizza peyniri, mantar, yeşil zeytin, çarliston biber, domates, mısır) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802089.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "VG Special Menü",
+      "price": "300 TL",
+      "description": "VG Special Pizza (Özel sos, pizza peyniri, cheddar peyniri, sucuk, salam, sosis, siyah zeytin, yeşil zeytin, çarliston biber, mantar) + Patates Kızartması + 2 Adet Ketçap & 2 Adet Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frutti di Mare Pizza Menü",
+      "price": "340 TL",
+      "description": "Frutti di Mare Pizza (Özel sos, pizza peyniri, ton balığı, karides, midye) + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65945835.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ahtamara Köfte Menü",
+      "price": "310 TL",
+      "description": "4 Adet Izgara Köfte (Közlenmiş patlıcan, beşamel sos, közlenmiş biber, İskender sos, tereyağı) + Pirinç Pilavı + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802091.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Çöp Şiş Menü",
+      "price": "330 TL",
+      "description": "Dana Çöp Şiş (200 gr.) + Bulgur Pilavı + Patates Kızartması + Soğan + Közlenmiş Domates & Biber + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İnegöl Köfte Menü",
+      "price": "300 TL",
+      "description": "İnegöl Köfte + Bulgur Pilavı + Soğan + Közlenmiş Domates & Biber + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802093.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İshak Paşa Köfte Menü",
+      "price": "310 TL",
+      "description": "3 Adet Kaşarlı Köfte + Bulgur Pilavı + Patates Kızartması + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802094.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte Menü",
+      "price": "300 TL",
+      "description": "Izgara Köfte + Bulgur Pilavı + Soğan + Közlenmiş Domates & Biber + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802096.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Köfte Menü",
+      "price": "300 TL",
+      "description": "Karışık Köfte (2 adet İnegöl köfte, 1 adet kaşarlı köfte, 2 adet ızgara köfte) + Bulgur Pilavı + Soğan + Közlenmiş Domates & Biber + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802097.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Köfte Menü",
+      "price": "300 TL",
+      "description": "Kaşarlı Köfte + Bulgur Pilavı + Soğan + Közlenmiş Domates & Biber + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802098.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender Köfte Menü",
+      "price": "300 TL",
+      "description": "Grilla Köfte (Tırnaklı pide üzerine 4 adet ızgara köfte, İskender sos) + Bulgur Pilavı + Soğan + Közlenmiş Domates & Biber + Patates Kızartması + İçecek"
+    },
+    {
+      "name": "Karışık Izgara Menü",
+      "price": "320 TL",
+      "description": "Karışık Izgara (1 adet tavuk kanat, 1 adet tavuk çöp şiş, 1 adet kaşarlı köfte, 1 adet ızgara köfte, 1 adet tavuk pirzola, 1 adet İnegöl köfte) + Bulgur Pilavı + Mantar + Közlenmiş Domates & Biber + Patates Kızartması + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802099.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Bonfile Menü",
+      "price": "280 TL",
+      "description": "Tavuk Bonfile + Bulgur Pilavı + Mantar + Közlenmiş Domates + Közlenmiş Yeşil Biber + Patates Kızartması + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802101.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Çöp Şiş Menü",
+      "price": "280 TL",
+      "description": "5 Adet Tavuk Çöp Şiş + Bulgur Pilavı + Soğan + Közlenmiş Domates & Biber + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802102.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Izgara Menü",
+      "price": "285 TL",
+      "description": "Tavuk Izgara + Bulgur Pilavı + Mantar + Közlenmiş Domates + Közlenmiş Yeşil Biber + Patates Kızartması + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802103.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola Menü",
+      "price": "295 TL",
+      "description": "Tavuk Pirzola + Bulgur Pilavı + Mantar + Közlenmiş Domates + Közlenmiş Yeşil Biber + Patates Kızartması + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802105.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Menü",
+      "price": "280 TL",
+      "description": "Tavuk Şiş + Bulgur Pilavı + Mantar + Közlenmiş Domates + Közlenmiş Yeşil Biber + Patates Kızartması + Garnitür + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kanat Menü",
+      "price": "280 TL",
+      "description": "Tavuk Kanat + Bulgur Pilavı + Mantar + Közlenmiş Domates + Közlenmiş Yeşil Biber + Patates Kızartması + Garnitür + İçecek"
+    },
+    {
+      "name": "Avcı Usulü Tavuk Menü",
+      "price": "265 TL",
+      "description": "Avcı Usulü Tavuk (Doğranmış tavuk fileto, pirinç pilavı, mantar, Napolitan sos, krema, kaşar peyniri, patates kızartması, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802107.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dağ Kekikli Tavuk Menü",
+      "price": "265 TL",
+      "description": "Dağ Kekikli Tavuk (Doğranmış tavuk fileto, pirinç pilavı, kornişon turşu, mantar, krema, fesleğen sos, dağ kekiği, patates kızartması, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kendini Beğenmiş Tavuk Menü",
+      "price": "265 TL",
+      "description": "2 Adet Tavuk Izgara (Beşamel sos, közlenmiş patlıcan, közlenmiş biber, İskender sos, tereyağı, pirinç pilavı, patates kızartması, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802110.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Tavuk Menü",
+      "price": "265 TL",
+      "description": "Mantarlı Tavuk (Pirinç pilavı, mantar, demi glace sos, patates kızartması, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802112.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piliç Çökertme Menü",
+      "price": "265 TL",
+      "description": "2 Adet Tavuk Izgara (Saman patates, közlenmiş domates, közlenmiş biber, yoğurtlu özel domates sosu) İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Piliç Special Menü",
+      "price": "265 TL",
+      "description": "2 Adet Tavuk Izgara (Pirinç pilavı, közlenmiş domates, köz kırmızıbiber, köz patlıcan, kaşar peyniri, özel domates sos, patates kızartması, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802115.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Reyhani Tavuk Menü",
+      "price": "265 TL",
+      "description": "Tavuk Izgara (Beşamel sos, fesleğen sos, pirinç pilavı, patates kızartması, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şnitzel Menü",
+      "price": "265 TL",
+      "description": "Tavuk Fileto (Patates kızartması, pirinç pilavı, domates, garnitür) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802120.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Usulü Tavuk Menü",
+      "price": "265 TL",
+      "description": "Çin Usulü Tavuk (Doğranmış tavuk fileto, kırmızıbiber, yeşil biber, mantar, kabak, soya sosu, patates kızartması, garnitür) + İçecek"
+    },
+    {
+      "name": "Köri Soslu Tavuk Menü",
+      "price": "265 TL",
+      "description": "Köri Soslu Tavuk (Doğranmış tavuk fileto, pirinç pilavı, krema, köri sosu, patates kızartması, garnitür) + İçecek"
+    },
+    {
+      "name": "Mexican Tavuk Menü",
+      "price": "265 TL",
+      "description": "Mexican Tavuk (Tavuk bonfile, pirinç pilavı, özel acı soya sosu, kırmızıbiber, yeşil biber, jalapeno biber, Meksika fasulyesi, mantar, kaşar peyniri, patates kızartması, garnitür) + İçecek"
+    },
+    {
+      "name": "Tavuk Kievski Menü",
+      "price": "265 TL",
+      "description": "Tavuk Kievski (Kaşar peynirli tavuk fileto, pirinç pilavı, krema, mantar, patates kızartması, garnitür) + İçecek"
+    },
+    {
+      "name": "Tavuk Sote Menü",
+      "price": "265 TL",
+      "description": "Tavuk Sote (Doğranmış tavuk fileto, pirinç pilavı, yeşil biber, domates, soğan, patates kızartması, garnitür) + İçecek"
+    },
+    {
+      "name": "Hamburger Menü",
+      "price": "235 TL",
+      "description": "Hamburger (80 gr. hamburger köftesi, domates, marul) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802122.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger Menü",
+      "price": "240 TL",
+      "description": "Cheeseburger (80 gr. hamburger köftesi, cheddar peyniri, domates, marul) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chickenburger Menü",
+      "price": "210 TL",
+      "description": "Chickenburger + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Balık Şnitzel Menü",
+      "price": "320 TL",
+      "description": "Mezgit Fileto (Villa Grilla özel sos, patates kızartması, garnitür) + İçecek"
+    },
+    {
+      "name": "Bolognese Fırın Makarna Menü",
+      "price": "240 TL",
+      "description": "Bolognese Fırın Makarna (Bolognese sos, kaşar peyniri, garnitür) + İçecek"
+    },
+    {
+      "name": "Kaşarlı Fırın Makarna Menü",
+      "price": "240 TL",
+      "description": "Kaşar Peynirli Fırın Makarna (Çift kaşar peyniri, beşamel sos, garnitür) + İçecek"
+    },
+    {
+      "name": "Lazanya Menü",
+      "price": "240 TL",
+      "description": "Lazanya (Beşamel sos, dana kıyma, kaşar peyniri, garnitür) + İçecek"
+    },
+    {
+      "name": "Mantarlı Kaşar Peynirli Fırın Makarna Menü",
+      "price": "240 TL",
+      "description": "Mantarlı Kaşar Peynirli Fırın Makarna (Beşamel sos, mantar, kaşar peyniri, garnitür) + İçecek"
+    },
+    {
+      "name": "Tavuklu Mantarlı Fırın Makarna Menü",
+      "price": "240 TL",
+      "description": "Tavuklu Mantarlı Fırın Makarna (Napolitan sos, mantar, tavuk, kaşar peyniri, garnitür) + İçecek"
+    },
+    {
+      "name": "Villa Grilla Fırın Makarna Menü",
+      "price": "240 TL",
+      "description": "Villa Grilla Fırın Makarna (Beşamel sos, sosis, mantar, kaşar peyniri, garnitür) + İçecek"
+    },
+    {
+      "name": "Sebzeli Krep Menü",
+      "price": "205 TL",
+      "description": "Sebzeli Krep (Kaşar peyniri, yeşil biber, kırmızıbiber, mantar, havuç, kabak, soya sos, garnitür) + İçecek"
+    },
+    {
+      "name": "Tavuklu Krep Menü",
+      "price": "210 TL",
+      "description": "Tavuklu Krep (Kaşar peyniri, doğranmış tavuk fileto, mantar, beşamel sos, garnitür) + İçecek"
+    },
+    {
+      "name": "Arrabbiata Spaghetti Menü",
+      "price": "200 TL",
+      "description": "Arrabbiata Spaghetti (Acılı Napolitan sos, siyah zeytin, salatalık turşusu, kaşar peyniri) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolognese Soslu Spaghetti Menü",
+      "price": "210 TL",
+      "description": "Bolognese Soslu Spaghetti (Kaşar peyniri) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı Menü",
+      "price": "210 TL",
+      "description": "Mantı + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65945884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Napolitan Soslu Spaghetti Menü",
+      "price": "200 TL",
+      "description": "Napolitan Soslu Spaghetti (Krema, kaşar peyniri) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Tavuklu Spaghetti Menü",
+      "price": "210 TL",
+      "description": "Çin Tavuklu Spaghetti (Doğranmış tavuk fileto, kırmızıbiber, yeşil biber, havuç, mantar, kabak, soya sosu, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Fettuccine Alfredo Menü",
+      "price": "240 TL",
+      "description": "Fettuccine Alfredo (Doğranmış tavuk fileto, fesleğen sos, mantar, sarımsak, beşamel sos, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "İtalyan Spaghetti Menü",
+      "price": "200 TL",
+      "description": "İtalyan Spaghetti (Fesleğen sos, krema, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Mantar Soslu Spaghetti Menü",
+      "price": "200 TL",
+      "description": "Mantar Soslu Spaghetti (Krema, mantar, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Tavuklu Spaghetti Menü",
+      "price": "210 TL",
+      "description": "Tavuklu Spaghetti (Doğranmış tavuk fileto, köri baharatı, krema, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Ton Balıklı Spaghetti Menü",
+      "price": "230 TL",
+      "description": "Ton Balıklı Spaghetti (Krema, ton balığı, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Tavuklu Mantarlı Spaghetti Menü",
+      "price": "210 TL",
+      "description": "Spagehetti Makarna, Doğranmış Tavuk Fileto, Mantar, Krema + Kutu İçecek"
+    },
+    {
+      "name": "Arrabbiata Penne Menü",
+      "price": "200 TL",
+      "description": "Arrabbiata Penne (Acılı Napolitan sos, siyah zeytin, salatalık turşusu, kaşar peyniri) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bolognese Soslu Penne Menü",
+      "price": "210 TL",
+      "description": "Bolognese Penne (Kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Çin Tavuklu Penne Menü",
+      "price": "210 TL",
+      "description": "Çin Tavuklu Penne (Doğranmış tavuk fileto, kırmızı ve Yeşil biber, havuç, mantar, kabak, soya sosu, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "İtalyan Penne Menü",
+      "price": "200 TL",
+      "description": "İtalyan Penne (Fesleğen sos, krema, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Mantar Soslu Penne Menü",
+      "price": "200 TL",
+      "description": "Mantar Soslu Penne (Krema, mantar, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Napolitan Soslu Penne Menü",
+      "price": "200 TL",
+      "description": "Napolitan Soslu Penne (Krema, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Tavuklu Penne Menü",
+      "price": "210 TL",
+      "description": "Tavuklu Penne (Doğranmış tavuk fileto, köri baharatı, krema, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Ton Balıklı Penne Menü",
+      "price": "230 TL",
+      "description": "Ton Balıklı Penne (Krema, ton balığı, kaşar peyniri) + İçecek"
+    },
+    {
+      "name": "Tavuklu Mantarlı Penne Menü",
+      "price": "210 TL",
+      "description": "Penne Makarna, Doğranmış Tavuk Fileto, Mantar, Krema + Kutu İçecek"
+    },
+    {
+      "name": "Parmak Dilim Patates Kızartması",
+      "price": "100 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elma Dilim Patates Kızartması",
+      "price": "120 TL",
+      "description": "Elma dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Fingers (8 Adet)",
+      "price": "180 TL",
+      "description": "8 adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (8 Adet)",
+      "price": "100 TL",
+      "description": "8 adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Topico Ekmek",
+      "price": "20 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jalapeno Biberi",
+      "price": "5 TL",
+      "description": "Paket olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fırın Mantar",
+      "price": "135 TL",
+      "description": "Özel sos, kaşar peyniri"
+    },
+    {
+      "name": "Beyaz Peynirli Salata",
+      "price": "185 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıbrıs Salata",
+      "price": "185 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, hellim peyniri, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "155 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sezar Salata",
+      "price": "185 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, ızgara tavuk, Sezar sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802166.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "220 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, mısır, ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çin Tavuklu Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, kırmızıbiber, yeşil biber, mantar, havuç, kabak, doğranmış tavuk fileto, soya sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dream Tavuklu Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, doğranmış tavuk fileto, mantar, Napolitan sos, beyaz peynir, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802169.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Tavuk Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, doğranmış tavuk fileto, köri baharatı, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, mantar, doğranmış tavuk fileto, acı Mexican sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Noodle Tavuklu Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, mantar, yeşil biber, kırmızıbiber, noodle makarna, doğranmış tavuk fileto, soya sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Special Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, mantar, yeşil biber, kırmızıbiber, makarna, doğranmış tavuk fileto, soya sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Salata",
+      "price": "190 TL",
+      "description": "Mevsim yeşillikleri, mevsim sebzeleri, mısır, doğranmış tavuk fileto, soya sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Künefe",
+      "price": "125 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "125 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sufle",
+      "price": "125 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Pepsi Light (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802183.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropicana (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (20 cl.)",
+      "price": "10 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802190.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802191.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Light (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802192.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802195.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellmann’s Hardal Sos",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellmann’s Barbekü Sos",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellmann’s Ketçap",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellmann’s Mayonez",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pizza Baharatı",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Sos",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5802204.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

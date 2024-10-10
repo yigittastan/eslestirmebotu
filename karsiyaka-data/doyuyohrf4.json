@@ -1,0 +1,517 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/hrf4/doyuyo-hrf4",
+  "google": "",
+  "products": [
+    {
+      "name": "Doyuyo Galactic",
+      "price": "460 TL",
+      "description": "1 Adet Cheese Chicken Burger + 1 Adet Cajun Tenders + 1 Adet Orginal Tenders + 2 Adet Chickers + 1 Adet Coleslaw Salata + 1 Adet Gurme Sos + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28430182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Friends Combo Menü (2-3 Kişilik)",
+      "price": "690 TL",
+      "description": "2 Adet Orijinal Tenders Sandviç + 2 Adet Acılı Tenders + 2 Adet Orjinal Tenders + 2 Adet Cajun Tenders + 1 Adet Coleslaw Salata + Turşu + 2 Adet Gurme Sos + Patates Kızartması (Büyük Boy) + 2 Adet Ketçap + 2 Adet Mayonez + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28430954.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orginal Tenders 3'lü Menü",
+      "price": "315 TL",
+      "description": "3 Adet Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28422277.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Combo Menü",
+      "price": "437 TL",
+      "description": "1 Adet Cheese Cajun Tenders Royale + 2 Adet Cajun Tenders + 1 Adet Coleslaw Salata + Patates Kızartması + Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28430389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paprika Parmesan Tenders 3'lü Menü",
+      "price": "315 TL",
+      "description": "3 Adet Paprika Parmesan Tenders + Pesto & Cheddar Soslu Fusilli Makarna (Orta) + Coleslaw Salata + Patates Kızartması + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28423697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Cheese Sandviç X2",
+      "price": "352 TL",
+      "description": "2 Adet Acılı Cheese Sandviç +1 Adet Coleslaw Salata + 1 Adet Gurme Sos + 7*7 Patates Kızartması (Büyük) + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34524378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crispy Duo Fırsat Menü",
+      "price": "320,00 TL388 TL",
+      "description": "2 Adet Chicken Burger + Patates Kızartması + Ketçap + Mayonez + 2 Adet İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66307631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Simple Tenders",
+      "price": "380,00 TL475 TL",
+      "description": "7 Adet Orijinal Tenders + 1 Adet Patates Kızartması + İçecek (1 L.) + Ketçap + Mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66059314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Twin Box",
+      "price": "456,00 TL570 TL",
+      "description": "2 Adet Tenders Royale Sandwich + Patates Kızartması + 2 Adet Orijinal Tenders + 4 Adet Chickers + 6 Adet Soğan Halkası + Ketçap + Mayonez + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66059346.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Triple Mix",
+      "price": "660,00 TL825 TL",
+      "description": "3 Adet Tenders Royale Sandwich + 2 Adet Patates Kızartması + 3 Adet Orijinal Tenders + 6 Adet Chickers + 6 Adet Soğan Halkası + 2 Adet Ketçap + 2 Adet Mayonez + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66059353.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Four Combo",
+      "price": "840,00 TL1.050 TL",
+      "description": "4 Adet Tenders Royale Sandwich + 3 Adet Patates Kızartması + 4 Adet Orijinal Tenders + 4 Adet Acılı Tenders + 3 Adet Ketçap + 3 Adet Mayonez+ İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66059359.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Original Tenders Box",
+      "price": "379 TL480 TL",
+      "description": "1 Adet Cheese Chicken Sandviç + 1 Adet Original Tenders + 1 Adet Coleslaw Salata + 1 Adet Gurme Sos + 1 Adet Ketçap + 1 Adet Mayonez + 1 Adet Patates Kızartması + 1 Adet Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54480380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doyarsın Menü",
+      "price": "370 TL490 TL",
+      "description": "1 Adet Cheese Chicken Burger + 1 Adet Chickers + 1 Adet Cajun Tenders + 1 Adet Coleslaw Salata + 1 Adet Patates Kızartması + 1 Adet Gurme Sos + 1 Adet Ketçap + 1 Adet Mayonez + 1 Adet Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54481059.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tenders Box",
+      "price": "390 TL510 TL",
+      "description": "1 Adet Acılı Cheese Chicken Sandviç + 1 Adet Acılı Tenders + 1 Adet Coleslaw Salata + 1 Adet Gurme Sos + 1 Adet Ketçap + 1 Adet Mayonez + 1 Adet Patates Kızartması + 1 Adet Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54481757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doyarız Menü (2 Kişilik)",
+      "price": "495 TL620 TL",
+      "description": "2 Adet Tenders Royale Sandviç + Orta Boy Patates Kızartması + 2 Adet Cajun Tenders + 2 Adet Original Tenders + 1 Adet Coleslaw Salata + 1 Adet Makarna + 2 Adet Mayonez + 2 Adet Ketçap + 2 Adet Gurme Sos + 2 Adet Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54481835.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doyuyo Galactic",
+      "price": "460 TL",
+      "description": "1 Adet Cheese Chicken Burger + 1 Adet Cajun Tenders + 1 Adet Orginal Tenders + 2 Adet Chickers + 1 Adet Coleslaw Salata + 1 Adet Gurme Sos + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28430182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Combo Menü",
+      "price": "437 TL",
+      "description": "1 Adet Cheese Cajun Tenders Royale + 2 Adet Cajun Tenders + 1 Adet Coleslaw Salata + Patates Kızartması + Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28430389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Friends Combo Menü (2-3 Kişilik)",
+      "price": "690 TL",
+      "description": "2 Adet Orijinal Tenders Sandviç + 2 Adet Acılı Tenders + 2 Adet Orjinal Tenders + 2 Adet Cajun Tenders + 1 Adet Coleslaw Salata + Turşu + 2 Adet Gurme Sos + Patates Kızartması (Büyük Boy) + 2 Adet Ketçap + 2 Adet Mayonez + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28430954.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Cheese Sandviç X2",
+      "price": "352 TL",
+      "description": "2 Adet Acılı Cheese Sandviç +1 Adet Coleslaw Salata + 1 Adet Gurme Sos + 7*7 Patates Kızartması (Büyük) + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34524378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Burger Festival Menü",
+      "price": "490 TL",
+      "description": "Cheese Burger + 1 Adet Orginal Tenders + 1 Adet Coleslaw Salata + 1 Adet Gurme Sos + 7*7 Patates Kızartması (Büyük) + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34527135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sever Combo Menü",
+      "price": "449 TL",
+      "description": "1 Adet Acılı Cheese Chıcken Burger + 2 Adet Chıckers Tenders + 1 Adet Acılı Tenders + 1 Adet Coleslaw Salata + Turşu + 1 Adet Gurme Sos + Patates Kızartması + Ketçap + Mayonez + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34527793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Cheese Chicken Burger Menü",
+      "price": "345 TL",
+      "description": "Acı Crispy Chicken Burger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28427275.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Chicken Burger Menü",
+      "price": "330 TL",
+      "description": "Cheese Chicken Burger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28427321.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Burger Menü",
+      "price": "310 TL",
+      "description": "Crispy Chicken Burger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28427373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Chicken Burger Menü",
+      "price": "410 TL",
+      "description": "Double Crispy Chicken Burger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28427421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Tenders Royale Menü",
+      "price": "370 TL",
+      "description": "2 Adet Crispy Cheese Tenders Royale + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28429247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tenders Royale Menü",
+      "price": "345 TL",
+      "description": "2 Adet Crispy Tenders Royale + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28429283.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger Menü",
+      "price": "360 TL",
+      "description": "Hamburger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28429346.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "390 TL",
+      "description": "Cheeseburger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28429363.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Cheeseburger Menü",
+      "price": "460 TL",
+      "description": "Double Cheeseburger + Patates Kızartması + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28429402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Deluxe Burger Combo",
+      "price": "549 TL",
+      "description": "1 Adet Etli tavuklu Deluxe Burger + 2 Adet Chickers + 1 Adet Cajun Tenders + 1 Adet Coleslaw Salata + 1 Adet Gurme Sos + 1 Adet Ketçap + 1 Adet Mayonez + Patates Kızartması + İçecek Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49478003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Deluxe Burger Menü",
+      "price": "469 TL",
+      "description": "1 Adet Etli Tavuklu Deluxe Burger + 1 Adet Ketçap + 1 Adet Mayonez + 1 Adet Patates Kızartması + İçecek Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49478149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orginal Tenders 3'lü Menü",
+      "price": "315 TL",
+      "description": "3 Adet Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28422277.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Tenders 3'lü Menü",
+      "price": "315 TL",
+      "description": "3 Adet Cajun Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28422707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paprika Parmesan Tenders 3'lü Menü",
+      "price": "315 TL",
+      "description": "3 Adet Paprika Parmesan Tenders + Pesto & Cheddar Soslu Fusilli Makarna (Orta) + Coleslaw Salata + Patates Kızartması + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28423697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tenders Festival Menü",
+      "price": "429 TL",
+      "description": "1 Adet Cheese Tenders Sandviç + 1 Adet Paprika Parmesan Tenders + 1 Adet Orjinal Tenders + 1 Adet Cajun Tenders + 1 Adet Coleslaw Salata +1 Adet Patates Kızartması + 1 Adet Gurme Sos + Ketçap + Mayonez + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28423946.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı 3’lü Tenders Menü",
+      "price": "315 TL",
+      "description": "3 Adet Acılı Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34518197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orginal Tenders 4'lü Menü",
+      "price": "342 TL",
+      "description": "4 Adet Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53715497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Tenders 4'lü Menü",
+      "price": "342 TL",
+      "description": "4 Adet Cajun Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53716197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paprika Parmesan Tenders 4'lü Menü",
+      "price": "342 TL",
+      "description": "4 Adet Paprika Parmesan Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53716367.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tenders 4'lü Menü",
+      "price": "342 TL",
+      "description": "4 Adet Acılı Tenders + 1 Adet Coleslaw Salata + Pesto Cheddar Soslu Makarna + 7*7 Patates Kızartması (Büyük) + 1 Adet Gurme Sos + Ketçap + Mayonez + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53716989.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Patates Kızartması (Büyük)",
+      "price": "129 TL",
+      "description": "Küp patates, özel sos, yeşil soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044897.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Başlangıç Tabağı",
+      "price": "250 TL",
+      "description": "Patates kızartması, 8 adet kemiksiz chickers, 3 adet mozzarella sticks, 3 adet susamlı soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044903.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chickers Basket",
+      "price": "210 TL",
+      "description": "8 adet kemiksiz kızarmış tavuk parçaları, patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Chickers",
+      "price": "99 TL",
+      "description": "4 adet kemiksiz kızarmış tavuk parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Soslu Patates Kızartması (Büyük)",
+      "price": "159 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7*7 Patates Kızartması (Büyük)",
+      "price": "119 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044899.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Sticks",
+      "price": "159 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Tatlı Chickers & Patates Kızartması",
+      "price": "159 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto & Cheddar Soslu Fusilli Makarna (Büyük Boy)",
+      "price": "119 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orjinal Tenders (Adet)",
+      "price": "90 TL",
+      "description": "1 parça kemiksiz & derisiz kızarmış tavuk göğüs fileto",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044906.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu (Dilim)",
+      "price": "30 TL",
+      "description": "Dilimlenmiş kornişon turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044907.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto & Cheddar Soslu Fusilli Makarna",
+      "price": "79 TL",
+      "description": "Doyuyo'ya özel cheddar sosuyla hazırlanmış pesto soslu fusulli makarna",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (6'lı)",
+      "price": "89 TL",
+      "description": "İnce dilimlenmiş soğanların kızartılarak çıtır hale getirildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414802.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Tenders (Adet)",
+      "price": "90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paprika Parmesan Tenders (Adet)",
+      "price": "90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orginal Chickers (4'lü)",
+      "price": "99 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Chickers (4'lü)",
+      "price": "109 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Patates Kızartması (Orta Boy)",
+      "price": "119 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coleslaw Salata",
+      "price": "60 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28414795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tenders (Adet)",
+      "price": "90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34517845.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Burger Tekli",
+      "price": "160 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41992651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Chicken Burger Tekli",
+      "price": "180 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41992668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Chicken Burger Tekli",
+      "price": "215 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41994824.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tenders Royale Tekli",
+      "price": "145 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41994841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Tenders Royale Tekli",
+      "price": "165 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41994851.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Cheese Sandviç Tekli",
+      "price": "170 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41994854.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger Tekli",
+      "price": "290 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41994856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheese Burger Tekli",
+      "price": "305 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41994857.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (28,5 cl.)",
+      "price": "50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22044999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "70 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "70 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097496.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (33 cl.)",
+      "price": "70 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (33 cl.)",
+      "price": "70 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton İce Tea (33 cl.)",
+      "price": "70 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata (35 cl.)",
+      "price": "80 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24941217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Limonata (35 cl.)",
+      "price": "90 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24941292.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berry Hibiscus (35 cl.)",
+      "price": "105 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49637745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "80 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (1 L.)",
+      "price": "80 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (1 L.)",
+      "price": "80 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (1 L.)",
+      "price": "80 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66097520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Dragon Sos",
+      "price": "25 TL",
+      "description": "Acılı chili biberler ile hazırlanan sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ranch Sos",
+      "price": "25 TL",
+      "description": "Yoğurt, mayonez, baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045005.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Sos",
+      "price": "25 TL",
+      "description": "Füme barbekü sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Smoke Sweet Chili Sos",
+      "price": "35 TL",
+      "description": "Tatlı chili biberler ve mayonez karışımından oluşan sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045007.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Honey Mustard Sos",
+      "price": "25 TL",
+      "description": "Bal, hardal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045008.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şef Özel Sosu",
+      "price": "25 TL",
+      "description": "Karışık baharatlardan oluşan sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045011.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orijinal Cheddar Sos",
+      "price": "35 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sriracha Mayo Sos",
+      "price": "25 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22045012.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

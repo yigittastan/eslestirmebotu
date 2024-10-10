@@ -1,0 +1,399 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ymv8/tantunipark-ymv8",
+  "google": "",
+  "products": [
+    {
+      "name": "Et Tantuni Dürüm",
+      "price": "252 TL315 TL",
+      "description": "Yağsız dana eti, acı biber, domates, maydanoz, soğan, tuz. Roka limon, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm",
+      "price": "168 TL210 TL",
+      "description": "Tavuk bonfile eti, acı biber, domates, maydanoz, soğan, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044313.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Tavuk Tantuni",
+      "price": "176 TL220 TL",
+      "description": "Tavuk bonfile eti, acı biber, domates, maydanoz, soğan, tuz, turşu, roka, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044312.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Tavuk Tantuni",
+      "price": "188 TL235 TL",
+      "description": "Tavuk bonfile, acı biber, domates, maydanoz, soğan, tuz, yoğurt sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044311.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Biftek Et Tantuni",
+      "price": "260 TL325 TL",
+      "description": "Yağsız dana eti, acı biber, domates, maydanoz, soğan, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044308.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044320.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Yoğurtlu Tavuk Tantuni)",
+      "price": "195,20 TL244 TL",
+      "description": "Yoğurtlu Tavuk Tantuni + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Algida Menüsü (Ekmek Arası Tavuk Tantuni)",
+      "price": "149,76 TL187,20 TL",
+      "description": "Ekmek Arası Tavuk Tantuni + Algida Maraş Usulü Cup (100 ml.)"
+    },
+    {
+      "name": "Et Tantuni Ekmek Arası İki Kişilik Menü",
+      "price": "656 TL820 TL",
+      "description": "2 Adet Ekmek Arası Et Tantuni + 2 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27076399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Yoğurtlu İki Kişilik Menü",
+      "price": "544 TL680 TL",
+      "description": "2 Adet Yoğurtlu Tavuk Tantuni + 2 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27080494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Ekmek Arası İki Kişilik Menü",
+      "price": "527,20 TL659 TL",
+      "description": "2 Adet Tavuk Tantuni Ekmek Arası + 2 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27090865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Dürüm İki Kişilik Menü",
+      "price": "648 TL810 TL",
+      "description": "2 Adet Et Tantuni Dürüm + 2 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27090894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm İki Kişilik Menü",
+      "price": "519,20 TL649 TL",
+      "description": "2 Adet Tavuk Tantuni Dürüm + 2 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27091273.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Yoğurtlu İki Kişilik Menü",
+      "price": "696 TL870 TL",
+      "description": "2 Adet Yoğurtlu Et Tantuni + 2 Adet Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Et Tantuni Dürüm Aile Menü",
+      "price": "1.344 TL1.680 TL",
+      "description": "4 Adet Et Tantuni Dürüm + 4 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27091223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Yoğurtlu Aile Menü",
+      "price": "1.079,20 TL1.349 TL",
+      "description": "4 Adet Tavuk Tantuni Yoğurtlu + 4 Adet Patates Kızartması + 1 Adet 1 Lt. İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27091263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm Aile Menü",
+      "price": "1.000 TL1.250 TL",
+      "description": "4 Adet Tavuk Tantuni Dürüm + 4 Adet Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27091268.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Ekmek Arası Aile Menü",
+      "price": "1.359,20 TL1.699 TL",
+      "description": "4 Adet Ekmek Arası Et Tantuni + 4 Adet Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Et Tantuni Yoğurtlu Aile Menü",
+      "price": "1.431,20 TL1.789 TL",
+      "description": "4 Adet Yoğurtlu Et Tantuni + 4 Adet Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Tavuk Tantuni Ekmek Arası Aile Menü",
+      "price": "1.016 TL1.270 TL",
+      "description": "4 Adet Ekmek Arası Tavuk Tantuni + 4 Adet Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Et Tantuni Yoğurtlu Çok Acıktım Menü",
+      "price": "740 TL925 TL",
+      "description": "2 Adet Yoğurtlu Et Tantuni + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27075417.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm Çok Acıktım Menü",
+      "price": "535,20 TL669 TL",
+      "description": "2 Adet Tavuk Tantuni Dürüm + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27076317.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Dürüm Çok Acıktım Menü",
+      "price": "712 TL890 TL",
+      "description": "2 Adet Et Tantuni Dürüm + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27076632.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Ekmek Arası Çok Acıktım Menü",
+      "price": "728 TL910 TL",
+      "description": "2 Adet Et Tantuni Ekmek Arası + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27090850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Ekmek Arası Çok Acıktım Menü",
+      "price": "559,20 TL699 TL",
+      "description": "2 Adet Ekmek Arası Tavuk Tantuni + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27091217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Yoğurtlu Çok Acıktım Menü",
+      "price": "592 TL740 TL",
+      "description": "2 Adet Yoğurtlu Tavuk Tantuni + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27091258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "10'lu Et Tantuni Dürüm Menü",
+      "price": "1.920 TL2.400 TL",
+      "description": "10 Adet Et Tantuni Dürüm + İçecek (1 L.)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "10 Et & Tavuk Tantuni Dürüm Menü",
+      "price": "1.800 TL2.250 TL",
+      "description": "5 Adet Et Tantuni Dürüm + 5 Adet Tavuk Tantuni Dürüm + İçecek (1 L.)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "10'lu Tavuk Tantuni Dürüm Menü",
+      "price": "1.440 TL1.800 TL",
+      "description": "10 Adet Tavuk Tantuni Dürüm + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044302.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Dürüm & Tavuk Tantuni Dürüm Menü",
+      "price": "1.256 TL1.570 TL",
+      "description": "3 Adet Et Tantuni Dürüm + 3 Adet Tavuk Tantuni Dürüm + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044303.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Dürüm Menü",
+      "price": "383,20 TL479 TL",
+      "description": "Tantuni Dürüm + Patates Kızartması + Kutu İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044304.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm Menü",
+      "price": "312 TL390 TL",
+      "description": "Tavuk Tantuni Dürüm + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044305.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Tavuk Tantuni Menü",
+      "price": "340 TL425 TL",
+      "description": "Ekmek Arası Tavuk Tantuni + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27075840.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Yoğurtlu Menü",
+      "price": "348 TL435 TL",
+      "description": "Yoğurtlu Tavuk Tantuni + Patates Kızartması + Kutu İçecek"
+    },
+    {
+      "name": "Ekmek Arası Biftek Et Tantuni Menü",
+      "price": "391,20 TL489 TL",
+      "description": "Ekmek Arası Et Tantuni + Patates Kızartması + Kutu İçecek"
+    },
+    {
+      "name": "Et Tantuni Yoğurtlu Menü",
+      "price": "399,20 TL499 TL",
+      "description": "Yoğurtlu Et Tantuni + Patates Kızartması + Kutu İçecek"
+    },
+    {
+      "name": "Maç Keyfi Çıtır Tavuk Menü",
+      "price": "180 TL225 TL",
+      "description": "6 Adet Çıtır Tavuk + 6 Adet Soğan Halkası + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35796839.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Biftek Et Tantuni",
+      "price": "260 TL325 TL",
+      "description": "Yağsız dana eti, acı biber, domates, maydanoz, soğan, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044308.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Biftek Et Tantuni",
+      "price": "276 TL345 TL",
+      "description": "Sinirleri alınmış yağsız dana eti, acı biber, domates, maydanoz, soğan, tuz, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044309.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Tantuni Dürüm",
+      "price": "252 TL315 TL",
+      "description": "Yağsız dana eti, acı biber, domates, maydanoz, soğan, tuz. Roka limon, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Tavuk Tantuni",
+      "price": "188 TL235 TL",
+      "description": "Tavuk bonfile, acı biber, domates, maydanoz, soğan, tuz, yoğurt sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044311.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Tavuk Tantuni",
+      "price": "176 TL220 TL",
+      "description": "Tavuk bonfile eti, acı biber, domates, maydanoz, soğan, tuz, turşu, roka, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044312.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Tantuni Dürüm",
+      "price": "168 TL210 TL",
+      "description": "Tavuk bonfile eti, acı biber, domates, maydanoz, soğan, tuz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044313.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (100 gr.)",
+      "price": "64 TL80 TL",
+      "description": "Özel cajun baharat eşliğinde servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25901338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'Or Monoportion Çikolata Karnavalı (105 ml.)",
+      "price": "35,20 TL44 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044291.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Usulü Cup (100 ml.)",
+      "price": "35,20 TL44 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'or Meyve Rüyası Çilek Yoğurt (105 ml.)",
+      "price": "37,60 TL47 TL",
+      "description": "Paket dondurma",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Antep Fıstıklı Kazandibi",
+      "price": "120 TL150 TL",
+      "description": "Antep fıstığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34357386.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kazandibi",
+      "price": "104 TL130 TL",
+      "description": "280 gr. sade kazandibi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34359253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45592154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45592720.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45592710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45592172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "56 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45588388.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044320.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayran (24,5 cl.)",
+      "price": "60 TL75 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35925714.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044321.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "32 TL40 TL",
+      "description": "Cam Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044322.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL25 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044323.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45697147.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45592712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45697140.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (1 L.)",
+      "price": "72 TL90 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24067787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "68 TL85 TL",
+      "description": "Pet Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044326.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.) (Şişe)",
+      "price": "36 TL45 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/62994555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6044327.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

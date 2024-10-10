@@ -1,0 +1,234 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/wckh/titizler-doner-evi",
+  "google": "",
+  "products": [
+    {
+      "name": "3/4 Ekmek Arası Tavuk Döner",
+      "price": "120 TL",
+      "description": "Soğan, kıvırcık marul, domates, özel sos (100 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "75 TL",
+      "description": "Soğan, domates, marul, özel sos 80 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "75 TL",
+      "description": "Tavuk döner, soğan, domates, marul, özel sos 80 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Et Döner",
+      "price": "175 TL",
+      "description": "Soğan, kıvırcık marul, domates, özel sos, 100 gr. yaprak et döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Döner",
+      "price": "155 TL",
+      "description": "90 gr. yaprak et döner, soğan, domates, marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm",
+      "price": "155 TL",
+      "description": "90 gr. yaprak et döner, soğan, domates, marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Special Karışık Döner",
+      "price": "175 TL",
+      "description": "(90 gr.) Et döner, tavuk döner, soğan, özel sos, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156246.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "230 TL",
+      "description": "(160 gr.) Serpme yoğurt, özel sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm",
+      "price": "155 TL",
+      "description": "90 gr. yaprak et döner, soğan, domates, marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tombik Ekmek Arası Et Döner",
+      "price": "155 TL",
+      "description": "90 gr. yaprak et döner, soğan, kıvırcık marul, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Et Döner",
+      "price": "155 TL",
+      "description": "90 gr. yaprak et döner, soğan, domates, marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Et Döner Dürüm",
+      "price": "160 TL",
+      "description": "Soğan, domates, marul, özel sos, 90 gr. yaprak et döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156250.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Et Döner",
+      "price": "175 TL",
+      "description": "Soğan, kıvırcık marul, domates, özel sos, 100 gr. yaprak et döner",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156253.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner (1 Kişilik)",
+      "price": "220 TL",
+      "description": "160 gr. et döner. Soğan, marul, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156254.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Tavuk Döner",
+      "price": "150 TL",
+      "description": "Soğan, marul, domates (160 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156255.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Tavuk Dönerden)",
+      "price": "150 TL",
+      "description": "(160 gr.) Serpme yoğurt, özel sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156257.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm",
+      "price": "75 TL",
+      "description": "Soğan, domates, marul, özel sos 80 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Tavuk Döner Dürüm",
+      "price": "80 TL",
+      "description": "Soğan, domates, marul, özel sos (90 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156259.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Special Dürüm",
+      "price": "150 TL",
+      "description": "(90 gr.) Tavuk döner, et döner, soğan, marul, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156260.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tombik Ekmek Arası Tavuk Döner",
+      "price": "75 TL",
+      "description": "Soğan, kıvırcık marul, domates, özel sos 80 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Tavuk Döner",
+      "price": "75 TL",
+      "description": "Tavuk döner, soğan, domates, marul, özel sos 80 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Tavuk Döner",
+      "price": "120 TL",
+      "description": "Soğan, kıvırcık marul, domates, özel sos (100 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156263.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Special Döner",
+      "price": "150 TL",
+      "description": "Tavuk döner, et döner, soğan, domates, marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner Dürüm (100 gr.)",
+      "price": "150 TL",
+      "description": "Soğan, domates, göbek marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30536104.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "190 TL",
+      "description": "Soğan, marul, domates, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156266.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Izgara Köfte",
+      "price": "125 TL",
+      "description": "Soğan, domates, marul, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156268.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Izgara Köfte",
+      "price": "150 TL",
+      "description": "Soğan, kıvırcık marul, domates, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156269.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156279.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156280.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156282.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Şalgam Suyu",
+      "price": "30 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156283.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (27,5 cl.)",
+      "price": "35 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156284.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (18 cl.)",
+      "price": "20 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156285.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156286.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6156287.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "70 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27339135.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

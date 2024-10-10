@@ -1,0 +1,195 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/oeq2/lobohemian-oeq2",
+  "google": "",
+  "products": [
+    {
+      "name": "Karışık Tost",
+      "price": "180 TL",
+      "description": "Tire kasap sucuk, İzmir tulum peyniri, Kars taze kaşar peyniri, krem peynir, ıspanak, domates, salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34448675.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokadolu Tost",
+      "price": "165 TL",
+      "description": "Beyaz peynir, krem peyniri, ıspanak, domates, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34454295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli Tost",
+      "price": "155 TL",
+      "description": "İzmir tulum peyniri, Kars taze kaşar peyniri, krem peynir, ıspanak, domates, salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29699100.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Tostu",
+      "price": "160 TL",
+      "description": "Dil peyniri, zeytin ezmesi, krem peynir, salça sos, domates, ıspanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37275905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gevrek Pizza",
+      "price": "160 TL",
+      "description": "Tire kasap sucuk, Kars taze kaşar peyniri, cheddar sos, salça sos, domates, yeşil biber, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34589278.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayranı (33 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41281440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşlanmış Yumurta",
+      "price": "20 TL",
+      "description": "Yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32253889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahvaltı Salatası",
+      "price": "50 TL",
+      "description": "Salatalık, domates, yeşil biber, yeşillik"
+    },
+    {
+      "name": "Hindi Fümeli Tost",
+      "price": "210 TL",
+      "description": "Hindi füme, taze kaşar peyniri, krem peynir, acı biber reçeli, ıspanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54535508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Tost",
+      "price": "180 TL",
+      "description": "Tire kasap sucuk, İzmir tulum peyniri, Kars taze kaşar peyniri, krem peynir, ıspanak, domates, salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34448675.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokadolu Tost",
+      "price": "165 TL",
+      "description": "Beyaz peynir, krem peyniri, ıspanak, domates, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34454295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli Tost",
+      "price": "155 TL",
+      "description": "İzmir tulum peyniri, Kars taze kaşar peyniri, krem peynir, ıspanak, domates, salça sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29699100.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gevrek Pizza",
+      "price": "160 TL",
+      "description": "Tire kasap sucuk, Kars taze kaşar peyniri, cheddar sos, salça sos, domates, yeşil biber, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34589278.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Tostu",
+      "price": "160 TL",
+      "description": "Dil peyniri, zeytin ezmesi, krem peynir, salça sos, domates, ıspanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37275905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Tost",
+      "price": "140 TL",
+      "description": "Kars taze kaşarı peyniri, salça sos, domates, ıspanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36706734.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Afilli Tost",
+      "price": "240 TL",
+      "description": "Hindi füme, sucuk, dil peyniri, tulum, krem peynir, salça, domates, ıspanak"
+    },
+    {
+      "name": "Hindi Füme Avokadolu Tost",
+      "price": "210 TL",
+      "description": "Hindi füme, avokado, kaşar peyniri, ıspanak"
+    },
+    {
+      "name": "Keyfine Düşkün Tost",
+      "price": "185 TL",
+      "description": "Tulum peyniri, tire kasap sucuk, salça sos, domates, ıspanak"
+    },
+    {
+      "name": "Üç Peynirli Tost",
+      "price": "165 TL",
+      "description": "Tulum peyniri, beyaz peynir, dil peyniri, salça sos, domates, ıspanak"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41134750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41130195.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41129751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karşıyaka Gazozu (25 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34281699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Badem Gazozu",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32401960.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayranı (33 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41281440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu (35 cl.)",
+      "price": "85 TL",
+      "description": "Pet şişe"
+    },
+    {
+      "name": "Kula Citrus",
+      "price": "40 TL",
+      "description": "Limon, çilek"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe"
+    },
+    {
+      "name": "Barbekü Sos (25 gr.)",
+      "price": "4 TL",
+      "description": "25 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34219589.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez (25 gr.)",
+      "price": "4 TL",
+      "description": "25 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34223316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sweet Chili Sos (25 gr.)",
+      "price": "4 TL",
+      "description": "25 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34227245.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Chili Sos (Adet)",
+      "price": "4 TL",
+      "description": "25 gr."
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29530547.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

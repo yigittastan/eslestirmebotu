@@ -1,0 +1,660 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/fm1k/coffeemania-next-fm1k",
+  "google": "",
+  "products": [
+    {
+      "name": "Ispanaklı Rulo Börek",
+      "price": "40,25 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61627108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Rulo Börek",
+      "price": "40,25 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61627114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hindi Füme Sandviç",
+      "price": "160 TL",
+      "description": "Hindi füme",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66340718.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklık Sandviç",
+      "price": "149,50 TL",
+      "description": "Ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66455501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Smoothie Bowls",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66351059.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "210 TL",
+      "description": "Ton balığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66346119.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Pasta",
+      "price": "166,75 TL",
+      "description": "Mevsim meyveleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61624810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "149,50 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61624812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Havuçlu Kek",
+      "price": "155,25 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61624813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kara Orman Meyveli Pasta",
+      "price": "166,75 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61624819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Cheesecake",
+      "price": "172,50 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61624821.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Islak Kek",
+      "price": "132,25 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61624831.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Cheesecake",
+      "price": "172,50 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61625093.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Mag",
+      "price": "149,50 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61625094.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Çikolatalı Kurabiye",
+      "price": "86,25 TL",
+      "description": "Damla çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61627063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Kurabiye",
+      "price": "76 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61627083.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "150 TL",
+      "description": "Çilekli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66340711.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotuslu Mag",
+      "price": "150 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66340956.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Mereng Cheesecake",
+      "price": "170 TL",
+      "description": "Limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341831.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Next Mag",
+      "price": "150 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Mag",
+      "price": "150 TL",
+      "description": "Cam kavanozda servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66342393.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yer Fıstıklı Parfait",
+      "price": "161 TL",
+      "description": "1 kişilik servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66349943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "178 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66350289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Snickers Tatlı",
+      "price": "184 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66351066.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aligo",
+      "price": "184 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66351617.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaban Mersinli Krep Pasta",
+      "price": "143,75 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66354584.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Parfeit",
+      "price": "161 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Milky Roll Kruvasan",
+      "price": "225 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66497627.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hindi Füme Roll Kruvasan",
+      "price": "200 TL",
+      "description": "Hindi füme",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66499430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Roll Kruvasan",
+      "price": "200 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66497145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Popping Caramel Frozen",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66557713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Green Apple Splash",
+      "price": "149,50 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66551598.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lychee Splash",
+      "price": "149,50 TL",
+      "description": "(Soğuk servis edilir.)"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "66 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609014.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "66 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609015.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "66 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "66 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "66 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609020.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "66 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull White Edition (25 cl.)",
+      "price": "99 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61606185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "92 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61616173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "52 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "17 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61609029.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Türk Kahvesi",
+      "price": "79 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623467.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Sütlü Türk Kahvesi",
+      "price": "91 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Espresso",
+      "price": "69 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Espresso",
+      "price": "80,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Espresso Macchiato",
+      "price": "80,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623480.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Espresso Macchiato",
+      "price": "92 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve (8 Oz.)",
+      "price": "92 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano (8 Oz.)",
+      "price": "92 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623852.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte (8 Oz.)",
+      "price": "103,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623856.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White (8 Oz.)",
+      "price": "103,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623859.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino (8 Oz.)",
+      "price": "103,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623861.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Chocolate Mocha (8 Oz.)",
+      "price": "117 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Mocha (8 Oz.)",
+      "price": "117 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coffe Mocha (8 Oz.)",
+      "price": "126,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623871.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Toffee Nut Latte (8 Oz.)",
+      "price": "143,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Biscoff (8 Oz.)",
+      "price": "143,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Salvador (8 Oz.)",
+      "price": "110 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Costa Rica (8 Oz.)",
+      "price": "110 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ethiopia (8 Oz.)",
+      "price": "110 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Colombia (8 Oz.)",
+      "price": "110 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cortado (8 oz.)",
+      "price": "95 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66554291.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Cookie Coffee (8 oz.)",
+      "price": "126,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66554301.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Mocha (14 Oz.)",
+      "price": "143,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623457.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Toffee Nut Latte (14 Oz.)",
+      "price": "155,25 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623461.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Biscoff (14 Oz.)",
+      "price": "155,25 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve (14 Oz.)",
+      "price": "103,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623484.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano (14 Oz.)",
+      "price": "103,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623854.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte (14 Oz.)",
+      "price": "120,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White (14 Oz.)",
+      "price": "120,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coffee Mocha (14 Oz.)",
+      "price": "143,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "White Chocolate Mocha (14 Oz.)",
+      "price": "131 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623866.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino (14 Oz.)",
+      "price": "120,75 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623869.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Salvador (14 Oz.)",
+      "price": "124 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626701.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Costa Rica (14 Oz.)",
+      "price": "124 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ethiopia (14 Oz.)",
+      "price": "124 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Colombia (14 Oz.)",
+      "price": "124 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cookie Caramel Latte",
+      "price": "138 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66551389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chiai Tea Latte (8 Oz.)",
+      "price": "126,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61615723.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chiai Tea Latte (14 Oz.)",
+      "price": "138 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61615724.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Çikolata (8 Oz.)",
+      "price": "126,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61615725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Çikolata (14 Oz.)",
+      "price": "138 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61615726.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salep (8 Oz.)",
+      "price": "126,50 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61615727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salep (16 Oz.)",
+      "price": "124 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61615732.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çay",
+      "price": "45 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61623472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Toffee Nut Latte (16 oz.)",
+      "price": "166,75 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Filtre Kahve (16 oz.)",
+      "price": "117 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626421.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cold Brew (16 oz.)",
+      "price": "138 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cold Brew Latte (16 oz.)",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Americano (16 oz.)",
+      "price": "138 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626425.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte (16 oz.)",
+      "price": "143,75 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626426.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Mocha (16 oz.)",
+      "price": "166,75 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626427.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced White Chocolate Mocha (16 oz.)",
+      "price": "166,75 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626428.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Mocha (16 oz.)",
+      "price": "166,75 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61626430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cold Brew (Cam Şişe)",
+      "price": "190 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66699736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilyalı Milkshake (16 Oz.)",
+      "price": "144 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61616196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Milkshake (16 Oz.)",
+      "price": "161 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61616197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Milkshake (16 Oz.)",
+      "price": "161 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61616198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Milkshake (16 Oz.)",
+      "price": "161 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61616199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Frozen (16 Oz.)",
+      "price": "155,25 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61616194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mix Berry Frozen",
+      "price": "155,25 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66341229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Purple Lemon",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66551132.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hibiscus Mint Tea",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66551751.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fresh Lime",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66554553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Puppy Sky",
+      "price": "149,50 TL",
+      "description": "(Soğuk servis edilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66554678.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berry Lemon",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66556814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Blue Sky",
+      "price": "149,50 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66556821.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61627322.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

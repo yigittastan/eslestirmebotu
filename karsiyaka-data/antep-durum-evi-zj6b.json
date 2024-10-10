@@ -1,0 +1,248 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/zj6b/antep-durum-evi-zj6b",
+  "google": "",
+  "products": [
+    {
+      "name": "Adana Dürüm",
+      "price": "127,50 TL170 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "97,50 TL130 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831521.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Usulü Ciğer Kavurma Dürüm",
+      "price": "112,50 TL150 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer Şiş Dürüm",
+      "price": "150 TL200 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Adana Dürüm",
+      "price": "135 TL180 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Tavuk Şiş Dürüm",
+      "price": "105 TL140 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3'lü Tavuk Şiş Dürüm Menü",
+      "price": "315 TL420 TL",
+      "description": "3 Adet Tavuk Şiş Dürüm + 3 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "3'lü Ciğer Şiş Dürüm & Ayran Menü",
+      "price": "412,50 TL550 TL",
+      "description": "3 Adet Ciğer Şiş Dürüm + 3 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "3'lü Adana Dürüm Menü",
+      "price": "382,50 TL510 TL",
+      "description": "3 Adet Adana Dürüm + 3 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "3'lü Et Şiş Dürüm Menü",
+      "price": "412,50 TL550 TL",
+      "description": "3 Adet Et Şiş Dürüm + 3 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "3'lü Antep Usulü Ciğer Kavurma Dürüm & Ayran Menü",
+      "price": "337,50 TL450 TL",
+      "description": "3 Adet Ciğer Kavurma Dürüm + Ayran (20 cl.)"
+    },
+    {
+      "name": "5'li Kuzu Ciğer Şiş Dürüm Menü",
+      "price": "525 TL700 TL",
+      "description": "5Adet Kuzu Ciğer Şiş Dürüm + Coca Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Adana Dürüm Menü",
+      "price": "487,50 TL650 TL",
+      "description": "5 Adet Adana Dürüm + Coca Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Tavuk Şiş Dürüm Menü",
+      "price": "412,50 TL550 TL",
+      "description": "5 Adet Tavuk Şiş + Coca Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "5'li Antep Usulü Ciğer Kavurma Menü",
+      "price": "375 TL500 TL",
+      "description": "5 Adet Antep Usulü Ciğer Kavurma + Coca Cola (1 L.)"
+    },
+    {
+      "name": "2 Adana Dürüm & 2 Ayran",
+      "price": "255 TL340 TL",
+      "description": "2 Adet Adana Dürüm + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66353702.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Et Şiş Dürüm Menü",
+      "price": "270 TL360 TL",
+      "description": "2 Adet Et Şiş Dürüm + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "2'li Tavuk Şiş Dürüm Menü",
+      "price": "210 TL280 TL",
+      "description": "2 Adet Tavuk Şiş Dürüm + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "2'li Kuzu Ciğer Dürüm Menü",
+      "price": "270 TL360 TL",
+      "description": "2 Adet Kuzu Ciğer Dürüm + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "2'li Antep Usulü Ciğer Kavurma Menü",
+      "price": "225 TL300 TL",
+      "description": "2 Adet Antep Usulü Ciğer Kavurma Dürüm + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "277,50 TL370 TL",
+      "description": "Bulgur pilavı, salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer Şiş",
+      "price": "315 TL420 TL",
+      "description": "Bulgur pilavı, salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Şiş",
+      "price": "277,50 TL370 TL",
+      "description": "Bulgur pilavı, salata, közlenmiş domates, közlenmiş biber, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm",
+      "price": "127,50 TL170 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Usulü Ciğer Kavurma Dürüm",
+      "price": "112,50 TL150 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Adana Dürüm",
+      "price": "135 TL180 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Antep Usulü Ciğer Kavurma Dürüm",
+      "price": "120 TL160 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831514.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Et Şiş Dürüm",
+      "price": "157,50 TL210 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Kuzu Ciğer Şiş Dürüm",
+      "price": "157,50 TL210 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Tavuk Şiş Dürüm",
+      "price": "105 TL140 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Lavaş Urfa Dürüm",
+      "price": "135 TL180 TL",
+      "description": "Maydonoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "97,50 TL130 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831521.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer Şiş Dürüm",
+      "price": "150 TL200 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Şiş Dürüm",
+      "price": "150 TL200 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66142229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm (1,5)",
+      "price": "187,50 TL250 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66142225.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm (1.5)",
+      "price": "157,50 TL210 TL",
+      "description": "Maydanoz, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66143184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Ciğer Dürüm (1,5)",
+      "price": "187,50 TL250 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66143952.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Şiş Dürüm (1,5)",
+      "price": "180 TL240 TL",
+      "description": "Salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66144555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "26,25 TL35 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "37,50 TL50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831544.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "30 TL40 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5831548.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

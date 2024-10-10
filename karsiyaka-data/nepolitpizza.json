@@ -1,0 +1,168 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/fcgm/nepolit-pizza",
+  "google": "",
+  "products": [
+    {
+      "name": "Margherita Pizza",
+      "price": "240 TL300 TL",
+      "description": "Domates sos, mozzarella peyniri, parmesan peyniri, fesleğen, bol sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza",
+      "price": "380 TL475 TL",
+      "description": "Domates sos, mozzarella peyniri, dana füme kaburga et, dilim parmesan peyniri, roka, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şarküteri Pizza",
+      "price": "380 TL475 TL",
+      "description": "Domates sos, mozzarella peyniri, fermente sucuk, dana bacon et, dana pastırma, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676863.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kasap Sucuklu Pizza",
+      "price": "309,60 TL387 TL",
+      "description": "Domates sos, mozzarella peyniri, fermente kasap sucuk, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904462.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nepolit Pizza",
+      "price": "300 TL375 TL",
+      "description": "Pesto sos, mozzarella peyniri, hindi füme et, Antep fıstığı, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheesy Pizza",
+      "price": "280 TL350 TL",
+      "description": "Domates sos, mozzarella peyniri, parmesan peyniri, tulum peyniri, kaşar peyniri, balsamik glaze sos, ceviz, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904597.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": "240 TL300 TL",
+      "description": "Domates sos, mozzarella peyniri, parmesan peyniri, fesleğen, bol sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nepolit Pizza",
+      "price": "300 TL375 TL",
+      "description": "Pesto sos, mozzarella peyniri, hindi füme et, Antep fıstığı, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheesy Pizza",
+      "price": "280 TL350 TL",
+      "description": "Domates sos, mozzarella peyniri, parmesan peyniri, tulum peyniri, kaşar peyniri, balsamik glaze sos, ceviz, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904597.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roast Beef Pizza",
+      "price": "369,60 TL462 TL",
+      "description": "Domates sos, mozzarella peyniri, dana roast beef, dilim parmesan peyniri, roka, kapya biber, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676657.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şarküteri Pizza",
+      "price": "380 TL475 TL",
+      "description": "Domates sos, mozzarella peyniri, fermente sucuk, dana bacon et, dana pastırma, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676863.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburga Pizza",
+      "price": "380 TL475 TL",
+      "description": "Domates sos, mozzarella peyniri, dana füme kaburga et, dilim parmesan peyniri, roka, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Somon Pizza",
+      "price": "369,60 TL462 TL",
+      "description": "Domates sos, mozzarella peyniri, füme somon, kapari, labne, kırmızı soğan, liman kabuğu rendesi, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45677791.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Pizza",
+      "price": "270,40 TL338 TL",
+      "description": "Domates sos, mozzarella peyniri, patlıcan, kabak, kapya biber, balsamik glaze sos, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45677853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kasap Sucuklu Pizza",
+      "price": "309,60 TL387 TL",
+      "description": "Domates sos, mozzarella peyniri, fermente kasap sucuk, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904462.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Mantarlı Pizza",
+      "price": "309,60 TL387 TL",
+      "description": "Domates sos, mozzarella peyniri, kültür mantarı, istiridye mantarı, kestane mantarı, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904496.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Pizza",
+      "price": "300 TL375 TL",
+      "description": "Domates sos, mozzarella peyniri, dana sosis, kültür mantarı, mısır, sızma zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904510.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55,20 TL69 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45677912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55,20 TL69 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45677923.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "55,20 TL69 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45677930.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "16 TL20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45677940.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "80 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48669602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "80 TL100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904468.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55,20 TL69 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904477.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "36 TL45 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904483.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55,20 TL69 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65904488.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,20 TL0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45678400.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

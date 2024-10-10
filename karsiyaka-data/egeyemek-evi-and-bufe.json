@@ -1,0 +1,262 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ybbz/ege-yemek-evi-and-bufe",
+  "google": "",
+  "products": [
+    {
+      "name": "Günün Etli Menüsü",
+      "price": "275 TL",
+      "description": "Seçeceğiniz Etli Yemek + Seçeceğiniz 2 Adet Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günün Tavuklu Menüsü",
+      "price": "250 TL",
+      "description": "Seçeceğiniz Tavuklu Yemek + Seçeceğiniz 2 Adet Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günün Sebzeli Menüsü",
+      "price": "225 TL",
+      "description": "Seçeceğiniz Sebzeli Yemek + Seçeceğiniz 2 Adet Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "165 TL",
+      "description": "Domates, jalapeno biber, tuz, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898661.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hasanpaşa Köfte",
+      "price": "185 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "90 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günün Etli Menüsü",
+      "price": "275 TL",
+      "description": "Seçeceğiniz Etli Yemek + Seçeceğiniz 2 Adet Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günün Tavuklu Menüsü",
+      "price": "250 TL",
+      "description": "Seçeceğiniz Tavuklu Yemek + Seçeceğiniz 2 Adet Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Günün Sebzeli Menüsü",
+      "price": "225 TL",
+      "description": "Seçeceğiniz Sebzeli Yemek + Seçeceğiniz 2 Adet Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "90 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898518.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lebeniye Çorbası",
+      "price": "110 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hasanpaşa Köfte",
+      "price": "185 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Menemen",
+      "price": "185 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898546.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Patates Oturtma",
+      "price": "185 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898547.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Kebabı",
+      "price": "185 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Bezelye",
+      "price": "185 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Fırında Patatesli Tavuk Pirzola",
+      "price": "175 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898573.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kalamar",
+      "price": "175 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898590.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Sultan Kebabı",
+      "price": "175 TL",
+      "description": "Günlük hazırlanmaktadır."
+    },
+    {
+      "name": "Zeytinyağlı Semizotu",
+      "price": "150 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Makarna",
+      "price": "65 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898664.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "75 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgur Pilavı",
+      "price": "75 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "165 TL",
+      "description": "Domates, jalapeno biber, tuz, karabiber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898661.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurt",
+      "price": "60 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898665.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cacık",
+      "price": "60 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata",
+      "price": "60 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keşkül",
+      "price": "50 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütlaç",
+      "price": "50 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karpuz",
+      "price": "40 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Puding",
+      "price": "50 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898681.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakızlı Muhallebi",
+      "price": "51 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36290793.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898685.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898686.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "25 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898694.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "23 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "18 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898696.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898689.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898690.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruko (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898691.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5898697.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

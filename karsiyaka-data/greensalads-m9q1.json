@@ -1,0 +1,555 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/m9q1/green-salads-m9q1",
+  "google": "",
+  "products": [
+    {
+      "name": "Fettuccine Schnitzel",
+      "price": "200 TL",
+      "description": "Schnitzel tavuk göğüs, özel soslu fettuccine, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fettuccine Pirzola",
+      "price": "200 TL",
+      "description": "Özel soslu fettuccine, piliç but (Derisiz, kemiksiz), frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151469.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Fileto Salata",
+      "price": "230 TL",
+      "description": "Tavuk fileto, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Schnitzel",
+      "price": "200 TL",
+      "description": "Penne al dente, Schnitzel tavuk göğüs, özel sos, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Special Salata",
+      "price": "255 TL",
+      "description": "Tavuk göğüs beybi, schnitzel tavuk göğüs, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, Sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151487.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirzola Salata",
+      "price": "245 TL",
+      "description": "Piliç but (derisiz, kemiksiz), karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yemeksepeti Özel (Köri Soslu Tavuk)",
+      "price": "299,00 TL360 TL",
+      "description": "Köri Soslu Tavuk + Süzme Mercimek Çorbası + Ayran (30 cl.)"
+    },
+    {
+      "name": "Avantajlı Menü 1",
+      "price": "375 TL",
+      "description": "Mercimek Çorbası + Seçeceğiniz Tavuk Tabağı + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151426.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Menü 2",
+      "price": "375 TL",
+      "description": "Seçeceğiniz Tavuk Tabağı + Patates Kızartması (Küçük) + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151427.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Menü 3",
+      "price": "730 TL",
+      "description": "Mercimek Çorbası (2 Adet) + Seçeceğiniz 2 Adet Tavuk Tabağı + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151428.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Menü 4",
+      "price": "700 TL",
+      "description": "Seçeceğiniz 2 Adet Tavuk Tabağı + Patates Kızartması (Büyük) + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151429.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Menü 5",
+      "price": "995 TL",
+      "description": "Mercimek Çorbası (2 Adet) + Seçeceğiniz 3 Adet Tavuk Tabağı + Patates Kızartması (Büyük) + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Menü 6",
+      "price": "1.095 TL",
+      "description": "Seçeceğiniz 4 Adet Tavuk Tabağı + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151431.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süzme Mercimek Çorbası",
+      "price": "70 TL",
+      "description": "Pürüzsüz hale getirilen mercimeklerin kaynatılarak hazırlandığı bir çorba çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151432.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Viyana Schnitzel",
+      "price": "280 TL",
+      "description": "Schnitzel tavuk göğüs, özel soslu fettuccine, mevsim yeşillikleri, Sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151444.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Viyana Pirzola",
+      "price": "290 TL",
+      "description": "Schnitzel tavuk göğüs, piliç but (Derisiz, kemiksiz). Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151445.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Bonfile",
+      "price": "270 TL",
+      "description": "Tavuk bonfile göğüs. Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola",
+      "price": "290 TL",
+      "description": "Piliç but (Derisiz, kemiksiz). Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151447.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Dana",
+      "price": "430 TL",
+      "description": "Jülyen dana eti, mantar, kapya biberi, köy biberi, jalapeno biberi, napoliten sos, pulbiber, isot. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Green Special",
+      "price": "375 TL",
+      "description": "Dana zırh köfte, Schnitzel tavuk göğüs, piliç but (Derisiz, kemiksiz). Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151449.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hindi Fileto",
+      "price": "300 TL",
+      "description": "Soya soslu beybi bonfile. Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151450.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "350 TL",
+      "description": "Dana zırh köfte. Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151451.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zırh Köfte",
+      "price": "340 TL",
+      "description": "Dana zırh köfte. Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151452.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zırh Köfte & Tavuk Pirzola",
+      "price": "315 TL",
+      "description": "Dana zırh köfte, piliç but (Derisiz, kemiksiz). Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151453.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norveç Somon",
+      "price": "430 TL",
+      "description": "Somon, özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151454.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Soslu Tavuk",
+      "price": "260 TL",
+      "description": "Soya sos, kapya biberi, köy biberi, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151456.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Napoliten sos, kapya biberi, jalapeno biberi, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151457.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Köri baharatlı sos, kapya biberi, köy biberi, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola Kavurma",
+      "price": "290 TL",
+      "description": "Soya sos, arpacık soğan, kokteyl domates, kapya biberi, köy biberi, mantar, kekik, tavuk but. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kekikli Tavuk Pirzola",
+      "price": "290 TL",
+      "description": "Tavuk but, mantar, kekik, özel sos. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151460.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Barbekü sos, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151461.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Tavuk",
+      "price": "270 TL",
+      "description": "Jülyen tavuk göğüs, mantar, mantar sos, özel sos. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151463.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Peynir Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Jülyen tavuk göğüs, cheddar sos. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sweet Chili Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Acı tatlı sos, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buffalo Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Buffalo acı sos, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151467.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola Patates",
+      "price": "215 TL",
+      "description": "Piliç but (Derisiz, kemiksiz). Özel soslu fettuccine, mevsim yeşillikleri, sambal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65739361.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola Fettuccine",
+      "price": "215 TL",
+      "description": "Özel soslu fettuccine, piliç but, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65739362.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Teriyaki Soslu Tavuk",
+      "price": "270 TL",
+      "description": "Teriyaki sos, kapya biberi, jalapeno biberi, mantar, jülyen tavuk göğüs. Özel soslu fettuccine, mevsim yeşillikleri ile"
+    },
+    {
+      "name": "Fettuccine Pirzola",
+      "price": "200 TL",
+      "description": "Özel soslu fettuccine, piliç but (Derisiz, kemiksiz), frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151469.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Tavuk Pirzola",
+      "price": "200 TL",
+      "description": "Penne al dente, tavuk pirzola, özel sos, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Tavuk Fileto",
+      "price": "195 TL",
+      "description": "Penne al dente, tavuk beybi, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151471.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zırh Köfte Penne",
+      "price": "230 TL",
+      "description": "Penne al dente, dana zırh köfte, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Schnitzel",
+      "price": "200 TL",
+      "description": "Penne al dente, Schnitzel tavuk göğüs, özel sos, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Penne",
+      "price": "155 TL",
+      "description": "Penne al dente, mantar, özel sos, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151474.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Napolitan Soslu Penne",
+      "price": "165 TL",
+      "description": "Penne al dente, mantar, napoliten sos, siyah zeytin, özel sos, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151475.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fettuccine Schnitzel",
+      "price": "200 TL",
+      "description": "Schnitzel tavuk göğüs, özel soslu fettuccine, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Fettuccine",
+      "price": "155 TL",
+      "description": "Özel soslu fettuccine, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Fettuccine",
+      "price": "190 TL",
+      "description": "Tulum peyniri, ceviz, özel soslu fettuccine, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151478.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fettuccine Zırh Köfte",
+      "price": "230 TL",
+      "description": "Dana zırh köfte, özel soslu fettuccine, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fettuccine Tavuk Fileto",
+      "price": "195 TL",
+      "description": "Tavuk göğüs fileto, özel soslu fettuccine, frenk maydanoz, parmesan peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151480.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto Soslu Penne",
+      "price": "190 TL",
+      "description": "Penne al dente,pesto sos, özel sos, frenk maydanoz, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65739373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kayseri Mantısı",
+      "price": "250 TL",
+      "description": "Yoğurt, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65739410.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Norveç Somon Salata",
+      "price": "430 TL",
+      "description": "Somon, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65739378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Special Salata",
+      "price": "255 TL",
+      "description": "Tavuk göğüs beybi, schnitzel tavuk göğüs, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, Sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151487.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirzola Salata",
+      "price": "245 TL",
+      "description": "Piliç but (derisiz, kemiksiz), karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Soslu Salata",
+      "price": "255 TL",
+      "description": "Soya sos, kapya biberi, köy biberi, mantar, jülyen tavuk göğüs, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşilzeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Salata",
+      "price": "210 TL",
+      "description": "Ezine beyaz peyniri, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Viyana Salata",
+      "price": "230 TL",
+      "description": "Schnitzel tavuk göğüs, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, Sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "250 TL",
+      "description": "Ton balığı, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellim Salata",
+      "price": "225 TL",
+      "description": "Kıbrıs hellim peyniri, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meksika Salata",
+      "price": "360 TL",
+      "description": "Soya sos, mantar, kapya biberi, köy biberi, jülyen dana eti, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Tulum Peynirli Salata",
+      "price": "240 TL",
+      "description": "Tulum peyniri, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Tavuk Fileto Salata",
+      "price": "230 TL",
+      "description": "Tavuk fileto, karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Mevsim Salata",
+      "price": "150 TL",
+      "description": "Karabuğday, kırmızılahana, havuç, mısır, siyah zeytin, yeşil zeytin, kornişon turşu, domates, salatalık, limon dilimi, özel sos, mevsim yeşillikleri, sezar sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "105 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baby Chicken Tenders + Patates Kızartması",
+      "price": "270 TL",
+      "description": "Baby Chicken Tenders + Patates Kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36075887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekstra Zırh Köfte",
+      "price": "130 TL",
+      "description": "Ekstra köfte",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36188114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151505.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151507.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151510.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Schweppes (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151511.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "48 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yayık Ayran (33 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151512.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "60 TL",
+      "description": "Limon suyu, şeker ve su ile hazırlanan içecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36074393.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "27 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151515.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "19 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151517.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "80 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151520.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu",
+      "price": "80 TL",
+      "description": "Taze sıkılmış",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151521.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Nar Suyu",
+      "price": "80 TL",
+      "description": "Taze sıkılmış",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Karışık Meyve Suyu",
+      "price": "80 TL",
+      "description": "Portakal, nar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151523.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sezar Sos (40 gr.)",
+      "price": "20 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151524.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fesleğen Sos (40 gr.)",
+      "price": "20 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Sos (40 gr.)",
+      "price": "21 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151526.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beğendi (150 gr.)",
+      "price": "40 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151527.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Sos (150 gr.)",
+      "price": "55 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34615081.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sambal Sos (40 gr.)",
+      "price": "20 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34615085.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sweet Chili Sos (40 gr.)",
+      "price": "26 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34615099.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/18151529.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/pbvl/zirve-kokorec-pbvl",
+  "google": "",
+  "products": [
+    {
+      "name": "Yarım Ekmek Arası Kokoreç",
+      "price": "230 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Kokoreç",
+      "price": "350 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451984.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Kokoreç",
+      "price": "460 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Söğüş",
+      "price": "310 TL",
+      "description": "Lavaş ile servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66508227.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çeyrek Ekmek Arası Kokoreç",
+      "price": "150 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yarım Ekmek Arası Kokoreç",
+      "price": "230 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çeyrek Ekmek Arası Kokoreç",
+      "price": "150 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3/4 Ekmek Arası Kokoreç",
+      "price": "350 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451984.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Ekmek Arası Kokoreç",
+      "price": "460 TL",
+      "description": "Baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66451997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk Şiş",
+      "price": "370 TL",
+      "description": "Közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "400 TL",
+      "description": "Közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452606.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "390 TL",
+      "description": "Közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452635.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kanat",
+      "price": "380 TL",
+      "description": "Közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452678.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Pirzola",
+      "price": "360 TL",
+      "description": "Közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452730.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Kelebek Tavuk",
+      "price": "350 TL",
+      "description": "Közlenmiş domates, közlenmiş biber ile"
+    },
+    {
+      "name": "Kanat (1 kg.)",
+      "price": "650 TL",
+      "description": "közlenmiş domates, biber, soğan, soğan salatası, lavaş, haydari"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "180 TL",
+      "description": "Domates, maydanoz, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452098.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap Dürüm",
+      "price": "210 TL",
+      "description": "Domates, maydanoz, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte Dürüm",
+      "price": "210 TL",
+      "description": "Domates, maydanoz, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452508.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Söğüş",
+      "price": "310 TL",
+      "description": "Lavaş ile servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66508227.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Söğüş (Porsiyon)",
+      "price": "600 TL",
+      "description": "Lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66508522.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452752.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "70 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "50 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452790.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66452900.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

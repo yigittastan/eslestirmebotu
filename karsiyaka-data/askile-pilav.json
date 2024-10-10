@@ -1,0 +1,375 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/bw1u/ask-ile-pilav",
+  "google": "",
+  "products": [
+    {
+      "name": "Menü 1",
+      "price": "175 TL",
+      "description": "Tavuklu Pilav + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520387.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "168 TL",
+      "description": "Tavuklu Pilav + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520402.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 3",
+      "price": "325 TL",
+      "description": "2 Adet Tavuklu Pilav + Ayran (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4",
+      "price": "335 TL",
+      "description": "2 Adet Tavuklu Pilav + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520654.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 13",
+      "price": "257 TL",
+      "description": "Kuru Fasulye + Sade Pirinç Pilavı + Yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520840.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 15",
+      "price": "200 TL",
+      "description": "Tavuklu Ciğerli Pilav + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520859.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 16",
+      "price": "190 TL",
+      "description": "Tavuklu Ciğerli Pilav + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 17",
+      "price": "350 TL",
+      "description": "2 Adet Tavuklu Ciğerli Pilav + Ayran (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 18",
+      "price": "360 TL",
+      "description": "2 Adet Tavuklu Ciğerli Pilav + Coca-Cola (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65520915.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 22",
+      "price": "205 TL",
+      "description": "Tavuklu Ciğerli Nohutlu Pilav + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65521144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 24",
+      "price": "365 TL",
+      "description": "2 Adet Tavuklu Ciğerli Nohutlu Pilav + Ayran (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65521177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 5",
+      "price": "550 TL",
+      "description": "3 Adet Tavuklu Pilav + Patates Kızartması + Ayran (1 L.)"
+    },
+    {
+      "name": "Menü 6",
+      "price": "565 TL",
+      "description": "3 Adet Tavuklu Pilav + Patates Kızartması + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Menü 7",
+      "price": "175 TL",
+      "description": "Ciğerli Pilav + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Menü 8",
+      "price": "168 TL",
+      "description": "Ciğerli Pilav + Ayran (20 cl.9"
+    },
+    {
+      "name": "Menü 9",
+      "price": "325 TL",
+      "description": "2 Adet Ciğerli Pilav + Ayran (1 L.)"
+    },
+    {
+      "name": "Menü 10",
+      "price": "335 TL",
+      "description": "2 Adet Ciğerli Pilav + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Menü 11",
+      "price": "550 TL",
+      "description": "3 Adet Ciğerli Pilav + Patates Kızartması + Ayran (1 L.)"
+    },
+    {
+      "name": "Menü 12",
+      "price": "565 TL",
+      "description": "3 Adet Ciğerli Pilav + Patates Kızartması + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Menü 14",
+      "price": "285 TL",
+      "description": "Kuru Fasulye + Tavuklu Pilav + Yoğurt"
+    },
+    {
+      "name": "Menü 19",
+      "price": "570 TL",
+      "description": "3 Adet Tavuklu Ciğerli Pilav + Patates Kızartması + Ayran (1 L.)"
+    },
+    {
+      "name": "Menü 20",
+      "price": "580 TL",
+      "description": "3 Adet Tavuklu Ciğerli Pilav + Patates Kızartması + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Menü 21",
+      "price": "215 TL",
+      "description": "Tavuklu Ciğerli Nohutlu Pilav + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Menü 23",
+      "price": "380 TL",
+      "description": "2 Adet Tavuklu Ciğerli Nohutlu Pilav + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Menü 25",
+      "price": "590 TL",
+      "description": "3 Adet Tavuklu Ciğerli Nohutlu Pilav + Patates Kızartması + Ayran (1 L.)"
+    },
+    {
+      "name": "Menü 26",
+      "price": "600 TL",
+      "description": "3 Adet Tavuklu Ciğerli Nohutlu Pilav + Patates Kızartması + Coca-Cola (1 L.)"
+    },
+    {
+      "name": "Kuru Fasulye",
+      "price": "125 TL",
+      "description": "(Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kızartma",
+      "price": "205 TL",
+      "description": "Mevsim sebzeleri. Yoğurt sos ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Domates Soslu Karışık Kızartma",
+      "price": "225 TL",
+      "description": "Mevsim sebzeleri. Yoğurt sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519360.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Pilav",
+      "price": "145 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65509789.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pilav",
+      "price": "125 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65509791.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "145 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65509892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Pirinç Pilavı",
+      "price": "105 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65509886.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Ciğerli Pilav",
+      "price": "160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Ciğerli Pilav",
+      "price": "160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Tavuklu Pilav",
+      "price": "160 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65509794.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şehriyeli Bulgur Pilavı",
+      "price": "105 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519259.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Kuru Fasulye",
+      "price": "145 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Ciğerli Nohutlu Pilav",
+      "price": "175 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519208.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğerli Şehriyeli Bulgur Pilavı",
+      "price": "145 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519310.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Şehriyeli Bulgur Pilavı",
+      "price": "145 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519280.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Ciğerli Nohutlu Şehriyeli Bulgur Pilavı",
+      "price": "175 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65521208.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütaş Yoğurt (250 gr.)",
+      "price": "40 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519456.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "105 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Patates Kızartması",
+      "price": "135 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519382.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519384.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519387.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519389.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Limonata (25 cl.)",
+      "price": "40 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519449.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nescafe Xpress Original (25 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519539.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nescafe Xpress Vanilya (25 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Nescafe Xpress Cafe Choco (25 cl.)",
+      "price": "70 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "40 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519444.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (29,5 cl.)",
+      "price": "43 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519447.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Frutti C Max Limon (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519433.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519436.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519439.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519441.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519392.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Limonata (1 L.)",
+      "price": "90 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519408.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65519611.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

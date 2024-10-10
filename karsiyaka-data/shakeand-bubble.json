@@ -1,0 +1,143 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ldm4/shake-and-bubble",
+  "google": "",
+  "products": [
+    {
+      "name": "Peanut Mochi",
+      "price": "69 TL",
+      "description": "Yer fıstığı mochi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880933.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pumpkin Mochi",
+      "price": "69 TL",
+      "description": "Bal kabağı mochi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880974.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pineapple Mochi",
+      "price": "69 TL",
+      "description": "Ananas mochi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43881001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Raspberry Mochi",
+      "price": "69 TL",
+      "description": "Frambuaz mochi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43881028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Matcha Mochi",
+      "price": "69 TL",
+      "description": "Matcha tozu mochi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43881043.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Blueberry Margherita",
+      "price": "120 TL",
+      "description": "Yaban mersini, ananas suyu, çilek bubble",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66757170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hookey Wolf Mango Star",
+      "price": "150 TL",
+      "description": "Çilek bubble, portakal, mango püresi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43878941.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bobo's Milky Mango",
+      "price": "150 TL",
+      "description": "Çilek bubble, mango püresi, çilek, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43878975.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akıllı Bıdık's Ice Latte",
+      "price": "150 TL",
+      "description": "Karamel bubble, espresso shot, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43879326.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brenda The Special",
+      "price": "150 TL",
+      "description": "Yeşil elma bubble, yeşil elma püresi, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43879446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mr. Jink Orange & Raspberry Bubble",
+      "price": "150 TL",
+      "description": "Yeşil elma bubble, portakal, frambuaz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880466.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pixy's Lovely Apple Lemonade",
+      "price": "92 TL",
+      "description": "Yeşil elma bubble, limonata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43879556.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dixie Crazy Lemonade",
+      "price": "130 TL",
+      "description": "Çilek bubble, limonata, yaban mersini sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880444.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Silver Galaxy",
+      "price": "130 TL",
+      "description": "Yaban mersini bubble, yaban mersini içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880504.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pinacolada Bubble",
+      "price": "150 TL",
+      "description": "Yaban mersini bubble, süt, ananas suyu, Hindistan cevizi",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Rico Bubble",
+      "price": "130 TL",
+      "description": "Yaban mersini bubble, yeşil elma, Hindistan cevizi",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Angry Bubble",
+      "price": "150 TL",
+      "description": "Yaban mersini bubble, böğürtlen püresi, ananas suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sylvester",
+      "price": "130 TL",
+      "description": "Mango bubble, çilek, yeşil elma, tatlı ekşi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dragon",
+      "price": "130 TL",
+      "description": "Yaban mersini bubble, ejder meyvesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43880876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Strawberry Margarita",
+      "price": "120 TL",
+      "description": "Ananas suyu, çilek, yaban mersini bubble",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66090424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kermit Love's Kiwi Bubble",
+      "price": "150 TL",
+      "description": "Taze limon suyu, kivi, yeşil elma, çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66756516.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Angry Birds",
+      "price": "150 TL",
+      "description": "Taze limon suyu, karpuz, çilek, lime bubble"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43878682.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

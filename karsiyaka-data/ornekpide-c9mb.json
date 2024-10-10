@@ -1,0 +1,243 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/c9mb/ornek-pide-c9mb",
+  "google": "",
+  "products": [
+    {
+      "name": "Mercimek Çorbası",
+      "price": "112 TL140 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "112 TL140 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "156 TL195 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741004.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "56 TL70 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740612.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "100 TL125 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Lahmacun",
+      "price": "112 TL140 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740614.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Etli Lahmacun",
+      "price": "136 TL170 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Etli Kaşarlı Lahmacun",
+      "price": "136 TL170 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740616.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "160 TL200 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740805.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "160 TL200 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740806.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "176 TL220 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Mantarlı Pide",
+      "price": "176 TL220 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740809.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Etli Pide",
+      "price": "200 TL250 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşı Etli Kaşarlı Pide",
+      "price": "200 TL250 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pide",
+      "price": "160 TL200 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Kaşarlı Pide",
+      "price": "160 TL200 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740817.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "160 TL200 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740821.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Yumurtalı Pide",
+      "price": "168 TL210 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Sucuklu Pide",
+      "price": "176 TL220 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Mantarlı Pide",
+      "price": "176 TL220 TL",
+      "description": "Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740824.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pide",
+      "price": "224 TL280 TL",
+      "description": "Kıyma, kuşbaşı, kaşar, yumurta. Roka, domates, haydari, ezme ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66740919.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Kebap",
+      "price": "232 TL290 TL",
+      "description": "Salata, bulgur pilavı, haydari, ezme, közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741475.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Kebap",
+      "price": "232 TL290 TL",
+      "description": "Salata, bulgur pilavı, haydari, ezme, közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş",
+      "price": "232 TL290 TL",
+      "description": "Salata, bulgur pilavı, haydari, ezme, közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Kanat",
+      "price": "232 TL290 TL",
+      "description": "Salata, bulgur pilavı, haydari, ezme, közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741485.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "232 TL290 TL",
+      "description": "Salata, bulgur pilavı, haydari, ezme, közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741486.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Izgara",
+      "price": "800 TL1.000 TL",
+      "description": "Adana kebap, tavuk şiş, ızgara köfte, salata, bulgur pilavı, haydari, ezme, közlenmiş domates, közlenmiş biber ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürüm",
+      "price": "148 TL185 TL",
+      "description": "Soğan, domates, roka",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Urfa Dürüm",
+      "price": "148 TL185 TL",
+      "description": "Soğan, domates, roka",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Tavuk Dürüm",
+      "price": "148 TL185 TL",
+      "description": "Soğan, domates, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte Dürüm",
+      "price": "148 TL185 TL",
+      "description": "Soğan, domates, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741492.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza (Orta Boy)",
+      "price": "160 TL200 TL",
+      "description": "Sucuk, salam, mantar, kaşar peyniri, mısır, özel sos. Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741493.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Örnek Special Pizza (Orta Boy)",
+      "price": "160 TL200 TL",
+      "description": "Sucuk, salam, mantar, kaşar peyniri, mısır, özel sos. Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741494.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Köfte",
+      "price": "232 TL290 TL",
+      "description": "Salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Köfte",
+      "price": "232 TL290 TL",
+      "description": "Salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741500.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Tavuk",
+      "price": "232 TL290 TL",
+      "description": "Salata, ezme, haydari ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741501.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Tavuk",
+      "price": "232 TL290 TL",
+      "description": "Salata, ezme, haydari ile"
+    },
+    {
+      "name": "Kiremitte Kuşbaşı Eti",
+      "price": "240 TL300 TL",
+      "description": "Salata, ezme, haydari ile"
+    },
+    {
+      "name": "Kiremitte Kaşarlı Kuşbaşı Eti",
+      "price": "240 TL300 TL",
+      "description": "Salata, ezme, haydari ile"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66741521.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

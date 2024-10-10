@@ -1,0 +1,312 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/xit5/big-baker-xit5",
+  "google": "",
+  "products": [
+    {
+      "name": "BB Hamburger",
+      "price": "275 TL",
+      "description": "Kare ekmek içerisine; 170 gr. BB burger köftesi, cheddar peyniri, Baker sos, karamelize soğan, közlenmiş biber, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887925.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Big Baker Anne Hamburger",
+      "price": "180 TL",
+      "description": "(100 gr.) BB burger köftesi, Baker sos, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888009.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası",
+      "price": "60 TL",
+      "description": "8 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "245 TL",
+      "description": "150 gr. BB burger köftesi, Baker sos, cheddar peyniri, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887945.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburgalı Orta Boy Pizza (30 cm.)",
+      "price": "275 TL",
+      "description": "Mozzarella peyniri, füme kaburga dilimleri, roka yaprakları, rende parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Orta Boy Pizza (30 cm.)",
+      "price": "265 TL",
+      "description": "Mozzarella peyniri, salam, sosis, sucuk, mantar, siyah zeytin, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BB Hamburger",
+      "price": "275 TL",
+      "description": "Kare ekmek içerisine; 170 gr. BB burger köftesi, cheddar peyniri, Baker sos, karamelize soğan, közlenmiş biber, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887925.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Burger",
+      "price": "235 TL",
+      "description": "150 gr. BB burger köftesi, Baker sos, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887928.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "245 TL",
+      "description": "150 gr. BB burger köftesi, Baker sos, cheddar peyniri, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887945.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli Burger",
+      "price": "265 TL",
+      "description": "150 gr. BB burger köftesi, Baker sos, cheddar peyniri, edam, mozzarella peyniri, turşu, yeşillik, karamelize soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887950.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Burger",
+      "price": "255 TL",
+      "description": "150 gr. BB burger köftesi, cheddar peyniri, acı acı Mexican sos, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887958.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köz Patlıcanlı Burger",
+      "price": "260 TL",
+      "description": "150 gr. BB burger köftesi, Baker sos, mozzarella peyniri, közlenmiş patlıcan, közlenmiş biber, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887962.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Soslu Burger",
+      "price": "255 TL",
+      "description": "150 gr. BB burger köftesi, cheddar peyniri, mantar sos, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Big Baker Anne Hamburger",
+      "price": "180 TL",
+      "description": "(100 gr.) BB burger köftesi, Baker sos, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888009.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şef Burger",
+      "price": "205 TL",
+      "description": "(130 gr.) BB burger köftesi, Baker sos, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Peynirli Burger",
+      "price": "255 TL",
+      "description": "150 gr. BB burger köftesi, mozzarella peyniri, fesleğenli domates sos, mor soğan, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bbq Soslu Burger",
+      "price": "255 TL",
+      "description": "150 gr. BB burger köftesi, cheddar peyniri, BBQ sos, jalapeno biberi, mor soğan, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jambonlu Burger",
+      "price": "265 TL",
+      "description": "150 gr. BB burger köftesi, cheddar peyniri, dana jambon, Baker sos, karamelize soğan, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888114.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Cheddar Peynirli Burger",
+      "price": "275 TL",
+      "description": "150 gr. BB burger köftesi, cheddar peyniri, pastırma dilimleri, Baker sos, karamelize soğan, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49887972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Arnavut Burger",
+      "price": "255 TL",
+      "description": "150 gr. BB burger köftesi, cheddar peyniri, acı Arnavut sos, mor soğan, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888291.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüf Mantar Soslu Burger",
+      "price": "275 TL",
+      "description": "Burger köftesi, trüf mantar sos, çift cheddar peyniri, karamelize soğan, karamelize mantar, turşu, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888510.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Burger",
+      "price": "200 TL",
+      "description": "Cajun baharatlı çıtır tavuklar, Baker sos, domates, turşu, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburgalı Orta Boy Pizza (30 cm.)",
+      "price": "275 TL",
+      "description": "Mozzarella peyniri, füme kaburga dilimleri, roka yaprakları, rende parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Peynirli Orta Boy Pizza (30 cm.)",
+      "price": "275 TL",
+      "description": "Mozzarella peyniri, edam peyniri, cheddar peyniri, dil peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888834.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köz Patlıcanlı Peynirli Orta Boy Pizza (30 cm.)",
+      "price": "255 TL",
+      "description": "Mozzarella peyniri, közlenmiş patlıcan, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888838.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Etli Pizza Orta Boy Pizza (30 cm.)",
+      "price": "255 TL",
+      "description": "Mozzarella peyniri, salam, sucuk, sosis",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza Orta Boy Pizza (30 cm.)",
+      "price": "230 TL",
+      "description": "Mozzarella peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Rokalı Orta Boy Pizza (30 cm.)",
+      "price": "230 TL",
+      "description": "Mozzarella peyniri, roka yaprakları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Funghi Cheddar Peynirli Orta Boy Pizza (30 cm.)",
+      "price": "240 TL",
+      "description": "Mozzarella peyniri, mantar, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889011.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Orta Boy Pizza (30 cm.)",
+      "price": "265 TL",
+      "description": "Mozzarella peyniri, salam, sosis, sucuk, mantar, siyah zeytin, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Orta Boy Pizza (30 cm.)",
+      "price": "260 TL",
+      "description": "Mozzarella peyniri, ton balığı, soğan, kapari",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Orta Boy Pizza (30 cm.)",
+      "price": "240 TL",
+      "description": "Mozzarella peyniri, mantar, mısır, zeytin, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889023.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklu Jalapenolu Orta Boy Pizza (30 cm.)",
+      "price": "245 TL",
+      "description": "Mozzarella peyniri, mantar, çıtır tavuk parçaları, jalapeno biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49889028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlı Acı Tavuk",
+      "price": "240 TL",
+      "description": "Patates kızartması, dip sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892040.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parmak Tavuk",
+      "price": "240 TL",
+      "description": "Patates kızartması, ballı hardal sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892081.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Baharatlı Çıtır Tavuk",
+      "price": "240 TL",
+      "description": "Patates kızartması, dip sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892088.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Baharatlı Patates Kızartması",
+      "price": "50 TL",
+      "description": "Cajun baharatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892102.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası",
+      "price": "60 TL",
+      "description": "8 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Philadelphia Cheese Steak Sandviç",
+      "price": "335 TL",
+      "description": "Çapata ekmeğine; 150 gr. slice dana antrikot eti, salamura mantar, karamelize soğan, cheddar peyniri. Patates kızartması, jalapeno biberi ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49888782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892126.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892128.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892129.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (29,5 cl.)",
+      "price": "25 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "50 TL",
+      "description": "Pet şişe içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "50 TL",
+      "description": "Pet şişe içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892290.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "50 TL",
+      "description": "Pet şişe içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "50 TL",
+      "description": "Pet şişe içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49892434.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

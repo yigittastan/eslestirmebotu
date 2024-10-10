@@ -1,0 +1,302 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/e9dj/makarnam-e9dj",
+  "google": "",
+  "products": [
+    {
+      "name": "Körili Tavuklu Makarnam Menü",
+      "price": "229 TL248 TL",
+      "description": "Körili Tavuklu Makarnam + Seçeceğiniz İçecek (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54253776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Kişilik Enfes Makarnam Menü",
+      "price": "225 TL",
+      "description": "Seçeceğiniz Enfes Makarnam + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36595561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enfes 2'li Makarnam Menü",
+      "price": "379 TL",
+      "description": "Seçeceğiniz 2 Adet Enfes Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411877.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Tavuklu Makarnam",
+      "price": "209 TL",
+      "description": "Linguine makarna, tavuk, kapya biber, mantar, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Makarnam",
+      "price": "199 TL",
+      "description": "Pipette makarna, eritme peynir, cheddar sos, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411888.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Kişilik Gurme Makarnam Menü",
+      "price": "250 TL",
+      "description": "Seçeceğiniz Gurme Makarnam + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36595562.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Kremalı Tavuklu Makarnam + Domatesli Makarnam)",
+      "price": "320 TL",
+      "description": "Kremalı Tavuklu Makarnam + Domatesli Makarnam + 2 Adet Coca-Cola (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66712464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Tavuklu Makarnam Menü",
+      "price": "229 TL248 TL",
+      "description": "Körili Tavuklu Makarnam + Seçeceğiniz İçecek (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54253776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Tavuklu Makarnam + Kremalı Tavuklu Makarnam Menü",
+      "price": "370 TL496 TL",
+      "description": "Körili Tavuklu Makarnam + Kremalı Tavuklu Makarnam + 2 Adet Seçeceğiniz İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59601448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Tavuklu Makarnam Menü",
+      "price": "219 TL248 TL",
+      "description": "Kremalı Tavuklu Makarnam + İçecek (45 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49567527.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Kişilik Avantajlı Makarnam Menü",
+      "price": "200 TL",
+      "description": "Seçeceğiniz Avantajlı Makarnam + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36595560.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Kişilik Enfes Makarnam Menü",
+      "price": "225 TL",
+      "description": "Seçeceğiniz Enfes Makarnam + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36595561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Kişilik Gurme Makarnam Menü",
+      "price": "250 TL",
+      "description": "Seçeceğiniz Gurme Makarnam + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36595562.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantaj 2'li Makarnam Menü",
+      "price": "329 TL",
+      "description": "Seçeceğiniz 2 Adet Avantajlı Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karnaval 2'li Makarnam Menü",
+      "price": "359 TL",
+      "description": "Seçeceğiniz 1 Adet Avantajlı Makarnam + Seçeceğiniz 1 Adet Enfes Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411879.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enfes 2'li Makarnam Menü",
+      "price": "379 TL",
+      "description": "Seçeceğiniz 2 Adet Enfes Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411877.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İkisi Bir Arada Makarnam Menü",
+      "price": "399 TL",
+      "description": "Seçeceğiniz 1 Adet Avantajlı Makarnam + Seçeceğiniz 1 Adet Gurme Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411880.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Leziz 2'li Makarnam Menü",
+      "price": "419 TL",
+      "description": "Seçeceğiniz 1 Adet Enfes Makarnam + Seçeceğiniz 1 Adet Gurme Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411881.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gurme 2'li Makarnam Menü",
+      "price": "469 TL",
+      "description": "Seçeceğiniz 2 adet Gurme Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411878.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üçü Bir Arada Makarnam Menü",
+      "price": "499 TL",
+      "description": "Seçeceğiniz 1 Adet Avantajlı Makarnam + Seçeceğiniz 1 Adet Enfes Makarnam + Seçeceğiniz 1 Adet Gurme Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Leziz 3'lü Makarnam Menü",
+      "price": "529 TL",
+      "description": "Seçeceğiniz 2 Adet Enfes Makarnam + Seçeceğiniz 1 Adet Gurme Makarnam + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411883.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domatesli Makarnam",
+      "price": "169 TL",
+      "description": "Penne makarna, domates sos, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soyalı Sebzeli Makarnam",
+      "price": "179 TL",
+      "description": "Linguine makarna, susam, teriyaki sos, mantar, kapya biber, havuç, kabak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64616254.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto Soslu Makarnam",
+      "price": "189 TL",
+      "description": "Penne makarna, pesto sos, mantar, kapya biber, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411886.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Makarnam",
+      "price": "199 TL",
+      "description": "Pipette makarna, eritme peynir, cheddar sos, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411888.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Makarnam",
+      "price": "199 TL",
+      "description": "Penne makarna, tavuk, domates sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45188012.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Tavuklu Makarnam",
+      "price": "199 TL",
+      "description": "Penne makarna, acılı domates sos, tavuk, kapya biber, acı biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Tavuklu Makarnam",
+      "price": "209 TL",
+      "description": "Linguine makarna, tavuk, kapya biber, mantar, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soyalı Tavuklu Makarnam",
+      "price": "209 TL",
+      "description": "Linguine Makarnam, tavuk, mantar, kapya biber, havuç, kabak, maydanoz, kavrulmuş susam, kekik, teriyaki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37430415.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Tavuklu Makarnam",
+      "price": "209 TL",
+      "description": "Penne makarna, tavuk, kapya biber, mantar, krema, köri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Makarnam",
+      "price": "229 TL",
+      "description": "Linguine makarna, dana kıyma, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Makarnam",
+      "price": "219 TL",
+      "description": "Linguine makarna, köfte, domates sosu, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60008821.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu",
+      "price": "20 TL",
+      "description": "Biber turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/9749560.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "69 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65315157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Kup",
+      "price": "69 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65315174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (500 ml.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411901.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (200 ml.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (285 ml.)",
+      "price": "35 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411899.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (450 ml.)",
+      "price": "39 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30040429.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (450 ml.)",
+      "price": "39 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30040430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Karışık (330 ml.)",
+      "price": "39 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48283877.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Şeftali (330 ml.)",
+      "price": "39 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48283917.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Vişne (330 ml.)",
+      "price": "39 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48283918.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "49 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/9749569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "49 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/9749571.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (1 L.)",
+      "price": "49 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43700305.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "49 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35411905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "39 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52908952.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Mango (33 cl.)",
+      "price": "39 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52908944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/9749574.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

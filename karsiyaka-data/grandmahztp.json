@@ -1,0 +1,384 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/hztp/grandma-hztp",
+  "google": "",
+  "products": [
+    {
+      "name": "Glütensiz Şekersiz İncirli Çikolatalı Kek",
+      "price": "321 TL",
+      "description": "İncir, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahvaltı Salatası",
+      "price": "260 TL",
+      "description": "Domates, salatalık, Gemlik sele zeytin, Ayvalık yeşil zeytin, beyaz peynir kreması, kayısı, yumurta, simit, kruton",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado & Poşe Yumurta",
+      "price": "471 TL",
+      "description": "Ekşi maya ekmeği, poşe yumurta, guacamole sos, kırmızı soğan turşusu, frenk soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Scone İstanbul",
+      "price": "498 TL",
+      "description": "Otlu scone, göz yumurta, acuka, labne peyniri, sotelenmiş hindi füme, dereotlu yoğurt sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menemen A La Grandma",
+      "price": "376 TL",
+      "description": "Poşe yumurta, labne peyniri, ekşi maya ekmeği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199592.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Tavuk Kase)",
+      "price": "360 TL400 TL",
+      "description": "Tavuk Kase + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Fit Omlet",
+      "price": "369 TL",
+      "description": "4 adet yumurta akı, karışık otlu beyaz omlet, labne. Mevsim yeşillikleri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027092.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado & Poşe Yumurta",
+      "price": "471 TL",
+      "description": "Ekşi maya ekmeği, poşe yumurta, guacamole sos, kırmızı soğan turşusu, frenk soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Egg Melt Hindi Füme",
+      "price": "579 TL",
+      "description": "Brioche ekmeğine; cheddar peyniri, sotelenmiş hindi füme, göz yumurta, karamelize soğan, acuka, İzmir tulum peyniri, ev yapımı acılı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199586.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menemen A La Grandma",
+      "price": "376 TL",
+      "description": "Poşe yumurta, labne peyniri, ekşi maya ekmeği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199592.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Scone İstanbul",
+      "price": "498 TL",
+      "description": "Otlu scone, göz yumurta, acuka, labne peyniri, sotelenmiş hindi füme, dereotlu yoğurt sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Nohutlu Quinoa",
+      "price": "384 TL",
+      "description": "Çıtır nohut, otlu kinoa tohumu, çoban salata, süzme yoğurtlu kuru cacık, tahin sos, kornişon turşu, kırmızı soğan turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200452.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahvaltı Salatası",
+      "price": "260 TL",
+      "description": "Domates, salatalık, Gemlik sele zeytin, Ayvalık yeşil zeytin, beyaz peynir kreması, kayısı, yumurta, simit, kruton",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200479.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Quinoa Granola",
+      "price": "328 TL",
+      "description": "Quinoa ve yulaftan yapılmış granola, süzme yoğurt, vişneli elma püresi, muz, bal, mavi haşhaş"
+    },
+    {
+      "name": "French Brioche",
+      "price": "567 TL",
+      "description": "Brioche ekmeğine; acuka, poşe yumurta, avokado, sotelenmiş cherry domates, labne peyniri"
+    },
+    {
+      "name": "Portakallı Fındıklı Baton Kek",
+      "price": "230 TL",
+      "description": "Portakal, fındık",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Haşhaşlı Limonlu Baton Kek",
+      "price": "159 TL",
+      "description": "Haşhaş, limon"
+    },
+    {
+      "name": "Peynirli Poğaça",
+      "price": "53 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Buğdaylı Peynirli Poğaça",
+      "price": "53 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dereotlu Peynirli Poğaça",
+      "price": "53 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kekikli Sarımsaklı Zeytinli Poğaça",
+      "price": "53 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027119.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Siyez Unlu Ispanaklı Poğaça",
+      "price": "57 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027118.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Siyez Unlu Peynirli Poğaça",
+      "price": "57 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027120.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Puffy Pastry Pırasalı",
+      "price": "75 TL",
+      "description": "Pırasa, çörek otu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66810110.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Elde Açma Börek",
+      "price": "247 TL",
+      "description": "Ispanak, çörek otu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66810586.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli & Çikolatalı Croissant",
+      "price": "231 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Croissant",
+      "price": "151 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Croissant",
+      "price": "164 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027136.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Croissant",
+      "price": "225 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027137.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cinnamon Roll",
+      "price": "151 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frankfurter Croissant",
+      "price": "663 TL",
+      "description": "Frankfurter sosis, çırpılmış yumurta, cheddar peyniri, ev yapımı acılı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64200459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Benedict Croissant",
+      "price": "607 TL",
+      "description": "Sade kruvasana; poşe yumurta, hollandaise sos, sotelenmiş roast beef, labne. Ev yapımı acılı sos ile"
+    },
+    {
+      "name": "Grandma Tost",
+      "price": "487,50 TL",
+      "description": "Ev yapımı Grandma ekşi mayalı ekmeğe; acuka, kuru domates, taze kaşar peyniri, pesto sos, hindi füme, tereyağı, yumurta. Taze yeşillikler ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brioche Bun Tost",
+      "price": "657 TL",
+      "description": "Brioche ekmeğine; dil peyniri, cheddar peyniri, roast beef, Hatay ev yapımı biber salçası, kornişon turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sand. Cıabatta Mozarella",
+      "price": "442 TL",
+      "description": "Suda mozarella, pesto sos, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66810472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sand. Croıssant Hindi Füme",
+      "price": "403 TL",
+      "description": "Hindi füme, marul, dil peyniri, çeri domates, salatalık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66810563.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sand. Croıssant Mozarella",
+      "price": "351 TL",
+      "description": "Suda mozarella, domates, roka, pesto sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66810582.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "SAND BAUGET",
+      "price": "442 TL",
+      "description": "Labne, domates, baby turp, frenk soğanı, Meksika biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66812762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Croissant Sandwich",
+      "price": "293 TL",
+      "description": "Salatalık, domates, ezine beyaz peynir, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66812849.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sandviçler Croissant Hindi Füme",
+      "price": "403 TL",
+      "description": "Hindi füme, roka, salatalık, labne, frenk soğanı, acuka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66816227.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Ciabatta Sandviç",
+      "price": "397 TL",
+      "description": "Cheddar peyniri, ezine beyaz peyniri, eski kaşar peyniri, roka, cherry domates, labne peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66816262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Egg",
+      "price": "644 TL",
+      "description": "Brioche ekmeğine; guacamole sos, Mexican sos, kıyma, poşe yumurta, cheddar sos. Salsa sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Croque Madame",
+      "price": "624 TL",
+      "description": "Ekşi maya ekmek, dil peyniri, roast beef, beşamel sos, göz yumurta, kornişon turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199684.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Croissant Toastie",
+      "price": "741 TL",
+      "description": "Dil peyniri, roast beef, İzmir tulum peyniri, çırpılmış yumurta, ev yapımı acılı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64199810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Çikolatalı Brownie",
+      "price": "248 TL",
+      "description": "Double çikolata",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Croissant Sweety",
+      "price": "464 TL",
+      "description": "Sade croissant, yer fıstığı ezmesi, muz, yer fıstığı, krokan, karamel sos, sütlü dondurma",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Havuçlu Kek",
+      "price": "230 TL",
+      "description": "Havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Devil's Kek",
+      "price": "337 TL",
+      "description": "Karamel",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Devıls Kek",
+      "price": "324 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Glütensiz Şekersiz İncirli Çikolatalı Kek",
+      "price": "321 TL",
+      "description": "İncir, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karaorman Meyveli Kek",
+      "price": "296 TL",
+      "description": "Karaorman meyvesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tam Buğdaylı Elmalı Kek",
+      "price": "252 TL",
+      "description": "Elmalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Fındıklı Glütensiz Kek",
+      "price": "354 TL",
+      "description": "Vişne, fındık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "354 TL",
+      "description": "Limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Triple Chocolate Cheesecake",
+      "price": "356 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dereotlu Peynirli Çörek",
+      "price": "215 TL",
+      "description": "Dereotu, peynir"
+    },
+    {
+      "name": "Fındıklı Çikolatalı Kurabiye",
+      "price": "146 TL",
+      "description": "Fındık, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027225.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Parçalı Kurabiye",
+      "price": "120 TL",
+      "description": "Çikolata parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Ev Kurabiyesi",
+      "price": "153 TL",
+      "description": "Adet olarak satılmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66810594.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Tart",
+      "price": "290 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "109 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027240.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "109 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Soda (20 cl.)",
+      "price": "96 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027244.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (50 cl.)",
+      "price": "75 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6027245.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

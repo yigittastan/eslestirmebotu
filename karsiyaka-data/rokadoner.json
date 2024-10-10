@@ -1,0 +1,485 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/mrln/roka-doner",
+  "google": "",
+  "products": [
+    {
+      "name": "Zurna Antakya Dürüm (Tek)",
+      "price": "172,80 TL192 TL",
+      "description": "Kızarmış lavaş ekmeğine; 100 gr. tavuk döner, marul, turşu, kızarmış patates kızartması, roka, mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31448238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Dürüm (Tek)",
+      "price": "129,60 TL144 TL",
+      "description": "Kızarmıs lavaş ekmeğin arasına; 80 gr. tavuk döner, marul, turşu, kızarmış patates, özel Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Dürüm (Buçuk)",
+      "price": "175,50 TL195 TL",
+      "description": "Kızarmış lavaş ekmeğine; 120 gr. tavuk döner, marul, turşu, patates kızartması, özel Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30151964.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Antakya Dürüm (1,5)",
+      "price": "213,30 TL237 TL",
+      "description": "Kızarmış lavaş ekmeğine; 140 gr. tavuk döner, marul, turşu, patates kızartması, roka, mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31443026.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Menü 1",
+      "price": "189,90 TL211 TL",
+      "description": "Antakya Dürüm + Seçeceğiniz Tatlı + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30864978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlı Patates Kızartması",
+      "price": "99,90 TL111 TL",
+      "description": "Roka, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Menü 1",
+      "price": "189,90 TL211 TL",
+      "description": "Antakya Dürüm + Seçeceğiniz Tatlı + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30864978.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buçuk Menü 1",
+      "price": "235,80 TL262 TL",
+      "description": "Buçuk Antakya Dürüm + Seçeceğiniz Tatlı + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31039550.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Menü 1",
+      "price": "279,90 TL311 TL",
+      "description": "Duble Antakya Dürüm + Seçeceğiniz Tatlı + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31085766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tek Menü 2",
+      "price": "197,10 TL219 TL",
+      "description": "Tek Antakya Dürüm + Seçeceğiniz Tatlı + Pepsi (25 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31103377.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buçuk Menü 2",
+      "price": "242,10 TL269 TL",
+      "description": "Buçuk Antakya Dürüm + Seçeceğiniz Tatlı + Pepsi (25 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31103404.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Menü 2",
+      "price": "287,10 TL319 TL",
+      "description": "Double Antakya Dürüm + Seçeceğiniz Tatlı + Pepsi (25 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31104045.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roket Antakya Dürüm Menü",
+      "price": "275,40 TL306 TL",
+      "description": "Roket Antakya Dürüm (Kızarmış çift lavaş ekmeğine; 200 gr. tavuk döner, marul, turşu, patates kızartması, domates, soğan, roka, mayonez, sıcak domates sos) + Sakıpağa Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36086699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm Klasik (50 gr.)",
+      "price": "160 TL",
+      "description": "Kızarmış lavaş ekmeğine; 50 gr. et döner, marul, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm (100 gr.)",
+      "price": "220 TL",
+      "description": "100 gr. et döner, marul, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Et Döner Klasik (50 gr.)",
+      "price": "160 TL",
+      "description": "Jumbo ekmeğine; 50 gr. et döner, marul, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Usulü Zurna Et Döner",
+      "price": "260 TL",
+      "description": "Kızarmış lavaş ekmeğine; 120 gr. et döner, marul turşu, patates kızartması, roka, mayonez, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Usulü Ekmek Arası Et Döner",
+      "price": "220 TL",
+      "description": "Jumbo ekmeğine; 100 gr. et döner, marul, turşu, patates kızartması, roka, mayonez, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Usulü Yarım Ekmek Arası Et Döner (50 gr.)",
+      "price": "160 TL",
+      "description": "50 gr. et döner, marul, turşu, patates kızartması, roka, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66405219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm (Antakya Usulü) (50 gr.)",
+      "price": "160 TL",
+      "description": "Kızarmış lavaş ekmeğine (50 gr.) et döner, marul, turşu, patates kızartması, özel roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66406891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Et Döner",
+      "price": "220 TL",
+      "description": "Jumbo ekmeğine; 100 gr. et döner, marul, domates, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66420659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Et Döner (Klasik)",
+      "price": "260 TL",
+      "description": "Kızarmış lavaş ekmeğine; 120 gr. et döner, marul, domates, soğan"
+    },
+    {
+      "name": "Dolu Dolu Ekmek Arası Köfte",
+      "price": "235 TL",
+      "description": "Jumbo ekmek arasına; 200 gr. ızgara köfte, marul, domates, soğan, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60920984.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Köfte",
+      "price": "195 TL",
+      "description": "Jumbo ekmek arasına; 140 gr. ızgara köfte, marul, domates, soğan, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60921011.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte (1 Kişilik)",
+      "price": "230 TL",
+      "description": "Izgara köfte (140 gr.), patates kızartması, lavaş, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60928163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dolu Dolu Köfte (1 Kişilik)",
+      "price": "265 TL",
+      "description": "Izgara köfte (200 gr.), patates kızartması, lavaş, domates, soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60928175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Dürüm (Tek)",
+      "price": "129,60 TL144 TL",
+      "description": "Kızarmıs lavaş ekmeğin arasına; 80 gr. tavuk döner, marul, turşu, kızarmış patates, özel Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Tavuk Döner Dürüm (80 gr.)",
+      "price": "129,60 TL144 TL",
+      "description": "Kızarmış lavaş ekmeğine; 80 gr. tavuk döner, marul, turşu, domates, soğan, özel sos, roka, mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154135.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Klasik Dürüm (Tek) (80 gr.)",
+      "price": "171,90 TL191 TL",
+      "description": "Kızarmış lavaş ekmeği arasına; 80 gr. tavuk döner, 50 gr. eritilmiş kaşar peyniri, marul, turşu, domates, soğan, ketçap, roka, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Antakya Dürüm (Tek) (80 gr.)",
+      "price": "171,90 TL191 TL",
+      "description": "Kızarmıs lavaş ekmeği arasına; 80 gr. tavuk döner, 50 gr. eritilmiş kaşar peyniri, marul, turşu, kızarmış patates, Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Porsiyon (Tek)",
+      "price": "172,80 TL192 TL",
+      "description": "Kızarmış lavaş ekmeği,100 gr. tavuk döner, patates kızartması, turşu, domates. İsteğe göre; sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata Box (Tek) (80 gr.)",
+      "price": "171,90 TL191 TL",
+      "description": "80gr. tavuk döner, marul, domates, salatalık, maydanoz, turşu, caciki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30155527.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner (500 gr.)",
+      "price": "399,60 TL444 TL",
+      "description": "2 adet kızarmış lavaş İle",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30416919.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Antakya Dürüm (Tek)",
+      "price": "172,80 TL192 TL",
+      "description": "Kızarmış lavaş ekmeğine; 100 gr. tavuk döner, marul, turşu, kızarmış patates kızartması, roka, mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31448238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Ekmek Arası Tavuk Döner(Tek)",
+      "price": "129,60 TL144 TL",
+      "description": "Jumbo ekmeğine; 80 gr. tavuk döner, marul, domates, soğan, turşu, özel Roka mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43384726.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Antakya Usulü Tavuk Döner (Tek)",
+      "price": "129,60 TL144 TL",
+      "description": "Jumbo ekmeğe 80 gr. tavuk döner, marul, turşu, patates kızartması, özel Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43389032.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Antakya (Buçuk)",
+      "price": "213,30 TL237 TL",
+      "description": "Kızarmış lavaş ekmeği arasına; 120 gr. tavuk döner, 50 gr. eritilmiş kaşar peyniri, marul, turşu, patates kızartması, roka, mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30151677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Klasik (Buçuk)",
+      "price": "213,30 TL237 TL",
+      "description": "Kızarmış lavaş ekmeği arasına; 120 gr. tavuk döner, 50 gr. eritilmiş kaşar peyniri, marul, turşu, domates, soğan, ketçap, roka, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30151683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Dürüm (Buçuk)",
+      "price": "175,50 TL195 TL",
+      "description": "Kızarmış lavaş ekmeğine; 120 gr. tavuk döner, marul, turşu, patates kızartması, özel Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30151964.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata Box (Buçuk) (120 gr.)",
+      "price": "212,40 TL236 TL",
+      "description": "120 gr. tavuk döner, marul, domates, salatalık, maydanoz, turşu, caciki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30155530.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Dürüm (Buçuk) (120 gr.)",
+      "price": "175,50 TL195 TL",
+      "description": "Kızarmış lavaş ekmeğine; 120 gr. tavuk döner, marul, turşu, domates, soğan, özel Roka mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30155531.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Antakya Dürüm (1,5)",
+      "price": "213,30 TL237 TL",
+      "description": "Kızarmış lavaş ekmeğine; 140 gr. tavuk döner, marul, turşu, patates kızartması, roka, mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31443026.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Döner (1,5 Porsiyon)",
+      "price": "213,30 TL237 TL",
+      "description": "Kızarmış lavaş ekmeği, 140 gr. tavuk döner, patates kızartması, turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36605236.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Ekmek Arası Tavuk Döner(Buçuk)",
+      "price": "175,50 TL195 TL",
+      "description": "120 gr. tavuk döner, marul, domates, soğan, turşu, roka, mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43387069.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Antakya Usulü Tavuk Döner (1,5 Porsiyon)",
+      "price": "175,50 TL195 TL",
+      "description": "Jumbo ekmeğine; 120 gr. tavuk döner, marul, turşu, patates kızartması, özel Roka mayonez, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43387090.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Antakya Dürüm (Duble) (160 gr.)",
+      "price": "269,10 TL299 TL",
+      "description": "Kızarmıs lavaş ekmeği arasına; 160 gr. tavuk döner, 50gr. eritilmiş kaşar peyniri, marul, turşu, kızarmış patates, Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154333.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antakya Dürüm(Duble) (160 gr.)",
+      "price": "219,60 TL244 TL",
+      "description": "Kızarmıs lavaş ekmeği arasına; 160 gr. tavuk döner, marul, turşu, kızarmış patates, Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154336.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata Box (Duble) (160 gr.)",
+      "price": "260,10 TL289 TL",
+      "description": "160 gr. tavuk döner, marul, domates, salatalık, maydanoz, turşu, caciki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154338.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Klasik Dürüm (Duble) (160 gr.)",
+      "price": "269,10 TL299 TL",
+      "description": "Kızarmış lavaş ekmeği arasına; 160 gr. tavuk döner, 50 gr. eritilmiş kaşar peyniri, marul, turşu, domates, soğan, ketçap, roka, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154342.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Dürüm (Duble) (160 gr.)",
+      "price": "219,60 TL244 TL",
+      "description": "Kızarmış lavaş ekmeğine; 160 gr. tavuk döner, marul, turşu, patates kızartması, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154353.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Porsiyon Double",
+      "price": "262,80 TL292 TL",
+      "description": "180 gr. tavuk döner. Kızarmış lavaş ekmeği, patates kızartması, turşu, domates ile (İsteğe göre sıcak domates sos)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30154354.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zurna Antakya Dürüm Duble",
+      "price": "262,80 TL292 TL",
+      "description": "Kızarmış lavaş ekmeğine; 180 gr. tavuk döner, marul, turşu, patates kızartması, özel sos, mayonez, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31438638.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Antakya Usulü Tavuk Döner (Double)",
+      "price": "219,60 TL244 TL",
+      "description": "Jumbo ekmeğine; 160 gr. tavuk döner, marul, turşu, patates kızartması, özel Roka mayonez, sıcak domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43383956.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Ekmek Arası Double Tavuk Döner",
+      "price": "219,60 TL244 TL",
+      "description": "Jumbo Ekmeğine; 160 gr. tavuk döner, marul, domates, soğan, turşu, özel Roka mayonez, ketçap",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43397555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roka Special Beyti",
+      "price": "189,90 TL211 TL",
+      "description": "Kızarmış lavaş ekmeği, 100 gr. tavuk döner, patates kızartması, özel Roka mayonez, üzerine özel sıcak domates sos, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39018365.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlı Patates Kızartması",
+      "price": "99,90 TL111 TL",
+      "description": "Roka, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076419.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Battalbey Çiğ Köfte Dürüm",
+      "price": "59,90 TL",
+      "description": "Lavaşa sarılı; 100 gr. Battalbey çiğ köfte, iceberg marul, nar ekşisi, limon, salatalık turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60813670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Battalbey Çiğ Köfte (500 gr.)",
+      "price": "239,99 TL",
+      "description": "4 adet lavaş, 1 adet iceberg marul, 2 adet nar ekşisi, acı sos, 1 adet limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60813686.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Battalbey Çiğ Köfte Dürüm (200 gr.)",
+      "price": "99,90 TL",
+      "description": "200 gr. Battalbey çiğ köfte, iceberg marul, nar ekşisi, limon, salatalık turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60814374.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buçuk Çiğ Köfte Dürüm",
+      "price": "79,90 TL",
+      "description": "150 gr. çiğ köfte, iceberg marul, nar ekşisi, limon, salatalık turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60814769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Dürüm",
+      "price": "129,60 TL144 TL",
+      "description": "Hellim peyniri, marul, turşu, domates, salatalık, maydanoz, caciki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076382.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Box",
+      "price": "171,90 TL191 TL",
+      "description": "Hellim peyniri, marul, turşu, domates, salatalık, maydanoz, caciki sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076398.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Keşkül",
+      "price": "37,80 TL42 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30181513.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "37,80 TL42 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30201423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Ayran (30 cl.)",
+      "price": "39,60 TL44 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076425.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Şalgam Suyu (30 cl.)",
+      "price": "35,10 TL39 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "56,70 TL63 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076433.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "7UP (33 cl.)",
+      "price": "56,70 TL63 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi Max (33 cl.)",
+      "price": "56,70 TL63 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076451.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (10 cl.)",
+      "price": "27,90 TL31 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "16,20 TL18 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076465.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "84,60 TL94 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076481.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yedigün (1 L.)",
+      "price": "84,60 TL94 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30076491.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Ayran (17 cl.)",
+      "price": "34,20 TL38 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30144483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "58,50 TL65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30145632.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (25 cl.)",
+      "price": "42,30 TL47 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31103244.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acısız Şalgam Suyu (30 cl.)",
+      "price": "35,10 TL39 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31121871.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Limon (33 cl.)",
+      "price": "56,70 TL63 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31134190.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea Mango (33 cl.)",
+      "price": "56,70 TL63 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31134197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Ayran (1 L.)",
+      "price": "84,60 TL94 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31475210.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

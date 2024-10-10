@@ -1,0 +1,352 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/c79w/schnitzel-factory-c79w",
+  "google": "",
+  "products": [
+    {
+      "name": "Klasik Box",
+      "price": "269 TL",
+      "description": "Klasik Box (200 gr.) (Pişmiş olan tavuk gramajıdır.) Özel Baharatlı Sade Schnitzel + Coleslaw (Mor lahana & beyaz lahana) veya Patates Kızartması + Özel Ekmek (Susam ve çörek otu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918635.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Box",
+      "price": "279 TL",
+      "description": "200 gr. tavuk acı soslu schnitzel, coleslaw, mor lahana, beyaz lahana, ekmek, susam, çörek otu, patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918630.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Box",
+      "price": "279 TL",
+      "description": "Köri Box (200 gr.) (Pişmiş olan tavuk gramajıdır) Köri soslu schnitzel. Coleslaw, mor lahana, beyaz lahana veya patates kızartması. Özel ekmek ile. Susam ve çörekotu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Box",
+      "price": "289 TL",
+      "description": "Izgara Box (200 gr.) (Pişmiş olan tavuk gramajıdır) Döküm ızgara tavuk. Coleslaw, mor lahana, beyaz lahana veya Patates Kızartması. Özel ekmek ile. Susam ve çörekotu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918634.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Box",
+      "price": "278 TL",
+      "description": "200 gr. tavuk, acı soslu schnitzel, kırmızılahana, coleslaw veya patates kızartması, susam, çörek otu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "95 TL",
+      "description": "Özel baharatlı 300 gr. patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dilediğin 2'li Menü",
+      "price": "640 TL",
+      "description": "Seçeceğiniz 2 Adet Schnitzel Box + Bol Patates Kızartması + Seçeceğiniz İçecek (1 L.)"
+    },
+    {
+      "name": "Triple Bbq Sandviç Menü",
+      "price": "790 TL",
+      "description": "3 Adet BBQ Sandviç + Double Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Triple Klasik Sandviç Menü",
+      "price": "699 TL",
+      "description": "3 Adet Klasik Sandviç + Double Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Dört Dörtlük Cheddar Menü",
+      "price": "1.350 TL",
+      "description": "4 Adet Cheddar Box + Double Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Double Hot Menü",
+      "price": "630 TL",
+      "description": "2 Adet Hot Box + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Triple Cheddar Sandviç Menü",
+      "price": "800 TL",
+      "description": "3 Adet Cheddar Sandviç + İçecek (1 L.)"
+    },
+    {
+      "name": "Double Cheddar Menü",
+      "price": "710 TL",
+      "description": "2 Adet Cheddar Box + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Double BBQ Menü",
+      "price": "630 TL",
+      "description": "2 Adet BBQ Box + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Double Klasik Menü",
+      "price": "599 TL",
+      "description": "2 Adet Klasik Box + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Double Köri Menü",
+      "price": "630 TL",
+      "description": "2 Adet Köri Box + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Dört Dörtlük Klasik Menü",
+      "price": "1.077 TL",
+      "description": "4 Adet Klasik Box (200 gr. tavuk schnitzel, mor ve beyaz coleslaw ile) + Double Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Dört Dörtlük BBQ Menü",
+      "price": "1.177 TL",
+      "description": "4 Adet BBQ Box (200 gr. barbekü soslu schnitzel, mor ve beyaz coleslaw ile) + Bol Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Cheddar Box",
+      "price": "319 TL",
+      "description": "200 gr.(Pişmiş olan tavuk gramajıdır.) Özel yapım cheddar soslu schnitzel. Coleslaw, mor lahana, beyaz lahana, ekmek ile. Susam, çörek otu içerir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55200413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Box",
+      "price": "279 TL",
+      "description": "200 gr. tavuk acı soslu schnitzel, coleslaw, mor lahana, beyaz lahana, ekmek, susam, çörek otu, patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918630.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Box",
+      "price": "278 TL",
+      "description": "200 gr. tavuk, acı soslu schnitzel, kırmızılahana, coleslaw veya patates kızartması, susam, çörek otu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Box",
+      "price": "289 TL",
+      "description": "Izgara Box (200 gr.) (Pişmiş olan tavuk gramajıdır) Döküm ızgara tavuk. Coleslaw, mor lahana, beyaz lahana veya Patates Kızartması. Özel ekmek ile. Susam ve çörekotu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918634.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Box",
+      "price": "269 TL",
+      "description": "Klasik Box (200 gr.) (Pişmiş olan tavuk gramajıdır.) Özel Baharatlı Sade Schnitzel + Coleslaw (Mor lahana & beyaz lahana) veya Patates Kızartması + Özel Ekmek (Susam ve çörek otu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918635.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Box",
+      "price": "279 TL",
+      "description": "Köri Box (200 gr.) (Pişmiş olan tavuk gramajıdır) Köri soslu schnitzel. Coleslaw, mor lahana, beyaz lahana veya patates kızartması. Özel ekmek ile. Susam ve çörekotu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hot Cheddar Box",
+      "price": "329 TL",
+      "description": "Hot Cheddar Box (200 gr.) (Pişmiş olan tavuk gramajıdır. Susam ve çörekotu içerir.) Özel yapım Cheddar soslu ve acı soslu schnitzel. Coleslaw, mor lahana, beyaz lahana, ekmek ile) + Seçeceğiniz Yan Ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35956063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hardal Box",
+      "price": "279 TL",
+      "description": "200 gr. hardal box, özel yapım hardal soslu şnitzel, coleslaw, mor lahana, susam, çörek otu, beyaz lahana, ekmek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36586261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Box",
+      "price": "319 TL",
+      "description": "200 gr. mantar soslu schnitzel. Coleslaw veya patates kızartması, kırmızılahana, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/51873585.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ultra Box",
+      "price": "299 TL",
+      "description": "Özel karışım sosumuz ile 200 gr. pişmiş schnitzel. Coleslaw veya patates kızartması, ekmek ile (Susam, çörek otu içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52780710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Buffalo Box",
+      "price": "309 TL",
+      "description": "200 gr. buffalo soslu, morlahana salatası, beyaz lahana salatası veya patatate kızartması"
+    },
+    {
+      "name": "Klasik Sandviç",
+      "price": "220 TL",
+      "description": "150 gr. (Pişmiş olan tavuk gramajıdır) tavuk schnitzel, mor lahana, beyaz lahana. Coleslaw ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Hot Sandviç",
+      "price": "240 TL",
+      "description": "150 gr. (Pişmiş olan tavuk gramajıdır) acılı schnitzel, mor lahana, beyaz lahana. Coleslaw ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "BBQ Sandviç",
+      "price": "240 TL",
+      "description": "150 gr. (Pişmiş olan tavuk gramajıdır) barbekü soslu schnitzel, mor lahana, beyaz lahana. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Sandviç",
+      "price": "260 TL",
+      "description": "150 gr. (Pişmiş olan tavuk gramajıdır) mantar soslu schnitzel, mor lahana, beyaz lahana. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918642.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Sandviç",
+      "price": "260 TL",
+      "description": "150 gr. (Pişmiş olan tavuk gramajıdır) cheddar soslu schnitzel, mor lahana, beyaz lahana. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918643.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Sandviç",
+      "price": "240 TL",
+      "description": "150 gr. (Pişmiş olan tavuk gramajıdır) köri soslu schnitzel. Coleslaw ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918644.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hardal Sandviç",
+      "price": "240 TL",
+      "description": "(Pişirilmiş tavuk tavuk gramajıdır.) 150 gr. özel yapım hardal soslu schnitzel. Coleslaw, mor lahana, beyaz lahana, susam çörek otu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33829847.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "95 TL",
+      "description": "Özel baharatlı 300 gr. patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coleslaw",
+      "price": "95 TL",
+      "description": "Özel soslu mor lahana, özel soslu beyaz lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918646.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek",
+      "price": "25 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efsane Cheddarlı Patates Kızartması (200 gr.)",
+      "price": "115 TL",
+      "description": "(200 gr.) Günlük üretim cheddar sos, bol özel baharat",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28624153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (200 gr.)",
+      "price": "85 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44413439.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efsane Cheddarlı Patates (300 gr.)",
+      "price": "140 TL",
+      "description": "Özel cheddar soslu"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918654.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918657.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "18 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918669.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918678.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Sos",
+      "price": "20 TL",
+      "description": "100 gr. özel BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10954314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Sos",
+      "price": "30 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10954315.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "20 TL",
+      "description": "100 gr. özel acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10954316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ketçap",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10954317.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mayonez",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10954318.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5918680.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

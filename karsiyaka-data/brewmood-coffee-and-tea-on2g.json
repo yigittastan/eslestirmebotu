@@ -1,0 +1,490 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/on2g/brew-mood-coffee-and-tea-on2g",
+  "google": "",
+  "products": [
+    {
+      "name": "Ice Americano",
+      "price": "110 TL",
+      "description": "Espresso, su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65735663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Caramel Latte",
+      "price": "135 TL",
+      "description": "Espresso, karamel sos, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "117 TL",
+      "description": "Espresso, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65735998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte",
+      "price": "105 TL",
+      "description": "Espresso, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65720395.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappucino",
+      "price": "105 TL",
+      "description": "Espresso, süt köpüğü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65720407.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamel Latte",
+      "price": "122 TL",
+      "description": "Espresso, karamel sos, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65725358.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Happinespresso",
+      "price": "135 TL",
+      "description": "Espresso, sıcak çikolata, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65725526.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "125 TL",
+      "description": "Çift shot espresso, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65725979.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Choco Mocha",
+      "price": "122 TL",
+      "description": "Espresso, beyaz çikolata, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66265226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cocunut Latte",
+      "price": "130 TL",
+      "description": "Espresso, Hindistan cevizi, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65726381.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mocha",
+      "price": "122 TL",
+      "description": "Espresso, çikolata sos, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65726650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Raspberry White",
+      "price": "135 TL",
+      "description": "Espresso, beyaz çikolata, raspberry süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65726885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "100 TL",
+      "description": "Espresso, su"
+    },
+    {
+      "name": "Blueberry Mocha",
+      "price": "135 TL",
+      "description": "Espresso, çikolata sos, yaban mersini püre, süt"
+    },
+    {
+      "name": "Salespresso",
+      "price": "135 TL",
+      "description": "Espresso, salep, süt"
+    },
+    {
+      "name": "Pecan Caramel",
+      "price": "135 TL",
+      "description": "Pecan aroması, karamel sos, süt"
+    },
+    {
+      "name": "Latte Brule",
+      "price": "130 TL",
+      "description": "Brule aroması, espresso, süt"
+    },
+    {
+      "name": "Coffee Toffee",
+      "price": "130 TL",
+      "description": "Fındık aroması, espresso, süt"
+    },
+    {
+      "name": "Ice Caramel Latte",
+      "price": "135 TL",
+      "description": "Espresso, karamel sos, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Mocha",
+      "price": "135 TL",
+      "description": "Espresso, çikolata sos, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced White Mocha",
+      "price": "135 TL",
+      "description": "Espresso, beyaz çikolata sos, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732295.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Americano",
+      "price": "110 TL",
+      "description": "Espresso, su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65735663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "117 TL",
+      "description": "Espresso, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65735998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Flat White",
+      "price": "125 TL",
+      "description": "Çift shot espresso, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65736080.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Blueberry Mocha",
+      "price": "150 TL",
+      "description": "Espresso, çikolata sos, yaban mersini, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65737604.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Happinespresso",
+      "price": "155 TL",
+      "description": "Espresso, soğuk çikolata, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65737625.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Coffee Toffee",
+      "price": "150 TL",
+      "description": "Espresso, fındık aroma, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66265241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Raspberry White",
+      "price": "147 TL",
+      "description": "Espresso, beyaz çikolata sos, raspberry aroma, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65737912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cocunut Latte",
+      "price": "150 TL",
+      "description": "Espresso, Hindistan cevizi aroma, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65737920.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte Brule",
+      "price": "150 TL",
+      "description": "Espresso, brule aroma, süt"
+    },
+    {
+      "name": "Iced Pecan Caramelo",
+      "price": "145 TL",
+      "description": "Espresso, ceviz aroması, karamel sos, süt"
+    },
+    {
+      "name": "Chocolate Vanilla",
+      "price": "130 TL",
+      "description": "Soğuk ve sıcak servis edilebilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65695785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Cocunut",
+      "price": "130 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65695812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Mint",
+      "price": "130 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65695822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Classic",
+      "price": "125 TL",
+      "description": "Soğuk & sıcak servis edilebilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65698109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chemex Demleme",
+      "price": "160 TL",
+      "description": "Ethiopia, guatemala, kenya, Colombia çekirdeklerinden",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706061.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frappe Vanilya",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65701462.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frappe Coconut",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706099.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brule Frappe",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706111.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frappe Classic",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65708623.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frappe Toffee",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65708630.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Redberries Milkshake",
+      "price": "125 TL",
+      "description": "Kırmızı orman meyveleri aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65702543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Blueberry Milkshake",
+      "price": "125 TL",
+      "description": "Yaban mersini aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65702983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "100 TL",
+      "description": "El yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65695144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sambucus Tea",
+      "price": "120 TL",
+      "description": "Mürver çiçeği aroması, chia tohumu, elma, havuç. Soğuk & sıcak servis edilebilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706094.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Teabiscus",
+      "price": "118 TL",
+      "description": "Soğuk, sıcak servis edilebilir."
+    },
+    {
+      "name": "Gold Teawinkle (Orta)",
+      "price": "120 TL",
+      "description": "Şeftali tozu, su"
+    },
+    {
+      "name": "Detox Çayı",
+      "price": "95 TL",
+      "description": "Yeşil çay, yasemin tomurcukları, ebegümeci çiçeği, portakal dilimleri, seylan çayı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66265258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meditasyon Çayı",
+      "price": "95 TL",
+      "description": "Melisa çayı, papatya çayı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66265259.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Manço Tea",
+      "price": "95 TL",
+      "description": "Nane, limon, hatmi çiçeği, dereotu, tarçın, zencefil",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66265260.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Grip Savar",
+      "price": "95 TL",
+      "description": "Ihlamur, ekinezya çiçeği, tarçın, karanfil, zencefil, hibiskus",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66265261.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ecem Sütlü Türk Kahvesi",
+      "price": "100 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65708598.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Türk Kahvesi (XXL)",
+      "price": "90 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65708744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Blueberry Deep Frozen",
+      "price": "125 TL",
+      "description": "Yaban mersini aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65697990.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pıneapple Frozzy Frozen",
+      "price": "125 TL",
+      "description": "Ananas aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65698119.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mango Forest Frozen",
+      "price": "125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706069.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Berries Frozen",
+      "price": "125 TL",
+      "description": "Kırmızı orman meyveleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65710548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuzlu Kurabiye",
+      "price": "85 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65697973.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Waffle",
+      "price": "75 TL",
+      "description": "1 kişilik servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65701450.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilyalı Gofret",
+      "price": "75 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65702541.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Stick Mood",
+      "price": "85 TL",
+      "description": "Günlük hazırlanmaktadır."
+    },
+    {
+      "name": "Bol Hindi Fümeli Sandwich",
+      "price": "200 TL",
+      "description": "Cabata ekmeğine; peynir, hindi füme",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65720139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Latte Mono",
+      "price": "175 TL",
+      "description": "(Günlük olarak hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65695996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nelumbo Puffin",
+      "price": "185 TL",
+      "description": "Lotus bisküvi, pastacı kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65695999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Cheesecake",
+      "price": "150 TL",
+      "description": "(Günlük olarak hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65696001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "150 TL",
+      "description": "(Günlük olarak hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65696005.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeugma",
+      "price": "175 TL",
+      "description": "Lotuslu mozaik pasta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65700821.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carlotte",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65700741.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "170 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65704264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berry Puffin",
+      "price": "168 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706065.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Belçika Çikolatalı Pasta",
+      "price": "185 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Chocolate Bomb",
+      "price": "190 TL",
+      "description": "(Günlük olarak hazırlanır.)"
+    },
+    {
+      "name": "Berry Chocolate Cake",
+      "price": "165 TL",
+      "description": "Yaban mersini, bitter çikolata"
+    },
+    {
+      "name": "Beyoğlu Klasik Gazoz (25 cl.)",
+      "price": "100 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65702986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Soda (20 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65704308.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (50 cl.)",
+      "price": "25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65706078.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kenya Çekirdek (250 gr.)",
+      "price": "685 TL",
+      "description": "Paket",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65726074.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve Çekirdek (1 kg.)",
+      "price": "1.350 TL",
+      "description": "1 kg. olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65727525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Colombia Çekirdek Kahve (250 gr.)",
+      "price": "685 TL",
+      "description": "Paket olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65729959.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Espresso Çekirdek (1 kg.)",
+      "price": "1.350 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Guetemala Çekirdek (250 gr.)",
+      "price": "685 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732185.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ethiopia Çekirdek (250 gr.)",
+      "price": "685 TL",
+      "description": "Paketli ürün",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65732186.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65680254.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

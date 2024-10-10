@@ -1,0 +1,340 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/j84d/du-levant",
+  "google": "",
+  "products": [
+    {
+      "name": "Falafel Tabağı",
+      "price": "270 TL",
+      "description": "7-8 adet falafel topları, humus, babagannuş, garnitür. Patates kızartması, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558881.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fatteh",
+      "price": "195 TL",
+      "description": "Kızarmış lavaş ekmeği, özel yoğurtlu sos, nohut üzerine; tereyağında sotelenmiş file badem. Domates, salatalık, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558644.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Fatteh",
+      "price": "260 TL",
+      "description": "Kızarmış lavaş ekmeği, özel yoğurtlu sos, nohut üzerinde kızarmış tereyağı, özel sosla marine edilmiş tavuk, domates, salatalık, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558837.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Fatteh",
+      "price": "291 TL",
+      "description": "Kızarmış lavaş ekmeği, özel yoğurtlu sos, nohut üzerinde kızarmış tereyağı, dana kıyma. Domates, salatalık, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558839.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Humus Tabağı",
+      "price": "220 TL",
+      "description": "Özel sosla marine edilmiş tavuklu nohut ezmesi. Ekmek, domates, salatalık, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558907.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Humus Tabağı",
+      "price": "295 TL",
+      "description": "Domates, salatalık, turşu, ekmek ile servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558915.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Musabbaha",
+      "price": "195 TL",
+      "description": "Nohut, ince çekilmiş tahin, zeytinyağı. Domates, salatalık, turşu, ekmek ile servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558929.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fol Tabağı",
+      "price": "150 TL",
+      "description": "Nohut, limon, zeytinyağı, özel baharatlar, domates, salatalık, turşu, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558947.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Musakhan Fatteh",
+      "price": "250 TL",
+      "description": "Çıtır lavaş, karamelize soğan, marine edilmiş tavuk, özel yoğurtlu sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558986.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Shawerma Tabağı",
+      "price": "270 TL",
+      "description": "Özel marine edilmiş tavuk, dışı çıtır taze yufka ekmeği. Turşu, patates kızartması, sarımsak sosu, coleslaw salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66596117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mutabbal Tabağı",
+      "price": "175 TL",
+      "description": "Özel baharatlarla hazırlanmış patlıcan ezmesi. Domates, salatalık, turşu, ekmek ile servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Fatteh",
+      "price": "235 TL",
+      "description": "Patlıcan, maydanoz, sumak, limon, kıtır ekmek, yoğurt"
+    },
+    {
+      "name": "Kıymalı Musakhan Fatteh",
+      "price": "295 TL",
+      "description": "Çıtır lavaş, karamelize soğan, dana kıyma, özel yoğurtlu sos, tereyağı"
+    },
+    {
+      "name": "Shawerma Tabağı Menü",
+      "price": "295 TL",
+      "description": "Shawerma Tabağı + Patates Kızartması + İçecek"
+    },
+    {
+      "name": "Vegan Menü-2 (1 Kişilik)",
+      "price": "230 TL",
+      "description": "5 Adet Falafel + (Seçeceğiniz, fol tabaği, musabbaha, hummus, babagannuş, muhammara) + Kutu İçecek"
+    },
+    {
+      "name": "2'li Vegan Menü",
+      "price": "490 TL",
+      "description": "10 Adet Falafel + Humus + Babagannuş + Muhammara + Patates Kızartması + 2 Adet Kutu İçecek"
+    },
+    {
+      "name": "Vegan Menü",
+      "price": "215 TL",
+      "description": "5 Adet Falafel + Humus (Küçük) + Babagannuş (Küçük) + Kutu İçecek"
+    },
+    {
+      "name": "Vejetaryen Menü",
+      "price": "230 TL",
+      "description": "Sade Fettah + Salata + İçecek"
+    },
+    {
+      "name": "Falafel Tabak (Vegan)",
+      "price": "240 TL",
+      "description": "7-8 adet falafel toplari, humus. Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66864073.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel (10 Adet) (Vegan)",
+      "price": "165 TL",
+      "description": "10 adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66865672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel (5 Adet) (Vegan)",
+      "price": "100 TL",
+      "description": "5 adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866064.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Humus Dürüm (Vegan)",
+      "price": "215 TL",
+      "description": "Vegan kıyma, turşu, maydanoz, domates, soğan, nar ekşisi, tahin sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866087.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Falafel Salata",
+      "price": "185 TL",
+      "description": "Günlük hazırlanmaktadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Humus Dürüm",
+      "price": "120 TL",
+      "description": "Humus, tursu, marul, domates, soğan, turp, nar, maydanoz, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Babagannus (Mutabbal)",
+      "price": "186 TL",
+      "description": "Domates, salatalik, turşu, ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866556.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Vegan)",
+      "price": "95 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66866620.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Falafel Dürüm",
+      "price": "140 TL",
+      "description": "3 adet falafel, hummus, turşu, domates, marul, maydanoz, salatalik",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Vegan Kıymalı Musakhan Fatteh",
+      "price": "295 TL",
+      "description": "Vegan kıyma, kıtır ekmek, nohut, yoğurt"
+    },
+    {
+      "name": "Tavuk Dürüm",
+      "price": "190 TL",
+      "description": "Özel baharatlarla marine edilmiş tavuk, sarımsak sos, turşu, domates, marul",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558356.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Humus Dürüm",
+      "price": "190 TL",
+      "description": "Özel marine edilmiş tavuk eti, humus, turşu, domates, marul, turp, havuç, nar, maydanoz, tahin sos.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558463.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel Dürüm",
+      "price": "160 TL",
+      "description": "3 adet falafel, humus, turşu, domates, marul, havuç, turp, nar maydanoz, salatalık, tahin sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558470.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Humus Dürüm",
+      "price": "225 TL",
+      "description": "Dana kıyma, humus, patates kızartması, turşu, maydanoz, domates, soğan, nar ekşisi, tahin sos,",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558478.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Humus Dürüm (Vegan)",
+      "price": "130 TL",
+      "description": "Humus, turşu, marul, domates, soğan, turp, nar, maydanoz, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558481.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Dürüm",
+      "price": "112 TL",
+      "description": "Patates kızartması, sarımsak sos, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66597609.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel (10 Adet)",
+      "price": "175 TL",
+      "description": "10 adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66555383.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel (5 Adet)",
+      "price": "110 TL",
+      "description": "5 adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66555389.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "95 TL",
+      "description": "Sarımsak sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66556457.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarımsak Sos",
+      "price": "59 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66596156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Humus (Küçük)",
+      "price": "95 TL",
+      "description": "Küçük boy"
+    },
+    {
+      "name": "Babagannuş (Küçük)",
+      "price": "110 TL",
+      "description": "Günlük hazırlanır."
+    },
+    {
+      "name": "Muhammara (Küçük)",
+      "price": "112 TL",
+      "description": "Küçük"
+    },
+    {
+      "name": "Humus (250 gr.)",
+      "price": "95 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Falafel Salata",
+      "price": "195 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, soğan, taze falafel topları, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66556517.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fattuş Salatası",
+      "price": "155 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, soğan, limon, zeytinyağı, özel kızarmış ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66556526.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yoğurtlu Tahinli Salata",
+      "price": "165 TL",
+      "description": "Yoğurt, tahin, salatalık, domates, nane, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66556552.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Salata",
+      "price": "220 TL",
+      "description": "Mevsim yeşillikleri, domates, salatalık, soğan, taze özel baharatlı tavuk eti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558278.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "120 TL",
+      "description": "Mevsim salata, domates, salatalık, soğan, limon, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66596161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tabuleh Salata",
+      "price": "180 TL",
+      "description": "Maydanoz, bulgur, limon, özel baharat, zeytinyağı"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "20 TL",
+      "description": "Büyük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558332.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "28 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558335.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558340.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66558343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cola Turka (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66595468.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "38 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66595470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Babagannuş (500 gr.)",
+      "price": "195 TL",
+      "description": "500 gr. olarak servis edilir."
+    },
+    {
+      "name": "Humus (1 kg.)",
+      "price": "350 TL",
+      "description": "1 kg. olarak servis edilir."
+    },
+    {
+      "name": "Humus (500 gr.)",
+      "price": "195 TL",
+      "description": "500 gr. olarak servis edilir."
+    },
+    {
+      "name": "Babagannuş (1 kg.)",
+      "price": "350 TL"
+    },
+    {
+      "name": "Babagannuş (250 gr.)",
+      "price": "105 TL"
+    }
+  ]
+}

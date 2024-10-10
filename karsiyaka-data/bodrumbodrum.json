@@ -1,0 +1,398 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/as7y/bodrum-bodrum",
+  "google": "",
+  "products": [
+    {
+      "name": "Izgara Tavuklu Sezar Salata",
+      "price": "295 TL",
+      "description": "140-150 gr. tavuk göğüs, iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "280 TL",
+      "description": "250 gr. mantı, kırmızı tatlı biber, nane, isteğe göre yoğurt, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spaghetti Bolonez",
+      "price": "300 TL",
+      "description": "100 gr. kıyma, domates sosu, napolitan sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "350 TL",
+      "description": "200-220 gr. tavuk, 90 gr. mantar, krema, köri sos, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Mantı)",
+      "price": "220,50 TL245 TL",
+      "description": "Mantı + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Köri Soslu Tavuk)",
+      "price": "265,50 TL295 TL",
+      "description": "Köri Soslu Tavuk + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Kaşarlı Ayvalık Tost",
+      "price": "199 TL",
+      "description": "Ayvalık ekmeği, 120 gr. kaşar peyniri, 35 gr. rende tulum peyniri. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085951.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kepekli Kaşarlı Tost",
+      "price": "199 TL",
+      "description": "120 gr. kaşar peyniri, 35 gr. rende tulum peyniri. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085992.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kepekli Karışık Tost",
+      "price": "225 TL",
+      "description": "90 gr. kaşar peyniri, 25 gr. tulum peyniri, sucuk, salam. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Ayvalık Tost",
+      "price": "225 TL",
+      "description": "Ayvalık ekmeği, 120 gr. kaşar peyniri, 25 gr. tulum peynir, sucuk, salam. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37088304.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Soslu Tavuk",
+      "price": "350 TL",
+      "description": "150-170 gr. tavuk, 90 gr. mantar, kapya biber, mazo biber, mısır, soğan, Meksika fasulyesi, paprika sos, hot chili sos, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuk",
+      "price": "350 TL",
+      "description": "200-220 gr. tavuk, 90 gr. mantar, krema, köri sos, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Soslu Tavuk",
+      "price": "355 TL",
+      "description": "200-200 gr. tavuk, 90 gr. mantar, soya filizi, krema, soya sosu, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Barbekü Soslu Tavuk",
+      "price": "350 TL",
+      "description": "150-170 gr. tavuk, kapya biber, soğan, sarımsak, 90 gr. mantar, barbekü sos, tereyağı, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Sote",
+      "price": "310 TL",
+      "description": "150-170 gr. tavuk, 90 gr. mantar, kapya biber, mazo biber, soğan, domates sosu, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084792.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk",
+      "price": "360 TL",
+      "description": "300 gr. çıtır tavuk, Sezar sos, sweet chili sos, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Soslu Piliç Bonfile",
+      "price": "370 TL",
+      "description": "280-230 gr. tavuk, 40 gr. mantar, marul, lo lo roso, havuç. Tırnak pide, 100 gr. patates kızartması ile"
+    },
+    {
+      "name": "Piliç Bonfile",
+      "price": "360 TL",
+      "description": "280-320 gr. tavuk, marul, lo lo roso, havuç. Tırnaklı pide, 100 gr. patates kızartması ile"
+    },
+    {
+      "name": "Izgara Köfte",
+      "price": "400 TL",
+      "description": "7 adet köfte. Közlenmiş domates, közlenmiş biber, sumaklı soğan, tırnak pide, 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085225.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger",
+      "price": "350 TL",
+      "description": "140 gr. dana burger köftesi, marul, domates, turşu. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085824.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "360 TL",
+      "description": "140 gr. dana burger köftesi, marul, turşu, domates, cheddar peyniri. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085860.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Burger",
+      "price": "325 TL",
+      "description": "120-140 gr. marine edilmiş panelenmiş tavuk, marul, domates, turşu. 120 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Tavuklu Penne",
+      "price": "280 TL",
+      "description": "100-120 gr. tavuk, 90 gr. mantar, krema, soya sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085284.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Mantarlı Tavuklu Penne",
+      "price": "280 TL",
+      "description": "100-120 gr. tavuk, 90 gr. mantar, köri sos, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085307.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Penne",
+      "price": "250 TL",
+      "description": "200 gr. mantar, krema, soya sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Mantarlı Penne",
+      "price": "250 TL",
+      "description": "200 gr. mantar, krema, köri sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085375.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Soslu Penne",
+      "price": "300 TL",
+      "description": "100-120 gr. tavuk, 90 gr. mantar, kapya biber, mazo biber, mısır, Meksika fasulyesi, paprika sos, hot chili sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spaghetti Bolonez",
+      "price": "300 TL",
+      "description": "100 gr. kıyma, domates sosu, napolitan sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spaghetti Napolitan",
+      "price": "250 TL",
+      "description": "Domates sosu, napolitan sos, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085566.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuklu Penne",
+      "price": "295 TL",
+      "description": "135-150 gr. tavuk, köri sos, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spaghetti Feleğen Penne",
+      "price": "250 TL",
+      "description": "Pesto sos , krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "280 TL",
+      "description": "250 gr. mantı, kırmızı tatlı biber, nane, isteğe göre yoğurt, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Mantarlı Wrap",
+      "price": "290 TL",
+      "description": "100-120 gr. tavuk, 90 gr. mantar, mazo biber, kapya biber, tortilla lavaşı, kaşar peyniri, soya sosu, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37084948.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklu Wrap",
+      "price": "290 TL",
+      "description": "200 gr. çıtır tavuk, Sezar sos, tortilla lavaşı, iceberg marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085089.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexican Soslu Wrap",
+      "price": "300 TL",
+      "description": "100-120 gr. tavuk, 90 gr. mantar, kapya biber, mazo biber, mısır, Meksika fasulyesi, kaşar peyniri, hot chili sos, paprika sos, marul, lo lo roso, havuç. 100 gr. patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37085116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "150 TL",
+      "description": "Parmak dilim patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086034.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aperitif Tabağı",
+      "price": "330 TL",
+      "description": "Çıtır tavuk topları, patates kızartması, soğan halkası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuklu Sezar Salata",
+      "price": "295 TL",
+      "description": "140-150 gr. tavuk göğüs, iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Tavuklu Salata",
+      "price": "300 TL",
+      "description": "100-120 gr. tavuk, 70-90 gr. mantar, soya sos, kremalı sos, iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklu Salata",
+      "price": "305 TL",
+      "description": "200 gr. marine edilmiş, panelenmiş tavuk, iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata (180 gr.)",
+      "price": "370 TL",
+      "description": "180 gr. ton balığı, iceberg marul, lo lo roso , kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086851.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton balıklı Salata (80 gr.)",
+      "price": "300 TL",
+      "description": "80 gr. ton balığı, iceberg marul, lo lo roso , kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086861.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellim Peynirli Salata",
+      "price": "360 TL",
+      "description": "Hellim peyniri, iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37086892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Salata",
+      "price": "230 TL",
+      "description": "150 gr. beyaz peynir, iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mevsim Salata",
+      "price": "180 TL",
+      "description": "Iceberg marul, lo lo roso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087049.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Salata",
+      "price": "190 TL",
+      "description": "Iceberg marul, lolorosso, kırmızılahana, havuç, domates, salatalık, roka, maydanoz, mısır, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087100.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Krokanlı Pasta",
+      "price": "120 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Ananaslı Bademli Pasta",
+      "price": "135 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Frambuazlı Bademli Pasta",
+      "price": "135 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sütlaç",
+      "price": "170 TL",
+      "description": "Pirinç, süt ve şekerin birleşimiyle hazırlanan hafif puding kıvamında bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kazandibi",
+      "price": "135 TL",
+      "description": "Süt, un ve şekerin pişirilip karamelize edilmesiyle elde edilen bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "155 TL",
+      "description": "Çikolata, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "140 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087269.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "140 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087290.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Cheesecake",
+      "price": "140 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "165 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087313.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "145 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37088372.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Bull (25 cl.)",
+      "price": "75 TL",
+      "description": "Enerji içeceği",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987291.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987444.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987447.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987448.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987453.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987458.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "50 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987462.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37987464.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37087337.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ejrt/corbaci-memed-efendi",
+  "google": "",
+  "products": [
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "245 TL",
+      "description": "Dana kelle, kemik suyu. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32095327.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "160 TL",
+      "description": "Ev yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyran Çorbası",
+      "price": "260 TL",
+      "description": "Kuzu eti, sarımsak, acı pul biber, pirinç, kemik suyu, isteğe göre acılı. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32095328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köy Tavuğu Çorbası",
+      "price": "175 TL",
+      "description": "Tavuk taneli, arpa şehriyeli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Çorbası",
+      "price": "170 TL",
+      "description": "Rendelenmiş kaşar peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "165 TL",
+      "description": "Sumaklı soğan, domates, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822722.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "200 TL",
+      "description": "Dana işkembe, kemik suyu. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "160 TL",
+      "description": "Ev yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köy Tavuğu Çorbası",
+      "price": "175 TL",
+      "description": "Tavuk taneli, arpa şehriyeli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "165 TL",
+      "description": "Roka, turşu biber, limon ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domates Çorbası",
+      "price": "170 TL",
+      "description": "Rendelenmiş kaşar peyniri ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuzlama Çorbası",
+      "price": "230 TL",
+      "description": "İri kıyım dana işkembe. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyin Çorbası",
+      "price": "220 TL",
+      "description": "Dana beyin, kemik suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Çorba",
+      "price": "265 TL",
+      "description": "Dana kelle, dana işkembe, dana beyin. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822714.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Çorba",
+      "price": "270 TL",
+      "description": "Dana kelle, dana ayak paça, dana işkembe, dana beyin. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28356122.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayak Paça Çorbası",
+      "price": "250 TL",
+      "description": "Dana ayak, kemik suyu. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32095325.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "245 TL",
+      "description": "Dana kelle, kemik suyu. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32095327.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyran Çorbası",
+      "price": "260 TL",
+      "description": "Kuzu eti, sarımsak, acı pul biber, pirinç, kemik suyu, isteğe göre acılı. Tırnak pide, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32095328.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Tırnak Pide",
+      "price": "45 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28356124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Yumurtalı Pide",
+      "price": "230 TL",
+      "description": "Roka, limon, domates, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822718.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "245 TL",
+      "description": "Roka, limon, domates, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822719.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "275 TL",
+      "description": "Roka, limon, domates, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822720.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "300 TL",
+      "description": "Roka, limon, domates, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28356128.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "165 TL",
+      "description": "Sumaklı soğan, domates, roka, limon, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822722.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "219 TL",
+      "description": "Roka, limon, domates, acı biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822723.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Pide",
+      "price": "210 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28356131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Lahmacun",
+      "price": "180 TL",
+      "description": "Sarımsaklı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38160018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Lahmacun",
+      "price": "200 TL",
+      "description": "Adet olarak servis edilmektedir. (Acı seçiminizi sipariş notu kısmında belirtiniz.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66469423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822724.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822725.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822728.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5822729.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,576 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/fcx0/boston-donuts-fcx0",
+  "google": "",
+  "products": [
+    {
+      "name": "4'lü Donut Menü",
+      "price": "312 TL",
+      "description": "4 Adet Seçeceğiniz Donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Badem Çikolata Gurme",
+      "price": "86 TL",
+      "description": "File badem, karamel Sosu, çikolata dolgusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Gurme",
+      "price": "86 TL",
+      "description": "Lotus bisküvisi, altında vanilya sosu, içerisinde bavyera kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34451636.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "8 Alana 4 Bedava Donut Menü",
+      "price": "632 TL",
+      "description": "12 Adet Seçeceğiniz Donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965146.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Donut Filtre Kahve Menü",
+      "price": "235 TL",
+      "description": "2 Adet Seçeceğiniz Donut + Filtre Kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "110 TL",
+      "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan sütlü bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "8 Alana 4 Bedava Donut Menü",
+      "price": "632 TL",
+      "description": "12 Adet Seçeceğiniz Donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965146.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Alana 2 Bedava Donut Menü",
+      "price": "316,00 TL486,15 TL",
+      "description": "Seçeceğiniz 6 Adet Donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50799968.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4'lü Donut Menü",
+      "price": "312 TL",
+      "description": "4 Adet Seçeceğiniz Donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Donut Filtre Kahve Menü",
+      "price": "160 TL",
+      "description": "Seçeceğiniz Donut + Filtre Kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965145.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Donut Filtre Kahve Menü",
+      "price": "235 TL",
+      "description": "2 Adet Seçeceğiniz Donut + Filtre Kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "8'li Donut Menü",
+      "price": "616 TL",
+      "description": "8 Adet Seçeceğiniz Donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Donut Frozen Menü",
+      "price": "175 TL",
+      "description": "Seçeceğiniz 1 Adet Donut + Seçeceğiniz Frozen",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Donut Milkshake Menü",
+      "price": "180 TL",
+      "description": "Seçeceğiniz 1 Adet Donut + Seçeceğiniz Milkshake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Donut + 1 Americano Menü",
+      "price": "240 TL",
+      "description": "Seçeceğiniz 2 Adet Donut + Taze Çekilmiş Boston Donuts Kahve Çekirdeklerinden Americano",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965154.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "4 Donut + 2 Americano Menü",
+      "price": "470 TL",
+      "description": "Seçeceğiniz 4 Adet Donut + 2 Adet Taze Çekilmiş Boston Donuts Kahve Çekirdeklerinden Americano",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "6'lı Donut Menü",
+      "price": "465 TL",
+      "description": "Seçeceğiniz 6 adet donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50801270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Muzlu Donut",
+      "price": "79 TL",
+      "description": "Üstü muz kaplı içi muz aromalı özel krema dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilyalı Halka Donut",
+      "price": "79 TL",
+      "description": "Üstü vanilya kaplı içi dolgusuz halka şeklinde donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Tarçınlı Donut",
+      "price": "79 TL",
+      "description": "Tamamı tarçın ve pudra şekeri karışımı kaplı içi özel kakaolu fındık kreması dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965159.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Tarçınlı Donut",
+      "price": "79 TL",
+      "description": "Tamamı tarçın ve pudra şekeri karışımı kaplı içi özel elma dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Çilek Donut",
+      "price": "79 TL",
+      "description": "Üstü çilek kaplı içi çilek marmelatı dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965161.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Karamel Donut",
+      "price": "79 TL",
+      "description": "Üstü karamel kaplı içi özel hafif karamel aromalı krema dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Halka Donut",
+      "price": "79 TL",
+      "description": "Üstü muz kaplı içi dolgusuz halka şeklinde donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Halka Donut",
+      "price": "79 TL",
+      "description": "Üstü karamel kaplı içi dolgusuz halka şeklinde donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pudra Şekerli Bavyera Krema Donut",
+      "price": "79 TL",
+      "description": "Tamamı pudra şekeri kaplı içi bavyera kreması dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Boston Krem Donut",
+      "price": "79 TL",
+      "description": "Üstü çikolata kaplı içi bavyera kreması dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965166.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pudra Şekerli Vişneli Donut",
+      "price": "79 TL",
+      "description": "Tamamı pudra şekeri kaplı içi özel vişne marmelatı dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Halka Donut",
+      "price": "79 TL",
+      "description": "Üstü çilek kaplı içi dolgusuz halka şeklinde donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965168.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Kaplı Muzlu Donut",
+      "price": "79 TL",
+      "description": "Üstü çikolata kaplı içi muz aromalı özel krema dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişne Rüyası Donut",
+      "price": "79 TL",
+      "description": "Üstü çikolata kaplı içi özel vişne marmelatı dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Halka Donut",
+      "price": "79 TL",
+      "description": "Üstü çikolata kaplı içi dolgusuz halka şeklinde donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pudra Şekerli Ahududu Dolgulu Donut",
+      "price": "79 TL",
+      "description": "Tamamı pudra şekeri kaplı içi özel ahududu marmelatı dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilya Ahududu Donut",
+      "price": "79 TL",
+      "description": "Üstü vanilya kaplı içi özel ahududu marmelatı dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Purple White Donut",
+      "price": "79 TL",
+      "description": "Mor ve beyaz renkli. İç dolgusunda beyaz çikolata, üst sosu orman meyveli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965176.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bubble Gum Halka Donut",
+      "price": "79 TL",
+      "description": "Bubble gum tadında üst sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965177.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Glazed Halka Donut",
+      "price": "79 TL",
+      "description": "Glazed kaplı, sade",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Gurme",
+      "price": "86 TL",
+      "description": "Lotus bisküvisi, altında vanilya sosu, içerisinde bavyera kreması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34451636.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Badem Çikolata Gurme",
+      "price": "86 TL",
+      "description": "File badem, karamel Sosu, çikolata dolgusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34458062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Tahin Gurme Donut",
+      "price": "86 TL",
+      "description": "Üzerinde fındık kırığı, altında vanilya sosu, içerisinde Bavyera kreması, tahin dolgusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34460772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pudra Muzlu Donut",
+      "price": "79 TL",
+      "description": "Muz, krema, pudra şekeri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44538294.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pudra Şekerli Çilekli Donut",
+      "price": "79 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48431565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "KitKat Gurme Donut",
+      "price": "86 TL",
+      "description": "İçi Kitkat kreması, üzerine Kitkat kırıntılı donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53724201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Çikolata Donut",
+      "price": "79 TL",
+      "description": "Üstü çikolata kaplı içi kakaolu fındık kreması dolgulu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65549215.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Frozen",
+      "price": "105 TL",
+      "description": "Çilek, buz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çarkıfelek Frozen",
+      "price": "105 TL",
+      "description": "Çilek, kavun",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965181.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavunlu Frozen",
+      "price": "105 TL",
+      "description": "Kavun, buz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mango Frozen",
+      "price": "105 TL",
+      "description": "Mango, buz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965183.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Frozen",
+      "price": "105 TL",
+      "description": "Muz, buz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965184.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Frozen",
+      "price": "105 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64296022.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lime Frozen",
+      "price": "105 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64296028.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Frozen",
+      "price": "105 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64296037.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karpuzlu Frozen",
+      "price": "105 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64296044.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karadutlu Frozen",
+      "price": "105 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64296049.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Elmalı Frozen",
+      "price": "105 TL",
+      "description": "Yeşil elma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65273773.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Milkshake",
+      "price": "110 TL",
+      "description": "Karamel, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965187.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Milkshake",
+      "price": "110 TL",
+      "description": "Çikolata, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965188.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilyalı Milkshake",
+      "price": "110 TL",
+      "description": "Vanilya, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965189.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Milkshake",
+      "price": "110 TL",
+      "description": "Muz, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965190.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Milkshake",
+      "price": "110 TL",
+      "description": "Çilek, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965191.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreolu Milkshake",
+      "price": "115 TL",
+      "description": "Oreo, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29302618.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaban Mersinli Bubble Tea",
+      "price": "95 TL",
+      "description": "Yaban mersini",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63727108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Filtre Kahve",
+      "price": "85 TL",
+      "description": "Kahve çekirdeklerinin filtrelerden geçirilerek sıcak su ile demlenmesiyle hazırlanan bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965192.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caffe Latte",
+      "price": "102 TL",
+      "description": "Double espresso, sıcak süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "105 TL",
+      "description": "Double espresso, bol köpüklü sıcak süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965194.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "92 TL",
+      "description": "Double espresso, sıcak su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965195.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "107 TL",
+      "description": "Double espresso, sıcak süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cafe Mocha",
+      "price": "110 TL",
+      "description": "Kahve, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Espresso",
+      "price": "65 TL",
+      "description": "Aromalı ve kuvvetli tadıyla bilinen, basınçlı sıcak su ile çekilmiş öğütülmüş kahve çekirdeklerinden elde edilen kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965199.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chai Tea Latte",
+      "price": "105 TL",
+      "description": "Chai tea baharatları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31763067.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salep",
+      "price": "100 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965200.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Çikolata",
+      "price": "100 TL",
+      "description": "Çikolata aromalı sıcak bir içecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sıcak Beyaz Çikolata",
+      "price": "100 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Classic Frappe",
+      "price": "114 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Caramel Latte",
+      "price": "120 TL",
+      "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan, tatlı karamel sosu ve süt köpüğü ile süslenen soğuk kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965206.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreolu Frappe",
+      "price": "125 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965207.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "White Mocha Frappe",
+      "price": "119 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mocha Frappe",
+      "price": "119 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965210.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Americano",
+      "price": "100 TL",
+      "description": "Soğuk su ve espresso üzerine buz eklenerek hazırlanan, hafif acımsı bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965211.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Latte",
+      "price": "110 TL",
+      "description": "Soğuk süt ve espresso üzerine buz eklenerek hazırlanan sütlü bir kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Iced Mocha",
+      "price": "115 TL",
+      "description": "Soğuk süt, espresso, kakao tozu ve buzun karıştırılmasıyla hazırlanan, hafif tatlı ve kakaolu bir soğuk kahve çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50801607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27426775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965219.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965220.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965221.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27426783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32558171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "45 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64208265.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64210717.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65274178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Öğütülmüş Filtre Kahve (250 gr.)",
+      "price": "360 TL",
+      "description": "Muhteşem aromasıyla tadı damağınızda kalan filtre kahvemiz şimdi taze öğütülmüş olarak sizlerle.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vanilya Aromalı Öğütülmüş Filtre Kahve (250 gr.)",
+      "price": "360 TL",
+      "description": "Muhteşem vanilya aromasıyla tadı damağınızda kalan filtre kahvemiz şimdi taze öğütülmüş olarak sizlerle.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965227.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Aromalı Öğütülmüş Filtre Kahve (250 gr.)",
+      "price": "360 TL",
+      "description": "Muhteşem fındık aromasıyla tadı damağınızda kalan filtre kahvemiz şimdi taze öğütülmüş olarak sizlerle.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965228.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamel Aromalı Öğütülmüş Filtre Kahve (250 gr.)",
+      "price": "360 TL",
+      "description": "Muhteşem Karamel aromasıyla tadı damağınızda kalan filtre kahvemiz şimdi taze öğütülmüş olarak sizlerle.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/7965229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24050409.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

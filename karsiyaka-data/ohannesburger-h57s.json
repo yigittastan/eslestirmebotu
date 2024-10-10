@@ -1,0 +1,477 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/h57s/ohannes-burger-h57s",
+  "google": "",
+  "products": [
+    {
+      "name": "Ohannes Cheese",
+      "price": "290 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı mayonez, cheddar peyniri, karamelize soğan, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750828.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Smash Burger",
+      "price": "337 TL",
+      "description": "200 gr. Smash köfte, cheddar peyniri, saman patates, ev yapımı isli mayonez, ev yapımı bbq mayonez, kıvırcık marul, domates. Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750836.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bilader Menü 2'li",
+      "price": "540 TL",
+      "description": "Seçeceğiniz 2 Adet Regular Boy Hamburger + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes BBQ",
+      "price": "287 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı BBQ mayonez, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, karamelize soğan, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750824.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Mushroom",
+      "price": "290 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı mantarlı mayonez, ızgara mantar, karamelize soğan, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlı Patates Kızartması",
+      "price": "85 TL",
+      "description": "Aioli ve Ketçap Sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca Cola Fırsat Menüsü (Regular Cheese Burger + 2'li Tavuk Şerit Menü)",
+      "price": "286,00 TL382 TL",
+      "description": "Regular Cheese Burger + 2 Adet Tavuk Şerit + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66557850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Burger Avantajlı Menü",
+      "price": "300 TL379 TL",
+      "description": "Regular Cheese Burger + 2 adet Mozzarella Sticks + Kutu İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66871852.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ulti Menü",
+      "price": "370 TL",
+      "description": "Seçeceğiniz Regular Burger + 1 Adet Seçeceğiniz Aperitif + Kutu İçecek (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54431275.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bilader Menü 2'li",
+      "price": "540 TL",
+      "description": "Seçeceğiniz 2 Adet Regular Boy Hamburger + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Classic",
+      "price": "282 TL",
+      "description": "130 gr. hamburger köftesi, ketçap, ev yapımı mayonez, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes BBQ",
+      "price": "287 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı BBQ mayonez, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, karamelize soğan, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750824.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Biftek's",
+      "price": "336 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı mayonez, biftek dilimleri, cheddar peyniri, karamelize soğan, BBQ Sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Mushroom",
+      "price": "290 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı mantarlı mayonez, ızgara mantar, karamelize soğan, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Mexi",
+      "price": "287 TL",
+      "description": "130 gr. hamburger köftesi, el yapımı acılı Mexica sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Cheese",
+      "price": "290 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı mayonez, cheddar peyniri, karamelize soğan, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750828.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Big Lebowski",
+      "price": "301 TL",
+      "description": "130 gr. hamburger köftesi, el yapımı acılı Mexica sos, cheddar peyniri, karamelize soğan, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750829.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Chicken Burger",
+      "price": "265 TL",
+      "description": "Biberiye, fesleğen, kekik, tarhun ve baharatlar ile panelenmiş 180 gr. tavuk but, el yapımı mayonez, kıvırcık marul, domates, Ankara Çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750830.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Crispy Chicken Burger",
+      "price": "267 TL",
+      "description": "Tatlı toz biber, sarımsak tozu, soğan tozu, akbiber ve baharatlarla panelenmiş 180 gr. tavuk but, sriracha sos, ev yapımı mayonez, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750831.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Aged Beef Burger",
+      "price": "337 TL",
+      "description": "160 gr. dinlendirilmiş hamburger köftesi, cheddar peyniri, karamelize soğan, el yapımı isli mayonez, bbq sos, kıvırcık marul, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750832.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Tandır Burger",
+      "price": "340 TL",
+      "description": "130 gr. hamburger köftesi, fırınlanmış dana tandır, saman patates, ev yapımı isli mayonez, BBQ sos, cheddar peyniri, karamelize soğan, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750833.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Smash Burger",
+      "price": "337 TL",
+      "description": "200 gr. Smash köfte, cheddar peyniri, saman patates, ev yapımı isli mayonez, ev yapımı bbq mayonez, kıvırcık marul, domates. Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750836.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheesy Beast Burger",
+      "price": "351 TL",
+      "description": "130 gr. hamburger köftesi, sade mayonez, ızgara kaşar peyniri, ızgara mozzarella peyniri, cheddar peyniri, Ohannes çıtırı, domates, marul. Baharatlı patates kızartması ve aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36345583.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Smokehouse Burger",
+      "price": "391 TL",
+      "description": "130 gr. hamburger köftesi, isli mayonez, BBQ mayonez, jülyen biftek dilimleri, dana bacon, ızgara kaşar peyniri, Ohanees çıtırı, domates, marul. Baharatlı patates kızartması ve aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36346141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Smokehouse Double Smash Burger",
+      "price": "406 TL",
+      "description": "200 gr. hamburger köftesi, isli mayonez, BBQ mayonez, jülyen biftek dilimleri, dana bacon, ızgara kaşar peyniri, Ohanees çıtırı, domates, marul. Baharatlı patates kızartması ve aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36346296.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Springtime Burger",
+      "price": "311 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı garden sos, ızgara kaşar peyniri, ev yapımı aioli, ev yapımı mor soğan turşusu, kıvırcık marul, baharatlı patates kızartması",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48288366.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ohannes Harvest Burger",
+      "price": "311 TL",
+      "description": "130 gr. hamburger köftesi, ev yapımı kremalı baharatlı ıspanak sos, ev yapımı mexi sos, ızgara kaşar peyniri, cheddar peyniri, ev yapımı Ohannes çıtırı, ev yapımı mor soğan turşusu, kıvırcık marul, baharatlı patates kızartması ve aioli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48288378.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Classic",
+      "price": "272 TL",
+      "description": "90 gr. hamburger köftesi, ketçap, ev yapımı mayonez, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750837.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular BBQ",
+      "price": "277 TL",
+      "description": "90 gr. hamburger köftesi, ev yapımı BBQ mayonez, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, karamelize soğan, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750838.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Biftek's",
+      "price": "296 TL",
+      "description": "90 gr. hamburger köftesi, ev yapımı mayonez, biftek dilimleri, cheddar peyniri, karamelize soğan, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750839.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Mushroom",
+      "price": "279 TL",
+      "description": "90 gr. hamburger köftesi, ev yapımı mantarlı mayonez, ızgara mantar, karamelize soğan, BBQ sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750840.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Mexi",
+      "price": "277 TL",
+      "description": "90 gr. hamburger köftesi, el yapımı acılı Mexica sos, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Cheese",
+      "price": "279 TL",
+      "description": "90 gr. hamburger köftesi, ev yapımı mayonez, cheddar peyniri, karamelize soğan, kıvırcık marul, Ankara çubuk turşusu, domates, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750842.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Chicken Burger",
+      "price": "255 TL",
+      "description": "Biberiye, fesleğen, kekik, tarhun ve baharatlar ile panelenmiş 90 gr. tavuk but, el yapımı mayonez, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Crispy Chicken Burger",
+      "price": "257 TL",
+      "description": "Tatlı toz biber, sarımsak tozu, soğan tozu, akbiber ve baharatlarla panelenmiş 90 gr. tavuk but, sriracha sos, ev yapımı mayonez, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750844.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Big Lebowski",
+      "price": "280 TL",
+      "description": "90 gr. hamburger köftesi, el yapımı acılı Mexica sos, cheddar peyniri, karamelize soğan, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750845.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Veggie Burger",
+      "price": "277 TL",
+      "description": "100 gr. falafel köfte, ev yapımı aioli mayonez, isli ızgara sebzeli özel sos, kıvırcık marul, domates, Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750846.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Regular Smash Burger",
+      "price": "296 TL",
+      "description": "100 gr. Smash köfte, cheddar peyniri, saman patates, ev yapımı isli mayonez, ev yapımı bbq mayonez, kıvırcık marul, domates. Ankara çubuk turşusu, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750848.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Texas Tavuk",
+      "price": "110 TL",
+      "description": "Biberiye, fesleğen, kekik, tarhun ile panelenmiş tavuk parçaları, baharatlı patates kızartması, aioli sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750849.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baharatlı Patates Kızartması",
+      "price": "85 TL",
+      "description": "Aioli ve Ketçap Sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soğan Halkası (6 Adet)",
+      "price": "65 TL",
+      "description": "6 Adet Soğan Halkası, El Yapımı Aioli ve Ketçap Sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750851.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Sticks (4 Adet)",
+      "price": "90 TL",
+      "description": "Aioli ve Ketçap Sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750852.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sokak Stili Smash",
+      "price": "254 TL",
+      "description": "Gobit ekmek, 100 gr. Smash köfte, cheddar peyniri, saman patates, ev yapımı isli mayonez, kıvırcık marul, domates, Ankara çubuk turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750854.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sokak Stili Mexi Tavuk",
+      "price": "214 TL",
+      "description": "Gobit ekmek, 90 gr. ızgara tavuk but, mexi sos, saman patates, kıvırcık marul, Ankara çubuk turşusu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Crispy Chicken Bites",
+      "price": "145 TL",
+      "description": "100 gr. patates üzerinde 2 adet Texas tavuk, 2 adet tavuk şerit, 2 adet tavuk topu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52397134.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheesy Bites",
+      "price": "140 TL",
+      "description": "100 gr. patates üzerinde 3 adet mozzarella sticks, 3 adet Mac & cheese",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52397139.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Jalapeno Poppers Bites",
+      "price": "140 TL",
+      "description": "100 gr. patates üzerinde 3 adet jalapeno poppers",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52397144.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750863.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750865.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750867.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750868.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750869.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Mango (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750870.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750871.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Karışık (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750872.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Vişne (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750874.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Şeftali (33 cl.)",
+      "price": "55 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750876.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "35 TL",
+      "description": "33 cl.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750877.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750880.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750881.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750882.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750884.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750886.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Mango (1 L.)",
+      "price": "75 TL",
+      "description": "1 L.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750887.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Uludağ Limonata (25 cl.)",
+      "price": "50 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65879661.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Soda (33 cl.)",
+      "price": "35 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65879668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Cam Şişe Su (33 cl.)",
+      "price": "30 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65879747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı Mantarlı Mayonez",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı Aioli Sos",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı Bbq Mayonez",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı Körili Mayonez",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı Mexi Sos",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750893.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı İsli Mayonez",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "El Yapımı Sade Mayonez",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750895.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bbq Sos",
+      "price": "10 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750896.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sriracha",
+      "price": "12 TL",
+      "description": "Sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10750897.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65302131.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

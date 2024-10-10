@@ -1,0 +1,150 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/rfeq/7-lahmacun-rfeq",
+  "google":"https://maps.app.goo.gl/RafrnY98NcK5sA5A8",
+  "products": [
+    {
+      "name": "Menü 2",
+      "price": "96 TL120 TL",
+      "description": "2 Adet Sokak Lahmacun + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Menü",
+      "price": "292 TL365 TL",
+      "description": "7 Adet Sokak Lahmacun + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Mantarlı Kaşarlı Pizza",
+      "price": "126,40 TL158 TL",
+      "description": "Tavuk, mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "108 TL135 TL",
+      "description": "2 Adet Sokak Lahmacun + Pepsi (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "56 TL70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708293.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza",
+      "price": "114,40 TL143 TL",
+      "description": "Sucuk, salam, sosis, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708441.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "108 TL135 TL",
+      "description": "2 Adet Sokak Lahmacun + Pepsi (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676171.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "96 TL120 TL",
+      "description": "2 Adet Sokak Lahmacun + Ayran (17 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676197.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Aile Menü",
+      "price": "292 TL365 TL",
+      "description": "7 Adet Sokak Lahmacun + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Aile Menü",
+      "price": "348 TL435 TL",
+      "description": "10 Adet Sokak Lahmacun (Lütfen acı seçiminizi sipariş notu kısmında belirtiniz.) + Pepsi (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sokak Lahmacun",
+      "price": "36 TL45 TL",
+      "description": "Soğan, baharat, kıyma, biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676029.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Mantarlı Kaşarlı Pizza",
+      "price": "134,40 TL168 TL",
+      "description": "Kıyma, mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Pizza",
+      "price": "110,40 TL138 TL",
+      "description": "Pizza sosu, sucuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708300.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Pizza",
+      "price": "114,40 TL143 TL",
+      "description": "Sucuk, salam, sosis, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708441.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Mantarlı Kaşarlı Pizza",
+      "price": "126,40 TL158 TL",
+      "description": "Tavuk, mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708489.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Zeytinli Pizza",
+      "price": "110,40 TL138 TL",
+      "description": "Kaşar peyniri, zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53709399.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Pizza",
+      "price": "140 TL175 TL",
+      "description": "Ton balığı, mısır, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66347120.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Pizza",
+      "price": "110,40 TL138 TL",
+      "description": "Mantar, zeytin kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66350715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (33 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "26,40 TL33 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676062.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Turşu Suyu (30 cl.)",
+      "price": "40 TL50 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676061.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "28 TL35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676063.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepsi (1 L.)",
+      "price": "56 TL70 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53708293.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45676082.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/mc74/bertos-pizzeria",
+  "google": "",
+  "products": [
+    {
+      "name": "Margherita Pizza",
+      "price": "327,25 TL385 TL",
+      "description": "Domates sos, suda mozzarella peyniri, fesleğen",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571897.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Four Cheese Pizza",
+      "price": "369,75 TL435 TL",
+      "description": "Rokfor peyniri, domates sos, suda mozzarella peyniri, parmesan peyniri, emmental peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme",
+      "price": "412,25 TL485 TL",
+      "description": "Domates sos, suda mozzarella peyniri, cheddar peyniri, füme antrikot, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571920.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berto's Pizza",
+      "price": "352,75 TL415 TL",
+      "description": "Baby ıspanak, suda mozzarella peyniri, istiridye mantarı, kapya biber, pesto sos, taze ricotta peyniri, trüf sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roast Beef Pizza",
+      "price": "412,25 TL485 TL",
+      "description": "Domates sos, suda mozzarella peyniri, roastbeef, Bergama tulum peyniri, roka, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza",
+      "price": "369,75 TL435 TL",
+      "description": "Domates sos, suda mozzarella peyniri, kasap sucuk, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48620003.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tortiglioni Al Norma",
+      "price": "284,75 TL335 TL",
+      "description": "Közlenmiş patlıcan, feta peyniri, krema, domates sos, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spaghetti Bolognese",
+      "price": "327,25 TL385 TL",
+      "description": "Bolognese sos, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Tagliatelle",
+      "price": "327,25 TL385 TL",
+      "description": "Marine tavuk parçaları, mantar, krema, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Kabak",
+      "price": "242,25 TL285 TL",
+      "description": "Kuru cacık ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571664.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüflü Parmesanlı Patates Kızartması",
+      "price": "242,25 TL285 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "199,75 TL235 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Baby Chicken",
+      "price": "242,25 TL285 TL",
+      "description": "Çıtır tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48667318.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roka Salatası",
+      "price": "250,75 TL295 TL",
+      "description": "Roka, tulum peyniri, elma, kaju, nar, parmesan peyniri, lime sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44571836.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "72,25 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48639731.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "72,25 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572939.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "72,25 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "72,25 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572946.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "72,25 TL85 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572950.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "42,50 TL50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572957.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "25,50 TL30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44572963.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44573320.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

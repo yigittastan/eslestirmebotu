@@ -1,0 +1,84 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/xqjv/vegkek",
+  "google": "",
+  "products": [
+    {
+      "name": "Vanilyalı Cupcake (Vegan)",
+      "price": "100 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63588843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Cupcake (Vegan)",
+      "price": "100 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63588847.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie (Vegan)",
+      "price": "175 TL",
+      "description": "Bitkisel vegan brownie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64362852.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaban Mersinli Cheesecake",
+      "price": "225 TL",
+      "description": "Bitkisel içerikli vegan cheesecake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65381539.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Çikolatalı Cookie",
+      "price": "100 TL",
+      "description": "(Vegan) Damla çikolata, esmer seker",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65387238.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (50 cl.) (Cam)",
+      "price": "24 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55021490.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55021952.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55028577.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55029593.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55029772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55031578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "79 TL",
+      "description": "Ev yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66540087.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54999430.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

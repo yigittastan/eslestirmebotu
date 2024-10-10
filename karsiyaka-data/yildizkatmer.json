@@ -1,0 +1,223 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/c594/yildiz-katmer",
+  "google": "",
+  "products": [
+    {
+      "name": "Klasik Katmer",
+      "price": "150 TL",
+      "description": "Yumurta, maydanoz, İzmir tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34455143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Katmer",
+      "price": "250 TL",
+      "description": "Yumurta, maydanoz, kıyma, İzmir tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34508125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Katmer & Kahvaltı Salatası",
+      "price": "320 TL",
+      "description": "Kıymalı katmer. Karışık kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabaklı Katmer",
+      "price": "180 TL",
+      "description": "Yumurta, Girit kabak, dereotu, taze nane, İzmir tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38523785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kahvaltı Salatası",
+      "price": "100 TL",
+      "description": "Cherry domates, salatalık, biber, maydanoz, kırma yeşil zeytin, Akhisar siyah zeytin, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27647125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Mozzarellalı Katmer",
+      "price": "300 TL",
+      "description": "Yumurta, kıyma, mozzarella peyniri, tulum peyniri"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Klasik Katmer)",
+      "price": "171 TL190 TL",
+      "description": "Klasik Katmer + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Süper İkili Katmer Menü",
+      "price": "540 TL",
+      "description": "Klasik Katmer + Kıymalı Katmer + Kahvaltı Salatası + Karışık Zeytin Tabağı"
+    },
+    {
+      "name": "Klasik İkili Katmer Menü",
+      "price": "430 TL",
+      "description": "2 Adet Klasik Katmer + Karışık Zeytin Tabağı + 2 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "Gurme Katmer Menü",
+      "price": "700 TL",
+      "description": "Kıymalı Mozzarella Peynirli Katmer + Kabaklı Katmer + Kahvaltı Salatası + Karışık Zeytin Tabağı + 2 Adet Şeftali Meyve Suyu"
+    },
+    {
+      "name": "Yazlık İkili Katmer Menü",
+      "price": "500 TL",
+      "description": "Köz Patlıcanlı Katmer + Kabaklı Katmer + Kahvaltı Salatası + Karışık Zeytin Tabağı"
+    },
+    {
+      "name": "Kalabalık Aile Menü",
+      "price": "1.290 TL",
+      "description": "Klasik Katmer + Mozzarella Peynirli Katmer + Kabaklı Katmer + Köz Patlıcanlı Katmer + Kıymalı Katmer + 2 Adet Kahvaltı Salatası + 2 Adet Karışık Zeytin Tabağı"
+    },
+    {
+      "name": "Kıymalı Katmer & Kahvaltı Salatası",
+      "price": "320 TL",
+      "description": "Kıymalı katmer. Karışık kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Katmer & Kahvaltı Salatası",
+      "price": "220 TL",
+      "description": "Karışık kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34560719.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kabaklı Katmer & Kahvaltı Salatası",
+      "price": "250 TL",
+      "description": "Kabaklı katmer. Karışık kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34561954.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köz Patlıcanlı Katmer & Kahvaltı Salatası",
+      "price": "260 TL",
+      "description": "Köz patlıcanlı katmer. Karışık kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38793663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Peynirli Katmer & Kahvaltı Salatası",
+      "price": "320 TL",
+      "description": "Mozzarella peynirli katmer. Karışık kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38793666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Mozzarella Peynirli Katmer & Kahvaltı Salatası",
+      "price": "370 TL",
+      "description": "Kıymalı mozzarella peynirli katmer. Kahvaltı salatası ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38793825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Katmer",
+      "price": "150 TL",
+      "description": "Yumurta, maydanoz, İzmir tulum peyniri",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kabaklı Katmer",
+      "price": "180 TL",
+      "description": "Yumurta, Girit kabak, dereotu, taze nane, İzmir tulum peyniri",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kıymalı Katmer",
+      "price": "250 TL",
+      "description": "Yumurta, maydanoz, kıyma, İzmir tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34508125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella'lı Katmer",
+      "price": "250 TL",
+      "description": "Yumurta, Mozzarella peyniri, tulum peyniri, taze nane"
+    },
+    {
+      "name": "Kıymalı Mozzarellalı Katmer",
+      "price": "300 TL",
+      "description": "Yumurta, kıyma, mozzarella peyniri, tulum peyniri"
+    },
+    {
+      "name": "Köz Patlıcanlı Katmer",
+      "price": "190 TL",
+      "description": "Yumurta, közlenmiş patlıcan, İzmir tulum peyniri"
+    },
+    {
+      "name": "Rendelenmiş Ödemiş Tulum Peyniri",
+      "price": "50 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maydanoz",
+      "price": "15 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahvaltı Salatası",
+      "price": "70 TL",
+      "description": "Cherry domates, salatalık, maydanoz, zeytinyağı, dağ kekiği ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kahvaltı Salatası",
+      "price": "100 TL",
+      "description": "Cherry domates, salatalık, biber, maydanoz, kırma yeşil zeytin, Akhisar siyah zeytin, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27647125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Siyah Zeytin",
+      "price": "70 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30705971.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Zeytin",
+      "price": "70 TL",
+      "description": "Yeşil zeytin, siyah zeytin, biberli zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30706008.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Biberli Zeytin",
+      "price": "70 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30726474.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kırma Yeşil Zeytin",
+      "price": "70 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30714556.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52836572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy Şeftali (30 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38793985.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dimes Vişne Suyu (30 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38793192.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38793179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "30 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201668.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6201669.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

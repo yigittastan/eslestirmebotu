@@ -1,0 +1,192 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/dken/manneken-belgium-waffle",
+  "google": "",
+  "products": [
+    {
+      "name": "Classic Waffle",
+      "price": "212,50 TL250 TL",
+      "description": "Sütlü çikolata, beyaz çikolata, seçeceğiniz meyve, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tutti Frutti Waffle",
+      "price": "229,50 TL270 TL",
+      "description": "Sütlü & beyaz çikolata, seçeceğiniz 3 adet meyve, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Dream Waffle",
+      "price": "255 TL300 TL",
+      "description": "Beyaz çikolata, frambuazlı çikolata, çilek, donmuş frambuaz, donmuş vişne, frambuaz veya beyaz sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026896.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Plus Waffle",
+      "price": "289 TL340 TL",
+      "description": "Sütlü çikolata, muz, çilek, fındık parçaları, damla çikolata, 1 top çikolatalı dondurma, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Krokan Waffle",
+      "price": "255 TL300 TL",
+      "description": "Sütlü çikolata, beyaz çikolata, 2 adet seçeceğiniz meyve, krokan, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyve Salatası",
+      "price": "238 TL280 TL",
+      "description": "Mevsim meyveleri, krem şanti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Classic Waffle",
+      "price": "212,50 TL250 TL",
+      "description": "Sütlü çikolata, beyaz çikolata, seçeceğiniz meyve, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026889.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tutti Frutti Waffle",
+      "price": "229,50 TL270 TL",
+      "description": "Sütlü & beyaz çikolata, seçeceğiniz 3 adet meyve, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026891.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Krokan Waffle",
+      "price": "255 TL300 TL",
+      "description": "Sütlü çikolata, beyaz çikolata, 2 adet seçeceğiniz meyve, krokan, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026892.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kestanelim Waffle",
+      "price": "255 TL300 TL",
+      "description": "Sütlü çikolata, beyaz çikolata, 2 adet seçeceğiniz meyve, kestane şekeri, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026893.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cream Waffle",
+      "price": "255 TL300 TL",
+      "description": "Bitter çikolata, beyaz çikolata, 2 top dondurma, fındık parçacıkları, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026895.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Red Dream Waffle",
+      "price": "255 TL300 TL",
+      "description": "Beyaz çikolata, frambuazlı çikolata, çilek, donmuş frambuaz, donmuş vişne, frambuaz veya beyaz sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026896.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sweety Waffle",
+      "price": "255 TL300 TL",
+      "description": "Krem şanti, muz, bal, fındık, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026897.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "X-treme Waffle",
+      "price": "297,50 TL350 TL",
+      "description": "Bitter çikolata, muz, çilek, kestane şekeri, incir, ceviz, çikolata sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026898.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropic Waffle",
+      "price": "272 TL320 TL",
+      "description": "Sütlü çikolata, mevsimine göre kivi veya şeftali, ananas, mango, Hindistan cevizi, 1 top kavunlu dondurma, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026899.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Junior Waffle",
+      "price": "255 TL300 TL",
+      "description": "Beyaz çikolata, frambuazlı çikolata, çilek, bonibon, pasta süsü, çakıltaşı, frambuaz sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026901.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Joy Waffle",
+      "price": "255 TL300 TL",
+      "description": "Frambuaz çikolata, beyaz çikolata, mevsimine göre kivi veya şeftali, Hindistan cevizi, çakıltaşı, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chocolate Plus Waffle",
+      "price": "289 TL340 TL",
+      "description": "Sütlü çikolata, muz, çilek, fındık parçaları, damla çikolata, 1 top çikolatalı dondurma, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026902.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Caramel Waffle",
+      "price": "255 TL300 TL",
+      "description": "Sütlü çikolata, karamelli çikolata, muz, ceviz, 1 top karamelli dondurma, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026903.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Şöleni Waffle",
+      "price": "301,75 TL355 TL",
+      "description": "Sütlü çikolata, Antep fıstıklı çikolata, muz, çilek, ananas, Antep fıstığı, toz Antep fıstığı, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026904.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hazelnut Waffle",
+      "price": "255 TL300 TL",
+      "description": "Sütlü çikolata, muz, rulokat, toz fındık sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026905.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Power Waffle",
+      "price": "306 TL360 TL",
+      "description": "Sütlü çikolata, muz, Antep fıstığı, toz Antep fıstığı, fındık, toz fındık, file badem, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026906.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Efsane Waffle",
+      "price": "289 TL340 TL",
+      "description": "Sütlü çikolata, beyaz çikolata, çilek, böğürtlen, 1 top karadutlu dondurma, 1 top sakızlı dondurma, sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026908.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilek Dünyası Waffle",
+      "price": "255 TL300 TL",
+      "description": "Beyaz çikolata, frambuazlı çikolata, çilek, pudra şekeri, kiraz şekeri, damla çikolata, çilek sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magic Waffle",
+      "price": "255 TL300 TL",
+      "description": "Fıstık ezmesi, muz, badem, müsli, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026910.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyve Salatası",
+      "price": "238 TL280 TL",
+      "description": "Mevsim meyveleri, krem şanti",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "46,75 TL55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lipton Ice Tea (33 cl.)",
+      "price": "38,25 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026919.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "29,75 TL35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026921.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25,50 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026922.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6026923.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

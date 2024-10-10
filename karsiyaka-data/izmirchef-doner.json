@@ -1,0 +1,318 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/pwej/izmir-chef-doner",
+  "google": "",
+  "products": [
+    {
+      "name": "Gobit Ekmek Arası Et Döner",
+      "price": "250 TL",
+      "description": "Gobit ekmek arasına; 100 gr. yaprak et döner, domates, soğan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm",
+      "price": "250 TL",
+      "description": "100 gr. yaprak et döner, domates, soğan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Et Döner",
+      "price": "300 TL",
+      "description": "120 gr. yaprak et döner. Mevsim salata, lavaş, sumaklı soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010031.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "380 TL",
+      "description": "120 gr. yaprak et döner, tırnak pide, tereyağı, domates sos, yoğurt. Mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010035.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Et Döner",
+      "price": "250 TL",
+      "description": "Özel ekmek, 100 gr. yaprak et döner, domates, soğan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Et Döner",
+      "price": "380 TL",
+      "description": "120 gr. yaprak et döner, pirinç pilavı. Mevsim salata, sumaklı soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010048.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Döner Menü",
+      "price": "430 TL",
+      "description": "Yaprak Et Döner (120 gr.) (Mevsim salata, sumaklı soğan, ketçap, mayonez ile) + Patates Kızartması + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39680909.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Et Döner Menü",
+      "price": "380 TL",
+      "description": "Yaprak Et Döner (100 gr.) + French Fries (Ketçap - Mayonez ) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39851349.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gobit Ekmek Arası Et Döner Menü",
+      "price": "380 TL",
+      "description": "Yaprak Et Döner (100 gr.) + French Fries (Ketçap - Mayonez ) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39851690.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm Menü",
+      "price": "380 TL",
+      "description": "Yaprak Et Döner (100 gr.) (Domates, yeşillik, soğan, domates sos) + French Fries (Ketçap - Mayonez ) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39858945.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden) Menü",
+      "price": "500 TL",
+      "description": "Yaprak Et Döner (120 gr.) + French Fries (Ketçap - Mayonez ) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43613743.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2 Adet Gobit Ekmek Döner",
+      "price": "470 TL",
+      "description": "100 Gr. Yaprak Et Döner, Yeşillik, Domates, Soğan ve Domates Sos (2 ADET)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46539269.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Sade Döner",
+      "price": "570 TL",
+      "description": "120 gr. yaprak et döner, lavaş. Mevsim salata, sumaklı soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46539270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li İskender Döner",
+      "price": "730 TL",
+      "description": "120 gr. yaprak et döner, tırnak pide, tereyağı, yoğurt, domates sos. Mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/46539271.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Döner Burger Menü",
+      "price": "415 TL",
+      "description": "Burger Döner (Karamelize soğan, domates, yeşillik, eritilmiş kaşar peyniri, cheddar sos) + Patates Kızartması (Ketçap - Mayonez ) + İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49103412.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Et Döner",
+      "price": "300 TL",
+      "description": "120 gr. yaprak et döner. Mevsim salata, lavaş, sumaklı soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010031.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İskender (Et Dönerden)",
+      "price": "380 TL",
+      "description": "120 gr. yaprak et döner, tırnak pide, tereyağı, domates sos, yoğurt. Mevsim salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010035.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Et Döner",
+      "price": "380 TL",
+      "description": "120 gr. yaprak et döner, pirinç pilavı. Mevsim salata, sumaklı soğan ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010048.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarma Beyti Kebap (Et Dönerden)",
+      "price": "380 TL",
+      "description": "120 gr. yaprak et döner, kaşar peyniri, tereyağı, domates sos. Mevsim salatası, yoğurt ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tekli Burger Döner",
+      "price": "300 TL",
+      "description": "Özel burger ekmeğine; 100 gr. et döner, kaşar peyniri, cheddar sos, karamelize soğan, domates, yeşillik.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010083.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Soslu Et Döner",
+      "price": "380 TL",
+      "description": "Patates yatağında 120 gr. yaprak et döner. Cheddar sos, barbekü sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010089.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Et Döner",
+      "price": "250 TL",
+      "description": "Özel ekmek, 100 gr. yaprak et döner, domates, soğan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Gobit Ekmek Arası Et Döner",
+      "price": "250 TL",
+      "description": "Gobit ekmek arasına; 100 gr. yaprak et döner, domates, soğan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürüm",
+      "price": "250 TL",
+      "description": "100 gr. yaprak et döner, domates, soğan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Burger Döner",
+      "price": "575 TL",
+      "description": "Hamburger ekmeğine; et döner, domates, yeşillik, karamelize soğan, cheddar sos, eritilmiş kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49103428.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade French Fries",
+      "price": "120 TL",
+      "description": "Ketçap - Mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37009826.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar French Fries",
+      "price": "140 TL",
+      "description": "Ketçap - Mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37009844.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Samurai Sos",
+      "price": "20 TL",
+      "description": "Paket olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37009968.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yopi Sos",
+      "price": "20 TL",
+      "description": "Taze soğan, kremalı mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37412190.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Andalouse Sos",
+      "price": "20 TL",
+      "description": "(Adet olarak servis edilmektedir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37412830.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algerienne Sos",
+      "price": "20 TL",
+      "description": "İçeriğinde hardal, soğan parçaları ,tatlı-acılı biber , baharatlar, domates konsantresi ile otantik lezzet ve görünüm yönünden tamamlayıcı bir sos çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37423537.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüf Mantarlı Mayonez",
+      "price": "20 TL",
+      "description": "25 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64186594.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "180 TL",
+      "description": "4 adet (300 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39789156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010214.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010239.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Silivri Kara Maya Ayran (24,5 cl.)",
+      "price": "65 TL",
+      "description": "Küçük boy",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65726440.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (29,3 cl.)",
+      "price": "45 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010254.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010267.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "95 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010309.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "95 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010314.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "95 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "65 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eker Ayran (1 L.)",
+      "price": "85 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39644672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lavaş (Adet)",
+      "price": "10 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/42158795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Usulu Dondurmalı Cup (100 ml.)",
+      "price": "50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41267373.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte Dor Çikolata Rüyası (110 ml.)",
+      "price": "50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41267383.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte Dor Meyve Rüyası (110 ml.)",
+      "price": "50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41267387.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37010326.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

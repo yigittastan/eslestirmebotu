@@ -1,0 +1,276 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/g3zm/coco-by-poka",
+  "google": "",
+  "products": [
+    {
+      "name": "Full Cake",
+      "price": "300 TL",
+      "description": "Coco krema, pandispanya kek, krep kırığı, mevsim meyveleri, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680229.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fruit Cake",
+      "price": "300 TL",
+      "description": "Coco frambuaz krema, pandispanya kek, çilek, frambuaz, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680237.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paris Brest",
+      "price": "290 TL",
+      "description": "Choux, coco krema, fındık pralin, fındıklı krema, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Browni",
+      "price": "290 TL",
+      "description": "Coco frambuaz krema, Callebaut Belçika çikolatası, browni parçaları, çikolata topu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Ananas & Badem",
+      "price": "290 TL",
+      "description": "Beyaz kek, coco krema, beyaz Callebaut Belçika çikolatası, ananas, file badem",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680249.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Mag",
+      "price": "295 TL",
+      "description": "Coco Antep fıstıklı krema, beyaz kek, mag kreması, file Antep fıstığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680250.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Cream Puff",
+      "price": "270 TL",
+      "description": "Choux, coco krema, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680258.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Profiterol",
+      "price": "270 TL",
+      "description": "Choux, coco Antep fıstıklı krema, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680266.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Star",
+      "price": "270 TL",
+      "description": "Çikolata topu, irmikli Hindistan cevizi topu, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680269.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Cup",
+      "price": "275 TL",
+      "description": "Coco krema, pandispanya kek, mevsim meyveleri, çikolata topu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680270.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Caramel Tart",
+      "price": "260 TL",
+      "description": "Karamel, coco krema, Callebaut Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680271.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Frambuaz Tart",
+      "price": "260 TL",
+      "description": "Ruby çikolata, frambuaz, coco krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680286.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "300 TL",
+      "description": "İsteğe bağlı çikolata ile servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680288.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Mag",
+      "price": "290 TL",
+      "description": "Coco mag, Lotus biscoff, krema, Lotus kırığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680289.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice White Mousse",
+      "price": "290 TL",
+      "description": "Sponge kek, çilek, Hindistan cevizi, Callebaut, beyaz Belçika çikolatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680297.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portakallı Vegan Kek",
+      "price": "270 TL",
+      "description": "Dilim olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680305.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hurmalı Bebek Pudingi",
+      "price": "240 TL",
+      "description": "Organik tam yuluf unu, organik buğday ruşeymi, organik keçi boynuzu unu, hurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680306.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Protein Browni",
+      "price": "270 TL",
+      "description": "Organik pirinç unu, şekersiz çikolata, çilek, muz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680307.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enerji Topu",
+      "price": "95 TL",
+      "description": "Fıstık ezmesi, yaban mersini, kakao, yulaf, keçiboynuzu pekmezi, kuru dut, üzüm",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680309.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dubai Çikolata (200 gr.)",
+      "price": "430 TL",
+      "description": "Paket çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66680325.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Tost",
+      "price": "185 TL",
+      "description": "Pınar kaşar peyniri, pınar labne",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Soslu & Peynirli Tost",
+      "price": "230 TL",
+      "description": "Avokado sos, Pınar kaşar peyniri, Labne peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682610.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto Soslu & Peynirli Tost",
+      "price": "225 TL",
+      "description": "Pesto sos, Pınar kaşar peyniri, Pınar labne peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682611.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Üstü Kahvaltı 1",
+      "price": "285 TL",
+      "description": "Labne peyniri, tereyağında pişirilmiş göz yumurta (2 adet), kuru domates, Alman ekmeği, yeşillik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Üstü Kahvaltı 2",
+      "price": "285 TL",
+      "description": "Alman ekmeği, taze peynir, hindi füme, pesto sos, cherry domates roka, tereyağında çırpılmış yumurta (2 adet)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682619.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano",
+      "price": "115 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681969.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cafe Latte",
+      "price": "135 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681970.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cortado",
+      "price": "135 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681971.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "135 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681972.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Flat White",
+      "price": "135 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Vegan Latte",
+      "price": "165 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Filter Coffee",
+      "price": "110 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682023.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Americano",
+      "price": "130 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cafe Latte",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cortado",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66681999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Cappuccino",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Flat White",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ice Filter Coffee",
+      "price": "120 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682029.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cold Brew",
+      "price": "150 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682045.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata",
+      "price": "135 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Red",
+      "price": "175 TL",
+      "description": "Satsuma, hibiscus, yaban mersini",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682103.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Pink",
+      "price": "175 TL",
+      "description": "Reyhan, limon, şeker şurubu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682104.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Orange",
+      "price": "175 TL",
+      "description": "Portakal suyu, karadut özü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682107.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coco Green",
+      "price": "175 TL",
+      "description": "Kuzu kulağı, limon, şeker şurubu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66682112.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66684051.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

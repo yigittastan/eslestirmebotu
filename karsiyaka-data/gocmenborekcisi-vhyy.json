@@ -1,0 +1,199 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/vhyy/gocmen-borekcisi-vhyy",
+  "google": "",
+  "products": [
+    {
+      "name": "Kıymalı Göçmen Böreği (200 gr.)",
+      "price": "153 TL170 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Söğüş Tabağı",
+      "price": "45 TL50 TL",
+      "description": "Domates, salatalık, yeşil biber, kırmızıbiber, siyah zeytin, yeşil zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkılmış Portakal Suyu",
+      "price": "58,50 TL65 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895260.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "72 TL80 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895246.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev yapımı Limonata",
+      "price": "58,50 TL65 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24886754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süzme Bal",
+      "price": "13,50 TL15 TL",
+      "description": "20 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilek Reçeli",
+      "price": "13,50 TL15 TL",
+      "description": "40 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895158.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişne Reçeli",
+      "price": "13,50 TL15 TL",
+      "description": "40 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895159.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolata Kreması",
+      "price": "13,50 TL15 TL",
+      "description": "20 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üçgen Peynir",
+      "price": "13,50 TL15 TL",
+      "description": "15 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895162.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Beyaz Peynir",
+      "price": "18 TL20 TL",
+      "description": "20 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895163.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peyniri",
+      "price": "22,50 TL25 TL",
+      "description": "15 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895164.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tereyağı",
+      "price": "13,50 TL15 TL",
+      "description": "10 gr",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895165.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşlanmış Yumurta",
+      "price": "13,50 TL15 TL",
+      "description": "Yumurtanın suda kaynatılarak pişirildiği kahvaltı çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24890551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezine Peyniri",
+      "price": "31,50 TL35 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Kıymalı Göçmen Böreği (200 gr.)",
+      "price": "153 TL170 TL",
+      "description": "200 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Söğüş Tabağı",
+      "price": "45 TL50 TL",
+      "description": "Domates, salatalık, yeşil biber, kırmızıbiber, siyah zeytin, yeşil zeytin",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akışkan Çikolatalı Kurabiye",
+      "price": "27 TL30 TL",
+      "description": "Çikolata"
+    },
+    {
+      "name": "Kavala Kurabiyesi (Adet)",
+      "price": "22,50 TL25 TL",
+      "description": "1 kişilik"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (30 cl.)",
+      "price": "72 TL80 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895241.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (30 cl.)",
+      "price": "72 TL80 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "72 TL80 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895246.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "72 TL80 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895247.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Büyük",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895251.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (33 cl.)",
+      "price": "18 TL20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Süt (20 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Çikolatalı Süt (20 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Pınar Muzlu Süt (20 cl.)",
+      "price": "36 TL40 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Taze Sıkılmış Portakal Suyu",
+      "price": "58,50 TL65 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895260.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev yapımı Limonata",
+      "price": "58,50 TL65 TL",
+      "description": "Bardak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24886754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5895262.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+import json
+import os
+import webbrowser
+import keyboard
+import pyautogui
+import time
+import re
+import selenium.webdriver as webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
+
+# Chrome seçeneklerini ayarla
+chrome_options = webdriver.ChromeOptions()
+chrome_options.add_argument("--remote-debugging-port=9222")  # Debugging portunu ayarla
+chrome_options.add_argument("--user-data-dir=C:/Path/To/Your/Chrome/User/Data")  # Kullanıcı verilerini belirt
+
+# WebDriver'ı mevcut oturumla başlat
+driver = webdriver.Chrome(options=chrome_options)
+
+
+
+def parse_address(address):
+    # Regex ile adresi parçala
+    match = re.match(r'^(.*?)\s+(\d+\s*.*)$', address)
+    
+    if match:
+        street_name = match.group(1).strip()  # Sokak adı
+        street_number = match.group(2).strip()  # Sokak numarası ve ek bilgileri
+        # Ekstra bilgileri ayır
+        additional_info = street_number.split(" ", 1)
+        if len(additional_info) > 1:
+            number = additional_info[0]  # Sokak numarası
+            details = additional_info[1]  # Ek detaylar
+        else:
+            number = additional_info[0]
+            details = ""
+
+        return {
+            "street_name": street_name,
+            "street_number": number,
+            "details": details
+        }
+    else:
+        return None
+
+
+
+def find(driver):
+    try:
+        # XPath ile butonun görünür olmasını bekle
+        button = WebDriverWait(driver, 20).until(
+            EC.visibility_of_element_located((By.XPATH, '//*[@id="vendor-details-root"]/main/section[1]/div/button[1]'))
+        )
+        h1_text = button.find_element(By.TAG_NAME, 'h1').text
+        
+         # Hakkında butonunu bulun ve tıklayın
+        about_button = WebDriverWait(driver, 20).until(
+            EC.visibility_of_element_located((By.XPATH, "//button[@data-testid='vendor-info-more-info-btn']"))
+        )
+        about_button.click()  # Hakkında butonuna tıklayın
+
+        # İç pencerede <h1> etiketinin görünmesini bekleyin
+        inner_h1 = WebDriverWait(driver, 20).until(
+            EC.visibility_of_element_located((By.XPATH, "/html/body/div[6]/div/div[2]/div/div/div/div/div[2]/div[3]/span/h1"))
+        )
+        inner_text = inner_h1.text  # <h1> etiketinden metni al
+        print(f"Açılan iç penceredeki metin: '{inner_text}'")  # Metni yazdır
+
+        parsed = parse_address(inner_text)
+
+        if parsed is not None:
+            # Verilen XPath ile metni al
+            text_element = WebDriverWait(driver, 20).until(
+                EC.visibility_of_element_located((By.XPATH, '//*[@id="QA0Szd"]/div/div/div[1]/div[2]/div/div[1]/div/div/div[1]/div[1]/div[3]/div/div[2]/div[4]/div[1]/div/div/div[2]/div[4]/div[1]/span[3]/span[2]'))
+            )
+            text = text_element.text  # Metni al
+
+            # Metni parçala ve en sık tekrar eden öğeyi bul
+            words = text.split()  # Metni kelimelere ayır
+            
+
+        # Yeni sekme aç ve Google Maps'te arama yap
+        driver.execute_script(f"window.open('https://www.google.com/maps/search/{h1_text}', '_blank');")
+        print(f"Başarılı: '{h1_text}' Google Maps'te arandı.")  # Başarılı olduğunda mesaj
+
+
+        # Sonuçları al
+        results = driver.find_elements(By.XPATH, "//div[contains(@class, 'section-result')]")
+        
+        for result in results:
+            # Sonuçların başlık ve adresini al
+            title = result.find_element(By.XPATH, ".//h3").text
+            address = result.find_element(By.XPATH, ".//span[@class='section-result-location']").text
+            print(f"Başlık: {title}, Adres: {address}")
+
+            # Adres parçalama işlemi
+            parsed = parse_address(address)
+            print(f"Ayrıştırılmış: {parsed}")
+    except Exception as e:
+        print("Hata:", e)
+
+
+def onSearch(paths):
+    driver.get(paths)
+    find(driver)
+
+
+
+folder_path = 'C:\\Users\\LEVEL END\\Desktop\\yemeksepeti-data\\test'
+urls = []
+current_index = 0
+
+# Klasördeki JSON dosyalarını oku
+for filename in os.listdir(folder_path):
+    if filename.endswith('.json'):
+        print("çalışıyor")
+        file_path = os.path.join(folder_path, filename)
+        
+        with open(file_path, 'r', encoding='utf-8') as file:
+            try:
+                data = json.load(file)
+                if 'url' in data:
+                    urls.append(data['url'])
+                else:
+                    print(f"Hata: {file_path} dosyasında 'url' anahtarı bulunamadı.")
+            except json.JSONDecodeError:
+                print(f"Hata: {file_path} dosyası okunamadı.")
+
+# "Insert" tuşuna basıldığında bir URL'yi aç
+def open_url():
+    global current_index
+    
+    if current_index < len(urls):
+        print(f"Açılıyor: {urls[current_index]}")
+        onSearch(urls[current_index])
+
+        # Chrome penceresini aktif et
+        pyautogui.hotkey('alt', 'tab')  # En son açılan pencereye geçiş yap
+        time.sleep(0.5)  # Pencerenin açılması için kısa bir bekleme
+        pyautogui.typewrite(urls[current_index])  # URL'yi yaz
+        pyautogui.press('enter')  # Enter tuşuna bas
+        current_index += 1
+    else:
+        print("Tüm URL'ler açıldı!")
+
+# "Ctrl+I" tuşuna basıldığında bir URL'yi yazdır
+def display_url():
+    global current_index
+    if current_index < len(urls):
+        print(f"Açılacak URL: {urls[current_index]}")
+    else:
+        print("Tüm URL'ler yazıldı!")
+
+keyboard.add_hotkey('insert', open_url)
+keyboard.add_hotkey('ctrl+i', display_url)
+
+print("Insert tuşuna basarak URL'leri açabilirsiniz, Ctrl+I tuşuna basarak URL'leri yazdırabilirsiniz.")
+keyboard.wait()  # Programın sürekli çalışmasını sağlar

@@ -1,0 +1,267 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/x1uf/rice-and-bowl",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Pilav",
+      "price": "135 TL",
+      "description": "100 gr. haşlanmış tavuk, 250 gr. pirinç pilavı,domates, salatalık turşusu, jalapeno biber turşusu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60711005.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Basmati Pilavı (250 gr.)",
+      "price": "120 TL",
+      "description": "İsteğe göre seçeceğiniz malzemeler",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60711014.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Pilav",
+      "price": "250 TL",
+      "description": "Domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089394.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Pilav",
+      "price": "120 TL",
+      "description": "Nohut, havuç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089835.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pilav",
+      "price": "110 TL",
+      "description": "Domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61091459.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Pilav",
+      "price": "100 TL",
+      "description": "Domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61095506.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Basmati Tavuklu Pilav",
+      "price": "145 TL",
+      "description": "100 gr. tavuk. Domates, turşu ile"
+    },
+    {
+      "name": "Izgara Tavuklu Pilav",
+      "price": "160 TL",
+      "description": "Tereyağlı pirinç pilavı, ızgara tavuk. Domates, turşu ile"
+    },
+    {
+      "name": "3'lü Tavuklu Pilav & İçecek",
+      "price": "550 TL",
+      "description": "3 Adet Tavuklu Pilav + İçecek"
+    },
+    {
+      "name": "Etli Pilav & İçecek",
+      "price": "295 TL",
+      "description": "Etli Pilav + İçecek"
+    },
+    {
+      "name": "5'li Etli Pilav & İçecek",
+      "price": "1.400 TL",
+      "description": "5 Adet Etli Pilav + İçecek"
+    },
+    {
+      "name": "3'lü Bowl Seçimi",
+      "price": "995 TL",
+      "description": "Seçeceğiniz 3 Adet Bowl"
+    },
+    {
+      "name": "5'li Bowl & İçecek",
+      "price": "2.550 TL",
+      "description": "Seçeceğiniz 5 Adet Bowl + İçecek"
+    },
+    {
+      "name": "3'lü Etli Pilav & İçecek Menü",
+      "price": "900 TL",
+      "description": "3 Adet Etli Pilav + İçecek"
+    },
+    {
+      "name": "5'li Tavuklu Pilav & İçecek Menü",
+      "price": "900 TL",
+      "description": "5 Adet Tavuklu Pilav + İçecek"
+    },
+    {
+      "name": "2'li Bowl & İçecek Menü",
+      "price": "670 TL",
+      "description": "2 Adet Bowl + İçecek"
+    },
+    {
+      "name": "Tavuklu Pilav Menü",
+      "price": "185 TL",
+      "description": "Tavuklu Pilav + İçecek"
+    },
+    {
+      "name": "Tavuklu Bowl",
+      "price": "290 TL",
+      "description": "Basmati, ızgara tavuk, nohut, ızgara biber, maş fasulye, mor lahana, brokoli, avokado, susam, çörek otu. (Mevsimine göre ürünler değişiklik gösterebilir)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60711006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Bowl",
+      "price": "280 TL",
+      "description": "100 gr. basmati, ızgara biber, ızgara patlıcan, ızgara kabak, brokoli, ızgara taze fasulye, mısır, mantar, nohut, havuç, Maş fasulye, kırmızı lahana",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089503.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kum Salatası Bowl",
+      "price": "250 TL",
+      "description": "Süzme yoğurtla marine edilmiş ince bulgur, marul, kırmızılahana, turp, ızgara biber, turşu,domates (Mevsimine göre ürünler değişiklik gösterebilir)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089864.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chia Tohumlu Bowl",
+      "price": "270 TL",
+      "description": "Chia ve yoğurt üzerine; müsli, avokado, pancar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61110060.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel Bowl",
+      "price": "275 TL",
+      "description": "Basmati pirinç, falafel, kırmızıbiber, ızgara patlıcan, ızgara kabak, mısır, mantar, coleslaw salata, ceviz (Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64639924.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Bowl",
+      "price": "330 TL",
+      "description": "Basmati pirinç pilavı, misket köfte, ızgara biber, brokoli, mor lahana, nohut, coleslaw salata, yer fıstığı, çörek otu (Mevsimine göre ürünler değişiklik gösterebilir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64640140.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Bowl",
+      "price": "285 TL",
+      "description": "Basmati pirinç, çıtır tavuk, brokoli, havuç, turp, marul, pancar turşu, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64665861.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enginarlı Bowl",
+      "price": "285 TL",
+      "description": "Basmati pirinç, enginar, mısır, brokoli, mantar, pancar turşusu, limon, chia tohumu (Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64640230.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Bowl",
+      "price": "340 TL",
+      "description": "Basmati, 100 gr. dana kuşbaşı et, ızgara taze fasulye, havuç, turp, biber, turşu, avokado, susam, çörekotu"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "225 TL",
+      "description": "Ton balığı, marul, salatalık, havuç, turşu, maydanoz, limon, salata sosu.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65648212.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çoban Salata",
+      "price": "185 TL",
+      "description": "Domates, salatalık, maydanoz, beyaz peynir, ceviz, limon, salata sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65648343.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Salata",
+      "price": "205 TL",
+      "description": "İceberg marul, lolorosso, havuç, domates, ceviz, top peynir, limon, salata sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65648350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Bowl 1",
+      "price": "270 TL",
+      "description": "Süzme yoğurt, bal, çilek ile çırpılmış yoğurt üzerine; frambuaz, kivi, muz, çilek (Günlük hazırlanır.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089843.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Bowl-2",
+      "price": "270 TL",
+      "description": "Süzme yoğurt, bal, muz ile çırpılmış yoğurt üzerine; yaban mersini, muz, badem veya ceviz (Mevsimine göre ürünler değişiklik gösterebilir)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61109174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soya Sosu",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64640750.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fesleğen Sos",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66116648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maydanoz Sos",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66116650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Sos",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66116656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Balsamik Sirke",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilir."
+    },
+    {
+      "name": "Zeytinyağı",
+      "price": "50 TL",
+      "description": "Paket olarak servis edilir."
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52086380.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52086765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52086766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52086768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "55 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52086770.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (50 cl.)",
+      "price": "40 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/61089555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Limonata",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66442039.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Çilek Suyu",
+      "price": "180 TL",
+      "description": "Çilek suyu"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52116615.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

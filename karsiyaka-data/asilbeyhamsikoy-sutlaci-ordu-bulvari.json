@@ -1,0 +1,144 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ohx0/asilbey-hamsikoy-sutlaci-ordu-bulvari",
+  "google": "",
+  "products": [
+    {
+      "name": "Hamsiköy Fırın Sütlaç",
+      "price": "127,50 TL170 TL",
+      "description": "(Çömlekte pişirilir.) Nişastasız, az şekerli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56798881.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyoğlu Kazandibi",
+      "price": "127,50 TL170 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56796941.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "146,25 TL195 TL",
+      "description": "Kakaolu kek, kakao",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56796923.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Kazandibi",
+      "price": "150 TL200 TL",
+      "description": "Beyoğlu usulü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66107890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "135 TL180 TL",
+      "description": "Özel kremalı hamur topları üzerine; eritilmiş çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56798024.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Trileçe",
+      "price": "101,25 TL135 TL",
+      "description": "Dilim olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64640233.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "146,25 TL195 TL",
+      "description": "Kakaolu kek, kakao",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56796923.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "135 TL180 TL",
+      "description": "Özel kremalı hamur topları üzerine; eritilmiş çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56798024.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamsiköy Fırın Sütlaç",
+      "price": "127,50 TL170 TL",
+      "description": "(Çömlekte pişirilir.) Nişastasız, az şekerli",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56798881.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyoğlu Kazandibi",
+      "price": "127,50 TL170 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/56796941.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotuslu Mag",
+      "price": "135 TL180 TL",
+      "description": "Muz, lotus kreması ile hazırlanır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64423329.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "127,50 TL170 TL",
+      "description": "Kahveli kedi dili, beyaz çikolatalı mascarpone kreması, bitter çikolatalı ganaj",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64610326.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Trileçe",
+      "price": "101,25 TL135 TL",
+      "description": "Dilim olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64640233.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreolu Mag",
+      "price": "127,50 TL170 TL",
+      "description": "Oreo, krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65798758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Kazandibi",
+      "price": "150 TL200 TL",
+      "description": "Beyoğlu usulü",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66107890.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Kazandibi",
+      "price": "150 TL200 TL",
+      "description": "Badem",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66108065.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Koska Tahin Helva (40 gr.)",
+      "price": "33,75 TL45 TL",
+      "description": "(40 gr.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57112900.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero (33 cl.)",
+      "price": "33,75 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57118334.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "33,75 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57119214.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "33,75 TL45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66469278.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doğal Maden Suyu (20 cl.)",
+      "price": "15 TL20 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57119103.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "26,25 TL35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65800784.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "30 TL40 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66474913.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

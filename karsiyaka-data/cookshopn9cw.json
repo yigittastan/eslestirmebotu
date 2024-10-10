@@ -1,0 +1,696 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/n9cw/cookshop-n9cw",
+  "google": "",
+  "products": [
+    {
+      "name": "Tavuklu Sezar Salatası",
+      "price": "385 TL",
+      "description": "Izgara tavuk, marul, şeker domates, parmesan peyniri, kurutulmuş domates, kruton ekmek, Sezar sos (Soya fasulyesi ve ürünleri, yumurta, balık ve balık ürünleri, hardal, glüten, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783644.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk",
+      "price": "425 TL",
+      "description": "Izgara tavuk göğüs. Cajun baharatlı patates kızartması, pilav, ev yapımı sebzeli acuka ile (Soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bizim Köfte",
+      "price": "475 TL",
+      "description": "Izgara köfte, tereyağlı pilav, cajun baharatlı patates kızartması, kızarmış ekşi mayalı köy ekmeği (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783587.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklu Salata",
+      "price": "385 TL",
+      "description": "Kızarmış tavuk parçaları, Akdeniz yeşillikleri, roka, göbek marul, portakallı krema sos, şeker domates, California renkli biberler, kokteyl sos (Glüten, yumurta, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Mac & Cheese",
+      "price": "395 TL",
+      "description": "Cheddar peyniri, tavuk, parmesan peyniri, taze kaşar peyniri, trüf mantarı yağı, krema (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35054798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran Aşı Çorbası",
+      "price": "150 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540529.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambino Tavuk Pane",
+      "price": "210 TL",
+      "description": "(Glüten, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34516816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambino Köfte",
+      "price": "235 TL",
+      "description": "(Glüten, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34516825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bambino Spaghetti",
+      "price": "210 TL",
+      "description": "(Glüten, süt ve süt ürünleri, kereviz, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34516786.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menemen",
+      "price": "235 TL",
+      "description": "(Glüten, yumurta, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Menemen",
+      "price": "250 TL",
+      "description": "Beyaz peynir (Glüten, yumurta ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783556.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Menemen",
+      "price": "250 TL",
+      "description": "Kaşar peyniri (Glüten, yumurta süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783557.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Menemen",
+      "price": "275 TL",
+      "description": "Sucuk (Glüten, yumurta süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783558.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chia Tohumlu Granola",
+      "price": "330 TL",
+      "description": "(Yulaf, sert kabuklu meyve, glüten, susam, süt ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33991855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cookshop Acı Ekşi Çorba",
+      "price": "245 TL",
+      "description": "Shiitake mantarı, noodle pirinç, kültür mantarı, soya filizi, California renkli biber, kabak, havuç, beyaz lahana, tavuk göğsü, sirke, acı Arnavut biberi (Susam, soya fasulyesi ve ürünleri, kabuklular ve ürünleri, gluten, acı içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783560.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran Aşı Çorbası",
+      "price": "150 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540529.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "BBQ Sweet Chili Chicken",
+      "price": "325 TL",
+      "description": "Çıtır tavuk parçaları, cajun baharatlı patates kızartması (Glüten, yumurta, balık ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783568.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Fingers",
+      "price": "355 TL",
+      "description": "Cajun baharatlı patates kızartması, chili sos ile (Glüten, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783569.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Trüflü Parmak Patates Kızartması",
+      "price": "250 TL",
+      "description": "Parmak dilim (Süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783573.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parmak Patates Kızartması",
+      "price": "230 TL",
+      "description": "Parmak dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Combo Tabağı",
+      "price": "520 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540530.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bruschetta",
+      "price": "305 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540531.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel Topları",
+      "price": "205 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540532.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozarella Sticks",
+      "price": "290 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540533.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pestolu Mozarella",
+      "price": "280 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540534.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuk",
+      "price": "425 TL",
+      "description": "Izgara tavuk göğüs. Cajun baharatlı patates kızartması, pilav, ev yapımı sebzeli acuka ile (Soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Café de Paris Soslu Tavuk",
+      "price": "425 TL",
+      "description": "Izgara tavuk göğüs, Café de Paris sos. Cajun baharatlı patates kızartması ile (Süt ve süt ürünleri, soya fasulyesi ve ürünleri, safran, hardal, glüten içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Schnitzel",
+      "price": "440 TL",
+      "description": "Patates kızartması veya patates püresi ile (Glüten, yumurta, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783579.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Körili Tavuk",
+      "price": "420 TL",
+      "description": "Tavuk pirzola, köri, krema, frenk soğanı, ev tipi baharatlı patates kızartması, çörek otlu pilav. Zeytinyağı & limon & nar ekşisi soslu, kurutulmuş domates, mini turp, şeker domatesli roka salatası ile (Süt ve süt ürünleri, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783580.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beğendili Pirzola Külbastı",
+      "price": "410 TL",
+      "description": "Tavuk pirzola, tereyağı & kaşar peynirli beğendi, sotelenmiş sebzeler, 9 baharatlı ev tipi patates kızartması ile (Süt ve süt ürünleri, glüten, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicana Tavuk",
+      "price": "445 TL",
+      "description": "9 baharatlı tavuk göğüs dilimleri, krema, California renkli biberler, domates sos, maydanoz, fesleğen, soğan, mantar. Cajun baharatlı patates kızartması ile (Süt ve süt ürünleri, kereviz içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783582.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantar Soslu Dana Antrikot",
+      "price": "775 TL",
+      "description": "Izgara dana antrikot, krema, mix dağ mantarları, taze kekik, baharatlı patates kızartması (Süt ve süt ürünleri, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783583.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lokum Bonfile",
+      "price": "775 TL",
+      "description": "Izgara lokum bonfile, patates püresi, sote sebze (Süt ve süt ürünleri, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783585.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Café de Paris Soslu Bonfile",
+      "price": "785 TL",
+      "description": "Izgara bonfile, Café de Paris sos, baharatlı patates kızartması (Süt ve süt ürünleri, soya fasulyesi ve ürünleri, glüten, safran, hardal içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783586.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bizim Köfte",
+      "price": "475 TL",
+      "description": "Izgara köfte, tereyağlı pilav, cajun baharatlı patates kızartması, kızarmış ekşi mayalı köy ekmeği (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783587.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte Piyaz",
+      "price": "470 TL",
+      "description": "Firik bulgur pilavı, kızarmış ekşi mayalı köy ekmeği, kırmızı soğan, dermosan fasulye, domates, çarliston biber, maydanoz, zeytinyağlı nar ekşili sos (Glüten, yumurta, hardal içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783588.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte Beğendi",
+      "price": "485 TL",
+      "description": "Izgara köfte, tereyağlı kaşar peynirli patlıcan beğendi, süzme yoğurt, frenk salsa, roka, şeker domates, kızarmış ekşi mayalı köy ekmeği ile (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783590.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Dana Antrikot",
+      "price": "760 TL",
+      "description": "(Soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38543971.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarella Schnitzel",
+      "price": "420 TL",
+      "description": "Soya ve ürünleri, süt ve ürünleri, gluten, sert kabuklu meyve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49825623.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Taco",
+      "price": "440 TL",
+      "description": "Süt ve ürünleri, gluten, soya ve ürünleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49825625.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Kaburga",
+      "price": "865 TL",
+      "description": "(36 saat ağır ateşte pişmiş)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540540.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Taco",
+      "price": "460 TL",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Arpa Şehriyeli Izgara Tavuk But",
+      "price": "420 TL",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Cajun Baharatlı Tavuk",
+      "price": "415 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oyster Soslu Asya Tavuk",
+      "price": "410 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540537.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tikka Masala",
+      "price": "420 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540538.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Schnitzel",
+      "price": "710 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540539.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Pizza",
+      "price": "335 TL",
+      "description": "Mozzarella peyniri, domates sos, şeker domates, siyah zeytin, kültür mantarı, çarliston biberi, taze kekik (Glüten, yumurta, kereviz, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783607.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şarküteriden Pizza",
+      "price": "475 TL",
+      "description": "Jambon, sucuk, sosis, mozzarella peyniri, domates sos (Glüten, yumurta, kereviz, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783608.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza",
+      "price": "320 TL",
+      "description": "Mozzarella peyniri, domates sos (Glüten, yumurta, kereviz, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783610.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Kaburga Etli & Cheddarlı Pizza",
+      "price": "520 TL",
+      "description": "Mozzarella peyniri, domates sos, dana kaburga, cheddar peyniri, taze kekik (Glüten, yumurta, kereviz, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783612.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Funghi Pizza",
+      "price": "410 TL",
+      "description": "Mozzarella peyniri, domates sos, kültür & istiridye mantarı, frenk salsa sos (Glüten, yumurta, kereviz, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783613.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Soslu & 4 Peynirli Pizza",
+      "price": "455 TL",
+      "description": "Gluten, yumurta, süt ve ürünleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49825632.png?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı & Kaşarlı Bafra Pidesi",
+      "price": "440 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540541.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Sebze Köfteli Bowl",
+      "price": "420 TL",
+      "description": "(Glüten ve susam içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34516754.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Köfte",
+      "price": "445 TL",
+      "description": "(Glüten, soya fasulyesi ve ürünleri, hardal içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38543017.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somon & Avokado Bowl",
+      "price": "590 TL",
+      "description": "Somon, avokado, kapari çiçeği, Akdeniz yeşillikleri, göbek marul, roka, kırmızılahana, nane, dereotu, maydanoz, salatalık, şeker domates, kızarmış ekşi mayalı köy ekmeği, çörek otu, frenk salsa, zeytinyağı & limon (Glüten, hardal balık ve balık ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783598.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Bowl",
+      "price": "490 TL",
+      "description": "Izgara köfte, kırmızı toz biberli nohut, kinoa, Akdeniz yeşillikleri, roka, şeker domates, zeytinyağı, limon, nar ekşisi, kızarmış ekşi mayalı köy ekmeği (Glüten, yumurta, hardal içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783600.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel Bowl",
+      "price": "390 TL",
+      "description": "Falafel siyah pirinç pilavı, kırmızılahana turşusu, edamame, siyah fasulye, mini turp, sirkeli salatalık, çörek otu, özel acı sosu (Glüten, süt ve süt ürünleri, yumurta, susam, kabuklular ve ürünleri, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783603.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaprak Bonfile Bowl",
+      "price": "750 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540543.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Levrek Bowl",
+      "price": "500 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540544.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karides Bowl",
+      "price": "545 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540545.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Burger",
+      "price": "415 TL",
+      "description": "Brioche hamburger ekmeği üzerine sürülmüş trüf mayo, panelenmiş tavuk pirzola, dynamite sos, kırmızılahana coleslaw. Cajun baharatlı patates kızartması ile (Glüten, süt ve süt ürünleri, yumurta, susam, hardal, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Klasik Burger",
+      "price": "445 TL",
+      "description": "Brioche hamburger ekmeği üzerine sürülmüş trüf mayo, relish sos, özel burger sosu, karamelize soğan, kornişon turşu. Cajun baharatlı patates kızartması, coleslaw ile (Glüten, yumurta, süt ve süt ürünleri, susam, hardal, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783617.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheeseburger",
+      "price": "455 TL",
+      "description": "Brioche hamburger ekmeği üzerine sürülmüş trüf mayo, relish sos, özel burger sosu, taze kaşar peyniri, karamelize soğan. Cajun baharatlı patates kızartması ile (Glüten, yumurta, süt ve süt ürünleri, susam, hardal, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783618.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Slider Burger",
+      "price": "460 TL",
+      "description": "Özel slider ekmek üzerine sürülmüş tereyağı, cheddar peyniri, relish sos. Cajun baharatlı patates kızartması, coleslaw, ev yapımı dynamite sos ile (Glüten, yumurta, süt ve süt ürünleri, soya fasulyesi ve ürünleri, susam, hardal içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783619.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaburga Burger",
+      "price": "505 TL",
+      "description": "Brioche hamburger ekmeği üzerine sürülmüş trüf mayo, relish sos, kibrit patates, cheddar peyniri. Cajun baharatılı patates kızartması, coleslaw, ev yapımı dynamite sos ile (Glüten, süt ve süt ürünleri, yumurta, susam, hardal, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783621.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cookshop Burger",
+      "price": "460 TL",
+      "description": "Brioche hamburger ekmeği üzerine sürülmüş trüf mayo, relish sos, özel burger sosu, cheddar peyniri, kibrit patates, jalapeno biberi, karamelize soğan. Cajun baharatlı patates kızartması, ev yapımı dynamite sos ile (Glüten, süt ve süt ürünleri, yumurta, susam, hardal, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783622.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicano Burger",
+      "price": "450 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540546.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Penne Arrabbiata",
+      "price": "300 TL",
+      "description": "Arnavut biberi, siyah zeytin, sarımsak, zeytinyağı, maydanoz ile lezzetlendirilmiş domates sos (Glüten, kereviz, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783626.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebzeli Noodle",
+      "price": "340 TL",
+      "description": "Kabak, California renkli biberler, kabak, havuç, beyaz lahana, taze soya filizi, beyaz lahana, yer fıstığı, soya sosu, susam yağı (Glüten, kabuklular ve ürünleri, soya fasulyesi ve ürünleri, susam, yumurta, yer fıstığı içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783632.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Noodle",
+      "price": "360 TL",
+      "description": "Tavuk göğüs eti, kabak, California renkli biberler, havuç, beyaz lahana, taze soya filizi, yer fıstığı, soya sos, susam yağı (Glüten, kabuklular ve ürünleri, soya fasulyesi ve ürünleri, susam, yumurta, yer fıstığı içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783633.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fettuccine Tavuk",
+      "price": "385 TL",
+      "description": "California renkli biberler, soğan, mantar, parmesan peyniri, maydanoz, fesleğen, cajun baharatı, pesto sos, krema (Glüten, süt ve süt ürünleri, yumurta, sert kabuklu meyve içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783628.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Mac & Cheese",
+      "price": "395 TL",
+      "description": "Cheddar peyniri, tavuk, parmesan peyniri, taze kaşar peyniri, trüf mantarı yağı, krema (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35054798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mac & Cheese",
+      "price": "370 TL",
+      "description": "Cheddar peyniri, parmesan peyniri, taze kaşar peyniri, trüf mantarı yağı, krema (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35054801.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spagetti Bolonez",
+      "price": "385 TL",
+      "description": "(Glüten, süt ve süt ürünleri, yumurta, kereviz içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38543670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lazanya",
+      "price": "385 TL",
+      "description": "Dana kıyma, patlıcan, yoğurt, pesto, tereyağlı domates sos (Gluten, kereviz, süt ve ürünleri, yumurta, sert kabuklu meyve)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49947264.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Penne",
+      "price": "390 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540547.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fettuccine Trüf & Porçini Mantarlı",
+      "price": "390 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540548.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Somonlu Kabak Spaghetti",
+      "price": "550 TL",
+      "description": "Izgara somon, kabak, roka, ceviz, tereyağı, parmesan peyniri, şeker domates (Balık ve ürünleri, sert kabuklu meyve, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783647.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hellimli Kabak Spaghetti",
+      "price": "410 TL",
+      "description": "Kızarmış hellim peyniri, kabak, roka, ceviz, tereyağı, parmesan peyniri, şeker domates (Süt ve süt ürünleri, sert kabuklu meyve içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cookshop Tost",
+      "price": "295 TL",
+      "description": "Ekşi mayalı köy ekmeği, ev yapımı acuka, kaşar peyniri, kurutulmuş domates, pesto sos. Domates, salatalık, çarliston biber söğüş ile (Gluten, süt ve süt ürünleri, sert kabuklu meyve içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783564.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddar Peynirli Bazlama Tost",
+      "price": "300 TL",
+      "description": "Dana sucuk (Gluten, süt ve süt ürünleri, susam içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33991167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Light Tost Siyah Alman Ekmeğine",
+      "price": "275 TL",
+      "description": "(Gluten, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38541756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bol Peynirli Hafize Ana Tostu",
+      "price": "290 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540549.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Salata",
+      "price": "275 TL",
+      "description": "Akdeniz yeşillikleri, roka, göbek marul, domates, salatalık, tane mısır, havuç, zeytinyağı, limon, ekşi mayalı köy ekmeği (Glüten ve hardal içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783637.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sezar Sade Salatası",
+      "price": "275 TL",
+      "description": "Marul, şeker domates, parmesan peyniri, kurutulmuş domates, kruton, Sezar sos (Glüten, yumurta, balık ve ürünleri, hardal, süt ve süt ürünleri, soya fasulyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783638.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuklu Salata",
+      "price": "385 TL",
+      "description": "Kızarmış tavuk parçaları, Akdeniz yeşillikleri, roka, göbek marul, portakallı krema sos, şeker domates, California renkli biberler, kokteyl sos (Glüten, yumurta, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Sezar Salatası",
+      "price": "385 TL",
+      "description": "Izgara tavuk, marul, şeker domates, parmesan peyniri, kurutulmuş domates, kruton ekmek, Sezar sos (Soya fasulyesi ve ürünleri, yumurta, balık ve balık ürünleri, hardal, glüten, süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783644.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Falafel Salata",
+      "price": "355 TL",
+      "description": "Akdeniz yeşillikleri, göbek marul, roka, domates, ceviz, zeytinyağı & limon, nar ekşisi, mayonez & pancar sos ile (Alerjen; Süt ve süt ürünleri, yumurta, glüten, sert kabuklu meyve içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cajun Chicken Salata",
+      "price": "390 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540550.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Levrek Salata",
+      "price": "460 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfteli Salata",
+      "price": "445 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540552.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İlik Bonfile Salata",
+      "price": "605 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540553.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kinoa Tabule Tavuk Şiş Salata",
+      "price": "355 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540554.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Roka Salatası",
+      "price": "370 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540555.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Püresi",
+      "price": "115 TL",
+      "description": "(Süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sebze Sote",
+      "price": "125 TL",
+      "description": "Mevsim sebzeleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783652.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Çikolatalı Brownie",
+      "price": "245 TL",
+      "description": "Dondurmasız servis edilir. (Glüten, süt ve süt ürünleri, yumurta içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783654.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Magnolia",
+      "price": "265 TL",
+      "description": "Seçeceğiniz 3 adet malzeme ile (Glüten, süt ve süt ürünleri, sert kabuklu meyve, yumurta, soya fasülyesi ve ürünleri, susam, yulaf içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783658.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreolu Magnolia",
+      "price": "265 TL",
+      "description": "(Glüten, süt ve süt ürünleri, sert kabuklu meyve, yumurta, soya fasülyesi ve ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783662.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Magnolia",
+      "price": "265 TL",
+      "description": "(Glüten, süt ve süt ürünleri, sert kabuklu meyve, yumurta, susam içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783663.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Magnolia",
+      "price": "265 TL",
+      "description": "(Glüten, süt ve süt ürünleri, sert kabuklu meyve, yumurta, yulaf içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783664.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnolia Macaron",
+      "price": "260 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540556.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "235 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540558.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Tart",
+      "price": "235 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65540559.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dev Magnolia (400 gr.)",
+      "price": "455 TL",
+      "description": "Oreo, muz, çilek (Glüten, süt ve süt ürünleri, sert kabuklu meyve, yumurta, soya fasülyesi ve ürünleri, susam, yulaf içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dev Magnolia (800 gr.)",
+      "price": "865 TL",
+      "description": "Oreo, muz, çilek (Glüten, süt ve süt ürünleri, sert kabuklu meyve, yumurta, soya fasülyesi ve ürünleri, susam, yulaf içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783667.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783675.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Perrier (33 cl.)",
+      "price": "145 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24967069.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.) (Şişe)",
+      "price": "95 TL",
+      "description": "(Süt ve süt ürünleri içerir.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38546468.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Schweppes (25 cl.)",
+      "price": "95 TL",
+      "description": "Kutu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783679.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Soda (20 cl.)",
+      "price": "95 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783686.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Damla Su (33 cl.)",
+      "price": "60 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24967078.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10783741.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

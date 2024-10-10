@@ -1,0 +1,201 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/dw90/apak-bufe",
+  "google": "",
+  "products": [
+    {
+      "name": "Menemen",
+      "price": "152,10 TL169 TL",
+      "description": "Domates, biber, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41768116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "152,10 TL169 TL",
+      "description": "İsteğe göre sos, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251136.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Gözleme",
+      "price": "134,10 TL149 TL",
+      "description": "Ispanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "134,10 TL149 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41768256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Kaşarlı Gözleme",
+      "price": "143,10 TL159 TL",
+      "description": "Sosis, kaşar peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45009472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anne Kızartması",
+      "price": "161,10 TL179 TL",
+      "description": "Patlıcan kızartması, biber kızartması, patates kızartması, havuç kızartması, domates sosu, yoğurt"
+    },
+    {
+      "name": "Körili Tavuklu Penne Makarna",
+      "price": "197,10 TL219 TL",
+      "description": "Tavuk, krema, mantar, köri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66593912.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Spaghetti Napolitan",
+      "price": "170,10 TL189 TL",
+      "description": "Domates, fesleğen, sarımsak, tuz, karabiber"
+    },
+    {
+      "name": "Menemen",
+      "price": "152,10 TL169 TL",
+      "description": "Domates, biber, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41768116.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Menemen",
+      "price": "161,10 TL179 TL",
+      "description": "Sucuk, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41768308.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Menemen",
+      "price": "170,10 TL189 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45009574.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Yumurta",
+      "price": "161,10 TL179 TL",
+      "description": "Sucuk, çift yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251045.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Yumurta",
+      "price": "125,10 TL139 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251050.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çi Börek",
+      "price": "71,10 TL79 TL",
+      "description": "İnce hamur içerisine; çiğ kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/40205622.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli veya Peynirli Sigara Böreği",
+      "price": "13,05 TL14,50 TL",
+      "description": "1 adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53020619.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Gözleme",
+      "price": "116,10 TL129 TL",
+      "description": "Beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251122.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "116,10 TL129 TL",
+      "description": "Patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251128.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Gözleme",
+      "price": "134,10 TL149 TL",
+      "description": "Ispanak",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251130.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Gözleme",
+      "price": "143,10 TL159 TL",
+      "description": "Kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251133.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "134,10 TL149 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41768256.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosisli Kaşarlı Gözleme",
+      "price": "143,10 TL159 TL",
+      "description": "Sosis, kaşar peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45009472.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Gözleme",
+      "price": "134,10 TL149 TL",
+      "description": "Sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45009565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pizza Gözleme",
+      "price": "152,10 TL169 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45009578.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tostu",
+      "price": "161,10 TL179 TL",
+      "description": "Kaşar peyniri, domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251110.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "152,10 TL169 TL",
+      "description": "İsteğe göre sos, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251136.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Izgara Köfte",
+      "price": "161,10 TL179 TL",
+      "description": "Domates, mevsim yeşillikleri, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251117.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekmek Arası Izgara Tavuk",
+      "price": "143,10 TL159 TL",
+      "description": "Domates, mevsim yeşillikleri, isteğe göre soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37251121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "125,10 TL139 TL",
+      "description": "Tereyağlı pilav, haşlanmış tavuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66594268.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "89,10 TL99 TL",
+      "description": "Tek kişilik servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66594853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çökertme Kebabı (Tavuklu)",
+      "price": "242,10 TL269 TL",
+      "description": "Kibrit patates, yoğurt sosu, özel tavuk parçaları, domates sosu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59805152.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Arnavutciğeri (Tavuk)",
+      "price": "179,10 TL199 TL",
+      "description": "Tavuk cığerı, patates kızartması soğan salatası",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59805561.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Anne Kızartması",
+      "price": "161,10 TL179 TL",
+      "description": "Patlıcan kızartması, biber kızartması, patates kızartması, havuç kızartması, domates sosu, yoğurt"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37250790.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

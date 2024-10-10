@@ -1,0 +1,263 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/cacv/durumle-cacv",
+  "google": "",
+  "products": [
+    {
+      "name": "Parmak Patates Kızartması",
+      "price": "50 TL",
+      "description": "Dürümle özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749013.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Tavuk Dürümle",
+      "price": "200 TL",
+      "description": "Kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25931138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Tavuk Dürümle",
+      "price": "195 TL",
+      "description": "Dürümle özel sos (Acı içerir), domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Adana Dürümle",
+      "price": "225 TL",
+      "description": "Kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürümle",
+      "price": "215 TL",
+      "description": "Domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lezzette Adana Menü",
+      "price": "235 TL",
+      "description": "Adana Dürümle + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37360862.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Fırsatı (Çifte Saran Lezzet)",
+      "price": "440,00 TL540 TL",
+      "description": "2 Adet Soslu Tavuk (Acı içerir) + Patates Kızartması + 2 Adet Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37047780.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Menü",
+      "price": "145 TL175 TL",
+      "description": "Çıtır Tavuk Dürüm + Coca Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37361106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lezzette Adana Menü",
+      "price": "235 TL",
+      "description": "Adana Dürümle + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37360862.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Saran Lezzet Menüsü",
+      "price": "255 TL",
+      "description": "Soslu Tavuk Şiş Dürüm (Acılı) + Parmak Patates Kızartması + İçim Ayran (28,5 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748994.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Duble Adana Menü",
+      "price": "310 TL",
+      "description": "Duble Adana Dürümle + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35488735.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Tavuk Menü",
+      "price": "215 TL245 TL",
+      "description": "Soslu Tavuk Dürümle + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35488666.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "2'li Efsane Cheddar Menü",
+      "price": "430 TL",
+      "description": "2 Adet Cheddarlı Tavuk Dürüm + 2 Adet Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35618198.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özel Soslu Duble Tavuk Menü",
+      "price": "265 TL295 TL",
+      "description": "Soslu Duble Tavuk + Coca-Cola (33 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/53197810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avantajlı Çıtır Tavuk Menü",
+      "price": "155 TL180 TL",
+      "description": "Çıtır Tavuk Dürüm + Coca-Cola (33 cl.)"
+    },
+    {
+      "name": "Çocuk Çıtır Menü",
+      "price": "165 TL",
+      "description": "Çıtır Tavuk Dürümle + Patates + Ayran",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60287016.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çıtır Tavuk Dürümle",
+      "price": "125 TL",
+      "description": "Dürümle özel sos (Acı içerir), göbek salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748997.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Adana Dürümle",
+      "price": "215 TL",
+      "description": "Domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748998.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acılı Adana Dürümle",
+      "price": "215 TL",
+      "description": "Domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Adana Dürümle",
+      "price": "225 TL",
+      "description": "Kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Dürümle",
+      "price": "215 TL",
+      "description": "Domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749001.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Urfa Dürümle",
+      "price": "225 TL",
+      "description": "Kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749002.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Tavuk Dürümle",
+      "price": "200 TL",
+      "description": "Kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/25931138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soslu Tavuk Dürümle",
+      "price": "195 TL",
+      "description": "Dürümle özel sos (Acı içerir), domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Dürümle",
+      "price": "185 TL",
+      "description": "Domates, soğan, maydanoz, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10748995.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Et Döner Dürümle",
+      "price": "225 TL",
+      "description": "Cheddar peyniri, soğan, domates, turşu, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59591371.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köz Patlıcanlı Adana Dürümle",
+      "price": "215 TL",
+      "description": "Köt patlıcan, soğan, kimyon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/59591712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Döner Dürümle",
+      "price": "215 TL",
+      "description": "Soğan, domates, turşu, kibrit patates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66678603.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Parmak Patates Kızartması",
+      "price": "50 TL",
+      "description": "Dürümle özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749013.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nugget (6 Adet)",
+      "price": "60 TL",
+      "description": "6 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37375823.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749014.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749015.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749018.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749019.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749021.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (25 cl.)",
+      "price": "50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28666619.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "50 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749023.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (28,5 cl.)",
+      "price": "45 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35713252.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749026.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749027.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cappy (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749020.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonata (35 cl.)",
+      "price": "50 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/37298167.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10749017.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

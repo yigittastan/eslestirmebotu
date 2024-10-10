@@ -1,0 +1,114 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/a3g1/enfes-ev-yemekleri-a3g1",
+  "google": "",
+  "products": [
+    {
+      "name": "Menü 1",
+      "price": "200 TL",
+      "description": "Kuru Fasulye + Pilav + Cacık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65481344.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "210 TL",
+      "description": "Ciğer + Pilav + Cacık"
+    },
+    {
+      "name": "Musakka Menü",
+      "price": "210 TL",
+      "description": "Musakka + Bulgur Pilavı + Havuç Tarator"
+    },
+    {
+      "name": "Menü 3",
+      "price": "210 TL",
+      "description": "Karışık Kızartma + Günün Pilavı + Cacık"
+    },
+    {
+      "name": "Domates Çorbası",
+      "price": "60 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65504640.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuru Fasulye",
+      "price": "120 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427521.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcan Musakka",
+      "price": "125 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427529.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Kızartma",
+      "price": "125 TL",
+      "description": "Patates, patlıcan, domates sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65867699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Arnavutciğeri",
+      "price": "125 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66198160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Enfes Köfte",
+      "price": "135 TL",
+      "description": "Mantar, beşamel sos"
+    },
+    {
+      "name": "Pirinç Pilavı",
+      "price": "70 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427532.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bulgur Pilavı",
+      "price": "60 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427533.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Tavuk",
+      "price": "140 TL",
+      "description": "Patates püresi ile"
+    },
+    {
+      "name": "Yoğurt",
+      "price": "50 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427536.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cacık",
+      "price": "50 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427537.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Havuç Tarator",
+      "price": "50 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427538.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Yoğurt",
+      "price": "60 TL",
+      "description": "Tek kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65427539.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Salata",
+      "price": "50 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65477564.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Semizotu Yoğurt",
+      "price": "50 TL",
+      "description": "Tek kişilik"
+    }
+  ]
+}

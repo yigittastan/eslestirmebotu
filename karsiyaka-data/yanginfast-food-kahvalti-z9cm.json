@@ -1,0 +1,810 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/z9cm/yangin-fast-food-kahvalti-z9cm",
+  "google": "",
+  "products": [
+    {
+      "name": "Tost Menü 1",
+      "price": "230 TL",
+      "description": "Zeytin Ezmeli Ezine Tost + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tost Menü 2",
+      "price": "290 TL",
+      "description": "2 Adet Zeytin Ezmeli Ezine Tost + Patates Kızartması (2 Kişilik) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142681.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Menü 1",
+      "price": "240 TL",
+      "description": "Full Karışık Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Menü 2",
+      "price": "240 TL",
+      "description": "Kaşarlı Çemenli Sucuklu Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142675.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Menü 3",
+      "price": "240 TL",
+      "description": "Çemenli Tulumlu Ayvalık Tostu + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tostu Menü 4",
+      "price": "300 TL",
+      "description": "2 Adet Full Karışık Ayvalık Tostu + Patates Kızartması (2 Kişilik) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142678.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tostu Menü 5",
+      "price": "300 TL",
+      "description": "2 Adet Kaşarlı Çemenli Sucuklu Ayvalık Tostu + Patates Kızartması (2 Kişilik) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142679.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tostu Menü 6",
+      "price": "300 TL",
+      "description": "2 Adet Çemenli Tulumlu Ayvalık Tostu + Patates Kızartması (2 Kişilik) + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142680.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sporcu Menü 1",
+      "price": "225 TL",
+      "description": "Tavuk (200 gr.) + Pirinç (270 gr.) + Roka + Maydanoz Salatası (100 gr. + Ayran (30 cl.)"
+    },
+    {
+      "name": "Sandviç Menü 1",
+      "price": "250 TL",
+      "description": "Full Karışık Sandviç + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sandviç Menü 4",
+      "price": "250 TL",
+      "description": "Double Karışık Sandviç + Patates Kızartması + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sandviç Menü 2",
+      "price": "250 TL",
+      "description": "Sucuklu Kaşarlı Sandviç + Patates Kızartması + Kutu İçecek"
+    },
+    {
+      "name": "Sandviç Menü 3",
+      "price": "250 TL",
+      "description": "Kaşarlı Domatesli Sandviç + Patates Kızartması + Kutu İçecek"
+    },
+    {
+      "name": "Sandviç Menü 5",
+      "price": "310 TL",
+      "description": "2 Adet Full Karışık Sandviç + Patates Kızartması (2 Kişilik) + İçecek (1 L.)"
+    },
+    {
+      "name": "Sandviç Menü 6",
+      "price": "310 TL",
+      "description": "2 Adet Sucuklu Kaşarlı Sandviç + Patates Kızartması (2 Kişilik) + İçecek (1 L.)"
+    },
+    {
+      "name": "Sandviç Menü 7",
+      "price": "300 TL",
+      "description": "2 Adet Kaşarlı Domatesli Sandviç + Patates Kızartması (2 Kişilik) + İçecek (1 L.)"
+    },
+    {
+      "name": "Sandviç Menü 8",
+      "price": "325 TL",
+      "description": "2 Adet Double Karışık Sandviç + Patates Kızartması (2 Kişilik) + İçecek (1 L.)"
+    },
+    {
+      "name": "Sporcu Menü 2",
+      "price": "255 TL",
+      "description": "Tavuk (400gr) + Pirinç (300gr) (100 gr. maydanoz & roka salatası, isteğe göre domates, turşu ile) + Ayran (30 cl.)"
+    },
+    {
+      "name": "Serpme Kahvaltı",
+      "price": "360 TL",
+      "description": "Omlet, patates kızartması, beyaz peynir, tulum peyniri, zeytin, bal, reçel, çemen, tereyağı, domates, salatalık, 1 adet ekmek, 1 adet simit, çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Pişi Sepeti",
+      "price": "170 TL",
+      "description": "5 adet pişi, domates, salatalık, çikolata, bal, haşlanmış yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415753.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynir",
+      "price": "85 TL",
+      "description": "Dilim",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35579645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peyniri",
+      "price": "95 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35580209.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bal & Kaymak",
+      "price": "120 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşlanmış Yumurta",
+      "price": "50 TL",
+      "description": "Yumurtanın suda kaynatılarak pişirildiği kahvaltı çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35581175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üçgen Peynir",
+      "price": "50 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35831745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Pişi Sepeti",
+      "price": "200 TL",
+      "description": "12 adet pişi. Tulum peyniri, beyaz peynir, yumurta, domates, salatalık söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35887196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Simit (Adet)",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35921282.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Boyoz",
+      "price": "40 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35921330.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pişi",
+      "price": "115 TL",
+      "description": "5 Adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35921358.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Has Kahvaltı",
+      "price": "400 TL",
+      "description": "Kaşarlı menemen, sucuklu yumurta, patates kızartması, tulum peyniri, çikolata, bal, kaymak, çemen, tereyağı, domates, salatalık, yeşil biber, 1 adet ekmek, 1 adet simit"
+    },
+    {
+      "name": "Diyet Kahvaltı",
+      "price": "190 TL",
+      "description": "Kaşarlı tost, domates, salatalık, haşlanmış yumurta"
+    },
+    {
+      "name": "Kahvaltı Sepeti",
+      "price": "210 TL",
+      "description": "Tulum peyniri, beyaz peynir, siyah zeytin, yeşil zeytin, haşlanmış yumurta, tereyağı, reçel, bal, çikolata, domates, salatalık, yarım ekmek"
+    },
+    {
+      "name": "Boyoz Sepeti",
+      "price": "145 TL",
+      "description": "2 adet boyoz, tulum peyniri, domates, salatalık, haşlanmış yumurta"
+    },
+    {
+      "name": "Simit Sepeti",
+      "price": "125 TL",
+      "description": "1 adet simit, domates, salatalık, tulum peyniri, beyaz peynir"
+    },
+    {
+      "name": "Pişi Sepeti",
+      "price": "155 TL",
+      "description": "5 adet pişi, beyaz peynir, tulum peyniri, domates, salatalık, haşlanmış yumurta"
+    },
+    {
+      "name": "Çemen",
+      "price": "100 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Balparmak Bal",
+      "price": "100 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Söğüş Sepeti",
+      "price": "100 TL",
+      "description": "Domates, salatalık, söğüş"
+    },
+    {
+      "name": "Söğüş Sepeti 2",
+      "price": "125 TL",
+      "description": "Domates, salatalık, tulum peyniri, yeşil zeytin, siyah zeytin"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı 1",
+      "price": "185 TL",
+      "description": "Tavuk (200 gr.), pirinç(250 gr.). İsteğe göre domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48283354.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı 3",
+      "price": "210 TL",
+      "description": "Tavuk (300 gr.), pirinç(250 gr.). İsteğe göre domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48283388.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı 4",
+      "price": "255 TL",
+      "description": "250 gr. tavuk, 500 gr. pirinç. İsteğe göre domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48285347.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı",
+      "price": "150 TL",
+      "description": "Tavuk (100 gr.), pirinç pilavı (250 gr.). İsteğe bağlı domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48289684.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı 2",
+      "price": "235 TL",
+      "description": "300 gr. tavuk, 350 gr. pirinç. İsteğe göre domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48299547.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nohutlu Pirinç Pilavı",
+      "price": "100 TL",
+      "description": "250 gr. pirinç, isteğe göre domates, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48300193.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı 6",
+      "price": "300 TL",
+      "description": "Tavuk (400 gr.), pirinç (500 gr.). İsteğe göre domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48300838.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pirinç Pilavı 5",
+      "price": "270 TL",
+      "description": "400 gr. tavuk, 250 gr. pirinç. İsteğe göre domates, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48372303.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Otlu Mantarlı Kaşarlı Omlet",
+      "price": "110 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415473.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Mantarlı Omlet",
+      "price": "110 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415509.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Mantarlı Biberli Omlet",
+      "price": "110 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415519.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Omlet",
+      "price": "110 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Omlet",
+      "price": "120 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415575.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Omlet",
+      "price": "125 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415577.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Yumurtalı Omlet",
+      "price": "140 TL",
+      "description": "Kavurma, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35733054.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Omlet",
+      "price": "140 TL",
+      "description": "Sucuk, salam, sosis, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35741012.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Yumurta",
+      "price": "120 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415455.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Yumurta",
+      "price": "125 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142729.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sahanda Yumurta",
+      "price": "100 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415572.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Yumurta",
+      "price": "115 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415573.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Yumurta",
+      "price": "170 TL",
+      "description": "Kavurma, yumurta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35640546.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Kaşarlı Omlet",
+      "price": "170 TL",
+      "description": "Pastırma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35691376.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Menemen",
+      "price": "130 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415610.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Menemen",
+      "price": "150 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415615.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Sucuklu Menemen",
+      "price": "165 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415617.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Menemen",
+      "price": "150 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415620.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "140 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35416565.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Kaşarlı Gözleme",
+      "price": "150 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35419430.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantarlı Kaşarlı Gözleme",
+      "price": "150 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35419853.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Otlu Mantarlı Gözleme",
+      "price": "150 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35420639.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "140 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35421409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Mantarlı Biberli Gözleme",
+      "price": "160 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35421895.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "150 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35422102.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Salamlı Kaşarlı Gözleme",
+      "price": "170 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35422375.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Gözleme",
+      "price": "140 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35422557.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutellalı Gözleme",
+      "price": "140 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35422986.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Gözleme",
+      "price": "150 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35423483.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Domatesli Biberli Gözleme",
+      "price": "155 TL",
+      "description": "Domates, salatalık, söğüş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35424427.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Ayvalık Tostu",
+      "price": "170 TL",
+      "description": "Domates, kaşar peyniri, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kaşarlı Çemenli Sucuklu Ayvalık Tostu",
+      "price": "160 TL",
+      "description": "Kaşar peyniri, çemen, sucuk, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Çemenli Tulumlu Ayvalık Tostu",
+      "price": "160 TL",
+      "description": "Tulum peyniri, çemen, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415435.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytin Ezmeli Ezine Tost",
+      "price": "150 TL",
+      "description": "Ezine peyniri, zeytin ezmesi, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Sucuklu Domatesli Simit Tost",
+      "price": "160 TL",
+      "description": "Beyaz peynir, sucuk, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35634855.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Simit Tost",
+      "price": "140 TL",
+      "description": "Tulum peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35634885.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Krem Peynirli Simit Tost",
+      "price": "100 TL",
+      "description": "Krem peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35634980.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Duble Kaşar Peynirli Simit Tost",
+      "price": "145 TL",
+      "description": "Pastırma, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35625581.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Nutellalı Simit Tost",
+      "price": "125 TL",
+      "description": "Nutella",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35625591.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşar Peynirli Kasap Sucuklu Domatesli Simit Tost",
+      "price": "125 TL",
+      "description": "Kaşar peyniri, kasap sucuk, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35625596.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşar Peynirli Kasap Sucuklu Simit Tost",
+      "price": "110 TL",
+      "description": "Kaşar peyniri, kasap sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35625602.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşar Peynirli Domatesli Simit Tost",
+      "price": "110 TL",
+      "description": "Kaşar peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35627872.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çift Kaşarlı Simit Tost",
+      "price": "115 TL",
+      "description": "Kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35627875.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Domatesli Simit Tost",
+      "price": "115 TL",
+      "description": "Beyaz peynir, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35628183.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sayaslı Pastırmalı Kaşarlı Kasap Sucuklu Domatesli Simit Tost",
+      "price": "130 TL",
+      "description": "Sayas peyniri, pastırma, kaşar peyniri, kasap sucuk, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35633370.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytin Ezmeli Beyaz Peynirli Domatesli Simit Tost",
+      "price": "115 TL",
+      "description": "Zeytin ezmesi, domates, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35633406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çemenli Tulum Peynirli Simit Tost",
+      "price": "115 TL",
+      "description": "Çemen, tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35633411.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tulum Peynirli Domatesli Simit Tost",
+      "price": "115 TL",
+      "description": "Tulum peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35633414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Krem Peynirli Zeytin Ezmelı Simit Tost",
+      "price": "114 TL",
+      "description": "Sıcak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35645616.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Full Karışık Sandviç",
+      "price": "170 TL",
+      "description": "Salam, sosis, sucuk, kaşar peyniri, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415334.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Kaşarlı Sandviç",
+      "price": "160 TL",
+      "description": "Sucuk, kaşar peyniri, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415341.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kaşarlı Domatesli Sandviç",
+      "price": "150 TL",
+      "description": "Kaşar peyniri, domates, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415383.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Double Karışık Sandviç",
+      "price": "200 TL",
+      "description": "Salam, sosis, sucuk, kaşar peyniri, isteğe göre ketçap, mayonez, turşu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35415391.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması",
+      "price": "110 TL",
+      "description": "Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35425640.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (2 Kişilik)",
+      "price": "150 TL",
+      "description": "Ketçap, mayonez ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35425894.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Paçanga Böreği",
+      "price": "150 TL",
+      "description": "2 adet. Pastırma, kaşar peyniri, yeşil biber, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35580213.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sigara Böreği",
+      "price": "120 TL",
+      "description": "4 adet",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35580850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sosis Tava",
+      "price": "130 TL",
+      "description": "Sosis, patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45142766.webp?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fesleğenli Penne",
+      "price": "190 TL",
+      "description": "Fesleğen, krema, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47935173.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Tavuklu Mantarlı Penne",
+      "price": "200 TL",
+      "description": "Köri sosu, mantar, tavuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47935524.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Penne",
+      "price": "200 TL",
+      "description": "Mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47940766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Tavuklu Penne",
+      "price": "200 TL",
+      "description": "Tavuk, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47946426.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Tavuklu Mantarlı Penne",
+      "price": "200 TL",
+      "description": "Tavuk, mantar, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47946470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "180 TL",
+      "description": "(250 gr.) İsteğe göre yoğurt, baharat sosu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49586611.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köri Soslu Mantarlı Tavuk",
+      "price": "215 TL",
+      "description": "Köri baharat, krema, mantar, kapya biber, yeşilbiber, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47951498.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kremalı Mantarlı Tavuk",
+      "price": "215 TL",
+      "description": "Mantar, kapya biber, yeşilbiber, turşu ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/47951499.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Maraş Usulü Cup Dondurma (100 ml.)",
+      "price": "60 TL",
+      "description": "Paket olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65245099.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'Or Premium Çikolata Rüyası Cup (110 ml.)",
+      "price": "60 TL",
+      "description": "Paket olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65245100.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'Or Premium Meyve Rüyası Cup (110 ml.)",
+      "price": "60 TL",
+      "description": "Paket olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65245103.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Mini Nogger (60 ml.)",
+      "price": "44,90 TL",
+      "description": "Paket olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65245108.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Mini Badem (58 ml.)",
+      "price": "70 TL",
+      "description": "Paket olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65245109.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35427203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "75 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35427350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Light (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35433146.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (33 cl.)",
+      "price": "60 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35433149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "75 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "75 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "75 TL",
+      "description": "Kutu içecek",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu (30 cl.)",
+      "price": "90 TL",
+      "description": "Taze sıkma",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "55 TL",
+      "description": "Büyük",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "50 TL",
+      "description": "Cam şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "20 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola Light (1 L.)",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola Şekersiz (1 L.)",
+      "price": "80 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Fanta (1 L.)",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sprite (1 L.)",
+      "price": "100 TL",
+      "description": "Pet şişe",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    }
+  ]
+}

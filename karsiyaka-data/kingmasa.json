@@ -1,0 +1,154 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/jklv/king-masa",
+  "google": "",
+  "products": [
+    {
+      "name": "Hamburger Menü 4",
+      "price": "310 TL",
+      "description": "Hamburger (160 gr.) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26349326.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cömert Hamburger Menü 2",
+      "price": "430 TL",
+      "description": "2 Adet Hamburger (100 gr.) + Patates Kızartması + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26350813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger Menü 2",
+      "price": "230 TL",
+      "description": "Hamburger (100 gr.) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26349273.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cömert Sandviç Menü",
+      "price": "360 TL",
+      "description": "2 Adet Sandviç + Patates Kızartması + 2 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "Cömert Köfte Ekmek Menü",
+      "price": "380 TL",
+      "description": "2 Adet Köfte Ekmek + Patates Kızartması + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "Öğrenci Menü 1",
+      "price": "360 TL",
+      "description": "2 Adet Sandviç + Patates Kızartması + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "Hamburger Menü 2",
+      "price": "230 TL",
+      "description": "Hamburger (100 gr.) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26349273.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hamburger Menü 4",
+      "price": "310 TL",
+      "description": "Hamburger (160 gr.) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26349326.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayvalık Tost Menü 2",
+      "price": "170 TL",
+      "description": "Karışık Ayvalık Tost + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26349350.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Öğrenci Hamburger Menü 1",
+      "price": "430 TL",
+      "description": "2 Adet Hamburger (100 gr.) + 2 Adet Patates Kızartması + 2 Adet Ayran (30 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26349446.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cömert Hamburger Menü 2",
+      "price": "430 TL",
+      "description": "2 Adet Hamburger (100 gr.) + Patates Kızartması + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/26350813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Izgara İncik Ekmek Menü 1",
+      "price": "225 TL",
+      "description": "Tavuk Ekmek + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30869072.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köfte Ekmek Menü",
+      "price": "220 TL",
+      "description": "Ekmek Arası Köfte + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30896533.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sandviç Menü 1",
+      "price": "210 TL",
+      "description": "Günün Sandviçi + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35231452.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İkili Köfte Ekmek & Ayran Menü",
+      "price": "340 TL",
+      "description": "2 Adet Ekmek Arası Köfte + 2 Adet Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52952738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Öğrenci Menü 1",
+      "price": "360 TL",
+      "description": "2 Adet Sandviç + Patates Kızartması + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "Cömert Köfte Ekmek Menü",
+      "price": "380 TL",
+      "description": "2 Adet Köfte Ekmek + Patates Kızartması + 2 Adet Ayran (20 cl.)"
+    },
+    {
+      "name": "Tavuk Ekmek Menü 1",
+      "price": "225 TL",
+      "description": "Tavuk Ekmek + Patates Kızartması + Ayran (30 cl.)"
+    },
+    {
+      "name": "Köfte Ekmek Menü 1",
+      "price": "220 TL",
+      "description": "Köfte Ekmek + Patates Kızartması +Ayran (30 cl.)"
+    },
+    {
+      "name": "Cömert Sandviç Menü",
+      "price": "360 TL",
+      "description": "2 Adet Sandviç + Patates Kızartması + 2 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "Cömert Ekmek Arası Tavuk Menü",
+      "price": "395 TL",
+      "description": "2 Adet Ekmek Arası Tavuk + Patates Kızartması + 4 Adet Soğan Halkası + 2 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "Cömert Sandviç Menü 2",
+      "price": "360 TL",
+      "description": "2 Adet Sandviç + Patates Kızartması + 2 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "2'li Klasik Burger & Ayran Menü",
+      "price": "415 TL",
+      "description": "2 Adet Klasik Burger + 2 Adet Ayran (30 cl.)"
+    },
+    {
+      "name": "Burger & Ayran Menü",
+      "price": "220 TL",
+      "description": "Klasik Burger + Ayran (20 cl.)"
+    },
+    {
+      "name": "Karışık Sandviç & Ayran Menü",
+      "price": "199 TL",
+      "description": "Karışık Sandviç + Ayran (30 cl.)"
+    },
+    {
+      "name": "İkili Sandviç & Ayran Menü",
+      "price": "355 TL",
+      "description": "İkili Sandviç & Ayran (2 Adet)"
+    },
+    {
+      "name": "Karışık Tost",
+      "price": "170 TL",
+      "description": "Sucuk, kaşar peyniri. Patates kızartması ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35095823.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/tqo3/diyetkolay",
+  "google": "",
+  "products": [
+    {
+      "name": "Izgara Tavuklu Salata",
+      "price": "232 TL290 TL",
+      "description": "Izgara tavuk, maskolin yeşillik, cherry domates, salatalık, mor lahana, kuru domates, parmesan peyniri, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45734808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "232 TL290 TL",
+      "description": "Ton balığı, iceberg, maydanoz, dereotu, mısır, Meksika fasulyesi, cherry domates, salatalık, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48824218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Izgara Tavuklu Salata",
+      "price": "232 TL290 TL",
+      "description": "Izgara tavuk, maskolin yeşillik, cherry domates, salatalık, mor lahana, kuru domates, parmesan peyniri, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45734808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokadolu Kinoalı Salata",
+      "price": "232 TL290 TL",
+      "description": "Avokado, kinoa, pancar, kırmızı biber, roka, ceviz, özel sos ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/45770213.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "232 TL290 TL",
+      "description": "Ton balığı, iceberg, maydanoz, dereotu, mısır, Meksika fasulyesi, cherry domates, salatalık, özel sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48824218.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pin Hibiscus Tea (Şekersiz & Kalorisiz)",
+      "price": "64 TL80 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65972922.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pin Cool Lime (Şekersiz & Kalorisiz)",
+      "price": "64 TL80 TL",
+      "description": "Soğuk servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65972923.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36117390.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

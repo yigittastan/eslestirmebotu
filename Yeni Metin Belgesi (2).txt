@@ -1,0 +1,49 @@
+import json
+import os
+import webbrowser
+import keyboard
+
+folder_path = 'C:\\Users\\LEVEL END\\Desktop\\yemeksepeti-data\\test'  # Klasörün tam yolunu belirt
+urls = []
+current_index = 0
+
+# Klasördeki JSON dosyalarını oku
+for filename in os.listdir(folder_path):
+    if filename.endswith('.json'):
+        file_path = os.path.join(folder_path, filename)
+        
+        with open(file_path, 'r', encoding='utf-8') as file:
+            try:
+                data = json.load(file)
+                
+                # URL anahtarını kontrol et
+                if 'url' in data:
+                    urls.append(data['url'])  # URL'yi ekle
+                else:
+                    print(f"Hata: {file_path} dosyasında 'url' anahtarı bulunamadı.")
+            except json.JSONDecodeError:
+                print(f"Hata: {file_path} dosyası okunamadı.")
+
+# "Insert" tuşuna basıldığında bir URL'yi aç
+def open_url():
+    global current_index
+    if current_index < len(urls):
+        print(f"Açılıyor: {urls[current_index]}")
+        webbrowser.open(urls[current_index])  # URL'yi aç
+        current_index += 1
+    else:
+        print("Tüm URL'ler açıldı!")
+
+# "Ctrl+I" tuşuna basıldığında bir URL'yi yazdır
+def display_url():
+    global current_index
+    if current_index < len(urls):
+        print(f"Açılacak URL: {urls[current_index]}")
+    else:
+        print("Tüm URL'ler yazıldı!")
+
+keyboard.add_hotkey('insert', open_url)
+keyboard.add_hotkey('ctrl+i', display_url)  # Ctrl+I tuş kombinasyonu
+
+print("Insert tuşuna basarak URL'leri açabilirsiniz, Ctrl+I tuşuna basarak URL'leri yazdırabilirsiniz.")
+keyboard.wait()  # Programın sürekli çalışmasını sağlar

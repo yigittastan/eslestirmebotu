@@ -1,0 +1,464 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/l09m/ablam-tavuklu-pilav-and-midye",
+  "google":"https://maps.app.goo.gl/GEKRrDKeYFp5GF6Z9",
+  "products": [
+    {
+      "name": "Menü 1,5",
+      "price": "225 TL",
+      "description": "Tavuklu Pilav (1,5 Porsiyon) (Tuz, karabiber, turşu, domates ile) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "180 TL",
+      "description": "Pirinç pilavı, tavuk. Tuz, karabiber, turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "190 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Orta)",
+      "price": "100 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4",
+      "price": "305 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Çiğ Köfte (200 gr.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (200 gr.)",
+      "price": "140 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180777.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1",
+      "price": "190 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180736.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 1,5",
+      "price": "225 TL",
+      "description": "Tavuklu Pilav (1,5 Porsiyon) (Tuz, karabiber, turşu, domates ile) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180737.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2",
+      "price": "215 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Günün Tatlısı + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180738.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 2,5",
+      "price": "250 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Günün Tatlısı + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180739.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4",
+      "price": "305 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Çiğ Köfte (200 gr.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180742.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 4,5",
+      "price": "340 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Çiğ Köfte (200 gr.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180743.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 5",
+      "price": "280 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180744.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 5,5",
+      "price": "315 TL",
+      "description": "Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180745.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 6",
+      "price": "450 TL",
+      "description": "2 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Günün Tatlısı + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180746.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 6,5",
+      "price": "510 TL",
+      "description": "2 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Günün Tatlısı + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180747.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 7",
+      "price": "500 TL",
+      "description": "2 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180748.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 7,5",
+      "price": "570 TL",
+      "description": "2 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Patates Kızartması + İçecek (1 L.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180749.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Menü 3",
+      "price": "275 TL",
+      "description": "Tavuklu Pirinç Pilavı (Tuz, karabiber, turşu, domates ile) + Kuru Fasulye + Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 3.5",
+      "price": "315 TL",
+      "description": "Kuru Fasulye + Tavuklu Pilav (1,5 Porsiyon) + Garnitür + Ayran (20 cl.)"
+    },
+    {
+      "name": "Menü 8",
+      "price": "660 TL",
+      "description": "3 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Günün Tatlısı + İçecek (1 L.)"
+    },
+    {
+      "name": "Menü 8,5",
+      "price": "750 TL",
+      "description": "3 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Günün Tatlısı + İçecek (1 L.)"
+    },
+    {
+      "name": "Menü 9",
+      "price": "660 TL",
+      "description": "3 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Menü 9,5",
+      "price": "750 TL",
+      "description": "3 Adet Tavuklu Pilav (Tuz, karabiber, turşu, domates ile) (1,5 Porsiyon) + Patates Kızartması + İçecek (1 L.)"
+    },
+    {
+      "name": "Kavurma Menü 1,5",
+      "price": "410 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) (1,5 Porsiyon) + Kavurma (150 gr.) + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurma Menü 2,5",
+      "price": "440 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) (1,5 Porsiyon) + Kavurma (150 gr.) + Kutu İçecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurma Menü 4",
+      "price": "450 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) + Kavurma (100 gr.) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurma Menü 4,5",
+      "price": "500 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) (1,5 Porsiyon) + Kavurma (150 gr.) + Patates Kızartması + Ayran (20 cl.)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180762.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurma Menü 1",
+      "price": "350 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) + Kavurma (100 gr.) + Ayran (20 cl.)"
+    },
+    {
+      "name": "Kavurma Menü 2",
+      "price": "380 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) + Kavurma (100 gr.) + Kutu İçecek"
+    },
+    {
+      "name": "Kavurma Menü 3",
+      "price": "400 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) + Kavurma (100 gr.) + İçecek (1 L.)"
+    },
+    {
+      "name": "Kavurma Menü 3,5",
+      "price": "460 TL",
+      "description": "Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) (1,5 Porsiyon) + Kavurma (150 gr.) + İçecek (1 L.)"
+    },
+    {
+      "name": "Kavurma Menü 5",
+      "price": "800 TL",
+      "description": "2 Adet Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) + 2 Adet Kavurma (100 gr.) + Büyük Boy Patates Kızartması + 2 Adet Günün Tatlısı + İçecek (1 L.)"
+    },
+    {
+      "name": "Kavurma Menü 5,5",
+      "price": "900 TL",
+      "description": "2 Adet Pirinç Pilavı (Domates, turşu, karabiber, tuz ile) + 2 Adet Kavurma (150 gr.) (1,5 Porsiyon) + Büyük Boy Patates Kızartması + 2 Adet Günün Tatlısı + İçecek (1 L.)"
+    },
+    {
+      "name": "Sade Pilav",
+      "price": "140 TL",
+      "description": "Pirinç pilavı. Tuz, karabiber, turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pilav",
+      "price": "180 TL",
+      "description": "Pirinç pilavı, tavuk. Tuz, karabiber, turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180766.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pilav (100 gr.)",
+      "price": "340 TL",
+      "description": "Pirinç pilavı, (100 gr.) kavurma. Domates, turşu, karabiber, tuz ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180767.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pilav (150 gr.)",
+      "price": "410 TL",
+      "description": "Pirinç pilavı, 100 gr. kavurma. Domates, turşu, karabiber, tuz ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Köfte",
+      "price": "220 TL",
+      "description": "Tuz, karabiber, turşu, domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180769.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pilav Üstü Kuru Fasulye",
+      "price": "180 TL",
+      "description": "Günlük hazırlanır."
+    },
+    {
+      "name": "Kuru Fasulye",
+      "price": "125 TL",
+      "description": "1 kişilik",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52399784.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte Dürüm",
+      "price": "80 TL",
+      "description": "Göbek marul, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180774.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doritos'lu Çiğ Köfte Dürüm",
+      "price": "95 TL",
+      "description": "Göbek marul, nar ekşisi, turşu, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180775.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mega Çiğ Köfte Dürüm",
+      "price": "105 TL",
+      "description": "Göbek marul, limon, nar ekşisi, acı sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (200 gr.)",
+      "price": "140 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180777.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (300 gr.)",
+      "price": "210 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180778.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (400 gr.)",
+      "price": "280 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180779.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (500 gr.)",
+      "price": "350 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180780.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (600 gr.)",
+      "price": "420 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180781.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (800 gr.)",
+      "price": "560 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180782.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (1 kg.)",
+      "price": "700 TL",
+      "description": "Nar ekşisi, limon, acı sos, lavaş ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180783.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Orta)",
+      "price": "100 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180787.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patates Kızartması (Büyük)",
+      "price": "120 TL",
+      "description": "Dilimlenmiş patateslerin kızartılarak servis edildiği bir atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180788.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekstra Tavuk (50 gr.)",
+      "price": "65 TL",
+      "description": "Pilav üstüne; ekstra 50 gr. tavuk"
+    },
+    {
+      "name": "Ekstra Tavuk (75 gr.)",
+      "price": "97,50 TL",
+      "description": "Pilav üstüne ekstra 75 gr tavuk eklenir:"
+    },
+    {
+      "name": "Ekstra Tavuk (100 gr.)",
+      "price": "130 TL",
+      "description": "Pilav üstüne ekstra 100 gr. tavuk eklenir"
+    },
+    {
+      "name": "Algida Maraş Usulü Cup (100 ml.)",
+      "price": "45 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180795.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Magnum Mini Cookie (58 ml.)",
+      "price": "52 TL",
+      "description": "Kurabiye aromalı mini dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180796.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Carte d'Or Monoportion Çikolata Karnavalı (105 ml.)",
+      "price": "45 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180798.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Double Çikolata (95 ml.)",
+      "price": "70 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180803.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Badem (100 ml.)",
+      "price": "70 TL",
+      "description": "Paket dondurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180804.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Algida Affordable (100 ml.)",
+      "price": "45 TL",
+      "description": "Paket olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66211104.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Classic (100 ml.)",
+      "price": "70 TL",
+      "description": "Klasik Magnum",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66211105.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Magnum Euphoria (100 ml.)",
+      "price": "70 TL",
+      "description": "Paket olarak servis edilir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66211106.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180807.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180810.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180811.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180812.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (33 cl.)",
+      "price": "35 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (30 cl.)",
+      "price": "40 TL",
+      "description": "Büyük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180814.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (20 cl.)",
+      "price": "35 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (30 cl.)",
+      "price": "25 TL",
+      "description": "Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180816.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (20 cl.)",
+      "price": "20 TL",
+      "description": "Şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180817.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180818.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "65 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (1 L.)",
+      "price": "59 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31161427.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6180823.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

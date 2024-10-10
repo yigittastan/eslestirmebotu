@@ -1,0 +1,286 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/jbct/maya-patisserie-jbct",
+  "google": "",
+  "products": [
+    {
+      "name": "Pavlova (Glütensiz)",
+      "price": "135 TL150 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "117 TL130 TL",
+      "description": "Çilek aroması ve mag kremasıyla hazırlanan, katmanlı bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Brownie",
+      "price": "135 TL150 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "108 TL120 TL",
+      "description": "İçi krema dolu hamur toplarının çikolata sosuyla servis edildiği bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "112,50 TL125 TL",
+      "description": "İtalya'ya özgü olan, kahve ile ıslatılan bisküvi tabakaları arasına krema ve kakao serpilerek hazırlanan katmanlı bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "108 TL120 TL",
+      "description": "Çikolatalı ve puding kıvamında bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "6'lı Kavanoz Tatlı Menü",
+      "price": "640 TL600 TL",
+      "description": "Seçeceğiniz 6 Adet Kavanoz Tatlı"
+    },
+    {
+      "name": "Kaşarlı Gözleme",
+      "price": "126 TL140 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062123.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patatesli Gözleme",
+      "price": "126 TL140 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062124.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ispanaklı Peynirli Gözleme",
+      "price": "126 TL140 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062125.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu",
+      "price": "112,50 TL125 TL",
+      "description": "İtalya'ya özgü olan, kahve ile ıslatılan bisküvi tabakaları arasına krema ve kakao serpilerek hazırlanan katmanlı bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Mag",
+      "price": "117 TL130 TL",
+      "description": "Çilek aroması ve mag kremasıyla hazırlanan, katmanlı bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062150.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Oreolu Mag",
+      "price": "117 TL130 TL",
+      "description": "Oreo ve mag kremasıyla hazırlanan, katmanlı bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Frambuazlı Brownie",
+      "price": "135 TL150 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bask Cheesecake",
+      "price": "135 TL150 TL",
+      "description": "Üstü hafifçe yanık ve karamelize edilmiş, kremsi bir iç dolguya sahip bir cheesecake çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pavlova (Glütensiz)",
+      "price": "135 TL150 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062157.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Berlin Çikolatalı Mozaik Pasta",
+      "price": "90 TL100 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Orman Meyveli Mag",
+      "price": "117 TL130 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32543967.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Trileçe",
+      "price": "90 TL100 TL",
+      "description": "Karamel sos ile tatlandırılmış sütlü tatlı.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062178.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Pasta",
+      "price": "99 TL110 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Profiterol",
+      "price": "108 TL120 TL",
+      "description": "İçi krema dolu hamur toplarının çikolata sosuyla servis edildiği bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062180.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kazandibi",
+      "price": "90 TL100 TL",
+      "description": "Süt, un ve şekerin pişirilip karamelize edilmesiyle elde edilen bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062181.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Supangle",
+      "price": "108 TL120 TL",
+      "description": "Çikolatalı ve puding kıvamında bir tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062182.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Islak Kek",
+      "price": "90 TL100 TL",
+      "description": "Kakaolu kek üzerine çikolata sosu dökülerek hazırlanan tatlıdır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32543981.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Mag",
+      "price": "90 TL100 TL",
+      "description": "Muz aroması ve mag kremasıyla hazırlanan bir tatlıdır.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Lotus Mag",
+      "price": "117 TL130 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Supangleli Mag",
+      "price": "117 TL130 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34782693.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Snickers",
+      "price": "90 TL100 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Ananaslı Bademli Pasta",
+      "price": "99 TL110 TL",
+      "description": "Adet olarak servis edilmektedir."
+    },
+    {
+      "name": "Pavlova & Triliçe",
+      "price": "225 TL250 TL",
+      "description": "Tek kişilik"
+    },
+    {
+      "name": "Supangle & Mozaik Pasta",
+      "price": "180 TL200 TL"
+    },
+    {
+      "name": "Yaş Pasta (1 Kişilik)",
+      "price": "135 TL150 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32543943.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaş Pasta (6 Kişilik)",
+      "price": "675 TL750 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32543944.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yaş Pasta (4 Kişilik)",
+      "price": "450 TL500 TL",
+      "description": "Çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32543945.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Pasta (8 Kişilik)",
+      "price": "855 TL950 TL",
+      "description": "Çikolata ile hazırlanan pasta çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/57396319.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "63 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062191.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Limonata",
+      "price": "36 TL40 TL",
+      "description": "Ev yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062196.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "27 TL30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "22,50 TL25 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062203.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Tartolet (500 gr.)",
+      "price": "225 TL250 TL",
+      "description": "Çilek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32544016.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekler (1 kg.)",
+      "price": "450 TL500 TL",
+      "description": "1 kg.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Kuru Pasta (500 gr.)",
+      "price": "225 TL250 TL",
+      "description": "Günün çeşitleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062221.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tatlı Kuru Pasta (1 kg.)",
+      "price": "450 TL500 TL",
+      "description": "Günün çeşitleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062222.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuzlu Kuru Pasta (500 gr.)",
+      "price": "225 TL250 TL",
+      "description": "Günün çeşitleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062223.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuzlu Kuru Pasta (1 kg.)",
+      "price": "450 TL500 TL",
+      "description": "Günün çeşitleri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6062224.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ekler (500 gr.)",
+      "price": "225 TL250 TL",
+      "description": "500 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32544026.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karamelli Tartolet (500 gr.)",
+      "price": "225 TL250 TL",
+      "description": "Ceviz veya yer fıstığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/49355961.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çikolatalı Kekli Top (500 gr.)",
+      "price": "144 TL160 TL",
+      "description": "Çikolata"
+    }
+  ]
+}

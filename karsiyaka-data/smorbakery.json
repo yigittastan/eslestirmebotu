@@ -1,0 +1,270 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/z9ci/smor-bakery",
+  "google": "",
+  "products": [
+    {
+      "name": "Füme Kaburgalı Beşamel Soslu Kruvasan Sandviç",
+      "price": "270 TL",
+      "description": "Hardallı füme kaburga, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Pastacı Kreması Dolgulu Kruvasan",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Jambonlu Ajvar Soslu Sandviç",
+      "price": "270 TL",
+      "description": "Közlenmiş patlıcan, közlenmiş biber sos, dana jambon, İzmir tulum peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarellalı Kruvasan Sandviç",
+      "price": "255 TL",
+      "description": "Pesto sos, çeri domates, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokadolu Hindi Fümeli Sandviç",
+      "price": "265 TL",
+      "description": "Soslu avokado, cheddar peyniri, krem peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Çikolatalı Pastacı Kreması Dolgulu Kruvasan",
+      "price": "215 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburgalı Beşamel Soslu Kruvasan Sandviç",
+      "price": "270 TL",
+      "description": "Hardallı füme kaburga, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965420.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mozzarellalı Kruvasan Sandviç",
+      "price": "255 TL",
+      "description": "Pesto sos, çeri domates, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965422.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokadolu Hindi Fümeli Sandviç",
+      "price": "265 TL",
+      "description": "Soslu avokado, cheddar peyniri, krem peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Jambonlu Ajvar Soslu Sandviç",
+      "price": "270 TL",
+      "description": "Közlenmiş patlıcan, közlenmiş biber sos, dana jambon, İzmir tulum peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965424.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Roast Beef Kruvasan Sandviç",
+      "price": "280 TL",
+      "description": "Roast beef, hardal, Kars kaşarı, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32301999.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kruvasan Sandviç",
+      "price": "200 TL",
+      "description": "Hindi füme, dana jambon, labne peynir, cheddar peynir, çeçil peynir, marul, ballı hardal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54778757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dilli Mozzarellalı Kruvasan Sandviç",
+      "price": "290 TL",
+      "description": "Füme dil, mozeralla peyniri, roka, cherry Domates, mayonez",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66260127.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beğendili Kruvasan Sandviç",
+      "price": "260 TL",
+      "description": "Köz patlıcan, beşamel sos, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66263695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dana Jambonlu Bagel Sandviç",
+      "price": "185 TL",
+      "description": "Bagel ekmeği, dana jambon, ev yapımı pesto sos, krem peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44995817.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Bagel Sandviç",
+      "price": "175 TL",
+      "description": "Cheddar peyniri, suda mozzarella peyniri, İzmir tulum peyniri, karabiberli krem peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44995850.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Etli Ciabatta Sandviç",
+      "price": "200 TL",
+      "description": "Ekşi maya ciabbatta ekmeği, krem peynir, dana jambon, cheddar peyniri, marul, ev yapımı ballı hardal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50743841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vejetaryen Ciabatta Sandviç",
+      "price": "180 TL",
+      "description": "Ekşi maya ciabatta ekmeği, zeytin ezmesi, suda mozzarella peyniri, çeri domates, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/50743842.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hindi Fümeli Cheddar Peynirli Kruvasan",
+      "price": "140 TL",
+      "description": "Hindi füme, cheddar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27123235.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Zeytin Ezmeli Kuru Domatesli İzmir Tulumlu Kruvasan",
+      "price": "140 TL",
+      "description": "Zeytin ezmesi, kuru domates, tulum peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27123242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tütsülenmiş Sosisli Kruvasan",
+      "price": "180 TL",
+      "description": "Babrbekü sos, çıtır soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/27123262.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tiramisu Dolgulu Kruvasan",
+      "price": "205 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965403.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Vişneli Kruvasan",
+      "price": "220 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965405.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yer Fıstıklı Karamelli Kruvasan",
+      "price": "205 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965406.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vişneli Hindistan Cevizli Kruvasan",
+      "price": "205 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965407.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Kruvasan",
+      "price": "215 TL",
+      "description": "115 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965409.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bademli Kruvasan",
+      "price": "160 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965410.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Elmalı Crumble Kruvasan",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965411.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Pastacı Kreması Dolgulu Kruvasan",
+      "price": "210 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965413.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Çikolatalı Pastacı Kreması Dolgulu Kruvasan",
+      "price": "215 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965414.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sade Kruvasan",
+      "price": "120 TL",
+      "description": "Fransız mutfağına ait, hamur işi atıştırmalıktır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965416.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastel de Nata",
+      "price": "60 TL",
+      "description": "Çıtır milföy hamuru, portakallı tarçınlı krema",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965418.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kakaolu Badem Kremalı Çikolatalı Kruvasan",
+      "price": "195 TL",
+      "description": "Kakao, badem, frangipan, kruvasan, nutella",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36711537.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Antep Fıstıklı Baklava Kruvasan",
+      "price": "250 TL",
+      "description": "Antep fıstıklı frangipani, antebella sos, Antep fıstığı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65389808.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lotus Kruvasan",
+      "price": "230 TL",
+      "description": "Pastacı kreması, Lotus kreması, Lotus kurabiyesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66107235.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yulaflı Üzümlü Cookie",
+      "price": "75 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965431.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Bitter Chocolate Cookie",
+      "price": "75 TL",
+      "description": "Bitter çikolatalı, cevizli kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/52741082.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Brownie",
+      "price": "120 TL",
+      "description": "Çikolata ile hazırlanan bir kek çeşididir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54277689.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşhaşlı Bagel",
+      "price": "60 TL",
+      "description": "110 gr.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44934360.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Susamlı Bagel (110 gr.)",
+      "price": "60 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44968131.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "30 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965437.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Portakal Suyu",
+      "price": "120 TL",
+      "description": "Portakal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/5965438.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Limonata",
+      "price": "120 TL",
+      "description": "Limon suyu, şeker ve su ile hazırlanan içecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41546715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ev Yapımı Şeftalili Soğuk Çay",
+      "price": "120 TL",
+      "description": "Ev yapımı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41546734.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

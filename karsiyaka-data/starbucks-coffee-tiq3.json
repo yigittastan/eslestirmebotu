@@ -1,0 +1,733 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/tiq3/starbucks-coffee-tiq3",
+  "google": "",
+  "products": [
+    {
+      "name": "Starbucks® Plastik Termos - Misket Limonu Yeşili - 473 ml.",
+      "price": "623 TL",
+      "description": "(779 TL yerine 623 TL!)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65657519.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Paslanmaz Çelik Soğuk İçecek Bardağı - Lacivert - 710 ml.",
+      "price": "1.151 TL",
+      "description": "(1439 TL yerine 1151 TL!)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65657522.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Paslanmaz Çelik Termos - Lacivert - 355 ml.",
+      "price": "1.151 TL",
+      "description": "(1439 TL yerine 1151 TL!)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65657523.jpg?width=150&height=150"
+    },
+    {
+      "name": "White Chocolate Mocha",
+      "price": "116 TL",
+      "description": "(145 TL yerine 116 TL!) Beyaz çikolata aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771015.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced White Chocolate Mocha",
+      "price": "116 TL",
+      "description": "(145 TL yerine 116 TL!) Buzlu, beyaz çikolata aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771017.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caffè Americano",
+      "price": "72 TL",
+      "description": "(90 TL yerine 72 TL!) Sıcak su ekli espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771022.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Caffè Americano",
+      "price": "72 TL",
+      "description": "(90 TL yerine 72 TL!) Buzlu, su ekli espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771023.jpg?width=150&height=150"
+    },
+    {
+      "name": "Doubleshot™ Iced Shaken Espresso",
+      "price": "96 TL",
+      "description": "(120 TL yerine 96 TL!) Sütlü kremalı buzlu kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771025.jpg?width=150&height=150"
+    },
+    {
+      "name": "Cold Brew",
+      "price": "92 TL",
+      "description": "(115 TL yerine 92 TL!) Soğuk demleme kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771032.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caramel Frappuccino®",
+      "price": "116 TL",
+      "description": "(145 TL yerine 116 TL!) Karamelize şekerli ve aromalı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771041.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caramel Cream Frappuccino®",
+      "price": "116 TL",
+      "description": "(145 TL yerine 116 TL!) Kremalı, karamelize şekerli ve aromalı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771047.jpg?width=150&height=150"
+    },
+    {
+      "name": "Triple Chocolate Cookie",
+      "price": "72 TL",
+      "description": "(90 TL yerine 72 TL!) Bitter, sütlü ve beyaz çikolata parçalı tereyağlı cookie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771084.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Sun-Dried Brazil Carmo de Minas (250 gr.)",
+      "price": "383 TL",
+      "description": "(479 TL yerine 383 TL!) Fındık ve kurutulmuş meyve notaları sahip. Orta Kavrulmuş.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66342633.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Reusable Cup (473 ml.)",
+      "price": "87 TL",
+      "description": "(109 TL yerine 87 TL!) Starbucks® beyaz renkli tekrar kullanılabilir bardak / 16 oz. Ürünlerin kullanım talimatları farklılık gösterebilmektedir. Lütfen ürünü kullanmadan önce, ürün içerisinde yer alan kullanım kılavuzunu okuyunuz. Mikrodalga fırında kullanıma ve bulaşık makinesinde yıkamaya uygun değildir. Sıcak ve soğuk içecekler ile kullanıma uygundur.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770902.jpg?width=150&height=150"
+    },
+    {
+      "name": "Filtre Kağıdı",
+      "price": "67 TL",
+      "description": "(84 TL yerine 67 TL!) Filltre kağıdı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39186193.jpg?width=150&height=150"
+    },
+    {
+      "name": "Frozen Cool Lime Refresha®",
+      "price": "145 TL",
+      "description": "Misket limonu aromalı buz parçacıklı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64544242.jpg?width=150&height=150"
+    },
+    {
+      "name": "Frozen Berry Hibiscus Refresha®",
+      "price": "145 TL",
+      "description": "Böğürtlen ve hibiskus çiçeği aromalı buz parçacıklı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64544243.jpg?width=150&height=150"
+    },
+    {
+      "name": "Frozen Orange Mango Refresha®",
+      "price": "145 TL",
+      "description": "Portakal ve mango aromalı buz parçacıklı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64544244.jpg?width=150&height=150"
+    },
+    {
+      "name": "Frozen Mango Dragon Refresha®",
+      "price": "145 TL",
+      "description": "Mango ve ejder meyvesi aromalı buz parçacıklı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64544245.jpg?width=150&height=150"
+    },
+    {
+      "name": "Orange Mango Refresha®",
+      "price": "137 TL",
+      "description": "Portakal ve mango aromalı buzlu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770950.jpg?width=150&height=150"
+    },
+    {
+      "name": "Cool Lime Refresha®",
+      "price": "137 TL",
+      "description": "Misket limonu aromalı buzlu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770949.jpg?width=150&height=150"
+    },
+    {
+      "name": "Berry Hibiscus Refresha®",
+      "price": "137 TL",
+      "description": "Böğürtlen ve hibiskus çiçeği aromalı buzlu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770951.jpg?width=150&height=150"
+    },
+    {
+      "name": "Mango Dragonfruit Refresha®",
+      "price": "137 TL",
+      "description": "Mango ve ejder meyvesi aromalı buzlu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/38074850.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Plastik İstanbul Temalı Termos (480 ml.)",
+      "price": "479 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60013637.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Şehir Temalı Termos - Türkiye (473 ml.)",
+      "price": "479 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60013639.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caffè Latte",
+      "price": "109 TL",
+      "description": "Sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771007.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Caffè Latte",
+      "price": "109 TL",
+      "description": "Buzlu sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771008.jpg?width=150&height=150"
+    },
+    {
+      "name": "Vanilla Latte",
+      "price": "134 TL",
+      "description": "Vanilya aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771009.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Vanilla Latte",
+      "price": "134 TL",
+      "description": "Buzlu vanilya aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771010.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caramel Latte",
+      "price": "134 TL",
+      "description": "Karamel aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771011.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Caramel Latte",
+      "price": "134 TL",
+      "description": "Buzlu karamel aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771012.jpg?width=150&height=150"
+    },
+    {
+      "name": "Blonde Latte",
+      "price": "129 TL",
+      "description": "Yumuşak içimli sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771013.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Blonde Latte",
+      "price": "129 TL",
+      "description": "Buzlu yumuşak içimli sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771014.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caffè Mocha",
+      "price": "140 TL",
+      "description": "Kakaolu sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771018.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Caffè Mocha",
+      "price": "140 TL",
+      "description": "Buzlu kakaolu sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771019.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caramel Macchiato",
+      "price": "130 TL",
+      "description": "Karamelize şekerli ve vanilya aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771020.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Caramel Macchiato",
+      "price": "130 TL",
+      "description": "Buzlu, karamelize şekerli ve vanilya aromalı sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771021.jpg?width=150&height=150"
+    },
+    {
+      "name": "Cappuccino",
+      "price": "109 TL",
+      "description": "Bol süt köpüklü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771024.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Brown Sugar Shaken Espresso",
+      "price": "145 TL",
+      "description": "Buzlu, karamel aromalı espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60862333.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced White Mocha Shaken Espresso",
+      "price": "145 TL",
+      "description": "Buzlu, beyaz çikolata aromalı espresso",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60862890.jpg?width=150&height=150"
+    },
+    {
+      "name": "Crème Brulèe Iced Brown Sugar Oat Shaken Espresso",
+      "price": "145 TL",
+      "description": "Karışık aromalı (Muhallebi, karamel, vanilya) Buzlu espresso (Süte alternatif yulaf lezzeti ile)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66223175.jpg?width=150&height=150"
+    },
+    {
+      "name": "Classic Hot Chocolate",
+      "price": "130 TL",
+      "description": "Kakaolu, sütlü sıcak içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771029.jpg?width=150&height=150"
+    },
+    {
+      "name": "Chocolate Cream Cold Brew",
+      "price": "120 TL",
+      "description": "Üzeri çikolatalı ve kremalı soğuk demleme kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/64544248.jpg?width=150&height=150"
+    },
+    {
+      "name": "Fresh Filter Coffee",
+      "price": "85 TL",
+      "description": "Filtre kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771030.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caffè Misto",
+      "price": "85 TL",
+      "description": "Sütlü filtre kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771031.jpg?width=150&height=150"
+    },
+    {
+      "name": "Cold Brew Latte",
+      "price": "120 TL",
+      "description": "Soğuk demleme sütlü kahve",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771033.jpg?width=150&height=150"
+    },
+    {
+      "name": "Türk Çayı",
+      "price": "60 TL",
+      "description": "Siyah çay",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/55580939.jpg?width=150&height=150"
+    },
+    {
+      "name": "White Chocolate Mocha Frappuccino®",
+      "price": "145 TL",
+      "description": "Beyaz çikolatalı aromalı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771042.jpg?width=150&height=150"
+    },
+    {
+      "name": "Mocha Frappuccino®",
+      "price": "145 TL",
+      "description": "Kakaolu Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771043.jpg?width=150&height=150"
+    },
+    {
+      "name": "Java Chip Frappuccino®",
+      "price": "145 TL",
+      "description": "Kakaolu parçacıklı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771044.jpg?width=150&height=150"
+    },
+    {
+      "name": "Espresso Frappuccino®",
+      "price": "145 TL",
+      "description": "Espresso kahveli Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771045.jpg?width=150&height=150"
+    },
+    {
+      "name": "Coffee Frappuccino®",
+      "price": "145 TL",
+      "description": "Kahveli Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771046.jpg?width=150&height=150"
+    },
+    {
+      "name": "Crème Brulèe Brown Sugar Frappuccino®",
+      "price": "145 TL",
+      "description": "Muhallebi ve karamel aromalı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66223190.jpg?width=150&height=150"
+    },
+    {
+      "name": "Chocolate Cream Frappuccino®",
+      "price": "145 TL",
+      "description": "Kremalı, kakaolu Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771048.jpg?width=150&height=150"
+    },
+    {
+      "name": "Java Chip Chocolate Cream Frappuccino®",
+      "price": "145 TL",
+      "description": "Kremalı, kakaolu parçacıklı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771049.jpg?width=150&height=150"
+    },
+    {
+      "name": "Vanilla Cream Frappuccino®",
+      "price": "145 TL",
+      "description": "Kremalı, vanilya aromalı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771051.jpg?width=150&height=150"
+    },
+    {
+      "name": "White Chocolate Cream Frappuccino®",
+      "price": "145 TL",
+      "description": "Kremalı, beyaz çikolata aromalı Frappuccino®",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771052.jpg?width=150&height=150"
+    },
+    {
+      "name": "Chai Tea Latte",
+      "price": "125 TL",
+      "description": "Demlenmiş çay ve aromalı sütlü içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771038.jpg?width=150&height=150"
+    },
+    {
+      "name": "Iced Chai Tea Latte",
+      "price": "125 TL",
+      "description": "Buzlu, demlenmiş çay ve aromalı sütlü içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771039.jpg?width=150&height=150"
+    },
+    {
+      "name": "Zeytinli Açma",
+      "price": "60 TL",
+      "description": "Ev yapımı tadında zeytin ezmeli açma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771059.jpg?width=150&height=150"
+    },
+    {
+      "name": "Tavuklu ve Avokado Soslu Piadini Sandviç",
+      "price": "150 TL",
+      "description": "Piadini ekmek arasında tavuk, avokado sosu, rendelenmiş cheddar peyniri, kuru domates ve jalapeno biberi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/41463921.jpg?width=150&height=150"
+    },
+    {
+      "name": "Dopdolu Fit Cookie",
+      "price": "85 TL",
+      "description": "Kuru meyveler ve hurma püresi ile hazırlanmış bademli yulaflı kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771085.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks Brownie",
+      "price": "130 TL",
+      "description": "Tereyağlı ve bitter çikolatalı klasik brownie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771091.jpg?width=150&height=150"
+    },
+    {
+      "name": "Belçika Çikolatalı Pasta",
+      "price": "170 TL",
+      "description": "Belçika çikolatalı krema ve çikolata parçaları ile kaplı pasta",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771094.jpg?width=150&height=150"
+    },
+    {
+      "name": "Kremalı Havuçlu Kek",
+      "price": "140 TL",
+      "description": "Havuçlu kek katları arasında peynirli krema bulunan ve ceviz parçaları ile süslenmiş kek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771095.jpg?width=150&height=150"
+    },
+    {
+      "name": "Çikolatalı Donut",
+      "price": "90 TL",
+      "description": "İçi çikolatalı krema dolgulu, üzeri çikolatalı ve süslemeli donut",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31922589.jpg?width=150&height=150"
+    },
+    {
+      "name": "Krem Brule",
+      "price": "115 TL",
+      "description": "Altı krema, üzeri karamelize şekerli tatlı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66224145.jpg?width=150&height=150"
+    },
+    {
+      "name": "Brownie Cheesecake",
+      "price": "155 TL",
+      "description": "Brownie tabanı ve özel çikolata sosu ile hazırlanmış cheesecake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771097.jpg?width=150&height=150"
+    },
+    {
+      "name": "Limonlu Cheesecake",
+      "price": "155 TL",
+      "description": "Çıtır bisküvi tabanıyla birleşen özel peynir dolgusu ve limon sosu ile süslenmiş cheesecake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771098.jpg?width=150&height=150"
+    },
+    {
+      "name": "Ahududulu Cheesecake",
+      "price": "155 TL",
+      "description": "Tereyağlı bisküvi tabanı ve özel peynir dolgusu ile hazırlanmış, ahududu sos ile süslenmiş cheesecake",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771099.jpg?width=150&height=150"
+    },
+    {
+      "name": "Granola Bar",
+      "price": "65 TL",
+      "description": "Bademli, tahıllı granola bar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771106.jpg?width=150&height=150"
+    },
+    {
+      "name": "Para Çikolata",
+      "price": "60 TL",
+      "description": "Sütlü para çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771107.jpg?width=150&height=150"
+    },
+    {
+      "name": "Caramel Waffle",
+      "price": "65 TL",
+      "description": "Karamel waffle",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771108.jpg?width=150&height=150"
+    },
+    {
+      "name": "Wasa",
+      "price": "65 TL",
+      "description": "Krem peynirli Wasa sandviç",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771109.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks Milk Chocolate",
+      "price": "60 TL",
+      "description": "Starbucks sütlü tablet çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771110.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks Dark Chocolate",
+      "price": "60 TL",
+      "description": "Starbucks bitter tablet çikolata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771111.jpg?width=150&height=150"
+    },
+    {
+      "name": "Glütensiz Chia Tohumlu Grissini",
+      "price": "95 TL",
+      "description": "Kıtır ve hafif, yıldız şeklinde uzun grissini",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771112.jpg?width=150&height=150"
+    },
+    {
+      "name": "Mini Brownies",
+      "price": "120 TL",
+      "description": "Bitter çikolata ile hazırlanmış mini brownie parçaları",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771113.jpg?width=150&height=150"
+    },
+    {
+      "name": "Glütensiz Bitter Çikolatalı Brownie",
+      "price": "80 TL",
+      "description": "Belçika çikolatalı glutensiz brownie",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771115.jpg?width=150&height=150"
+    },
+    {
+      "name": "Çikolatalı Glütensiz Kurabiye",
+      "price": "80 TL",
+      "description": "Damla çikolata ile süslenmiş çikolatalı glutensiz kurabiye",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771116.jpg?width=150&height=150"
+    },
+    {
+      "name": "Karışık Kuruyemiş",
+      "price": "80 TL",
+      "description": "Kuru yaban mersini, ceviz, Antep fıstığı, çiğ badem, kuru üzüm",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771118.jpg?width=150&height=150"
+    },
+    {
+      "name": "Eti Wafe'up Gofret",
+      "price": "35 TL",
+      "description": "Kakao kremalı yer fıstığı parçacıklı gofret",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771120.jpg?width=150&height=150"
+    },
+    {
+      "name": "Pol's Çilek",
+      "price": "80 TL",
+      "description": "Dondurularak kurutulmuş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771104.jpg?width=150&height=150"
+    },
+    {
+      "name": "Sakız",
+      "price": "60 TL",
+      "description": "Yeşil nane aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29398823.jpg?width=150&height=150"
+    },
+    {
+      "name": "Zbarz Protein Bar",
+      "price": "65 TL",
+      "description": "Yer fıstıklı, kakaolu ve portakallı protein bar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28857714.jpg?width=150&height=150"
+    },
+    {
+      "name": "Zbarz Limonlu Protein Bar",
+      "price": "65 TL",
+      "description": "Limonlu ve Hindistan cevizli protein bar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30735655.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks Makaron",
+      "price": "155 TL",
+      "description": "Kutu içerisinde Antep fıstıklı, çilekli, mandalinalı ve yer fıstıklı makaron",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43554942.jpg?width=150&height=150"
+    },
+    {
+      "name": "Mini Triple Chocolate Cookies",
+      "price": "120 TL",
+      "description": "Beyaz, sütlü ve bitter çikolatalı mini cookies",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43556147.jpg?width=150&height=150"
+    },
+    {
+      "name": "Kutu Sakız",
+      "price": "60 TL",
+      "description": "Yeşil nane aromalı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66224137.jpg?width=150&height=150"
+    },
+    {
+      "name": "Tereyağlı Kurabiye (Shortbread)",
+      "price": "60 TL",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771103.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks Mini Tuzlu Kruvasan",
+      "price": "115 TL",
+      "description": "Rulo şeklinde mini tuzlu kruvasanlar"
+    },
+    {
+      "name": "Akmina Mineralli Su (25 cl.)",
+      "price": "35 TL",
+      "description": "Mineralli su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771121.jpg?width=150&height=150"
+    },
+    {
+      "name": "Erikli Su (50 cl.)",
+      "price": "18 TL",
+      "description": "Su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771122.jpg?width=150&height=150"
+    },
+    {
+      "name": "San Pellegrino (25 cl.)",
+      "price": "60 TL",
+      "description": "Mineralli su",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771123.jpg?width=150&height=150"
+    },
+    {
+      "name": "Feel More Limonata (25 cl.)",
+      "price": "65 TL",
+      "description": "Limonata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771124.jpg?width=150&height=150"
+    },
+    {
+      "name": "Feel More Karışık Meyve Suyu (25 cl.)",
+      "price": "65 TL",
+      "description": "Portakal, elma, nar, greyfurt, mandalina, siyah havuç suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771125.jpg?width=150&height=150"
+    },
+    {
+      "name": "Feel More Nar Suyu (25 cl.)",
+      "price": "65 TL",
+      "description": "Nar suyu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771127.jpg?width=150&height=150"
+    },
+    {
+      "name": "Beyoğlu Limon (25 cl.)",
+      "price": "60 TL",
+      "description": "Limon ve naneli doğal mineralli gazlı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43556376.jpg?width=150&height=150"
+    },
+    {
+      "name": "Beyoğlu Turuncu (25 cl.)",
+      "price": "60 TL",
+      "description": "Portakal ve limonlu doğal mineralli gazlı içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43556404.jpg?width=150&height=150"
+    },
+    {
+      "name": "Feel More Karpuzlu Limonata (25 cl.)",
+      "price": "65 TL",
+      "description": "Karpuzlu limonata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/43556895.jpg?width=150&height=150"
+    },
+    {
+      "name": "House Blend Kapsül",
+      "price": "344 TL",
+      "description": "Fındık ve kakao lezzetlerine sahiptir. Kavurma Yoğunluğu: 8",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771143.jpg?width=150&height=150"
+    },
+    {
+      "name": "Pike Place® Roast Kapsül",
+      "price": "344 TL",
+      "description": "Latin Amerika kahvelerinin pürüzsüz ve çok yönlü bir harmanı. Kavurma Yoğunluğu: 7",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771145.jpg?width=150&height=150"
+    },
+    {
+      "name": "Single Origin Colombia Kapsül",
+      "price": "344 TL",
+      "description": "Orta gövdeli, ağız sulandırıcı ve kendine özgü fındık notaları. Kavurma Yoğunluğu: 7",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771146.jpg?width=150&height=150"
+    },
+    {
+      "name": "Espresso Roast Kapsül",
+      "price": "344 TL",
+      "description": "Şeker kamışı ve karamelize şeker notaları. Kavurma Yoğunluğu: 11",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771147.jpg?width=150&height=150"
+    },
+    {
+      "name": "Decaf Espresso Roast Kapsül",
+      "price": "344 TL",
+      "description": "Şeker kamışı ve karamelize şeker notaları. Kavurma Yoğunluğu: 11",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10771148.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks® Kapsül - Caffè Verona",
+      "price": "344 TL",
+      "description": "Kavruk tatlı notalara ve yoğun kakao notalarına sahiptir. Kavurma Yoğunluğu: 10",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65781469.jpg?width=150&height=150"
+    },
+    {
+      "name": "Starbucks Blonde Espresso Roast (250 gr.)",
+      "price": "459 TL",
+      "description": "Hafif tatlı lezzet ve turunçgil aromalarına sahiptir. Hafif kavrulmuş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770935.jpg?width=150&height=150"
+    },
+    {
+      "name": "Veranda Blend (250 gr.)",
+      "price": "459 TL",
+      "description": "Yumuşak kakao ve hafif kavrulmuş fındık lezzetleri. Hafif kavrulmuş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770936.jpg?width=150&height=150"
+    },
+    {
+      "name": "House Blend (250 gr.)",
+      "price": "459 TL",
+      "description": "Fındık ve kakao lezzetlerine sahiptir. Orta kavrulmuş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770938.jpg?width=150&height=150"
+    },
+    {
+      "name": "Ethiopia (250 gr.)",
+      "price": "459 TL",
+      "description": "Turunçgil ve kakao aromalarına sahiptir. Orta kavrulmuş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/10770939.jpg?width=150&height=150"
+    },
+    {
+      "name": "Pike Place® Roast (250 gr.)",
+      "price": "459 TL",
+      "description": "Hafif kakao ve kavrulmuş fındık aromalarına sahiptir. Orta kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Sumatra (250 gr.)",
+      "price": "459 TL",
+      "description": "Toprak ve bitki aromalarına sahiptir. Yoğun kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Guatemala Antigua (250 gr.)",
+      "price": "459 TL",
+      "description": "Limon, çikolata ve baharat lezzetlerine sahiptir. Orta kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Kenya (250 gr.)",
+      "price": "459 TL",
+      "description": "Turunçgil aroması ve ekşi lezzetlere sahiptir. Orta kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Colombia Nariño (250 gr.)",
+      "price": "459 TL",
+      "description": "Bitki aromaları ve ceviz lezzetine sahiptir. Orta kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Caffé Verona™ (250 gr.)",
+      "price": "459 TL",
+      "description": "Yoğun kakao ve çikolata lezzetlerine sahiptir. Yoğun kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Starbucks Espresso Roast (250 gr.)",
+      "price": "459 TL",
+      "description": "Karamelsi ve yoğun bir lezzete sahiptir. Yoğun kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Starbucks Decaf Espresso Roast (250 gr.)",
+      "price": "459 TL",
+      "description": "Karamelsi ve yoğun bir lezzete sahiptir. Yoğun kavrulmuş",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Starbucks® 2'li Türk Kahvesi Sunum Seti",
+      "price": "459 TL",
+      "description": "Starbucks® 2'li Türk Kahvesi seramik fincan ve tabak sunum seti. Mikrodalga fırında kullanıma ve bulaşık makinesinde yıkamaya uygundur.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Starbucks® Klasik Seri Termos - Mat Yeşil - Siyah Renkli (355 ml.)",
+      "price": "959 TL",
+      "description": "Starbucks® mat siyah renkli, yeşil şeritli, paslanmaz çelik termos / 12 oz. Ürünlerin kullanım talimatları farklılık gösterebilmektedir. Lütfen ürünü kullanmadan önce, ürün içerisinde yer alan kullanım kılavuzunu okuyunuz. Mikrodalga fırında kullanıma ve bulaşık makinesinde yıkamaya uygun değildir. Sıcak ve soğuk içecekler ile kullanıma uygundur.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Starbucks® Yeşil Kenarlı Kupa (355 ml.)",
+      "price": "719 TL",
+      "description": "Ürünlerin kullanım talimatları farklılık gösterebilmektedir. Lütfen ürünü kullanmadan önce, ürün içerisinde yer alan kullanım kılavuzunu okuyunuz. Mikrodalga fırında kullanıma ve bulaşık makinesinde yıkamaya uygun değildir. Sıcak ve soğuk içecekler ile kullanıma uygundur.",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Starbucks® Kahve Presi (500 ml.)",
+      "price": "599 TL",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    }
+  ]
+}

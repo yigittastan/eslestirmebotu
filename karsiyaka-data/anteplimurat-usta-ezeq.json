@@ -1,0 +1,270 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ezeq/antepli-murat-usta-ezeq",
+  "google": "",
+  "products": [
+    {
+      "name": "Lahmacun",
+      "price": "150 TL200 TL",
+      "description": "Gaziantep usulü (Büyük boy)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561142.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (250 gr.)",
+      "price": "112,50 TL150 TL",
+      "description": "Garnitür ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/48292226.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "165 TL220 TL",
+      "description": "Soğan, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Kebap (220 gr.)",
+      "price": "315 TL420 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, antep ezme,çiğ köfte,yoğurtlu meze,salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kebap (220 gr.)",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "120 TL160 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33883175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Lahmacun",
+      "price": "150 TL200 TL",
+      "description": "Gaziantep usulü (Büyük boy)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561142.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Pide",
+      "price": "180 TL240 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305172.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Kaşarlı Pide",
+      "price": "202,50 TL270 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305423.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Pide",
+      "price": "225 TL300 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305436.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuşbaşılı Kaşarlı Pide",
+      "price": "240 TL320 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305470.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Pide",
+      "price": "180 TL240 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305476.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuklu Kaşarlı Pide",
+      "price": "195 TL260 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305482.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fındık Lahmacun",
+      "price": "90 TL120 TL",
+      "description": "Yeşillik ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32059055.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mercimek Çorbası",
+      "price": "120 TL160 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33883175.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ezogelin Çorbası",
+      "price": "120 TL160 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33898179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyran Çorbası",
+      "price": "195 TL260 TL",
+      "description": "Ekmek ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33900551.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kelle Paça Çorbası",
+      "price": "195 TL260 TL",
+      "description": "Kelle, paça ve baharatlarla hazırlanan bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39728849.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "İşkembe Çorbası",
+      "price": "195 TL260 TL",
+      "description": "Dilimlenmiş işkembe parçalarının pişirilerek hazırlandığı bir çorbadır.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/39738706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Kebap (220 gr.)",
+      "price": "315 TL420 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, antep ezme,çiğ köfte,yoğurtlu meze,salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561149.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sarma Beyti Kebap (220 gr.)",
+      "price": "405 TL540 TL",
+      "description": "Lavaşa sarılı, yoğurtlu, soslu. Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561151.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Şiş (220 gr.)",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561152.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğer Şiş",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Kebap (220 gr.)",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561156.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Domatesli Kebap",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305916.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Altı Ezmeli Kebap (Şişten)",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561159.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Alinazik Kebap (Şişten)",
+      "price": "405 TL540 TL",
+      "description": "Közlenmiş biber, közlenmiş domates, Antep ezme, çiğ köfte, yoğurtlu meze, salata ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30561160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Yaprak Kanat",
+      "price": "300 TL400 TL",
+      "description": "Közlenmiş biber, közlenmiş domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305941.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş (Buttan) (240 gr.)",
+      "price": "285 TL380 TL",
+      "description": "Közlenmiş biber, közlenmiş domates ile",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305948.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Urfa Dürüm",
+      "price": "180 TL240 TL",
+      "description": "Soğan, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305488.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kuzu Şiş Dürüm",
+      "price": "210 TL280 TL",
+      "description": "Soğan, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305495.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ciğer Şiş Dürüm",
+      "price": "210 TL280 TL",
+      "description": "Soğan, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305497.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tavuk Şiş Dürüm",
+      "price": "165 TL220 TL",
+      "description": "Soğan, maydanoz, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305525.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çiğ Köfte (250 gr.)",
+      "price": "112,50 TL150 TL",
+      "description": "Garnitür ile",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "52,50 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305983.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fanta (33 cl.)",
+      "price": "52,50 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305987.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "52,50 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305992.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Şalgam Suyu (30 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29306006.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ayran (17 cl.)",
+      "price": "37,50 TL50 TL",
+      "description": "Küçük",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29306014.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Limonlu Soda (20 cl.)",
+      "price": "45 TL60 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29306000.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "37,50 TL50 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29305996.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (33 cl.)",
+      "price": "52,50 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60568684.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "52,50 TL70 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/63975777.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/29315928.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

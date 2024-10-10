@@ -1,0 +1,372 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/ban2/pizza-americano",
+  "google": "",
+  "products": [
+    {
+      "name": "Süper Karışık Pizza (Orta Boy) (30 cm.)",
+      "price": "335 TL",
+      "description": "Dana sucuk, dana salam, dana sosis, mantar, yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36068143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper Karışık Pizza (Büyük Boy) (38 cm.)",
+      "price": "430 TL",
+      "description": "Dana sucuk, dana salam, dana sosis, mantar, yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34756316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano Pizza (Orta Boy) (30 cm.)",
+      "price": "380 TL",
+      "description": "Füme kaburga, pastırma, kurutulmuş domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburgalı Pizza (Büyük Boy) (38 cm.)",
+      "price": "475 TL",
+      "description": "Füme kaburga, yeşil biber, soğan, mantar, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779846.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano Pizza (Büyük Boy 38 cm.)",
+      "price": "480 TL",
+      "description": "Füme kaburga, dana pastırma, kurutulmuş domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34764216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Orta Boy) (30 cm.)",
+      "price": "315 TL",
+      "description": "Dana pepperoni",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken BBQ Pizza (Orta Boy) (30 cm.)",
+      "price": "320 TL",
+      "description": "Tavuk füme, mantar, közlenmiş biber, soğan, özel BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066469.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano Pizza (Orta Boy) (30 cm.)",
+      "price": "380 TL",
+      "description": "Füme kaburga, pastırma, kurutulmuş domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066477.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "New York Pizza (Orta Boy) (30 cm.)",
+      "price": "310 TL",
+      "description": "Dana salam, dana sosis, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066531.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Sucuklu Pizza (Orta Boy) (30 cm.)",
+      "price": "325 TL",
+      "description": "Patlıcan, dana sucuk, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066535.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Burger Pizza (Orta Boy) (30 cm.)",
+      "price": "365 TL",
+      "description": "Dana kavurma, cheddar peyniri, jalapeno biberi, cherry domates, özel burger sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066540.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Patlıcan Pizza (Orta Boy) (30 cm.)",
+      "price": "325 TL",
+      "description": "Patlıcan, közlenmiş biber, yeşil biber, cherry domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066641.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Orta Boy) (30 cm.)",
+      "price": "315 TL",
+      "description": "Dana pepperoni",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Hawaii Pizza (Orta Boy) (30 cm.)",
+      "price": "305 TL",
+      "description": "Tavuk füme, ananas, rokfor peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066815.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Sevenler Pizza (Orta Boy) (30 cm.)",
+      "price": "390 TL",
+      "description": "Dana sucuk, dana salam, dana sosis, dana pastırma, dana kavurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066819.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Mexicana Pizza (Orta Boy) (30 cm.)",
+      "price": "310 TL",
+      "description": "Tavuk füme, jalapeno biber, soğan, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Orta Boy 30 cm.)",
+      "price": "355 TL",
+      "description": "Dana kavurma, közlenmiş biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066825.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicana Pizza (Orta Boy) (30 cm.)",
+      "price": "375 TL",
+      "description": "Dana kavurma, dana pepperoni, jalapeno biberi, soğan, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36066827.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburgalı Pizza (Orta Boy) (30 cm.)",
+      "price": "385 TL",
+      "description": "Füme kaburga, yeşil biber, soğan, mantar, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36067217.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Pizza (Orta Boy) (30 cm.)",
+      "price": "320 TL",
+      "description": "Mozzarella peyniri, cheddar peyniri, rokfor peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36067760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Füme Kaburga Pizza (Orta Boy) (30 cm.)",
+      "price": "385 TL",
+      "description": "Füme kaburga, cheddar peyniri, parmesan peyniri, rokfor peyniri, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36067765.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Füme Kaburga Pizza (Orta Boy) (30 cm.)",
+      "price": "385 TL",
+      "description": "Füme kaburga, cheddar peyniri, közlenmiş biber, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36067945.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Veggie Pizza (Orta Boy) (30 cm.)",
+      "price": "310 TL",
+      "description": "Mantar, yeşil biber, parmesan peyniri, soğan, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36067946.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Döner Pizza (Orta Boy) (30 cm.)",
+      "price": "345 TL",
+      "description": "Dana et döner, mantar, soğan, kurutulmuş domates, jalapeno biber, özel döner sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36068121.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (Orta Boy) (30 cm.)",
+      "price": "305 TL",
+      "description": "Dana sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36068138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuna Pizza (Orta Boy) (30 cm.)",
+      "price": "325 TL",
+      "description": "Ton balığı, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36068141.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper Karışık Pizza (Orta Boy) (30 cm.)",
+      "price": "335 TL",
+      "description": "Dana sucuk, dana salam, dana sosis, mantar, yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36068143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Parmesan Pizza (Orta) (30 cm.)",
+      "price": "330 TL",
+      "description": "Tavuk füme, mantar, cheddar peyniri, parmesan peyniri, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36068709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hawaii Pizza (Orta) (30 cm.)",
+      "price": "305 TL",
+      "description": "Dana sosis, ananas, rokfor peyniri",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Beef Bbq Pizza (Orta Boy) (30 cm.)",
+      "price": "365 TL",
+      "description": "Dana kavurma, mantar, közlenmiş biber, soğan, özel bbq sos",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Pastırmalı Pizza (Orta Boy) (30 cm.)",
+      "price": "370 TL",
+      "description": "Pastırma, dana sucuk, yeşil biber, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36069202.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza (Orta Boy 30 cm.)",
+      "price": "280 TL",
+      "description": "Bol mozzarella peyniri, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/36069204.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Margherita Pizza (Büyük Boy 38 cm.)",
+      "price": "350 TL",
+      "description": "Bol mozzarella peyniri, cherry domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779138.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pepperoni Pizza (Büyük Boy) (38 cm.)",
+      "price": "415 TL",
+      "description": "Dana pepperoni",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779143.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sucuklu Pizza (Büyük Boy) (38 cm.)",
+      "price": "405 TL",
+      "description": "Dana sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779148.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tuna Pizza (Büyük Boy) (38 cm.)",
+      "price": "415 TL",
+      "description": "Ton balığı, soğan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779153.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Pizza (Büyük Boy) (38 cm.)",
+      "price": "410 TL",
+      "description": "Mozzarella peyniri, cheddar peyniri, rokfor peyniri, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779160.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "New York Pizza (Büyük Boy) (38 cm.)",
+      "price": "415 TL",
+      "description": "Dana salam, dana sosis, ananas",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779174.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Parmesan Pizza (Büyük Boy) (38 cm.)",
+      "price": "420 TL",
+      "description": "Tavuk füme, mantar, cheddar peyniri, parmesan peyniri, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779681.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hawaii Pizza (Büyük Boy) (38 cm.)",
+      "price": "395 TL",
+      "description": "Dana sosis, ananas, rokfor peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779688.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Hawaii Pizza (Büyük Boy) (38 cm.)",
+      "price": "395 TL",
+      "description": "Tavuk füme, ananas, rokfor peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779692.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kavurmalı Pizza (Büyük Boy 38 cm.)",
+      "price": "445 TL",
+      "description": "Dana kavurma, közlenmiş biber, mantar",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779703.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken BBQ Pizza (Büyük Boy) (38 cm.)",
+      "price": "415 TL",
+      "description": "Tavuk füme, mantar, közlenmiş biber, soğan, özel BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779768.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beef Bbq Pizza (Büyük Boy) (38 cm.)",
+      "price": "455 TL",
+      "description": "Dana kavurma, mantar, közlenmiş biber, soğan, özel BBQ sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779776.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Cheddarlı Füme Kaburga Pizza (Büyük Boy) (38 cm.)",
+      "price": "485 TL",
+      "description": "Füme kaburga, cheddar peyniri, közlenmiş biber, parmesan",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779785.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mexicana Pizza (Büyük Boy) (38 cm.)",
+      "price": "465 TL",
+      "description": "Dana kavurma, dana pepperoni, jalapeno biberi, soğan, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779806.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Veggie Pizza (Büyük Boy) (38 cm.)",
+      "price": "400 TL",
+      "description": "Mantar, yeşil biber, parmesan peyniri, soğan, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779813.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Burger Pizza (Büyük Boy) (38 cm.)",
+      "price": "450 TL",
+      "description": "Dana kavurma, cheddar peyniri, jalapeno biberi, cherry domates, özel burger sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779822.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pastırmalı Pizza (Büyük Boy) (38 cm.)",
+      "price": "460 TL",
+      "description": "Pastırma, dana sucuk, yeşil biber, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779828.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Et Sevenler Pizza (Büyük Boy) (38 cm.)",
+      "price": "480 TL",
+      "description": "Dana sucuk, dana salam, dana sosis, dana pastırma, dana kavurma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779835.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Döner Pizza (Büyük Boy) (38 cm.)",
+      "price": "435 TL",
+      "description": "Dana et döner, mantar, soğan, kurutulmuş domates, jalapeno biber, özel döner sos",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779841.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Kaburgalı Pizza (Büyük Boy) (38 cm.)",
+      "price": "475 TL",
+      "description": "Füme kaburga, yeşil biber, soğan, mantar, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779846.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Chicken Mexicana Pizza (Büyük Boy) (38 cm.)",
+      "price": "400 TL",
+      "description": "Tavuk füme, jalapeno biber, soğan, kurutulmuş domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779858.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vege Patlıcan (Büyük Boy) (38 cm.)",
+      "price": "415 TL",
+      "description": "Patlıcan, közlenmiş biber, yeşil biber, cherry domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33900932.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Süper Karışık Pizza (Büyük Boy) (38 cm.)",
+      "price": "430 TL",
+      "description": "Dana sucuk, dana salam, dana sosis, mantar, yeşil biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34756316.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Patlıcanlı Sucuklu Pizza (Büyük Boy) (38 cm.)",
+      "price": "425 TL",
+      "description": "Patlıcan, dana sucuk, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/33918302.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Americano Pizza (Büyük Boy 38 cm.)",
+      "price": "480 TL",
+      "description": "Füme kaburga, dana pastırma, kurutulmuş domates, parmesan peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34764216.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Füme Kaburga Pizza (Büyük Boy) (38 cm.)",
+      "price": "485 TL",
+      "description": "Füme kaburga, cheddar peyniri, parmesan peyniri, rokfor peyniri, mozzarella peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/35829629.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola (1 L.)",
+      "price": "135 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34030631.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca-Cola Zero Sugar (1 L.)",
+      "price": "135 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34033201.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/32779867.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

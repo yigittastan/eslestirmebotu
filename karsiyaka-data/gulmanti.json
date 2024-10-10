@@ -1,0 +1,146 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/vbju/gul-manti",
+  "google": "",
+  "products": [
+    {
+      "name": "Mantı",
+      "price": "269 TL",
+      "description": "İsteğe göre sos, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44643155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mardin Usulü Haşlama İçli Köfte (4 Adet)",
+      "price": "269 TL",
+      "description": "Pul biber, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Gözleme",
+      "price": "148 TL",
+      "description": "Kaşar peyniri, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642913.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Gözleme",
+      "price": "185 TL",
+      "description": "Dana kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642962.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı (1 kg.) (Pişirilmemiş)",
+      "price": "735 TL",
+      "description": "Pişirilmemiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642976.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Peynirli Gözleme",
+      "price": "148 TL",
+      "description": "Kaşar peyniri, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642913.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kıymalı Gözleme",
+      "price": "185 TL",
+      "description": "Dana kıyma",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642962.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mantı",
+      "price": "269 TL",
+      "description": "İsteğe göre sos, yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mardin Usulü Haşlama İçli Köfte (4 Adet)",
+      "price": "269 TL",
+      "description": "Pul biber, tereyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642772.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Niğde Gazozu (25 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44643155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meyveli Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/54503987.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Soda (20 cl.)",
+      "price": "25 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44643166.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Su (50 cl.)",
+      "price": "15 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44643170.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meysu Vişne (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60859234.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meysu Şeftali (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60859248.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Meysu Karışık (33 cl.)",
+      "price": "40 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/60859255.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Doğanay Şalgam Suyu (30 cl.)",
+      "price": "35 TL",
+      "description": "Pet şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/65889179.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Obsesso Iced White Choco Mocha (25 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Obsesso Iced Coffee Latte (25 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Obsesso Iced Coffee Mocha (25 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Obsesso Iced Caramel Macchiato (25 cl.)",
+      "price": "45 TL",
+      "description": "Kutu içecek"
+    },
+    {
+      "name": "Mantı (1 kg.) (Pişirilmemiş)",
+      "price": "735 TL",
+      "description": "Pişirilmemiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642976.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/44642652.png?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}

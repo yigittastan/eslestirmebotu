@@ -1,0 +1,706 @@
+{
+  "url": "https://www.yemeksepeti.com/restaurant/i2nv/eren-bufe",
+  "google": "",
+  "products": [
+    {
+      "name": "Avokado Tost",
+      "price": "210 TL",
+      "description": "Organik ekşi mayalı tam buğday ekmeğe; avokado, ıspanak, ceviz, kaşar peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli & Sucuklu Tost",
+      "price": "210 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri, kaşar peyniri, sepet peyniri, dana sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Tost",
+      "price": "270 TL",
+      "description": "Ev yapımı tandır ekmeğine; dana roast beef, Mihaliç peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto Tost",
+      "price": "230 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; dana jambon, pesto sos, kaşar peyniri, közlenmiş biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pizza Tost",
+      "price": "250 TL",
+      "description": "Ev yapımı tandır ekmeğine; kasap sucuk, dana salam, ev yapımı pizza sos, mısır, zeytin, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Mix No.2 (50 cl.)",
+      "price": "160 TL",
+      "description": "(Soğuk sıkım) Pazı, kereviz sapı, yeşil elma, limon, zencefil, chia tohumu"
+    },
+    {
+      "name": "Peynir Tabağı",
+      "price": "180 TL",
+      "description": "Mihaliç peyniri, Manyas kelle peyniri, beyaz peynir, sepet peyniri, kuru yemiş",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012645.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kahvaltı Salatası",
+      "price": "90 TL",
+      "description": "Domates, salatalık, yeşil biber, maydanoz, kuru üzüm",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012646.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Haşlanmış Köy Yumurtası (Adet)",
+      "price": "25 TL",
+      "description": "Adet olarak servis edilmektedir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/22477542.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "3 Peynirli & Sucuklu Tost",
+      "price": "210 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri, kaşar peyniri, sepet peyniri, dana sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012648.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Acı Biber Reçelli Tost",
+      "price": "200 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; ev yapımı acı biber reçeli, manyas peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012649.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Tost",
+      "price": "180 TL",
+      "description": "Organik tam buğday ekmeğe; zeytin ezmesi, beyaz peynir, kekik, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012650.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Tost",
+      "price": "210 TL",
+      "description": "Organik ekşi mayalı tam buğday ekmeğe; avokado, ıspanak, ceviz, kaşar peyniri, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012651.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokadolu Sucuklu Tost",
+      "price": "250 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri, avokado, dana sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012652.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Banana Tost",
+      "price": "200 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; muz, yer fıstığı ezmesi, bal, ceviz, tarçın",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012653.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beyaz Peynirli Tost",
+      "price": "160 TL",
+      "description": "Organik ekşi mayalı tam buğday ekmeğe; beyaz peynir, domates",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012654.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Dört Peynirli Tost",
+      "price": "210 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri, kaşar peynir, sepet peyniri, Manyas peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012655.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Karışık Tost",
+      "price": "175 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri, sucuk",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012657.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Mihaliç Peynirli Tost",
+      "price": "150 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012658.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pesto Tost",
+      "price": "230 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; dana jambon, pesto sos, kaşar peyniri, közlenmiş biber",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012659.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pizza Tost",
+      "price": "250 TL",
+      "description": "Ev yapımı tandır ekmeğine; kasap sucuk, dana salam, ev yapımı pizza sos, mısır, zeytin, kaşar peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012660.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Üç Peynirli Tost",
+      "price": "170 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; Mihaliç peyniri, kaşar peynir, sepet peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012661.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Tost",
+      "price": "210 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; humus, avokado, közlenmiş biber, mantar, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012662.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Garlic Tost",
+      "price": "210 TL",
+      "description": "Zerdeçallı organik ekşi mayalı ekmeğe; közlenmiş baharatlı sarımsak, Manyas peyniri, kaşar peyniri, maydanoz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/28271155.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Tost",
+      "price": "270 TL",
+      "description": "Ev yapımı tandır ekmeğine; dana roast beef, Mihaliç peyniri, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012656.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Köz Tost (Vegan)",
+      "price": "210 TL",
+      "description": "Közlenmiş patlıcan, közlenmiş sarımsak, közlenmiş kırmızıbiber, ceviz, avokado, maydanoz, zeytinyağı",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34453611.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Eren Tost",
+      "price": "500 TL",
+      "description": "3 dilim zerdeçallı tost ekmeğine; füme et, jambon, avokado, mihaliç peyniri, pesto sos, roka",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66211583.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Avokado Çilek Tost",
+      "price": "250 TL",
+      "description": "Avokado, çilek, bal, beyaz peynir",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/66244820.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kereviz Sapı Mix",
+      "price": "210 TL",
+      "description": "(Soğuk sıkım) Kereviz sapı, yeşil elma, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012734.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Hangover Mix",
+      "price": "160 TL",
+      "description": "(Soğuk sıkım) Elma, havuç, portakal, pancar, kereviz sapı"
+    },
+    {
+      "name": "Kırmızı Mix (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım) Pancar, havuç, yeşil elma, limon, zencefil"
+    },
+    {
+      "name": "Sarı Mix (50 cl.)",
+      "price": "270 TL",
+      "description": "(Soğuk sıkım) Ananas, mango, zencefil"
+    },
+    {
+      "name": "Turuncu Mix (50 cl.)",
+      "price": "180 TL",
+      "description": "(Soğuk sıkım) Havuç, ananas, armut, zencefil, zerdeçal, tarçın"
+    },
+    {
+      "name": "Veggie Mix (50 cl.)",
+      "price": "160 TL",
+      "description": "(Soğuk sıkım) Pancar, havuç, salatalık"
+    },
+    {
+      "name": "Yeşil Mix (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım) Yeşil elma, maydanoz, salatalık, ıspanak, limon"
+    },
+    {
+      "name": "Yeşil Mix No.2 (50 cl.)",
+      "price": "160 TL",
+      "description": "(Soğuk sıkım) Pazı, kereviz sapı, yeşil elma, limon, zencefil, chia tohumu"
+    },
+    {
+      "name": "Kırmızı Mix (No. 2)",
+      "price": "180 TL",
+      "description": "Pancar, ananas, kivi, yeşil elma, limon, zencefil, chia tohumu"
+    },
+    {
+      "name": "Yeşil Mix No.3 (50 cl.)",
+      "price": "180 TL",
+      "description": "(Soğuk sıkım) Marul, ıspanak, salatalık, ananas, limon, zencefil"
+    },
+    {
+      "name": "Taze Sıkma Ananas & Portakal Suyu (50 cl.)",
+      "price": "170 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012694.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Ananas & Armut Suyu (50 cl.)",
+      "price": "170 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012695.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Armut & Havuç Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012696.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Yeşil Elma & Ananas Suyu (50 cl.)",
+      "price": "170 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012698.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Greyfurt & Yeşil Elma & Zencefil (50 cl.)",
+      "price": "140 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012699.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Ananas Suyu (50 cl.)",
+      "price": "240 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012700.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Armut Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Taze Sıkma Elma & Havuç Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://micro-assets.foodora.com/img/logo-simple-ys.svg"
+    },
+    {
+      "name": "Taze Sıkma Elma & Limon & Zencefil Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012703.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Elma & Portakal & Havuç Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012704.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Elma & Portakal Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012705.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Elma & Salatalık & Limon Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012706.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Greyfurt Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012707.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Havuç Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012708.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal & Greyfurt Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012712.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal & Havuç & Elma & Zenfecil Suyu (50 cl.)",
+      "price": "140 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012713.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal & Limon Suyu (50 cl.)",
+      "price": "100 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012714.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Portakal Suyu (50 cl.)",
+      "price": "100 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012715.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Yeşil Elma Suyu (50 cl.)",
+      "price": "130 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012716.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Nar & Greyfurt & Portakal Suyu (50 cl.)",
+      "price": "90 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012697.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Nar & Greyfurt & Havuç Suyu (50 cl.)",
+      "price": "95 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012709.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Taze Sıkma Nar & Portakal Suyu (50 cl.)",
+      "price": "90 TL",
+      "description": "(Soğuk sıkım)",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012710.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Vegan Kase",
+      "price": "250 TL",
+      "description": "Kinoa, avokado, mango, mısır, mantar, havuç, salatalık, susam, keten tohumu"
+    },
+    {
+      "name": "Akdeniz Kase",
+      "price": "250 TL",
+      "description": "Kinoa, nohut, cherry domates, salatalık, maydanoz, dilim zeytin, ceviz, kuru domates ezmesi"
+    },
+    {
+      "name": "Bakliyat Kase",
+      "price": "250 TL",
+      "description": "Meksika fasulyesi, nohut, roka, marul, kabak çekirdeği, kapya biberi"
+    },
+    {
+      "name": "Granola Kasesi",
+      "price": "200 TL",
+      "description": "Süzme yoğurt, ev yapımı granola, muz, tarçın, bal, ceviz"
+    },
+    {
+      "name": "Füme Etli Kase",
+      "price": "390 TL",
+      "description": "Dana roast beef, kinoa, salatalık, dilim zeytin, avokado, hellim peyniri, kapari, cherry domates, pesto sos"
+    },
+    {
+      "name": "Kahvaltı Kasesi",
+      "price": "225 TL",
+      "description": "Avokado, ceviz, beyaz peynir, siyah zeytin, domates, biber, salatalık, maydanoz, ekşi mayalı ekmek ile"
+    },
+    {
+      "name": "Avokado Salatası",
+      "price": "250 TL",
+      "description": "Avokado, ıspanak, cherry domates, maydanoz, dereotu, isteğe göre kivi, susam, keten tohumu",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012669.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ton Balıklı Salata",
+      "price": "250 TL",
+      "description": "160 gr. ton balığı, marul, mısır, havuç, fesleğen, nar ekşisi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012670.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yeşil Elmalı Cevizli Salata",
+      "price": "230 TL",
+      "description": "Yeşil elma, roka, havuç, ceviz, kuru üzüm, nar ekşisi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012671.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yulaflı Yoğurtlu Meyve Salatası",
+      "price": "230 TL",
+      "description": "Mevsim meyveleri, yulaf, kese yoğurdu, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012672.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Akdeniz Salatası",
+      "price": "230 TL",
+      "description": "Lolorosso, iceberg, roka, dereotu, cherry domates, maydanoz, hellim peyniri",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012673.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kinoa Salatası",
+      "price": "250 TL",
+      "description": "Kinoa, maydanoz, cherry domates, havuç, salatalık, portakal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012674.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Maş Fasulyeli Salata",
+      "price": "250 TL",
+      "description": "Maş fasulyesi, roka, kivi, havuç, kapya biberi, maydanoz, ceviz",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012676.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Füme Etli Salata",
+      "price": "350 TL",
+      "description": "Füme et, roka, salatalık, cherry domates, avokado, karabiber, susam",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012675.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Green Smoothie (50 cl.)",
+      "price": "140 TL",
+      "description": "Yeşil elma suyu, kivi, ıspanak, yulaf ezmesi, süzme yoğurt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012755.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fresh Smoothie",
+      "price": "160 TL",
+      "description": "Çilek, ananas, muz, portakal, badem",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012756.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pineapple Smoothie",
+      "price": "160 TL",
+      "description": "Süt, ananas, portakal, süzme yoğurt, zencefil, zerdeçal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012757.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kidney Smoothie",
+      "price": "130 TL",
+      "description": "Elma, maydanoz, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012758.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pear Smoothie (50 cl.)",
+      "price": "160 TL",
+      "description": "Armut suyu, avokado, yulaf ezmesi, süzme yoğurt, vanilya, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012759.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pink Smoothie (50 cl.)",
+      "price": "140 TL",
+      "description": "Çilek, muz, süt, süzme yoğurt, bal, chia tohumu, yulaf ezmesi",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012760.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Tropical Smoothie (50 cl.)",
+      "price": "160 TL",
+      "description": "Portakal suyu, ananas, mango, muz, limon",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012761.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ananas & Mango",
+      "price": "270 TL",
+      "description": "Ananas, mango"
+    },
+    {
+      "name": "Energy Kokteyl",
+      "price": "140 TL",
+      "description": "Greyfurt, armut, limon, muz"
+    },
+    {
+      "name": "Anti Grip",
+      "price": "125 TL",
+      "description": "Portakal, limon, bal, zencefil, tarçın"
+    },
+    {
+      "name": "Bay Breeze (50 cl.)",
+      "price": "270 TL",
+      "description": "Ananas, çilek, frambuaz, limon, nane"
+    },
+    {
+      "name": "C4",
+      "price": "125 TL",
+      "description": "Portakal, limon, greyfurt, kivi"
+    },
+    {
+      "name": "Fresh Kokteyl (50 cl.)",
+      "price": "140 TL",
+      "description": "Çilek, ananas, kivi, mango, portakal, muz, Antep fıstığı, bal"
+    },
+    {
+      "name": "Kivi & Ananas & Portakal & Limon",
+      "price": "150 TL",
+      "description": "Kivi, ananas, portakal, limon"
+    },
+    {
+      "name": "Mango & Portakal Kokteyl",
+      "price": "170 TL",
+      "description": "Mango, portakal"
+    },
+    {
+      "name": "Pina Colada (50 cl.)",
+      "price": "150 TL",
+      "description": "Ananas, portakal, limon, Hindistan cevizi"
+    },
+    {
+      "name": "Portakal & Çilek",
+      "price": "130 TL",
+      "description": "Portakal, çilek"
+    },
+    {
+      "name": "Refresh Kokteyl",
+      "price": "150 TL",
+      "description": "Frambuaz, karadut, çilek, elma, muz"
+    },
+    {
+      "name": "Tropical Kokteyl (50 cl.)",
+      "price": "150 TL",
+      "description": "Yeşil elma suyu, portakal, kivi, ananas, muz, bal, Hindistan cevizi"
+    },
+    {
+      "name": "Altın Süt",
+      "price": "140 TL",
+      "description": "Muz, tarçın, zerdeçal, zencefil, Hindistan cevizi, bal",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012721.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ballı Çerezli Muzlu Süt",
+      "price": "140 TL",
+      "description": "Antep fıstığı, ceviz, badem, fındık",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012723.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Ballı Muzlu Süt (50 cl.)",
+      "price": "125 TL",
+      "description": "Bal, muz, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012724.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Muzlu Süt (50 cl.)",
+      "price": "140 TL",
+      "description": "Çilek, muz, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012727.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Süt (50 cl.)",
+      "price": "140 TL",
+      "description": "Çilek, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012728.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Muzlu Süt (50 cl.)",
+      "price": "120 TL",
+      "description": "Muz, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012732.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Yulaflı Bademli Muzlu Süt",
+      "price": "110 TL",
+      "description": "Muz, süt",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012733.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Atom Süt (50 cl.) (Bardakta)",
+      "price": "140 TL",
+      "description": "Avokado, muz, bal, Antep fıstığı"
+    },
+    {
+      "name": "Beyaz Çikolatalı Muzlu Süt (50 cl.)",
+      "price": "140 TL",
+      "description": "Beyaz çikolata, muz, süt"
+    },
+    {
+      "name": "Bitter Çikolatalı Muzlu Süt (50 cl.)",
+      "price": "140 TL",
+      "description": "Bitter çikolata, muz, süt"
+    },
+    {
+      "name": "Fıstık Ezmeli Muzlu Süt (50 cl.)",
+      "price": "140 TL",
+      "description": "Fıstık ezmesi, muz, süt"
+    },
+    {
+      "name": "Kahveli Muzlu Süt",
+      "price": "140 TL",
+      "description": "Kahve, muz, süt"
+    },
+    {
+      "name": "Karaorman Meyveli Muzlu Süt (50 cl.)",
+      "price": "170 TL",
+      "description": "Çilek, frambuaz, böğürtlen, muz"
+    },
+    {
+      "name": "Limonata",
+      "price": "90 TL",
+      "description": "Ev yapımı limonata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24655952.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Kivili Limonata",
+      "price": "100 TL",
+      "description": "Ev yapımı limonata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24661683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Çilekli Limonata",
+      "price": "100 TL",
+      "description": "Ev yapımı limonata",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/24662449.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Böğürtlenli Limonata",
+      "price": "100 TL",
+      "description": "Ev yapımı limonata"
+    },
+    {
+      "name": "Coca-Cola (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/31514242.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Coca Cola Şekersiz (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012677.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sprite (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456836.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Şeftali (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34453619.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Fuse Tea Limon (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/34456192.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Sakıpağa Ayran (33 cl.)",
+      "price": "50 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012681.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Özerhisar Ayran",
+      "price": "45 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/30393393.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Beypazarı Soda (20 cl.)",
+      "price": "30 TL",
+      "description": "Cam şişe",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012682.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Erikli Su (33 cl.)",
+      "price": "12 TL",
+      "description": "Kutu içecek",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012683.jpg?width=150.00000223517418&height=150.00000223517418"
+    },
+    {
+      "name": "Pınar Laktozsuz Süt (20 cl.)",
+      "price": "35 TL",
+      "description": "Cam şişe"
+    },
+    {
+      "name": "Kruton (150 gr.)",
+      "price": "40 TL",
+      "description": "150 gr."
+    },
+    {
+      "name": "Ev Yapımı Acı Biber Reçeli (250 gr.)",
+      "price": "90 TL",
+      "description": "250 gr."
+    },
+    {
+      "name": "Poşet",
+      "price": "0,25 TL",
+      "description": "Çevre Kanunu kapsamında yapılan değişiklikle her bir plastik poşetin tüketicilere 0,25 TL fiyat karşılığı satılması Çevre, Şehircilik ve İklim Değişikliği Bakanlığı tarafından zorunlu hale getirilmiştir. Plastik poşet talep etmeniz halinde ürünü sepete eklemeniz gerekmektedir. Sepete eklenen her bir plastik poşet için ilgili bedel tarafınızdan tahsil edilecektir.",
+      "image": "https://images.deliveryhero.io/image/fd-tr/Products/6012762.jpg?width=150.00000223517418&height=150.00000223517418"
+    }
+  ]
+}
