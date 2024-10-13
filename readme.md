@@ -1,0 +1,2 @@
+  const googleSearchUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(headlineText + ' İzmir Karşıyaka')}`;
+  bu codu buluyoruz ve aramak istediğimiz işletmenin nerede olduğuınu yazıyoruz örneğin benim izmir karşıyaka yazdığım bigi izmir konak veya ankara çamkaya yazılabilir
